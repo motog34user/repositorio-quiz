@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "question":  "Qual era o nome da banda de rock nacional famosa nos anos 80 que tinha 'Será' como um de seus hits?",
         "options":  [
@@ -8,6 +8,578 @@
                         "Ultraje a Rigor"
                     ],
         "answer":  "Legião Urbana",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Qual famoso cantor pop, conhecido como 'Rei do Pop', lançou o álbum 'Thriller'?",
+        "options":  [
+                        "Prince",
+                        "Madonna",
+                        "Elvis Presley",
+                        "Michael Jackson"
+                    ],
+        "answer":  "Michael Jackson",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que banda de rock britânica é famosa pela Música & Shows 'Bohemian Rhapsody'?",
+        "options":  [
+                        "The Beatles",
+                        "Led Zeppelin",
+                        "Queen",
+                        "Pink Floyd"
+                    ],
+        "answer":  "Queen",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Qual a famosa Música & Shows do grupo Menudo que fez muito sucesso no Brasil nos anos 80?",
+        "options":  [
+                        "Libera Geral",
+                        "Não se Reprima",
+                        "Caminhos",
+                        "Festa no Apê"
+                    ],
+        "answer":  "Não se Reprima",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Qual era o nome da banda brasileira que lançou a Música & Shows 'Pelados em Santos'?",
+        "options":  [
+                        "Mamonas Assassinas",
+                        "Raimundos",
+                        "Charlie Brown Jr.",
+                        "Skank"
+                    ],
+        "answer":  "Mamonas Assassinas",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa cantora pop, conhecida como 'Rainha do Pop', lançou o álbum 'Like a Virgin'?",
+        "options":  [
+                        "Mariah Carey",
+                        "Whitney Houston",
+                        "Janet Jackson",
+                        "Madonna"
+                    ],
+        "answer":  "Madonna",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Qual era o nome do famoso grupo musical infantil que cantava 'Superfantástico'?",
+        "options":  [
+                        "Balão Mágico",
+                        "Trem da Alegria",
+                        "Chitãozinho e Xororó",
+                        "Roupa Nova"
+                    ],
+        "answer":  "Balão Mágico",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que banda de rock brasileira, famosa nos anos 90, tinha como vocalista Dinho Ouro Preto?",
+        "options":  [
+                        "Legião Urbana",
+                        "Capital Inicial",
+                        "Skank",
+                        "Barão Vermelho"
+                    ],
+        "answer":  "Capital Inicial",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famoso grupo de pagode dos anos 90 era liderado por Alexandre Pires?",
+        "options":  [
+                        "Raça Negra",
+                        "Só Pra Contrariar",
+                        "Exaltasamba",
+                        "Katinguelê"
+                    ],
+        "answer":  "Só Pra Contrariar",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famoso cantor e compositor brasileiro, conhecido por suas baladas românticas, fez sucesso nos anos 80 e 90 com Música & Showss como 'Evidências'?",
+        "options":  [
+                        "Roberto Carlos",
+                        "Djavan",
+                        "Fagner",
+                        "Chitãozinho e Xororó"
+                    ],
+        "answer":  "Chitãozinho e Xororó",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Qual era o nome da banda de rock nacional que lançou a Música & Shows 'Anna Júlia'?",
+        "options":  [
+                        "Los Hermanos",
+                        "Jota Quest",
+                        "Titãs",
+                        "Los Hermanos"
+                    ],
+        "answer":  "Los Hermanos",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Qual famoso grupo musical brasileiro, que fez sucesso nos anos 90, tinha como integrantes Sandy e Júnior?",
+        "options":  [
+                        "Roupa Nova",
+                        "Claudinho e Buchecha",
+                        "Sandy & Júnior",
+                        "É o Tchan!"
+                    ],
+        "answer":  "Sandy & Júnior",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa banda de rock americana dos anos 90, liderada por Kurt Cobain, lançou o álbum 'Nevermind'?",
+        "options":  [
+                        "Pearl Jam",
+                        "Soundgarden",
+                        "Alice in Chains",
+                        "Nirvana"
+                    ],
+        "answer":  "Nirvana",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que banda de rock brasileira, famosa nos anos 80, tinha Cazuza como vocalista e lançou a Música & Shows 'Exagerado'?",
+        "options":  [
+                        "Barão Vermelho",
+                        "Legião Urbana",
+                        "Titãs",
+                        "Blitz"
+                    ],
+        "answer":  "Barão Vermelho",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Qual era o nome da banda brasileira que lançou a Música & Shows 'Garota Nacional'?",
+        "options":  [
+                        "Skank",
+                        "Jota Quest",
+                        "Cidade Negra",
+                        "Raimundos"
+                    ],
+        "answer":  "Skank",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Qual famoso cantor e compositor brasileiro, conhecido como 'Rei', é uma figura icônica da Música & Shows brasileira?",
+        "options":  [
+                        "Tim Maia",
+                        "Gilberto Gil",
+                        "Caetano Veloso",
+                        "Roberto Carlos"
+                    ],
+        "answer":  "Roberto Carlos",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que banda de rock brasileira, famosa nos anos 80, tinha Paulo Ricardo como vocalista?",
+        "options":  [
+                        "RPM",
+                        "Barão Vermelho",
+                        "Legião Urbana",
+                        "Titãs"
+                    ],
+        "answer":  "RPM",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Qual famosa cantora brasileira, conhecida como 'Rainha dos Baixinhos', fez sucesso nos anos 80 e 90?",
+        "options":  [
+                        "Angélica",
+                        "Eliana",
+                        "Mara Maravilha",
+                        "Xuxa"
+                    ],
+        "answer":  "Xuxa",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Qual era o nome da banda brasileira que lançou a Música & Shows 'É o Tchan do Brasil'?",
+        "options":  [
+                        "Harmonia do Samba",
+                        "É o Tchan!",
+                        "Olodum",
+                        "Timbalada"
+                    ],
+        "answer":  "É o Tchan!",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Qual famoso cantor e compositor brasileiro, conhecido como 'Síndico', fez sucesso com o rock nacional nos anos 80?",
+        "options":  [
+                        "Raul Seixas",
+                        "Rita Lee",
+                        "Titãs",
+                        "Paralamas do Sucesso"
+                    ],
+        "answer":  "Tim Maia",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa banda de rock brasileira dos anos 80, com o hit 'Flores', tinha Arnaldo Antunes como um dos integrantes?",
+        "options":  [
+                        "Legião Urbana",
+                        "Titãs",
+                        "Paralamas do Sucesso",
+                        "Engenheiros do Hawaii"
+                    ],
+        "answer":  "Titãs",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa cantora pop americana, conhecida por sua voz potente, lançou o álbum 'The Bodyguard'?",
+        "options":  [
+                        "Mariah Carey",
+                        "Celine Dion",
+                        "Whitney Houston",
+                        "Janet Jackson"
+                    ],
+        "answer":  "Whitney Houston",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Qual era o nome da banda brasileira que lançou a Música & Shows 'Mulher de Fases'?",
+        "options":  [
+                        "Charlie Brown Jr.",
+                        "Engenheiros do Hawaii",
+                        "Raimundos",
+                        "Capital Inicial"
+                    ],
+        "answer":  "Raimundos",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Qual famoso cantor e compositor brasileiro, conhecido por suas letras poéticas, fez sucesso com a Música & Shows 'Flor de Lis'?",
+        "options":  [
+                        "Caetano Veloso",
+                        "Gilberto Gil",
+                        "Djavan",
+                        "Milton Nascimento"
+                    ],
+        "answer":  "Djavan",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa banda de rock brasileira dos anos 80, com o hit 'Primeiros Erros', tinha Kiko Zambianchi como guitarrista?",
+        "options":  [
+                        "Capital Inicial",
+                        "RPM",
+                        "Legião Urbana",
+                        "Engenheiros do Hawaii"
+                    ],
+        "answer":  "Capital Inicial",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa cantora pop americana, conhecida por suas baladas e vocalizações impressionantes, lançou a Música & Shows 'Hero'?",
+        "options":  [
+                        "Whitney Houston",
+                        "Celine Dion",
+                        "Mariah Carey",
+                        "Toni Braxton"
+                    ],
+        "answer":  "Mariah Carey",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa banda de rock brasileira dos anos 80, com o hit 'Indiferença', tinha Dinho Ouro Preto como vocalista?",
+        "options":  [
+                        "Paralamas do Sucesso",
+                        "Capital Inicial",
+                        "Legião Urbana",
+                        "Titãs"
+                    ],
+        "answer":  "Capital Inicial",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa cantora brasileira, conhecida como 'Rainha do Axé', fez sucesso nos anos 90?",
+        "options":  [
+                        "Daniela Mercury",
+                        "Ivete Sangalo",
+                        "Claudia Leitte",
+                        "Margareth Menezes"
+                    ],
+        "answer":  "Daniela Mercury",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa banda de rock brasileira dos anos 80, com o hit 'Proibida Pra Mim', tinha Rodolfo Abrantes como vocalista?",
+        "options":  [
+                        "Charlie Brown Jr.",
+                        "Raimundos",
+                        "Planet Hemp",
+                        "O Rappa"
+                    ],
+        "answer":  "Charlie Brown Jr.",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa cantora pop americana, conhecida por sua voz potente e baladas românticas, lançou o álbum 'My Heart Will Go On'?",
+        "options":  [
+                        "Mariah Carey",
+                        "Whitney Houston",
+                        "Celine Dion",
+                        "Aretha Franklin"
+                    ],
+        "answer":  "Celine Dion",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa cantora brasileira, conhecida como 'Rainha do Axé', fez sucesso nos anos 90 com a Música & Shows 'O Canto da Cidade'?",
+        "options":  [
+                        "Ivete Sangalo",
+                        "Claudia Leitte",
+                        "Margareth Menezes",
+                        "Daniela Mercury"
+                    ],
+        "answer":  "Daniela Mercury",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa banda de rock brasileira dos anos 80, com o hit 'Meu Erro', tinha Herbert Vianna como vocalista?",
+        "options":  [
+                        "Capital Inicial",
+                        "Legião Urbana",
+                        "Titãs",
+                        "Paralamas do Sucesso"
+                    ],
+        "answer":  "Paralamas do Sucesso",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa cantora brasileira, conhecida como 'Rainha da Sofrência', fez sucesso nos anos 90 com a Música & Shows 'Evidências'?",
+        "options":  [
+                        "Roberta Miranda",
+                        "Daniela Mercury",
+                        "Sandy",
+                        "Gretchen"
+                    ],
+        "answer":  "Roberta Miranda",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa banda de rock brasileira dos anos 80, com o hit 'Tempos Modernos', tinha Lulu Santos como vocalista?",
+        "options":  [
+                        "Capital Inicial",
+                        "RPM",
+                        "Legião Urbana",
+                        "Lulu Santos"
+                    ],
+        "answer":  "Lulu Santos",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa cantora brasileira, conhecida por suas baladas e hits românticos, fez sucesso nos anos 90 com a Música & Shows 'Pra Você'?",
+        "options":  [
+                        "Ivete Sangalo",
+                        "Claudia Leitte",
+                        "Gal Costa",
+                        "Paula Fernandes"
+                    ],
+        "answer":  "Paula Fernandes",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa banda de rock brasileira dos anos 80, com o hit 'Exagerado', tinha Cazuza como vocalista?",
+        "options":  [
+                        "Barão Vermelho",
+                        "Legião Urbana",
+                        "Titãs",
+                        "Blitz"
+                    ],
+        "answer":  "Barão Vermelho",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa cantora brasileira, conhecida por suas baladas e hits românticos, fez sucesso nos anos 90 com a Música & Shows 'Um Sonho de Verão'?",
+        "options":  [
+                        "Claudia Leitte",
+                        "Ivete Sangalo",
+                        "Roupa Nova",
+                        "Patrícia Marx"
+                    ],
+        "answer":  "Patrícia Marx",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa banda de rock brasileira dos anos 80, com o hit 'Que País É Este', tinha Renato Russo como vocalista?",
+        "options":  [
+                        "Capital Inicial",
+                        "Legião Urbana",
+                        "Titãs",
+                        "Paralamas do Sucesso"
+                    ],
+        "answer":  "Legião Urbana",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa cantora brasileira, conhecida por suas baladas e hits românticos, fez sucesso nos anos 90 com a Música & Shows 'Borbulhas de Amor'?",
+        "options":  [
+                        "Ivete Sangalo",
+                        "Claudia Leitte",
+                        "Fafá de Belém",
+                        "Adriana Calcanhotto"
+                    ],
+        "answer":  "Adriana Calcanhotto",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa banda de rock brasileira dos anos 80, com o hit 'Marvin', tinha Nando Reis como baixista?",
+        "options":  [
+                        "Legião Urbana",
+                        "Titãs",
+                        "Paralamas do Sucesso",
+                        "Engenheiros do Hawaii"
+                    ],
+        "answer":  "Titãs",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa cantora brasileira, conhecida por suas baladas e hits românticos, fez sucesso nos anos 90 com a Música & Shows 'Catedral'?",
+        "options":  [
+                        "Leila Pinheiro",
+                        "Elba Ramalho",
+                        "Cássia Eller",
+                        "Leila Pinheiro"
+                    ],
+        "answer":  "Cássia Eller",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa banda de rock brasileira dos anos 80, com o hit 'O Segundo Sol', tinha Cássia Eller como intérprete?",
+        "options":  [
+                        "Legião Urbana",
+                        "Titãs",
+                        "Paralamas do Sucesso",
+                        "Nando Reis"
+                    ],
+        "answer":  "Nando Reis",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa cantora brasileira, conhecida como 'Rainha do Pop', fez sucesso nos anos 90 com a Música & Shows 'Garota Nacional'?",
+        "options":  [
+                        "Ivete Sangalo",
+                        "Claudia Leitte",
+                        "Sandy",
+                        "Babado Novo"
+                    ],
+        "answer":  "Ivete Sangalo",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa banda de rock brasileira dos anos 80, com o hit 'Será', tinha Renato Russo como vocalista?",
+        "options":  [
+                        "Capital Inicial",
+                        "Legião Urbana",
+                        "Titãs",
+                        "Paralamas do Sução"
+                    ],
+        "answer":  "Legião Urbana",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa cantora brasileira, conhecida por suas baladas e hits românticos, fez sucesso nos anos 90 com a Música & Shows 'Adoro'?",
+        "options":  [
+                        "Sandy",
+                        "Ivete Sangalo",
+                        "Claudia Leitte",
+                        "Deborah Blando"
+                    ],
+        "answer":  "Deborah Blando",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa banda de rock brasileira dos anos 80, com o hit 'Pra Dizer Adeus', tinha Titãs como integrantes?",
+        "options":  [
+                        "Capital Inicial",
+                        "Legião Urbana",
+                        "Titãs",
+                        "Paralamas do Sucesso"
+                    ],
+        "answer":  "Titãs",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa cantora brasileira, conhecida por suas baladas e hits românticos, fez sucesso nos anos 90 com a Música & Shows 'Evidências'?",
+        "options":  [
+                        "Sandy",
+                        "Roberta Miranda",
+                        "Daniela Mercury",
+                        "Leila Pinheiro"
+                    ],
+        "answer":  "Roberta Miranda",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa banda de rock brasileira dos anos 80, com o hit 'O Tempo Não Para', tinha Cazuza como vocalista?",
+        "options":  [
+                        "Barão Vermelho",
+                        "Legião Urbana",
+                        "Titãs",
+                        "Blitz"
+                    ],
+        "answer":  "Barão Vermelho",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa cantora brasileira, conhecida por suas baladas e hits românticos, fez sucesso nos anos 90 com a Música & Shows 'Primeiros Erros'?",
+        "options":  [
+                        "Sandy",
+                        "Roberta Miranda",
+                        "Daniela Mercury",
+                        "Patrícia Marx"
+                    ],
+        "answer":  "Patrícia Marx",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa cantora brasileira, conhecida por suas baladas e hits românticos, fez sucesso nos anos 90 com a Música & Shows 'Vou Te Conquistar'?",
+        "options":  [
+                        "Ivete Sangalo",
+                        "Claudia Leitte",
+                        "Leila Pinheiro",
+                        "Eliana"
+                    ],
+        "answer":  "Eliana",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa banda de rock brasileira dos anos 80, com o hit 'Garota de Ipanema', tinha Tom Jobim como um dos compositores?",
+        "options":  [
+                        "Os Mutantes",
+                        "RPM",
+                        "Bossa Nova",
+                        "Titãs"
+                    ],
+        "answer":  "Bossa Nova",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa cantora brasileira, conhecida por suas baladas e hits românticos, fez sucesso nos anos 90 com a Música & Shows 'Fica Comigo'?",
+        "options":  [
+                        "Sandy",
+                        "Roberta Miranda",
+                        "Daniela Mercury",
+                        "Patrícia Marx"
+                    ],
+        "answer":  "Sandy",
+        "category":  "Música & Shows"
+    },
+    {
+        "question":  "Que famosa banda de rock brasileira dos anos 80, com o hit 'Pátria Amada', tinha Os Mutantes como integrantes?",
+        "options":  [
+                        "Legião Urbana",
+                        "Titãs",
+                        "Paralamas do Sucesso",
+                        "Os Mutantes"
+                    ],
+        "answer":  "Os Mutantes",
         "category":  "Música & Shows"
     }
 ]
