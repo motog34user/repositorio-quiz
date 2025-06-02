@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "question":  "Qual jogo de videogame clássico dos anos 80 tinha um encanador como protagonista que precisava resgatar uma princesa?",
         "options":  [
@@ -41,6 +41,303 @@
                         "King of Fighters"
                     ],
         "answer":  "Street Fighter II",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Que console de videogame da Nintendo, lançado nos anos 90, era conhecido por seus gráficos 3D e Games & Brinquedos como 'Super Mario 64'?",
+        "options":  [
+                        "Super Nintendo",
+                        "Nintendo 64",
+                        "Game Boy",
+                        "NES"
+                    ],
+        "answer":  "Nintendo 64",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Qual jogo de videogame do Arcade, popular nos anos 90, envolvia um dragão que cuspia bolhas?",
+        "options":  [
+                        "Pac-Man",
+                        "Space Invaders",
+                        "Bubble Bobble",
+                        "Donkey Kong"
+                    ],
+        "answer":  "Bubble Bobble",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Que jogo de videogame do início dos anos 90 permitia ao jogador construir e gerenciar uma cidade?",
+        "options":  [
+                        "SimCity",
+                        "The Sims",
+                        "RollerCoaster Tycoon",
+                        "Theme Park"
+                    ],
+        "answer":  "SimCity",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Que jogo de videogame dos anos 90 envolvia um porco-espinho azul que corria em alta velocidade?",
+        "options":  [
+                        "Super Mario World",
+                        "Sonic the Hedgehog",
+                        "Donkey Kong Country",
+                        "Crash Bandicoot"
+                    ],
+        "answer":  "Sonic the Hedgehog",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Que famoso console de videogame dos anos 80, da Nintendo, popularizou Games & Brinquedos como 'Super Mario Bros.'?",
+        "options":  [
+                        "Atari",
+                        "Master System",
+                        "NES",
+                        "Mega Drive"
+                    ],
+        "answer":  "NES",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Qual jogo de videogame dos anos 90, popular no Super Nintendo, tinha um gorila como protagonista?",
+        "options":  [
+                        "Super Mario World",
+                        "Donkey Kong Country",
+                        "Zelda",
+                        "Metroid"
+                    ],
+        "answer":  "Donkey Kong Country",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Que jogo de videogame dos anos 90, da Nintendo, envolvia um herói com uma espada que salvava uma princesa em um reino de fantasia?",
+        "options":  [
+                        "Super Mario World",
+                        "The Legend of Zelda",
+                        "Donkey Kong Country",
+                        "Metroid"
+                    ],
+        "answer":  "The Legend of Zelda",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Qual jogo de cartas colecionáveis se tornou febre nos anos 90?",
+        "options":  [
+                        "Pogs",
+                        "Tazos",
+                        "Magic: The Gathering",
+                        "Pokémon TCG"
+                    ],
+        "answer":  "Magic: The Gathering",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Que jogo de videogame dos anos 90, popular no PlayStation, tinha um herói com uma máscara que falava?",
+        "options":  [
+                        "Spyro the Dragon",
+                        "Crash Bandicoot",
+                        "MediEvil",
+                        "PaRappa the Rapper"
+                    ],
+        "answer":  "Crash Bandicoot",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Qual jogo de videogame do Arcade, popular nos anos 80, envolvia um personagem amarelo que comia pontos e fugia de fantasmas?",
+        "options":  [
+                        "Space Invaders",
+                        "Donkey Kong",
+                        "Pac-Man",
+                        "Frogger"
+                    ],
+        "answer":  "Pac-Man",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Que jogo de videogame do início dos anos 90, popular no Super Nintendo, tinha um dinossauro verde como montaria?",
+        "options":  [
+                        "Donkey Kong Country",
+                        "Zelda: A Link to the Past",
+                        "Super Mario World",
+                        "Metroid"
+                    ],
+        "answer":  "Super Mario World",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Que jogo de videogame dos anos 80, popular no Atari, envolvia um alienígena comendo pontos em um labirinto?",
+        "options":  [
+                        "Space Invaders",
+                        "Pac-Man",
+                        "Asteroids",
+                        "Frogger"
+                    ],
+        "answer":  "Pac-Man",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Que jogo de videogame dos anos 90, popular no Super Nintendo, tinha um dinossauro verde como protagonista que jogava barris?",
+        "options":  [
+                        "Donkey Kong Country",
+                        "Yoshi's Island",
+                        "Super Mario World",
+                        "Kirby Super Star"
+                    ],
+        "answer":  "Donkey Kong Country",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Qual jogo de videogame do Arcade, popular nos anos 80, envolvia uma nave espacial atirando em alienígenas?",
+        "options":  [
+                        "Pac-Man",
+                        "Donkey Kong",
+                        "Space Invaders",
+                        "Frogger"
+                    ],
+        "answer":  "Space Invaders",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Que jogo de videogame do início dos anos 90, popular no Super Nintendo, tinha um porco-espinho azul como protagonista?",
+        "options":  [
+                        "Super Mario World",
+                        "Sonic the Hedgehog",
+                        "Donkey Kong Country",
+                        "Kirby's Dream Land"
+                    ],
+        "answer":  "Sonic the Hedgehog",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Que jogo de videogame dos anos 90, popular no Super Nintendo, tinha um robô de nome 'Samus Aran' como protagonista?",
+        "options":  [
+                        "Super Mario World",
+                        "Donkey Kong Country",
+                        "The Legend of Zelda",
+                        "Super Metroid"
+                    ],
+        "answer":  "Super Metroid",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Que jogo de videogame dos anos 90, popular no PlayStation, tinha um herói que coletava frutas e pulava em plataformas?",
+        "options":  [
+                        "Spyro the Dragon",
+                        "Crash Bandicoot",
+                        "MediEvil",
+                        "Ape Escape"
+                    ],
+        "answer":  "Crash Bandicoot",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Que jogo de videogame dos anos 90, popular no Super Nintendo, tinha um encanador como protagonista que viajava por um mundo mágico?",
+        "options":  [
+                        "Sonic the Hedgehog",
+                        "Donkey Kong Country",
+                        "Super Mario World",
+                        "The Legend of Zelda"
+                    ],
+        "answer":  "Super Mario World",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Que jogo de videogame dos anos 90, popular no PlayStation, tinha um herói que usava uma espada e magia para combater monstros?",
+        "options":  [
+                        "Spyro the Dragon",
+                        "Crash Bandicoot",
+                        "MediEvil",
+                        "Tomb Raider"
+                    ],
+        "answer":  "MediEvil",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Que jogo de videogame dos anos 90, popular no Super Nintendo, tinha um dinossauro verde que acompanhava Mario?",
+        "options":  [
+                        "Super Mario World",
+                        "Donkey Kong Country",
+                        "The Legend of Zelda",
+                        "Yoshi's Island"
+                    ],
+        "answer":  "Super Mario World",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Que jogo de videogame dos anos 90, popular no Super Nintendo, tinha um lobo como protagonista que coletava moedas?",
+        "options":  [
+                        "F-Zero",
+                        "Star Fox",
+                        "Killer Instinct",
+                        "Donkey Kong Country 2"
+                    ],
+        "answer":  "Killer Instinct",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Que jogo de videogame dos anos 90, popular no Super Nintendo, tinha um time de super-heróis como protagonistas?",
+        "options":  [
+                        "Street Fighter II",
+                        "Mortal Kombat",
+                        "X-Men: Mutant Apocalypse",
+                        "Marvel Super Heroes"
+                    ],
+        "answer":  "X-Men: Mutant Apocalypse",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Que jogo de videogame dos anos 90, popular no Super Nintendo, tinha um protagonista que atirava bolhas?",
+        "options":  [
+                        "Bubble Bobble",
+                        "Kirby's Dream Land",
+                        "Yoshi's Island",
+                        "Super Mario World"
+                    ],
+        "answer":  "Bubble Bobble",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Que jogo de videogame dos anos 90, popular no Super Nintendo, tinha um gorila como protagonista que jogava barris?",
+        "options":  [
+                        "Super Mario World",
+                        "Donkey Kong Country",
+                        "The Legend of Zelda",
+                        "Metroid"
+                    ],
+        "answer":  "Donkey Kong Country",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Qual brinquedo popular nos anos 90 eram cartões colecionáveis com personagens e habilidades?",
+        "options":  [
+                        "Pogs",
+                        "Tazos",
+                        "Magic: The Gathering",
+                        "Pokémon TCG"
+                    ],
+        "answer":  "Pokémon TCG",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Que jogo de videogame dos anos 90, popular no Super Nintendo, tinha um piloto de corrida com uma nave espacial?",
+        "options":  [
+                        "Super Mario Kart",
+                        "F-Zero",
+                        "Top Gear",
+                        "Star Fox"
+                    ],
+        "answer":  "F-Zero",
+        "category":  "Games & Brinquedos"
+    },
+    {
+        "question":  "Que jogo de videogame dos anos 90, popular no Super Nintendo, tinha um porco-espinho azul como protagonista que coletava anéis?",
+        "options":  [
+                        "Super Mario World",
+                        "Sonic the Hedgehog",
+                        "Donkey Kong Country",
+                        "Kirby's Dream Land"
+                    ],
+        "answer":  "Sonic the Hedgehog",
         "category":  "Games & Brinquedos"
     }
 ]
