@@ -22,7 +22,7 @@
         "category":  "Games & Brinquedos"
     },
     {
-        "question":  "Que famoso console de videogame dos anos 90 popularizou Games & Brinquedos como 'Sonic'?",
+        "question":  "Que famoso console de videogame dos anos 90 popularizou games como 'Sonic'?",
         "options":  [
                         "Nintendo 64",
                         "PlayStation",
@@ -35,16 +35,16 @@
     {
         "question":  "Qual jogo de videogame do início dos anos 90 era famoso por seus combates de rua e personagens icônicos?",
         "options":  [
-                        "Street Fighter II",
+                        "Street Fighter 2",
                         "Mortal Kombat",
                         "Tekken",
                         "King of Fighters"
                     ],
-        "answer":  "Street Fighter II",
+        "answer":  "Street Fighter 2",
         "category":  "Games & Brinquedos"
     },
     {
-        "question":  "Que console de videogame da Nintendo, lançado nos anos 90, era conhecido por seus gráficos 3D e Games & Brinquedos como 'Super Mario 64'?",
+        "question":  "Que console de videogame da Nintendo, lançado nos anos 90, era conhecido por seus gráficos 3D e games como 'Super Mario 64'?",
         "options":  [
                         "Super Nintendo",
                         "Nintendo 64",
@@ -55,7 +55,7 @@
         "category":  "Games & Brinquedos"
     },
     {
-        "question":  "Qual jogo de videogame do Arcade, popular nos anos 90, envolvia um dragão que cuspia bolhas?",
+        "question":  "Qual jogo de videogame de Arcade, popular nos anos 90, envolvia um dragão que cuspia bolhas?",
         "options":  [
                         "Pac-Man",
                         "Space Invaders",
@@ -88,7 +88,7 @@
         "category":  "Games & Brinquedos"
     },
     {
-        "question":  "Que famoso console de videogame dos anos 80, da Nintendo, popularizou Games & Brinquedos como 'Super Mario Bros.'?",
+        "question":  "Que famoso console de videogame dos anos 80, da Nintendo, popularizou jogos como 'Super Mario Bros.'?",
         "options":  [
                         "Atari",
                         "Master System",
@@ -143,7 +143,7 @@
         "category":  "Games & Brinquedos"
     },
     {
-        "question":  "Qual jogo de videogame do Arcade, popular nos anos 80, envolvia um personagem amarelo que comia pontos e fugia de fantasmas?",
+        "question":  "Qual jogo de videogame do Arcade, popular nos anos 80, envolvia um personagem amarelo que comia bolinhas amarelas e fugia de fantasmas?",
         "options":  [
                         "Space Invaders",
                         "Donkey Kong",
@@ -165,40 +165,29 @@
         "category":  "Games & Brinquedos"
     },
     {
-        "question":  "Que jogo de videogame dos anos 80, popular no Atari, envolvia um alienígena comendo pontos em um labirinto?",
+        "question":  "Que jogo de arcade de 1978 exige que você defenda a Terra de invasores alienígenas atirando neles?",
         "options":  [
                         "Space Invaders",
                         "Pac-Man",
                         "Asteroids",
                         "Frogger"
                     ],
-        "answer":  "Pac-Man",
+        "answer":  "Space Invaders",
         "category":  "Games & Brinquedos"
     },
     {
-        "question":  "Que jogo de videogame dos anos 90, popular no Super Nintendo, tinha um dinossauro verde como protagonista que jogava barris?",
+        "question":  "Qual é o jogo de plataforma de 1995 do Super Nintendo onde você controla o Yoshi para carregar o bebê Mario?",
         "options":  [
                         "Donkey Kong Country",
                         "Yoshi's Island",
                         "Super Mario World",
                         "Kirby Super Star"
                     ],
-        "answer":  "Donkey Kong Country",
+        "answer":  "Yoshi's Island",
         "category":  "Games & Brinquedos"
     },
     {
-        "question":  "Qual jogo de videogame do Arcade, popular nos anos 80, envolvia uma nave espacial atirando em alienígenas?",
-        "options":  [
-                        "Pac-Man",
-                        "Donkey Kong",
-                        "Space Invaders",
-                        "Frogger"
-                    ],
-        "answer":  "Space Invaders",
-        "category":  "Games & Brinquedos"
-    },
-    {
-        "question":  "Que jogo de videogame do início dos anos 90, popular no Super Nintendo, tinha um porco-espinho azul como protagonista?",
+        "question":  "Que jogo de videogame do início dos anos 90, popular no Mega Drive, tinha um porco-espinho azul como protagonista?",
         "options":  [
                         "Super Mario World",
                         "Sonic the Hedgehog",
@@ -264,7 +253,7 @@
         "category":  "Games & Brinquedos"
     },
     {
-        "question":  "Que jogo de videogame dos anos 90, popular no Super Nintendo, tinha um lobo como protagonista que coletava moedas?",
+        "question":  "Qual é o jogo de luta dos anos 90, famoso no Super Nintendo, que tinha combos longos e personagens como o lobisomem Sabrewulf?",
         "options":  [
                         "F-Zero",
                         "Star Fox",
@@ -297,7 +286,7 @@
         "category":  "Games & Brinquedos"
     },
     {
-        "question":  "Que jogo de videogame dos anos 90, popular no Super Nintendo, tinha um gorila como protagonista que jogava barris?",
+        "question":  "Que jogo de videogame dos anos 90, popular no Super Nintendo, tinha um gorila como protagonista que entre outras coisas podia jogar barris?",
         "options":  [
                         "Super Mario World",
                         "Donkey Kong Country",
