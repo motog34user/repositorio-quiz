@@ -581,5 +581,512 @@
         ],
         "answer": "Câmera Escondida",
         "category": "Cultura Geral"
-    }
+    },
+    
+  {
+    "question": "Qual presidente brasileiro governou durante a promulgação da Constituição de 1988?",
+    "options": [
+      "Fernando Collor de Mello",
+      "José Sarney",
+      "Itamar Franco",
+      "Fernando Henrique Cardoso"
+    ],
+    "answer": "José Sarney",
+    "category": "História e Política"
+  },
+  {
+    "question": "Qual foi o plano econômico lançado em 1986 para combater a inflação?",
+    "options": [
+      "Plano Real",
+      "Plano Collor",
+      "Plano Cruzado",
+      "Plano Verão"
+    ],
+    "answer": "Plano Cruzado",
+    "category": "Economia"
+  },
+  {
+    "question": "Em que ano o Brasil sediou a Eco-92, uma conferência mundial sobre meio ambiente?",
+    "options": [
+      "1990",
+      "1992",
+      "1994",
+      "1988"
+    ],
+    "answer": "1992",
+    "category": "Eventos Históricos"
+  },
+  {
+    "question": "Qual foi o nome do movimento estudantil que pedia o impeachment de Fernando Collor de Mello?",
+    "options": [
+      "Diretas Já",
+      "Caras-Pintadas",
+      "Fora Collor",
+      "Nenhuma das alternativas"
+    ],
+    "answer": "Caras-Pintadas",
+    "category": "História e Política"
+  },
+  {
+    "question": "Qual moeda foi implementada no Brasil durante o Plano Real, em 1994?",
+    "options": [
+      "Cruzado Novo",
+      "Cruzeiro Real",
+      "Real",
+      "Cruzado"
+    ],
+    "answer": "Real",
+    "category": "Economia"
+  },
+  {
+    "question": "Qual foi a primeira Copa do Mundo de Futebol vencida pelo Brasil nos anos 90?",
+    "options": [
+      "1990",
+      "1994",
+      "1998",
+      "2002"
+    ],
+    "answer": "1994",
+    "category": "Esportes"
+  },
+  {
+    "question": "Qual foi o ano da morte de Ayrton Senna, um dos maiores ídolos do automobilismo brasileiro?",
+    "options": [
+      "1992",
+      "1994",
+      "1996",
+      "1990"
+    ],
+    "answer": "1994",
+    "category": "Esportes"
+  },
+  {
+    "question": "Qual foi a capital do Brasil nos anos 80 e 90?",
+    "options": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Brasília",
+      "Belo Horizonte"
+    ],
+    "answer": "Brasília",
+    "category": "Geografia e Sociedade"
+  },
+  {
+    "question": "Qual famoso grupo humorístico brasileiro estreou na TV em 1988 e se tornou um marco do humor nacional?",
+    "options": [
+      "Casseta & Planeta",
+      "Os Trapalhões",
+      "TV Pirata",
+      "Choque de Cultura"
+    ],
+    "answer": "TV Pirata",
+    "category": "Cultura Geral"
+  },
+  {
+    "question": "Qual foi o ano em que o Brasil realizou seu primeiro censo demográfico nos anos 90?",
+    "options": [
+      "1990",
+      "1991",
+      "1995",
+      "1996"
+    ],
+    "answer": "1991",
+    "category": "Demografia"
+  },
+  {
+    "question": "Que evento musical de grande porte marcou os anos 80 no Rio de Janeiro?",
+    "options": [
+      "Hollywood Rock",
+      "Rock in Rio",
+      "Monsters of Rock",
+      "Free Jazz Festival"
+    ],
+    "answer": "Rock in Rio",
+    "category": "Cultura Geral"
+  },
+  {
+    "question": "Qual foi o presidente do Brasil antes de Fernando Collor de Mello?",
+    "options": [
+      "Tancredo Neves",
+      "José Sarney",
+      "João Figueiredo",
+      "Itamar Franco"
+    ],
+    "answer": "José Sarney",
+    "category": "História e Política"
+  },
+  {
+    "question": "Qual foi o ano em que o Brasil sediou os Jogos Pan-Americanos nos anos 80?",
+    "options": [
+      "1983",
+      "1987",
+      "1989",
+      "1991"
+    ],
+    "answer": "1987",
+    "category": "Esportes"
+  },
+  {
+    "question": "Qual era a taxa de inflação que o Brasil enfrentava no início dos anos 90, antes do Plano Real?",
+    "options": [
+      "Baixa",
+      "Moderada",
+      "Alta (hiperinflação)",
+      "Estável"
+    ],
+    "answer": "Alta (hiperinflação)",
+    "category": "Economia"
+  },
+  {
+    "question": "Qual foi o escândalo de corrupção que levou ao impeachment de Fernando Collor de Mello?",
+    "options": [
+      "Mensalão",
+      "Petrolão",
+      "Esquema PC Farias",
+      "Operação Lava Jato"
+    ],
+    "answer": "Esquema PC Farias",
+    "category": "História e Política"
+  },
+  {
+    "question": "Qual foi o nome do programa de estabilização econômica que antecedeu o Plano Real?",
+    "options": [
+      "Plano Collor",
+      "Plano Cruzado",
+      "Plano Bresser",
+      "Plano Verão"
+    ],
+    "answer": "Plano Collor",
+    "category": "Economia"
+  },
+  {
+    "question": "Qual famoso jornal impresso brasileiro foi fundado nos anos 80 e se tornou um dos maiores do país?",
+    "options": [
+      "Folha de S.Paulo",
+      "O Globo",
+      "Estado de S.Paulo",
+      "Jornal do Brasil"
+    ],
+    "answer": "Folha de S.Paulo",
+    "category": "Cultura Geral"
+  },
+  {
+    "question": "Qual foi o ano em que o Brasil comemorou o centenário da Proclamação da República?",
+    "options": [
+      "1988",
+      "1989",
+      "1990",
+      "1992"
+    ],
+    "answer": "1989",
+    "category": "História"
+  },
+  {
+    "question": "Qual foi o primeiro presidente eleito diretamente pelo voto popular após a ditadura militar?",
+    "options": [
+      "Tancredo Neves",
+      "José Sarney",
+      "Fernando Collor de Mello",
+      "Fernando Henrique Cardoso"
+    ],
+    "answer": "Fernando Collor de Mello",
+    "category": "História e Política"
+  },
+  {
+    "question": "Qual era a maior cidade do Brasil em população nos anos 80 e 90?",
+    "options": [
+      "Rio de Janeiro",
+      "Belo Horizonte",
+      "Salvador",
+      "São Paulo"
+    ],
+    "answer": "São Paulo",
+    "category": "Geografia e Sociedade"
+  },
+  {
+    "question": "Qual foi o evento que marcou o fim da ditadura militar no Brasil?",
+    "options": [
+      "Diretas Já",
+      "Promulgação da Constituição de 1988",
+      "Eleição de Tancredo Neves",
+      "Abertura política"
+    ],
+    "answer": "Eleição de Tancredo Neves",
+    "category": "História e Política"
+  },
+  {
+    "question": "Qual foi o ano da morte de Tancredo Neves, presidente eleito que não chegou a tomar posse?",
+    "options": [
+      "1984",
+      "1985",
+      "1986",
+      "1987"
+    ],
+    "answer": "1985",
+    "category": "História"
+  },
+  {
+    "question": "Qual foi a principal causa da crise econômica brasileira nos anos 80?",
+    "options": [
+      "Alta dos preços do petróleo",
+      "Crise da dívida externa",
+      "Desvalorização do dólar",
+      "Estagnação da indústria"
+    ],
+    "answer": "Crise da dívida externa",
+    "category": "Economia"
+  },
+  {
+    "question": "Qual estado brasileiro foi palco da Guerra de Canudos, retratada em livro famoso?",
+    "options": [
+      "Pernambuco",
+      "Bahia",
+      "Ceará",
+      "Minas Gerais"
+    ],
+    "answer": "Bahia",
+    "category": "História e Literatura"
+  },
+  {
+    "question": "Qual foi o ano em que o Brasil atingiu a marca de 150 milhões de habitantes?",
+    "options": [
+      "1990",
+      "1994",
+      "1996",
+      "1998"
+    ],
+    "answer": "1994",
+    "category": "Demografia"
+  },
+  {
+    "question": "Qual foi a principal exportação brasileira nos anos 80 e 90?",
+    "options": [
+      "Produtos industrializados",
+      "Café",
+      "Soja",
+      "Minério de ferro"
+    ],
+    "answer": "Soja",
+    "category": "Economia"
+  },
+  {
+    "question": "Qual foi o nome do primeiro satélite brasileiro lançado ao espaço?",
+    "options": [
+      "SCD1",
+      "CBERS-1",
+      "Amazonia-1",
+      "Florianópolis"
+    ],
+    "answer": "SCD1",
+    "category": "Ciência e Tecnologia"
+  },
+  {
+    "question": "Qual foi o ano em que o Brasil adotou o horário de verão pela primeira vez?",
+    "options": [
+      "1985",
+      "1986",
+      "1987",
+      "1988"
+    ],
+    "answer": "1985",
+    "category": "Cotidiano"
+  },
+  {
+    "question": "Qual foi o famoso cantor e compositor brasileiro que morreu em 1989 e deixou um grande legado musical?",
+    "options": [
+      "Cazuza",
+      "Renato Russo",
+      "Tim Maia",
+      "Raul Seixas"
+    ],
+    "answer": "Raul Seixas",
+    "category": "Música (apenas referencial, não inclui perguntas diretas sobre músicas)"
+  },
+  {
+    "question": "Qual foi o nome da campanha que incentivou a doação de alimentos para combater a fome nos anos 90?",
+    "options": [
+      "Natal Sem Fome",
+      "Ação da Cidadania contra a Fome, a Miséria e pela Vida",
+      "Fome Zero",
+      "Criança Esperança"
+    ],
+    "answer": "Ação da Cidadania contra a Fome, a Miséria e pela Vida",
+    "category": "Cultura Geral e Sociedade"
+  },
+  {
+    "question": "Qual foi o principal objetivo do Plano Real?",
+    "options": [
+      "Combater o desemprego",
+      "Estabilizar a economia e combater a inflação",
+      "Aumentar as exportações",
+      "Reduzir a dívida externa"
+    ],
+    "answer": "Estabilizar a economia e combater a inflação",
+    "category": "Economia"
+  },
+  {
+    "question": "Qual cidade brasileira foi palco de grandes protestos contra o governo nos anos 80, durante o movimento Diretas Já?",
+    "options": [
+      "Rio de Janeiro",
+      "Belo Horizonte",
+      "Salvador",
+      "São Paulo"
+    ],
+    "answer": "São Paulo",
+    "category": "História e Política"
+  },
+  {
+    "question": "Qual foi o primeiro presidente a governar o Brasil após o fim da ditadura militar?",
+    "options": [
+      "José Sarney",
+      "Fernando Collor de Mello",
+      "Itamar Franco",
+      "Fernando Henrique Cardoso"
+    ],
+    "answer": "José Sarney",
+    "category": "História e Política"
+  },
+  {
+    "question": "Qual foi o ano da promulgação do Código de Defesa do Consumidor no Brasil?",
+    "options": [
+      "1988",
+      "1990",
+      "1992",
+      "1994"
+    ],
+    "answer": "1990",
+    "category": "Legislação"
+  },
+  {
+    "question": "Qual foi o nome do plano econômico lançado no final dos anos 80 que confiscou a poupança?",
+    "options": [
+      "Plano Cruzado",
+      "Plano Verão",
+      "Plano Collor",
+      "Plano Real"
+    ],
+    "answer": "Plano Collor",
+    "category": "Economia"
+  },
+  {
+    "question": "Qual foi a principal inovação tecnológica que começou a se popularizar no Brasil nos anos 90?",
+    "options": [
+      "Telefone celular",
+      "Televisão colorida",
+      "Videocassete",
+      "Internet"
+    ],
+    "answer": "Internet",
+    "category": "Ciência e Tecnologia"
+  },
+  {
+    "question": "Qual foi o ano em que o Brasil comemorou 500 anos do Descobrimento?",
+    "options": [
+      "1998",
+      "1999",
+      "2000",
+      "2001"
+    ],
+    "answer": "2000",
+    "category": "História"
+  },
+  {
+    "question": "Qual foi o último presidente militar do Brasil?",
+    "options": [
+      "Ernesto Geisel",
+      "João Figueiredo",
+      "Humberto Castelo Branco",
+      "Arthur da Costa e Silva"
+    ],
+    "answer": "João Figueiredo",
+    "category": "História e Política"
+  },
+  {
+    "question": "Qual foi o nome da rodovia que ligava São Paulo ao Rio de Janeiro e foi duplicada nos anos 90?",
+    "options": [
+      "Rodovia dos Bandeirantes",
+      "Rodovia Anhangüera",
+      "Via Dutra",
+      "Rodovia Castelo Branco"
+    ],
+    "answer": "Via Dutra",
+    "category": "Infraestrutura"
+  },
+  {
+    "question": "Qual foi o ano em que a Rede Globo de Televisão comemorou 25 anos de existência?",
+    "options": [
+      "1985",
+      "1988",
+      "1990",
+      "1992"
+    ],
+    "answer": "1990",
+    "category": "Cultura Geral"
+  },
+  {
+    "question": "Qual foi o nome do famoso mascote da Copa do Mundo de 1994, vencida pelo Brasil?",
+    "options": [
+      "Fuleco",
+      "Zico",
+      "Striker",
+      "Canarinho"
+    ],
+    "answer": "Striker",
+    "category": "Esportes"
+  },
+  {
+    "question": "Qual foi o nome do programa de governo lançado nos anos 90 para combater a pobreza e a desigualdade social?",
+    "options": [
+      "Bolsa Família",
+      "Fome Zero",
+      "Comunidade Solidária",
+      "Pronaf"
+    ],
+    "answer": "Comunidade Solidária",
+    "category": "Política Social"
+  },
+  {
+    "question": "Qual foi o ano em que o Brasil sediou o Fórum Social Mundial pela primeira vez?",
+    "options": [
+      "1999",
+      "2000",
+      "2001",
+      "2002"
+    ],
+    "answer": "2001",
+    "category": "Eventos Sociais"
+  },
+  {
+    "question": "Qual foi o famoso evento de moda que começou a ganhar destaque no Brasil nos anos 90?",
+    "options": [
+      "São Paulo Fashion Week",
+      "Fashion Rio",
+      "Minas Trend Preview",
+      "Casa de Criadores"
+    ],
+    "answer": "São Paulo Fashion Week",
+    "category": "Cultura Geral"
+  },
+  {
+    "question": "Qual foi o nome da operação da Polícia Federal que combateu a corrupção nos anos 90, com grande repercussão?",
+    "options": [
+      "Operação Lava Jato",
+      "Operação Mãos Limpas",
+      "Operação Satiagraha",
+      "Operação Cheque em Branco"
+    ],
+    "answer": "Operação Mãos Limpas",
+    "category": "Política e Justiça"
+  },
+  {
+    "question": "Qual era o nome do imposto criado em 1997 para desestimular a movimentação financeira?",
+    "options": [
+      "IOF",
+      "CPMF",
+      "IPVA",
+      "IPTU"
+    ],
+    "answer": "CPMF",
+    "category": "Economia e Legislação"
+  }
 ]
