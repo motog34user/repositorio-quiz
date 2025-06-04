@@ -1,585 +1,585 @@
-﻿[
+[
     {
-        "question":  "Que famoso boneco de pano, mascote de um programa infantil, falava frases divertidas?",
-        "options":  [
-                        "Fofão",
-                        "Mickey",
-                        "Pateta",
-                        "Snoopy"
-                    ],
-        "answer":  "Fofão",
-        "category":  "Cultura Geral"
+        "question": "Que famoso boneco de pano, mascote de um programa infantil, falava frases divertidas?",
+        "options": [
+            "Fofão",
+            "Mickey",
+            "Pateta",
+            "Snoopy"
+        ],
+        "answer": "Fofão",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual famoso ponto turístico do Rio de Janeiro era palco de grandes shows nos anos 80 e 90?",
-        "options":  [
-                        "Maracanã",
-                        "Sambódromo",
-                        "Apoteose",
-                        "Praça da Apoteose"
-                    ],
-        "answer":  "Praça da Apoteose",
-        "category":  "Cultura Geral"
+        "question": "Qual famoso ponto turístico do Rio de Janeiro era palco de grandes shows nos anos 80 e 90?",
+        "options": [
+            "Maracanã",
+            "Sambódromo",
+            "Apoteose",
+            "Praça da Apoteose"
+        ],
+        "answer": "Praça da Apoteose",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "A que festa junina popular no Nordeste era transmitida pela televisão?",
-        "options":  [
-                        "São João",
-                        "Carnaval",
-                        "Festa de Peão",
-                        "Festa do Divino"
-                    ],
-        "answer":  "São João",
-        "category":  "Cultura Geral"
+        "question": "Que festa junina popular no Nordeste era transmitida pela televisão?",
+        "options": [
+            "São João",
+            "Carnaval",
+            "Festa de Peão",
+            "Festa do Divino"
+        ],
+        "answer": "São João",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Que famoso apresentador de televisão tinha um programa onde recebia artistas e fazia brincadeiras?",
-        "options":  [
-                        "Silvio Santos",
-                        "Gugu Liberato",
-                        "Faustão",
-                        "Serginho Groisman"
-                    ],
-        "answer":  "Serginho Groisman",
-        "category":  "Cultura Geral"
+        "question": "Que famoso apresentador de televisão tinha um programa onde recebia artistas e fazia brincadeiras?",
+        "options": [
+            "Silvio Santos",
+            "Gugu Liberato",
+            "Faustão",
+            "Serginho Groisman"
+        ],
+        "answer": "Silvio Santos",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Que programa de TV, exibido em um canal fechado, abordava moda e tendências?",
-        "options":  [
-                        "Superbonita",
-                        "GNT Fashion",
-                        "Vídeo Show Fashion",
-                        "Esquadrão da Moda"
-                    ],
-        "answer":  "GNT Fashion",
-        "category":  "Cultura Geral"
+        "question": "Que programa de TV, exibido em um canal fechado, abordava moda e tendências?",
+        "options": [
+            "Superbonita",
+            "GNT Fashion",
+            "Vídeo Show Fashion",
+            "Esquadrão da Moda"
+        ],
+        "answer": "GNT Fashion",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Que brinquedo popular dos anos 80 permitia criar desenhos em uma tela metálica com dois botões?",
-        "options":  [
-                        "Genius",
-                        "Aquaplay",
-                        "Pense Bem",
-                        "Etch A Sketch"
-                    ],
-        "answer":  "Etch A Sketch",
-        "category":  "Cultura Geral"
+        "question": "Que brinquedo popular dos anos 80 permitia criar desenhos em uma tela metálica com dois botões?",
+        "options": [
+            "Genius",
+            "Aquaplay",
+            "Pense Bem",
+            "Etch A Sketch"
+        ],
+        "answer": "Etch A Sketch",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual famoso programa de auditório nos anos 90 tinha um quadro de calouros e distribuía prêmios?",
-        "options":  [
-                        "Domingão do Faustão",
-                        "Programa do Gugu",
-                        "Show de Calouros",
-                        "Cassino do Chacrinha"
-                    ],
-        "answer":  "Domingão do Faustão",
-        "category":  "Cultura Geral"
+        "question": "Qual famoso programa de auditório nos anos 90 tinha um quadro de calouros e distribuía prêmios?",
+        "options": [
+            "Domingão do Faustão",
+            "Programa do Gugu",
+            "Show de Calouros",
+            "Cassino do Chacrinha"
+        ],
+        "answer": "Show de Calouros",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Que atriz e apresentadora infantil se tornou um fenômeno nos anos 80 e 90 com seu programa 'Xou da Xuxa'?",
-        "options":  [
-                        "Eliana",
-                        "Angélica",
-                        "Marlene Mattos",
-                        "Xuxa"
-                    ],
-        "answer":  "Xuxa",
-        "category":  "Cultura Geral"
+        "question": "Que atriz e apresentadora infantil se tornou um fenômeno nos anos 80 e 90 com seu programa 'Xou da Xuxa'?",
+        "options": [
+            "Eliana",
+            "Angélica",
+            "Marlene Mattos",
+            "Xuxa"
+        ],
+        "answer": "Xuxa",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Que canal de televisão por assinatura, popular nos anos 90, exibia principalmente videoclipes musicais?",
-        "options":  [
-                        "MTV",
-                        "Multishow",
-                        "VH1",
-                        "TNT"
-                    ],
-        "answer":  "MTV",
-        "category":  "Cultura Geral"
+        "question": "Que canal de televisão por assinatura, popular nos anos 90, exibia principalmente videoclipes musicais?",
+        "options": [
+            "MTV",
+            "Multishow",
+            "VH1",
+            "TNT"
+        ],
+        "answer": "MTV",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Em 'Os Trapalhões', como se chamava o personagem interpretado por Didi?",
-        "options":  [
-                        "Didi Mocó",
-                        "Dedé Santana",
-                        "Mussum",
-                        "Zacarias"
-                    ],
-        "answer":  "Didi Mocó",
-        "category":  "Cultura Geral"
+        "question": "Em 'Os Trapalhões', como se chamava o personagem interpretado por Didi?",
+        "options": [
+            "Didi Mocó",
+            "Dedé Santana",
+            "Mussum",
+            "Zacarias"
+        ],
+        "answer": "Didi Mocó",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual programa de auditório, apresentado por Silvio Santos, tinha um famoso 'Show de Calouros'?",
-        "options":  [
-                        "Programa Silvio Santos",
-                        "Qual é a Música & Shows?",
-                        "Porta da Esperança",
-                        "Topa Tudo por Dinheiro"
-                    ],
-        "answer":  "Programa Silvio Santos",
-        "category":  "Cultura Geral"
+        "question": "Qual programa de auditório, apresentado por Silvio Santos, tinha um famoso 'Show de Calouros'?",
+        "options": [
+            "Programa Silvio Santos",
+            "Qual é a Música & Shows?",
+            "Porta da Esperança",
+            "Topa Tudo por Dinheiro"
+        ],
+        "answer": "Programa Silvio Santos",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Que famoso ator brasileiro, conhecido por seus papéis em novelas e filmes, fez sucesso nos anos 80 e 90?",
-        "options":  [
-                        "Tarcísio Meira",
-                        "Tony Ramos",
-                        "Lima Duarte",
-                        "Francisco Cuoco"
-                    ],
-        "answer":  "Tony Ramos",
-        "category":  "Cultura Geral"
+        "question": "Que famoso ator brasileiro, conhecido por seus papéis em novelas e filmes, fez sucesso nos anos 80 e 90?",
+        "options": [
+            "Tarcísio Meira",
+            "Tony Ramos",
+            "Lima Duarte",
+            "Francisco Cuoco"
+        ],
+        "answer": "Tony Ramos",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Que brinquedo dos anos 90 eram pequenos bonecos colecionáveis de monstros com uma tampa?",
-        "options":  [
-                        "Pokémons",
-                        "Tazos",
-                        "Gogos Crazy Bones",
-                        "Elastikon"
-                    ],
-        "answer":  "Tazos",
-        "category":  "Cultura Geral"
+        "question": "Que brinquedo dos anos 90 eram pequenos bonecos colecionáveis de monstros com uma tampa?",
+        "options": [
+            "Pokémons",
+            "Tazos",
+            "Gogos Crazy Bones",
+            "Elastikon"
+        ],
+        "answer": "Tazos",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual programa de TV infantil, exibido pela Globo nos anos 90, tinha uma nave que descia do teto e era comandada por Xuxa?",
-        "options":  [
-                        "Xou da Xuxa",
-                        "Tv Colosso",
-                        "Angel Mix",
-                        "Clube da Criança"
-                    ],
-        "answer":  "Xou da Xuxa",
-        "category":  "Cultura Geral"
+        "question": "Qual programa de TV infantil, exibido pela Globo nos anos 90, tinha uma nave que descia do teto e era comandada por Xuxa?",
+        "options": [
+            "Xou da Xuxa",
+            "Tv Colosso",
+            "Angel Mix",
+            "Clube da Criança"
+        ],
+        "answer": "Xou da Xuxa",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual programa de auditório, apresentado por Gugu Liberato, tinha quadros como 'Táxi do Gugu' e 'Banheira do Gugu'?",
-        "options":  [
-                        "Domingo Legal",
-                        "Viva a Noite",
-                        "Programa do Gugu",
-                        "Sabadaço"
-                    ],
-        "answer":  "Domingo Legal",
-        "category":  "Cultura Geral"
+        "question": "Qual programa de auditório, apresentado por Gugu Liberato, tinha quadros como 'Táxi do Gugu' e 'Banheira do Gugu'?",
+        "options": [
+            "Domingo Legal",
+            "Viva a Noite",
+            "Programa do Gugu",
+            "Sabadaço"
+        ],
+        "answer": "Domingo Legal",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Que famoso ator e comediante brasileiro, conhecido por seus personagens como 'Padre Quevedo', faleceu em 1999?",
-        "options":  [
-                        "Chico Anysio",
-                        "Jô Soares",
-                        "Golias",
-                        "Costinha"
-                    ],
-        "answer":  "Chico Anysio",
-        "category":  "Cultura Geral"
+        "question": "Que famoso ator e comediante brasileiro, conhecido por seus personagens como 'Padre Quevedo', faleceu em 1999?",
+        "options": [
+            "Chico Anysio",
+            "Jô Soares",
+            "Golias",
+            "Costinha"
+        ],
+        "answer": "Chico Anysio",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Que famoso apresentador de TV, conhecido por seu programa 'Fantástico', narrava reportagens com sua voz marcante?",
-        "options":  [
-                        "Pedro Bial",
-                        "Cid Moreira",
-                        "William Bonner",
-                        "Fátima Bernardes"
-                    ],
-        "answer":  "Cid Moreira",
-        "category":  "Cultura Geral"
+        "question": "Que famoso apresentador de TV, conhecido por seu programa 'Fantástico', narrava reportagens com sua voz marcante?",
+        "options": [
+            "Pedro Bial",
+            "Cid Moreira",
+            "William Bonner",
+            "Fátima Bernardes"
+        ],
+        "answer": "Cid Moreira",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual brinquedo popular nos anos 90 eram pequenos bichinhos virtuais que precisavam ser alimentados e cuidados?",
-        "options":  [
-                        "Pogs",
-                        "Tazos",
-                        "Tamagotchi",
-                        "Furbies"
-                    ],
-        "answer":  "Tamagotchi",
-        "category":  "Cultura Geral"
+        "question": "Qual brinquedo popular nos anos 90 eram pequenos bichinhos virtuais que precisavam ser alimentados e cuidados?",
+        "options": [
+            "Pogs",
+            "Tazos",
+            "Tamagotchi",
+            "Furbies"
+        ],
+        "answer": "Tamagotchi",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Que brinquedo dos anos 90 era um skate de dedo com o qual se podia fazer manobras?",
-        "options":  [
-                        "Tech Deck",
-                        "Fingerboard",
-                        "Skate Radical",
-                        "Mini Skate"
-                    ],
-        "answer":  "Tech Deck",
-        "category":  "Cultura Geral"
+        "question": "Que brinquedo dos anos 90 era um skate de dedo com o qual se podia fazer manobras?",
+        "options": [
+            "Tech Deck",
+            "Fingerboard",
+            "Skate Radical",
+            "Mini Skate"
+        ],
+        "answer": "Tech Deck",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual programa de TV, exibido pela Globo, era apresentado por Angélica e tinha um quadro famoso chamado 'Casa da Angélica'?",
-        "options":  [
-                        "Xou da Xuxa",
-                        "Angel Mix",
-                        "Clube da Criança",
-                        "Vídeo Show"
-                    ],
-        "answer":  "Angel Mix",
-        "category":  "Cultura Geral"
+        "question": "Qual programa de TV, exibido pela Globo, era apresentado por Angélica e tinha um quadro famoso chamado 'Casa da Angélica'?",
+        "options": [
+            "Xou da Xuxa",
+            "Angel Mix",
+            "Clube da Criança",
+            "Vídeo Show"
+        ],
+        "answer": "Angel Mix",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual boneca popular dos anos 80, produzida pela Estrela, vinha com um disco que falava?",
-        "options":  [
-                        "Susi",
-                        "Emília",
-                        "Gui Gui",
-                        "Amiguinha"
-                    ],
-        "answer":  "Amiguinha",
-        "category":  "Cultura Geral"
+        "question": "Qual boneca popular dos anos 80, produzida pela Estrela, vinha com um disco que falava?",
+        "options": [
+            "Susi",
+            "Emília",
+            "Gui Gui",
+            "Amiguinha"
+        ],
+        "answer": "Amiguinha",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Que famoso programa de TV brasileiro, conhecido por seus quadros de humor e imitações, era apresentado por Chico Anysio?",
-        "options":  [
-                        "Sai de Baixo",
-                        "Escolinha do Professor Raimundo",
-                        "Zorra Total",
-                        "TV Pirata"
-                    ],
-        "answer":  "Escolinha do Professor Raimundo",
-        "category":  "Cultura Geral"
+        "question": "Que famoso programa de TV brasileiro, conhecido por seus quadros de humor e imitações, era apresentado por Chico Anysio?",
+        "options": [
+            "Sai de Baixo",
+            "Escolinha do Professor Raimundo",
+            "Zorra Total",
+            "TV Pirata"
+        ],
+        "answer": "Escolinha do Professor Raimundo",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Que brinquedo dos anos 90 eram bonecas pequenas com cabelos coloridos e olhos grandes?",
-        "options":  [
-                        "Polly Pocket",
-                        "Tiny Tears",
-                        "Troll Dolls",
-                        "My Little Pony"
-                    ],
-        "answer":  "Troll Dolls",
-        "category":  "Cultura Geral"
+        "question": "Que brinquedo dos anos 90 eram bonecas pequenas com cabelos coloridos e olhos grandes?",
+        "options": [
+            "Polly Pocket",
+            "Tiny Tears",
+            "Troll Dolls",
+            "My Little Pony"
+        ],
+        "answer": "Troll Dolls",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Que brinquedo dos anos 90 era um patins com uma roda só, usado em uma perna?",
-        "options":  [
-                        "Pogo Stick",
-                        "Hoverboard",
-                        "Patins Inline",
-                        "Skip-It"
-                    ],
-        "answer":  "Skip-It",
-        "category":  "Cultura Geral"
+        "question": "Que brinquedo dos anos 90 era um patins com uma roda só, usado em uma perna?",
+        "options": [
+            "Pogo Stick",
+            "Hoverboard",
+            "Patins Inline",
+            "Skip-It"
+        ],
+        "answer": "Skip-It",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual programa de TV brasileiro, que apresentava videoclipes e entrevistas com artistas, era exibido pela MTV Brasil?",
-        "options":  [
-                        "Disk MTV",
-                        "Top 10 MTV",
-                        "Beavis e Butt-Head",
-                        "Acústico MTV"
-                    ],
-        "answer":  "Disk MTV",
-        "category":  "Cultura Geral"
+        "question": "Qual programa de TV brasileiro, que apresentava videoclipes e entrevistas com artistas, era exibido pela MTV Brasil?",
+        "options": [
+            "Disk MTV",
+            "Top 10 MTV",
+            "Beavis e Butt-Head",
+            "Acústico MTV"
+        ],
+        "answer": "Disk MTV",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual brinquedo popular nos anos 90 eram pequenos discos de plástico com figuras colecionáveis?",
-        "options":  [
-                        "Pogs",
-                        "Tazos",
-                        "Pokémon Cards",
-                        "Magic Cards"
-                    ],
-        "answer":  "Pogs",
-        "category":  "Cultura Geral"
+        "question": "Qual brinquedo popular nos anos 90 eram pequenos discos de plástico com figuras colecionáveis?",
+        "options": [
+            "Pogs",
+            "Tazos",
+            "Pokémon Cards",
+            "Magic Cards"
+        ],
+        "answer": "Pogs",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Que famoso programa de TV brasileiro, da TV Globo, era um programa de auditório nas tardes de domingo?",
-        "options":  [
-                        "Domingão do Faustão",
-                        "Programa do Gugu",
-                        "Caldeirão do Huck",
-                        "Altas Horas"
-                    ],
-        "answer":  "Domingão do Faustão",
-        "category":  "Cultura Geral"
+        "question": "Qual famoso programa de TV brasileiro, da TV Globo, era um programa de auditório nas tardes de domingo?",
+        "options": [
+            "Domingão do Faustão",
+            "Programa do Gugu",
+            "Caldeirão do Huck",
+            "Altas Horas"
+        ],
+        "answer": "Domingão do Faustão",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Que brinquedo dos anos 90 eram anéis plásticos com figuras colecionáveis que podiam ser empilhados?",
-        "options":  [
-                        "Pogs",
-                        "Tazos",
-                        "Gogos Crazy Bones",
-                        "Yu-Gi-Oh! Cards"
-                    ],
-        "answer":  "Gogos Crazy Bones",
-        "category":  "Cultura Geral"
+        "question": "Que brinquedo dos anos 90 eram anéis plásticos com figuras colecionáveis que podiam ser empilhados?",
+        "options": [
+            "Pogs",
+            "Tazos",
+            "Gogos Crazy Bones",
+            "Yu-Gi-Oh! Cards"
+        ],
+        "answer": "Gogos Crazy Bones",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual programa de TV brasileiro, que apresentava gincanas e competições entre escolas, era famoso nos anos 80 e 90?",
-        "options":  [
-                        "Passa ou Repassa",
-                        "Domingo Legal",
-                        "Programa do Ratinho",
-                        "Cassino do Chacrinha"
-                    ],
-        "answer":  "Passa ou Repassa",
-        "category":  "Cultura Geral"
+        "question": "Qual programa de TV brasileiro, que apresentava gincanas e competições entre escolas, era famoso nos anos 80 e 90?",
+        "options": [
+            "Passa ou Repassa",
+            "Domingo Legal",
+            "Programa do Ratinho",
+            "Cassino do Chacrinha"
+        ],
+        "answer": "Passa ou Repassa",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual brinquedo popular nos anos 90 permitia criar bonecos com massa de modelar em moldes?",
-        "options":  [
-                        "Play-Doh",
-                        "Massinha Estrela",
-                        "Crescer Brincando",
-                        "Super Massa"
-                    ],
-        "answer":  "Play-Doh",
-        "category":  "Cultura Geral"
+        "question": "Qual brinquedo popular nos anos 90 permitia criar bonecos com massa de modelar em moldes?",
+        "options": [
+            "Play-Doh",
+            "Massinha Estrela",
+            "Crescer Brincando",
+            "Super Massa"
+        ],
+        "answer": "Play-Doh",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual programa de TV brasileiro, que apresentava brincadeiras com a plateia e premiações, era famoso nos anos 80 e 90?",
-        "options":  [
-                        "Domingão do Faustão",
-                        "Programa do Gugu",
-                        "Show de Calouros",
-                        "Cassino do Chacrinha"
-                    ],
-        "answer":  "Cassino do Chacrinha",
-        "category":  "Cultura Geral"
+        "question": "Qual programa de TV brasileiro, que apresentava brincadeiras com a plateia e premiações, era famoso nos anos 80 e 90?",
+        "options": [
+            "Domingão do Faustão",
+            "Programa do Gugu",
+            "Show de Calouros",
+            "Cassino do Chacrinha"
+        ],
+        "answer": "Cassino do Chacrinha",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual brinquedo popular nos anos 90 eram pequenos bonecos colecionáveis de monstros com uma tampa?",
-        "options":  [
-                        "Pogs",
-                        "Tazos",
-                        "Gogos Crazy Bones",
-                        "Elastikon"
-                    ],
-        "answer":  "Tazos",
-        "category":  "Cultura Geral"
+        "question": "Qual brinquedo popular nos anos 90 eram pequenos bonecos colecionáveis de monstros com uma tampa?",
+        "options": [
+            "Pogs",
+            "Tazos",
+            "Gogos Crazy Bones",
+            "Elastikon"
+        ],
+        "answer": "Tazos",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual brinquedo popular nos anos 90 eram blocos de montar que permitiam construir diversas coisas?",
-        "options":  [
-                        "Lego",
-                        "Playmobil",
-                        "Meccano",
-                        "K'nex"
-                    ],
-        "answer":  "Lego",
-        "category":  "Cultura Geral"
+        "question": "Qual brinquedo popular nos anos 90 eram blocos de montar que permitiam construir diversas coisas?",
+        "options": [
+            "Lego",
+            "Playmobil",
+            "Meccano",
+            "K'nex"
+        ],
+        "answer": "Lego",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual brinquedo popular nos anos 90 eram figuras de ação que se transformavam em carros ou animais?",
-        "options":  [
-                        "Transformers",
-                        "Power Rangers",
-                        "G.I. Joe",
-                        "Hot Wheels"
-                    ],
-        "answer":  "Transformers",
-        "category":  "Cultura Geral"
+        "question": "Qual brinquedo popular nos anos 90 eram figuras de ação que se transformavam em carros ou animais?",
+        "options": [
+            "Transformers",
+            "Power Rangers",
+            "G.I. Joe",
+            "Hot Wheels"
+        ],
+        "answer": "Transformers",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual programa de TV brasileiro, que apresentava histórias de terror e suspense, era famoso nos anos 80 e 90?",
-        "options":  [
-                        "Caso Verdade",
-                        "Contos de Terror",
-                        "Além da Imaginação",
-                        "Estranhos"
-                    ],
-        "answer":  "Caso Verdade",
-        "category":  "Cultura Geral"
+        "question": "Qual programa de TV brasileiro, que apresentava histórias de terror e suspense, era famoso nos anos 80 e 90?",
+        "options": [
+            "Caso Verdade",
+            "Contos de Terror",
+            "Além da Imaginação",
+            "Estranhos"
+        ],
+        "answer": "Caso Verdade",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual brinquedo popular nos anos 90 eram carrinhos em miniatura com pistas e acessórios?",
-        "options":  [
-                        "Hot Wheels",
-                        "Matchbox",
-                        "Carrinhos de Controle Remoto",
-                        "Autorama"
-                    ],
-        "answer":  "Hot Wheels",
-        "category":  "Cultura Geral"
+        "question": "Qual brinquedo popular nos anos 90 eram carrinhos em miniatura com pistas e acessórios?",
+        "options": [
+            "Hot Wheels",
+            "Matchbox",
+            "Carrinhos de Controle Remoto",
+            "Autorama"
+        ],
+        "answer": "Hot Wheels",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual programa de TV brasileiro, que apresentava pegadinhas e câmeras escondidas, era famoso nos anos 90?",
-        "options":  [
-                        "Topa Tudo por Dinheiro",
-                        "Programa do Gugu",
-                        "Domingo Legal",
-                        "Câmera Escondida"
-                    ],
-        "answer":  "Câmera Escondida",
-        "category":  "Cultura Geral"
+        "question": "Qual programa de TV brasileiro, que apresentava pegadinhas e câmeras escondidas, era famoso nos anos 90?",
+        "options": [
+            "Topa Tudo por Dinheiro",
+            "Programa do Gugu",
+            "Domingo Legal",
+            "Câmera Escondida"
+        ],
+        "answer": "Câmera Escondida",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual brinquedo popular nos anos 90 eram bonecos articulados que se transformavam em carros ou animais?",
-        "options":  [
-                        "Transformers",
-                        "Power Rangers",
-                        "G.I. Joe",
-                        "Hot Wheels"
-                    ],
-        "answer":  "Transformers",
-        "category":  "Cultura Geral"
+        "question": "Qual brinquedo popular nos anos 90 eram bonecos articulados que se transformavam em carros ou animais?",
+        "options": [
+            "Transformers",
+            "Power Rangers",
+            "G.I. Joe",
+            "Hot Wheels"
+        ],
+        "answer": "Transformers",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual brinquedo popular nos anos 90 era um skate de dedo com o qual se podia fazer manobras?",
-        "options":  [
-                        "Tech Deck",
-                        "Fingerboard",
-                        "Skate Radical",
-                        "Mini Skate"
-                    ],
-        "answer":  "Tech Deck",
-        "category":  "Cultura Geral"
+        "question": "Qual brinquedo popular nos anos 90 era um skate de dedo com o qual se podia fazer manobras?",
+        "options": [
+            "Tech Deck",
+            "Fingerboard",
+            "Skate Radical",
+            "Mini Skate"
+        ],
+        "answer": "Tech Deck",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual famoso programa de TV brasileiro, que apresentava notícias e reportagens aprofundadas, era exibido pela TV Globo?",
-        "options":  [
-                        "Jornal Nacional",
-                        "Fantástico",
-                        "Globo Repórter",
-                        "Linha Direta"
-                    ],
-        "answer":  "Fantástico",
-        "category":  "Cultura Geral"
+        "question": "Qual famoso programa de TV brasileiro, que apresentava notícias e reportagens aprofundadas, era exibido pela TV Globo?",
+        "options": [
+            "Jornal Nacional",
+            "Fantástico",
+            "Globo Repórter",
+            "Linha Direta"
+        ],
+        "answer": "Fantástico",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual brinquedo popular nos anos 90 eram miniaturas de animais colecionáveis que se transformavam em esferas?",
-        "options":  [
-                        "Digimon",
-                        "Beyblade",
-                        "Bakugan",
-                        "Pokémon"
-                    ],
-        "answer":  "Bakugan",
-        "category":  "Cultura Geral"
+        "question": "Qual brinquedo popular nos anos 90 eram miniaturas de animais colecionáveis que se transformavam em esferas?",
+        "options": [
+            "Digimon",
+            "Beyblade",
+            "Bakugan",
+            "Pokémon"
+        ],
+        "answer": "Bakugan",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual famoso programa de TV brasileiro, da TV Globo, era um programa de humor com esquetes e personagens engraçados?",
-        "options":  [
-                        "Sai de Baixo",
-                        "Escolinha do Professor Raimundo",
-                        "Zorra Total",
-                        "TV Pirata"
-                    ],
-        "answer":  "TV Pirata",
-        "category":  "Cultura Geral"
+        "question": "Qual famoso programa de TV brasileiro, da TV Globo, era um programa de humor com esquetes e personagens engraçados?",
+        "options": [
+            "Sai de Baixo",
+            "Escolinha do Professor Raimundo",
+            "Zorra Total",
+            "TV Pirata"
+        ],
+        "answer": "TV Pirata",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual brinquedo popular nos anos 90 eram figuras de ação que podiam ser combinadas para formar robôs maiores?",
-        "options":  [
-                        "Transformers",
-                        "Power Rangers",
-                        "G.I. Joe",
-                        "Max Steel"
-                    ],
-        "answer":  "Power Rangers",
-        "category":  "Cultura Geral"
+        "question": "Qual brinquedo popular nos anos 90 eram figuras de ação que podiam ser combinadas para formar robôs maiores?",
+        "options": [
+            "Transformers",
+            "Power Rangers",
+            "G.I. Joe",
+            "Max Steel"
+        ],
+        "answer": "Power Rangers",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual famoso programa de TV brasileiro, da TV Globo, era um programa de entrevistas e debates apresentado por Jô Soares?",
-        "options":  [
-                        "Programa do Jô",
-                        "Jô Soares Onze e Meia",
-                        "Encontro com Fátima Bernardes",
-                        "Altas Horas"
-                    ],
-        "answer":  "Programa do Jô",
-        "category":  "Cultura Geral"
+        "question": "Qual famoso programa de TV brasileiro, que apresentava entrevistas e debates apresentado por Jô Soares?",
+        "options": [
+            "Programa do Jô",
+            "Jô Soares Onze e Meia",
+            "Encontro com Fátima Bernardes",
+            "Altas Horas"
+        ],
+        "answer": "Programa do Jô",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual brinquedo popular nos anos 90 eram patins que se encaixavam nos sapatos?",
-        "options":  [
-                        "Patins de Quatro Rodas",
-                        "Patins Inline",
-                        "Rollerblades",
-                        "Roller Shoes"
-                    ],
-        "answer":  "Patins Inline",
-        "category":  "Cultura Geral"
+        "question": "Qual brinquedo popular nos anos 90 eram patins que se encaixavam nos sapatos?",
+        "options": [
+            "Patins de Quatro Rodas",
+            "Patins Inline",
+            "Rollerblades",
+            "Roller Shoes"
+        ],
+        "answer": "Patins Inline",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual famoso programa de TV brasileiro, que apresentava reality shows e competições, era exibido pela Globo?",
-        "options":  [
-                        "Big Brother Brasil",
-                        "No Limite",
-                        "Casa dos Artistas",
-                        "A Fazenda"
-                    ],
-        "answer":  "No Limite",
-        "category":  "Cultura Geral"
+        "question": "Qual famoso programa de TV brasileiro, que apresentava reality shows e competições, era exibido pela Globo?",
+        "options": [
+            "Big Brother Brasil",
+            "No Limite",
+            "Casa dos Artistas",
+            "A Fazenda"
+        ],
+        "answer": "No Limite",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual famoso programa de TV brasileiro, que apresentava casos de sequestro e desaparecimento, era exibido pela Globo?",
-        "options":  [
-                        "Linha Direta",
-                        "Repórter Record",
-                        "Cidade Alerta",
-                        "Brasil Urgente"
-                    ],
-        "answer":  "Linha Direta",
-        "category":  "Cultura Geral"
+        "question": "Qual famoso programa de TV brasileiro, que apresentava casos de sequestro e desaparecimento, era exibido pela Globo?",
+        "options": [
+            "Linha Direta",
+            "Repórter Record",
+            "Cidade Alerta",
+            "Brasil Urgente"
+        ],
+        "answer": "Linha Direta",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual brinquedo popular nos anos 90 eram bichos de pelúcia que se transformavam em bolas?",
-        "options":  [
-                        "Furbies",
-                        "Tamagotchi",
-                        "Pillow Pets",
-                        "Mascotinhos"
-                    ],
-        "answer":  "Furbies",
-        "category":  "Cultura Geral"
+        "question": "Qual brinquedo popular nos anos 90 eram bichos de pelúcia que se transformavam em bolas?",
+        "options": [
+            "Furbies",
+            "Tamagotchi",
+            "Pillow Pets",
+            "Mascotinhos"
+        ],
+        "answer": "Furbies",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual famoso programa de TV brasileiro, que apresentava gincanas e competições entre escolas, era famoso nos anos 90?",
-        "options":  [
-                        "Passa ou Repassa",
-                        "Domingo Legal",
-                        "Programa do Ratinho",
-                        "Cassino do Chacrinha"
-                    ],
-        "answer":  "Passa ou Repassa",
-        "category":  "Cultura Geral"
+        "question": "Qual famoso programa de TV brasileiro, que apresentava gincanas e competições entre escolas, era famoso nos anos 90?",
+        "options": [
+            "Passa ou Repassa",
+            "Domingo Legal",
+            "Programa do Ratinho",
+            "Cassino do Chacrinha"
+        ],
+        "answer": "Passa ou Repassa",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual brinquedo popular nos anos 90 era um patins com uma roda só, usado em uma perna?",
-        "options":  [
-                        "Pogo Stick",
-                        "Hoverboard",
-                        "Patins Inline",
-                        "Skip-It"
-                    ],
-        "answer":  "Skip-It",
-        "category":  "Cultura Geral"
+        "question": "Qual brinquedo popular nos anos 90 era um patins com uma roda só, usado em uma perna?",
+        "options": [
+            "Pogo Stick",
+            "Hoverboard",
+            "Patins Inline",
+            "Skip-It"
+        ],
+        "answer": "Skip-It",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual famoso programa de TV brasileiro, que apresentava entrevistas com celebridades e temas variados, era exibido pela SBT?",
-        "options":  [
-                        "Programa do Ratinho",
-                        "Domingo Legal",
-                        "Programa Livre",
-                        "Hebe"
-                    ],
-        "answer":  "Programa Livre",
-        "category":  "Cultura Geral"
+        "question": "Qual famoso programa de TV brasileiro, que apresentava entrevistas com celebridades e temas variados, era exibido pela SBT?",
+        "options": [
+            "Programa do Ratinho",
+            "Domingo Legal",
+            "Programa Livre",
+            "Hebe"
+        ],
+        "answer": "Programa Livre",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual famoso programa de TV brasileiro, que apresentava quadros de humor e imitações, era exibido pela Globo?",
-        "options":  [
-                        "Sai de Baixo",
-                        "Escolinha do Professor Raimundo",
-                        "Zorra Total",
-                        "TV Pirata"
-                    ],
-        "answer":  "TV Pirata",
-        "category":  "Cultura Geral"
+        "question": "Qual famoso programa de TV brasileiro, que apresentava quadros de humor e imitações, era exibido pela Globo?",
+        "options": [
+            "Sai de Baixo",
+            "Escolinha do Professor Raimundo",
+            "Zorra Total",
+            "TV Pirata"
+        ],
+        "answer": "TV Pirata",
+        "category": "Cultura Geral"
     },
     {
-        "question":  "Qual famoso programa de TV brasileiro, que apresentava pegadinhas e câmeras escondidas, era famoso nos anos 90?",
-        "options":  [
-                        "Topa Tudo por Dinheiro",
-                        "Programa do Gugu",
-                        "Domingo Legal",
-                        "Câmera Escondida"
-                    ],
-        "answer":  "Câmera Escondida",
-        "category":  "Cultura Geral"
+        "question": "Qual famoso programa de TV brasileiro, que apresentava pegadinhas e câmeras escondidas, era famoso nos anos 90?",
+        "options": [
+            "Topa Tudo por Dinheiro",
+            "Programa do Gugu",
+            "Domingo Legal",
+            "Câmera Escondida"
+        ],
+        "answer": "Câmera Escondida",
+        "category": "Cultura Geral"
     }
 ]
