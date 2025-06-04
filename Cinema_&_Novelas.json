@@ -18,7 +18,7 @@
                         "E.T. O Extraterrestre",
                         "Indiana Jones"
                     ],
-        "answer":  "E.T. - O Extraterrestre",
+        "answer":  "E.T. O Extraterrestre",
         "category":  "Cinema & Novelas"
     },
     {
@@ -143,7 +143,7 @@
         "category":  "Cinema & Novelas"
     },
     {
-        "question":  "Qual famoso ator e diretor de Cinema & Novelas, conhecido por seus filmes de ação e por interpretar o 'Coringa' em 'Batman' (1989), faleceu em 2014?",
+        "question":  "Qual famoso ator é conhecido por interpretar o 'Coringa' em 'Batman' (1989), faleceu em 2014?",
         "options":  [
                         "Jack Nicholson",
                         "Dustin Hoffman",
