@@ -15,7 +15,7 @@
         "options":  [
                         "Tubarão",
                         "Jurassic Park",
-                        "E.T. - O Extraterrestre",
+                        "E.T. O Extraterrestre",
                         "Indiana Jones"
                     ],
         "answer":  "E.T. - O Extraterrestre",
@@ -242,17 +242,6 @@
         "category":  "Cinema & Novelas"
     },
     {
-        "question":  "Que famoso ator e comediante americano, conhecido por seus papéis em filmes como 'Um Tira da Pesada', se destacou nos anos 80?",
-        "options":  [
-                        "Jim Carrey",
-                        "Robin Williams",
-                        "Steve Martin",
-                        "Eddie Murphy"
-                    ],
-        "answer":  "Eddie Murphy",
-        "category":  "Cinema & Novelas"
-    },
-    {
         "question":  "Que filme de animação da Disney dos anos 90 contava a história de uma princesa árabe que se apaixona por um ladrão?",
         "options":  [
                         "A Bela e a Fera",
@@ -286,7 +275,7 @@
         "category":  "Cinema & Novelas"
     },
     {
-        "question":  "Qual famoso ator de Hollywood, conhecido por seus papéis em filmes de ação e por interpretar 'Batman' em 'Batman' (1989), se destacou nos anos 80?",
+        "question":  "Qual famoso ator de Hollywood, conhecido por seus papéis em filmes de ação e por interpretar Batman em 'Batman'(1989), se destacou nos anos 80?",
         "options":  [
                         "Michael Keaton",
                         "Christian Bale",
@@ -334,14 +323,14 @@
         "options":  [
                         "O Rei Leão",
                         "Tarzan",
-                        "Mogli - O Menino Lobo",
+                        "Mogli O Menino Lobo",
                         "Dumbo"
                     ],
         "answer":  "O Rei Leão",
         "category":  "Cinema & Novelas"
     },
     {
-        "question":  "Qual famoso ator de Hollywood, conhecido por seus papéis em filmes de ação e por interpretar 'Batman' em 'Batman: O Retorno', se destacou nos anos 90?",
+        "question":  "Qual famoso ator de Hollywood, conhecido por seus papéis em filmes de ação e por interpretar Batman em 'Batman: O Retorno', se destacou nos anos 90?",
         "options":  [
                         "Michael Keaton",
                         "Val Kilmer",
@@ -352,7 +341,7 @@
         "category":  "Cinema & Novelas"
     },
     {
-        "question":  "Que filme de animação da Disney dos anos 90 contava a história de uma princesa que se torna uma guerreira para salvar seu povo?",
+        "question":  "Que filme de animação da Disney dos anos 90 contava a história de uma princesa chinesa que se torna uma guerreira  para salvar seu povo?",
         "options":  [
                         "A Bela e a Fera",
                         "Aladdin",
@@ -374,7 +363,7 @@
         "category":  "Cinema & Novelas"
     },
     {
-        "question":  "Que filme de animação da Disney dos anos 90 contava a história de um filho de rei da selva que foi criado por gorilas?",
+        "question":  "Que filme de animação da Disney dos anos 90 contava a história de um bebê que foi criado por gorilas?",
         "options":  [
                         "O Rei Leão",
                         "Mogli - O Menino Lobo",
@@ -396,7 +385,7 @@
         "category":  "Cinema & Novelas"
     },
     {
-        "question":  "Que filme de animação da Disney dos anos 90 contava a história de uma princesa que se transforma em sereia?",
+        "question":  "Que filme de animação da Disney dos anos 90 contava a história de uma princesa sereia que se transforma em humana?",
         "options":  [
                         "Cinderela",
                         "A Bela e a Fera",
@@ -418,18 +407,7 @@
         "category":  "Cinema & Novelas"
     },
     {
-        "question":  "Que filme de animação da Disney dos anos 90 contava a história de uma boneca de pano que ganhava vida?",
-        "options":  [
-                        "A Bela e a Fera",
-                        "Pocahontas",
-                        "Mulan",
-                        "Toy Story"
-                    ],
-        "answer":  "Toy Story",
-        "category":  "Cinema & Novelas"
-    },
-    {
-        "question":  "Qual famoso ator de Hollywood, conhecido por seus papéis em filmes de ação e por interpretar 'Batman' em 'Batman & Robin', se destacou nos anos 90?",
+        "question":  "Qual famoso ator de Hollywood, conhecido por seus papéis em filmes de ação e por interpretar Batman em 'Batman & Robin', se destacou nos anos 90?",
         "options":  [
                         "Michael Keaton",
                         "Val Kilmer",
@@ -473,7 +451,7 @@
         "category":  "Cinema & Novelas"
     },
     {
-        "question":  "Qual famoso ator de Hollywood, conhecido por seus papéis em filmes de ação e por interpretar 'Batman' em 'Batman Forever', se destacou nos anos 90?",
+        "question":  "Qual famoso ator de Hollywood, conhecido por seus papéis em filmes de ação e por interpretar Batman em 'Batman Forever', se destacou nos anos 90?",
         "options":  [
                         "Michael Keaton",
                         "Val Kilmer",
@@ -484,7 +462,7 @@
         "category":  "Cinema & Novelas"
     },
     {
-        "question":  "Que filme de animação da Disney dos anos 90 contava a história de uma princesa que se apaixona por um gárgula?",
+        "question":  "Que filme de animação da Disney dos anos 90 contava a história de um sineiro deformado apaixonado por uma cigana?",
         "options":  [
                         "O Corcunda de Notre Dame",
                         "A Bela e a Fera",
@@ -525,17 +503,6 @@
                         "George Clooney"
                     ],
         "answer":  "Christian Bale",
-        "category":  "Cinema & Novelas"
-    },
-    {
-        "question":  "Que filme de animação da Disney dos anos 90 contava a história de um grupo de brinquedos que ganhavam vida e viviam aventuras?",
-        "options":  [
-                        "Toy Story",
-                        "Vida de Inseto",
-                        "Monstros S.A.",
-                        "Procurando Nemo"
-                    ],
-        "answer":  "Toy Story",
         "category":  "Cinema & Novelas"
     },
     {
