@@ -10,5 +10,95 @@
     "options": ["Gorax", "Rancor", "Wampa", "Sarlacc"],
     "answer": "Gorax",
     "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Quem é o principal Ewok amigo em Caravana da Coragem?",
+    "options": ["Wicket", "Chewbacca", "Widdle", "Paploo"],
+    "answer": "Wicket",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual Ewok é o xamã que revela onde estão os pais?",
+    "options": ["Logray", "Chukha‑Trok", "Kaink", "Izrina"],
+    "answer": "Logray",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Detonando em Barcelona, quem é o astro principal do filme?",
+    "options": ["Jackie Chan", "Jet Li", "Van Damme", "Chuck Norris"],
+    "answer": "Jackie Chan",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Detonando em Barcelona, qual veículo é usado como negócio dos amigos?",
+    "options": ["Food truck", "Táxi", "Motocicleta", "Ônibus"],
+    "answer": "Food truck",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "A Lenda foi dirigido por qual cineasta icônico de fantasia?",
+    "options": ["Ridley Scott", "Steven Spielberg", "James Cameron", "Terry Gilliam"],
+    "answer": "Ridley Scott",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Lenda, qual animal mágico guarda a luz do mundo?",
+    "options": ["Unicórnio", "Dragão", "Fênix", "Grifo"],
+    "answer": "Unicórnio",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "No filme A Lenda, quem é a princesa sequestrada por goblins?",
+    "options": ["Princess Lily", "Cindel", "Leia", "Sookie"],
+    "answer": "Princess Lily",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Lenda, quem interpreta Jack, o herói camponês da floresta?",
+    "options": ["Tom Cruise", "Tim Curry", "David Bennent", "Billy Barty"],
+    "answer": "Tom Cruise",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Star Wars 5, quem revela ser pai de Luke?",
+    "options": ["Darth Vader", "Palpatine", "Obi‑Wan", "Yoda"],
+    "answer": "Darth Vader",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Quem é o piloto da Millennium Falcon na trilogia clássica?",
+    "options": ["Luke", "Obi-Wan", "Han Solo", "Leia"],
+    "answer": "Han Solo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "No Episódio IV, onde Luke vive antes da aventura começar?",
+    "options": ["Endor", "Naboo", "Tatooine", "Hoth"],
+    "answer": "Tatooine",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Star Wars IV, quem entrega a mensagem da Leia para Obi-Wan?",
+    "options": ["R2-D2", "C-3PO", "Luke", "Chewbacca"],
+    "answer": "R2-D2",
+    "category": "Cinema & Novelas"
+  },
+   {
+    "question": "Em Star Wars 6, quem confirma que Luke e Leia são irmãos?",
+    "options": ["Yoda", "Luke", "Leia", "Han"],
+    "answer": "Luke",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Star Wars 5, que mestre treina Luke em Dagobah?",
+    "options": ["Yoda", "Obi‑Wan", "Mace Windu", "Qui‑Gon"],
+    "answer": "Yoda",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o nome do planeta-lua onde se passa Caravana da Coragem?",
+    "options": ["Endor", "Dagobah", "Naboo", "Yavin 4"],
+    "answer": "Endor",
+    "category": "Cinema & Novelas"
   }
 ]
