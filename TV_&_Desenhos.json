@@ -1,8 +1,8 @@
 ﻿[
      {
 "question": "Em que ano foi lançado o desenho Denis, o Pimentinha no Brasil?",
-"options": ["1983", "1984", "1985", "1986"],
-"answer": "1985",
+"options": ["1983", "1984", "1987", "1986"],
+"answer": "1987",
 "category": "TV & Desenhos"
 },
 {
@@ -13,14 +13,14 @@
 },
 {
 "question": "Qual personagem é o melhor amigo de Denis no desenho?",
-"options": ["João", "Henry", "Danny", "Mike"],
-"answer": "Henry",
+"options": ["Juca", "Henry", "Danny", "Mike"],
+"answer": "Juca",
 "category": "TV & Desenhos"
 },
 {
 "question": "Qual é o nome do cachorro travesso que aparece na série de Denis?",
-"options": ["Rex", "Gromit", "Rexy", "Ginger"],
-"answer": "Rex",
+"options": ["Rufus", "Gromit", "Rexy", "Ginger"],
+"answer": "Rufus",
 "category": "TV & Desenhos"
 },
 {
@@ -31,14 +31,8 @@
 },
 {
 "question": "Qual a cidade onde se passa a maioria das aventuras de Denis?",
-"options": ["Nova York", "Chicago", "Boston", "Los Angeles"],
-"answer": "Boston",
-"category": "TV & Desenhos"
-},
-{
-"question": "Qual é o apelido dado a Denis pelos adultos no desenho?",
-"options": ["O anjo", "O pimentinha", "O herói", "O espertinho"],
-"answer": "O pimentinha",
+"options": ["Nova York", "Chicago", "Wichita", "Los Angeles"],
+"answer": "Wichita,
 "category": "TV & Desenhos"
 },
 {
@@ -50,7 +44,7 @@
 {
 "question": "Qual canal transmitia o desenho Denis, o Pimentinha no Brasil em 1985?",
 "options": ["SBT", "Globo", "Band", "Record"],
-"answer": "Globo",
+"answer": "SBT",
 "category": "TV & Desenhos"
 },
 {
