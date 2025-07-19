@@ -10,5 +10,47 @@
     "options": ["O Universo Precisa de Você", "Vai Ter Que Rebolar", "Etc... E Tal", "Maria Chiquinha"],
     "answer": "Etc... E Tal",
     "category": "Música & Shows"
+  },
+   {
+    "question": "De qual banda originou o É o Tchan antes de 1997?",
+    "options": ["Gera Samba", "Terra Samba", "Clube do Samba", "Turma do Pagode"],
+    "answer": "Gera Samba",
+    "category": "Música & Shows"
+  },
+    {
+    "question": "Que dupla fundou o É o Tchan em 1994?",
+    "options": ["Beto Jamaica e Compadre Washington", "Scheila Carvalho e Carla Perez", "Sheila Mello e Jacaré", "Débora Brasil e Xanddy"],
+    "answer": "Beto Jamaica e Compadre Washington",
+    "category": "Música & Shows"
+  },
+   {
+    "question": "Quem entrou no É o Tchan em agosto de 1997?",
+    "options": ["Scheila Carvalho", "Sheila Mello", "Carla Perez", "Débora Brasil"],
+    "answer": "Scheila Carvalho",
+    "category": "Música & Shows"
+  },
+   {
+    "question": "Chiquititas Vol.1 traz canções da versão de qual país original?",
+    "options": ["Argentina", "México", "Portugal", "Estados Unidos"],
+    "answer": "Argentina",
+    "category": "Música & Shows"
+  },
+   {
+    "question": "Em que ano o CD Chiquititas Volume 1 se tornou um grande sucesso no Brasil?",
+    "options": ["1997", "1995", "1998", "1996"],
+    "answer": "1997",
+    "category": "Música & Shows"
+  },
+   {
+    "question": "Onde morava o elenco mirim enquanto gravava Chiquititas em 1997?",
+    "options": ["Buenos Aires", "São Paulo", "Rio de Janeiro", "Lisboa"],
+    "answer": "Buenos Aires",
+    "category": "Música & Shows"
+  },
+   {
+    "question": "Qual música de 1997 das Chiquititas virou símbolo do grupo no Brasil?",
+    "options": ["Mentirinhas", "Remexe", "Corazón", "Olha Pra Mim"],
+    "answer": "Remexe",
+    "category": "Música & Shows"
   }
 ]
