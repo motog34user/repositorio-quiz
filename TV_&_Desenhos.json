@@ -9,7 +9,8 @@
     "question": "Qual Muppet Baby é conhecido por ser o líder do grupo?",
     "options": ["Miss Piggy", "Gonzo", "Kermit", "Fozzie"],
     "answer": "Kermit",
-    "cat
+    "category": "TV & Desenhos"
+  },
   {
     "question": "Onde os Muppet Babies passam a maior parte do tempo em suas aventuras imaginárias?",
     "options": ["No sótão", "No quintal", "No quarto de brincar", "Na cozinha"],
