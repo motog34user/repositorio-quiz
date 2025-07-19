@@ -5,6 +5,112 @@
     "answer": "1987",
     "category": "TV & Desenhos"
   },
+   {
+    "question": "Qual Muppet Baby é conhecido por ser o líder do grupo?",
+    "options": ["Miss Piggy", "Gonzo", "Kermit", "Fozzie"],
+    "answer": "Kermit",
+    "cat
+  {
+    "question": "Onde os Muppet Babies passam a maior parte do tempo em suas aventuras imaginárias?",
+    "options": ["No sótão", "No quintal", "No quarto de brincar", "Na cozinha"],
+    "answer": "No quarto de brincar",
+    "category": "TV & Desenhos"
+  },
+   {
+    "question": "O que os Muppet Babies frequentemente aprendem no final de cada episódio?",
+    "options": [
+      "Matemática avançada",
+      "Uma lição de moral",
+      "Como construir robôs",
+      "Fatos históricos"
+    ],
+    "answer": "Uma lição de moral",
+    "category": "TV & Desenhos"
+  },
+   {
+    "question": "Qual Muppet Baby tem um sobrinho que é um girino?",
+    "options": ["Miss Piggy", "Kermit", "Fozzie", "Gonzo"],
+    "answer": "Kermit",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "A Nanny dos Muppet Babies frequentemente oferece o que aos bebês?",
+    "options": ["Doces", "Conselhos", "Novos brinquedos", "Tarefas domésticas"],
+    "answer": "Conselhos",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual Muppet Baby é um cão calmo e musical que adora tocar piano?",
+    "options": ["Kermit", "Fozzie", "Rowlf", "Gonzo"],
+    "answer": "Rowlf",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do Muppet Baby que é um baterista selvagem e cheio de energia?",
+    "options": ["Gonzo", "Animal", "Rowlf", "Scooter"],
+    "answer": "Animal",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual tecnologia avançada os carros de Pole Position possuíam para ajudar os heróis?",
+    "options": ["Piloto automático", "Inteligência Artificial", "Viagem no tempo", "Invisibilidade"],
+    "answer": "Inteligência Artificial",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Os carros de Pole Position podiam ser equipados com quais recursos especiais?",
+    "options": ["Asas para voar", "Rodas de esqui aquático", "Armas de laser", "Pneus retráteis"],
+    "answer": "Rodas de esqui aquático",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "No Brasil, o desenho Pole Position foi exibido dentro de quais programas infantis do SBT?",
+    "options": ["Bom Dia & Cia e Sábado Animado", "Xou da Xuxa e TV Colosso", "Eliana e Programa da Angélica", "TV Globinho e Fofão"],
+    "answer": "Bom Dia & Cia e Sábado Animado",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual Muppet Baby está sempre tentando impressionar Miss Piggy?",
+    "options": ["Fozzie", "Gonzo", "Kermit", "Scooter"],
+    "answer": "Kermit",
+    "category": "TV & Desenhos"
+  },
+ {
+    "question": "Qual dos Muppet Babies adora contar piadas, mesmo que não sejam boas?",
+    "options": ["Gonzo", "Fozzie", "Animal", "Kermit"],
+    "answer": "Fozzie",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual personagem dos Muppet Babies é um alienígena excêntrico?",
+    "options": ["Gonzo", "Kermit", "Scooter", "Fozzie"],
+    "answer": "Gonzo",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome da babá dos Muppet Babies?",
+    "options": ["Miss Nanny", "Nanny", "Babá Muppet", "Miss Piggy"],
+    "answer": "Nanny",
+    "category": "TV & Desenhos"
+  },
+   {
+    "question": "Como a babá é mostrada em Muppet Babies original?",
+    "options": ["Inteira", "Apenas mãos", "De costas", "Do pescoço para baixo"],
+    "answer": "Do pescoço para baixo",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Quem é o irmão gêmeo tímido de Skeeter em Muppet Babies?",
+    "options": ["Scooter", "Fozzie", "Gonzo", "Rowlf"],
+    "answer": "Scooter",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em que filme apareceram os Muppet Babies antes da série animada?",
+    "options": ["The Muppet Movie", "The Great Muppet Caper", "The Muppets Take Manhattan", "Muppet Treasure Island"],
+    "answer": "The Muppets Take Manhattan",
+    "category": "TV & Desenhos"
+  },
   {
     "question": "Qual é a cor da camiseta que Denis, o Pimentinha costuma usar?",
     "options": ["Vermelha", "Azul", "Verde", "Amarela"],
