@@ -1,56 +1,56 @@
-﻿[
-     {
-"question": "Em que ano foi lançado o desenho Denis, o Pimentinha no Brasil?",
-"options": ["1983", "1984", "1987", "1986"],
-"answer": "1987",
-"category": "TV & Desenhos"
-},
-{
-"question": "Qual é a cor da camiseta que Denis, o Pimentinha costuma usar?",
-"options": ["Vermelha", "Azul", "Verde", "Amarela"],
-"answer": "Vermelha",
-"category": "TV & Desenhos"
-},
-{
-"question": "Qual personagem é o melhor amigo de Denis no desenho?",
-"options": ["Juca", "Henry", "Danny", "Mike"],
-"answer": "Juca",
-"category": "TV & Desenhos"
-},
-{
-"question": "Qual é o nome do cachorro travesso que aparece na série de Denis?",
-"options": ["Rufus", "Gromit", "Rexy", "Ginger"],
-"answer": "Rufus",
-"category": "TV & Desenhos"
-},
-{
-"question": "Qual a profissão do pai de Denis no desenho animado?",
-"options": ["Professor", "Médico", "Engenheiro", "Jornalista"],
-"answer": "Engenheiro",
-"category": "TV & Desenhos"
-},
-{
-"question": "Qual a cidade onde se passa a maioria das aventuras de Denis?",
-"options": ["Nova York", "Chicago", "Wichita", "Los Angeles"],
-"answer": "Wichita"
-"category": "TV & Desenhos"
-},
-{
-"question": "Denis, o Pimentinha, é baseado em personagens de qual tipo de mídia?",
-"options": ["Revista em quadrinhos", "Livro infantil", "Programa de rádio", "Peça de teatro"],
-"answer": "Revista em quadrinhos",
-"category": "TV & Desenhos"
-},
-{
-"question": "Qual canal transmitia o desenho Denis, o Pimentinha no Brasil em 1985?",
-"options": ["SBT", "Globo", "Band", "Record"],
-"answer": "SBT",
-"category": "TV & Desenhos"
-},
-{
-"question": "Quem era a principal adversária de Denis nas histórias do desenho?",
-"options": ["Margaret", "Dora", "Lisa", "Maggie"],
-"answer": "Margaret",
-"category": "TV & Desenhos"
-}
+[
+  {
+    "question": "Em que ano foi lançado o desenho Denis, o Pimentinha no Brasil?",
+    "options": ["1983", "1984", "1987", "1986"],
+    "answer": "1987",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é a cor da camiseta que Denis, o Pimentinha costuma usar?",
+    "options": ["Vermelha", "Azul", "Verde", "Amarela"],
+    "answer": "Vermelha",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual personagem é o melhor amigo de Denis no desenho?",
+    "options": ["Juca", "Henry", "Danny", "Mike"],
+    "answer": "Juca",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do cachorro travesso que aparece na série de Denis?",
+    "options": ["Rufus", "Gromit", "Rexy", "Ginger"],
+    "answer": "Rufus",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual a profissão do pai de Denis no desenho animado?",
+    "options": ["Professor", "Médico", "Engenheiro", "Jornalista"],
+    "answer": "Engenheiro",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual a cidade onde se passa a maioria das aventuras de Denis?",
+    "options": ["Nova York", "Chicago", "Wichita", "Los Angeles"],
+    "answer": "Wichita",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Denis, o Pimentinha, é baseado em personagens de qual tipo de mídia?",
+    "options": ["Revista em quadrinhos", "Livro infantil", "Programa de rádio", "Peça de teatro"],
+    "answer": "Revista em quadrinhos",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual canal transmitia o desenho Denis, o Pimentinha no Brasil em 1985?",
+    "options": ["SBT", "Globo", "Band", "Record"],
+    "answer": "SBT",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Quem era a principal adversária de Denis nas histórias do desenho?",
+    "options": ["Margaret", "Dora", "Lisa", "Maggie"],
+    "answer": "Margaret",
+    "category": "TV & Desenhos"
+  }
 ]
