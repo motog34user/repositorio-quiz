@@ -7,8 +7,8 @@
   },
    {
     "question": "Qual Muppet Baby é conhecido por ser o líder do grupo?",
-    "options": ["Miss Piggy", "Gonzo", "Kermit", "Fozzie"],
-    "answer": "Kermit",
+    "options": ["Piggy", "Gonzo", "Caco", "Fozzie"],
+    "answer": "Caco",
     "category": "TV & Desenhos"
   },
   {
@@ -30,19 +30,19 @@
   },
    {
     "question": "Qual Muppet Baby tem um sobrinho que é um girino?",
-    "options": ["Miss Piggy", "Kermit", "Fozzie", "Gonzo"],
-    "answer": "Kermit",
+    "options": ["Piggy", "Caco", "Fozzie", "Gonzo"],
+    "answer": "Caco",
     "category": "TV & Desenhos"
   },
   {
-    "question": "A Nanny dos Muppet Babies frequentemente oferece o que aos bebês?",
+    "question": "A babá dos Muppet Babies frequentemente oferece o que aos bebês?",
     "options": ["Doces", "Conselhos", "Novos brinquedos", "Tarefas domésticas"],
     "answer": "Conselhos",
     "category": "TV & Desenhos"
   },
   {
     "question": "Qual Muppet Baby é um cão calmo e musical que adora tocar piano?",
-    "options": ["Kermit", "Fozzie", "Rowlf", "Gonzo"],
+    "options": ["Caco", "Fozzie", "Rowlf", "Gonzo"],
     "answer": "Rowlf",
     "category": "TV & Desenhos"
   },
@@ -66,14 +66,14 @@
   },
   {
     "question": "No Brasil, o desenho Pole Position foi exibido dentro de quais programas infantis do SBT?",
-    "options": ["Bom Dia & Cia e Sábado Animado", "Xou da Xuxa e TV Colosso", "Eliana e Programa da Angélica", "TV Globinho e Fofão"],
-    "answer": "Bom Dia & Cia e Sábado Animado",
+    "options": ["Bom Dia & Cia", "Xou da Xuxa e TV Colosso", "Eliana e Programa da Angélica", "TV Globinho e Fofão"],
+    "answer": "Bom Dia & Cia",
     "category": "TV & Desenhos"
   },
   {
-    "question": "Qual Muppet Baby está sempre tentando impressionar Miss Piggy?",
-    "options": ["Fozzie", "Gonzo", "Kermit", "Scooter"],
-    "answer": "Kermit",
+    "question": "Qual Muppet Baby está sempre tentando impressionar a Piggy?",
+    "options": ["Fozzie", "Gonzo", "Caco", "Scooter"],
+    "answer": "Caco",
     "category": "TV & Desenhos"
   },
  {
@@ -84,7 +84,7 @@
   },
   {
     "question": "Qual personagem dos Muppet Babies é um alienígena excêntrico?",
-    "options": ["Gonzo", "Kermit", "Scooter", "Fozzie"],
+    "options": ["Gonzo", "Caco", "Scooter", "Fozzie"],
     "answer": "Gonzo",
     "category": "TV & Desenhos"
   },
