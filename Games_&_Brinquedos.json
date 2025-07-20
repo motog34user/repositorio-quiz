@@ -5,6 +5,18 @@
     "answer": "Apenas carros Porsche",
     "category": "Games & Brinquedos"
   },
+  {
+    "question": "Em Need for Speed: Porsche Unleashed, como o jogador desbloqueia novos carros no modo Evolution?",
+    "options": ["Ganhando dinheiro", "Progredindo nas eras", "Completando desafios", "Achando segredos"],
+    "answer": "Progredindo nas eras",
+    "category": "Games & Brinquedos"
+  },
+{
+    "question": "O jogo Need for Speed: Porsche Unleashed inclui carros da Porsche de quais períodos?",
+    "options": ["Apenas modernos", "Apenas clássicos", "De 1950 a 2000", "Apenas protótipos"],
+    "answer": "De 1950 a 2000",
+    "category": "Games & Brinquedos"
+  },
 {
     "question": "A jogabilidade de Need for Speed: Porsche Unleashed no PS1 era mais focada em qual aspecto?",
     "options": ["Arcade", "Simulação", "Aventura", "Estratégia"],
