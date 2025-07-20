@@ -5,6 +5,30 @@
     "answer": "Apenas carros Porsche",
     "category": "Games & Brinquedos"
   },
+{
+    "question": "Qual elemento é crucial para o sucesso das perseguições em Driver 2?",
+    "options": ["Poder de fogo do carro", "Habilidade de tiro", "Manobras radicais e domínio do carro", "Conhecimento do mapa"],
+    "answer": "Manobras radicais e domínio do carro",
+    "category": "Games & Brinquedos"
+  },
+{
+    "question": "Driver 2 foi o segundo jogo da série. Qual foi sua principal inovação?",
+    "options": ["Gráficos 3D", "Multiplayer online", "Sair do carro e andar", "Sistema de danos"],
+    "answer": "Sair do carro e andar",
+    "category": "Games & Brinquedos"
+  },
+ {
+    "question": "Quantas cidades abertas o jogador pode explorar em Driver 2?",
+    "options": ["Duas", "Três", "Quatro", "Cinco"],
+    "answer": "Quatro",
+    "category": "Games & Brinquedos"
+  },
+ {
+    "question": "Qual o principal protagonista do jogo Driver 2 no PS1?",
+    "options": ["Tanner", "Jones", "Jericho", "Tobias"],
+    "answer": "Tanner",
+    "category": "Games & Brinquedos"
+  },
   {
     "question": "Em Need for Speed: Porsche Unleashed, como o jogador desbloqueia novos carros no modo Evolution?",
     "options": ["Ganhando dinheiro", "Progredindo nas eras", "Completando desafios", "Achando segredos"],
@@ -21,6 +45,12 @@
     "question": "A jogabilidade de Need for Speed: Porsche Unleashed no PS1 era mais focada em qual aspecto?",
     "options": ["Arcade", "Simulação", "Aventura", "Estratégia"],
     "answer": "Simulação",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "O jogo Driver 2 foi criticado por qual aspecto no PS1?",
+    "options": ["Sua trilha sonora repetitiva", "A inteligência artificial dos inimigos", "A taxa de quadros instável", "A falta de carros"],
+    "answer": "A taxa de quadros instável",
     "category": "Games & Brinquedos"
   },
   {
