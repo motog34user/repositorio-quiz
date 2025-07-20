@@ -5,6 +5,54 @@
     "answer": "Carros Porsche",
     "category": "Games & Brinquedos"
   },
+  {
+    "question": "Qual o nome da mecânica que permite interromper os combos do adversário em Killer Instinct do SNES?",
+    "options": ["Combo Stopper", "Breaker", "Combo Breaker", "Defense Move"],
+    "answer": "Combo Breaker",
+    "category": "Games & Brinquedos"
+  },
+{
+    "question": "Qual personagem de Killer Instinct do SNES é um ciborgue avançado da Ultratech?",
+    "options": ["Cinder", "Glacius", "Fulgore", "Riptor"],
+    "answer": "Fulgore",
+    "category": "Games & Brinquedos"
+  },
+ {
+    "question": "Qual a empresa fictícia que organiza o torneio Killer Instinct?",
+    "options": ["MegaCorp", "Cyberdyne", "Ultratech", "GlobalCorp"],
+    "answer": "Ultratech",
+    "category": "Games & Brinquedos"
+  },
+{
+    "question": "Qual a dificuldade de portar Killer Instinct do arcade para o SNES?",
+    "options": ["Gráficos 3D", "Limitação de memória", "Poucos botões no controle", "Ausência de disco rígido"],
+    "answer": "Limitação de memória",
+    "category": "Games & Brinquedos"
+  },
+{
+    "question": "Em Killer Instinct do SNES, qual personagem pode se transformar em um lobo durante a luta?",
+    "options": ["Sabrewulf", "Spinal", "Thunder", "Jago"],
+    "answer": "Sabrewulf",
+    "category": "Games & Brinquedos"
+  },
+{
+    "question": "Em Killer Instinct do SNES, o que é um 'Ultra Combo'?",
+    "options": ["Um golpe finalizador", "Uma sequência de golpes muito longa", "Um golpe único de grande dano", "Um combo que restaura a vida"],
+    "answer": "Uma sequência de golpes muito longa",
+    "category": "Games & Brinquedos"
+  },
+{
+    "question": "Qual a característica mais marcante da voz do anunciador em Killer Instinct (SNES)?",
+    "options": ["Voz robótica", "Voz grave e vibrante", "Voz feminina", "Voz aguda"],
+    "answer": "Voz grave e vibrante",
+    "category": "Games & Brinquedos"
+  }
+{
+    "question": "Qual empresa foi a desenvolvedora de Killer Instinct para o SNES?",
+    "options": ["Capcom", "Rare", "Midway", "Nintendo"],
+    "answer": "Rare",
+    "category": "Games & Brinquedos"
+  },
 {
     "question": "Qual elemento é crucial para o sucesso das perseguições em Driver 2?",
     "options": ["Velocidade do carro", "Habilidade de tiro", "Manobras e domínio do carro", "Conhecer o mapa"],
