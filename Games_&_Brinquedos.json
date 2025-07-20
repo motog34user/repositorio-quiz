@@ -5,6 +5,48 @@
     "answer": "Carros Porsche",
     "category": "Games & Brinquedos"
   },
+{
+    "question": "Qual é a espécie dos protagonistas que carregam Baby Mario em Yoshi's Island (SNES)?",
+    "options": ["Koopas", "Goombas", "Yoshis", "Toads"],
+    "answer": "Yoshis",
+    "category": "Games & Brinquedos"
+  },
+{
+    "question": "Qual a principal característica das moedas coletáveis em Yoshi's Island (SNES)?",
+    "options": ["Moedas azuis", "Moedas brilhantes", "Moedas em forma de estrela", "Moedas vermelhas e amarelas"],
+    "answer": "Moedas vermelhas e amarelas",
+    "category": "Games & Brinquedos"
+  },
+{
+    "question": "Qual a principal diferença de jogabilidade de Yoshi's Island (SNES) em relação a Super Mario World?",
+    "options": ["Não tem Yoshi", "Foco no Yoshi e seus ovos", "É um jogo de plataforma 3D", "É um RPG"],
+    "answer": "Foco no Yoshi e seus ovos",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a principal razão para o visual 'desenhado a lápis' de Yoshi's Island (SNES)?",
+    "options": ["Limitação de hardware", "Estilo artístico único", "Para economizar tempo de desenvolvimento", "Para parecer um jogo de criança"],
+    "answer": "Estilo artístico único",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Yoshi's Island (SNES), o que o contador numérico em cima da bolha de Baby Mario representa?",
+    "options": ["Vidas restantes", "Pontos de vida", "Tempo até perder Baby Mario", "Número de ovos"],
+    "answer": "Tempo até perder Baby Mario",
+    "category": "Games & Brinquedos"
+  },
+{
+    "question": "O que acontece com Baby Mario quando ele é atingido por um inimigo em Yoshi's Island (SNES)?",
+    "options": ["Ele desaparece", "Ele chora e flutua em uma bolha", "Ele perde uma vida", "Ele se torna invencível"],
+    "answer": "Ele chora e flutua em uma bolha",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Yoshi's Island (SNES), o que Kamek faz com Baby Bowser para torná-lo gigante na batalha final?",
+    "options": ["Usa um feitiço de crescimento", "Dá uma poção mágica", "Ele nasce gigante", "Ele come um cogumelo"],
+    "answer": "Usa um feitiço de crescimento",
+    "category": "Games & Brinquedos"
+  },
   {
     "question": "Qual o nome da mecânica que permite interromper os combos do adversário em Killer Instinct do SNES?",
     "options": ["Combo Stopper", "Breaker", "Combo Breaker", "Defense Move"],
