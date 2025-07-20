@@ -1,50 +1,50 @@
 [
-    {
+  {
     "question": "Qual o principal foco do jogo Need for Speed Porsche Unleashed no PS1?",
-    "options": ["Corrida arcade", "História de piloto", "Carros Porsche", "Personalizar carros"],
+    "options": ["Corrida arcade", "História piloto", "Carros Porsche", "Personalizar carros"],
     "answer": "Carros Porsche",
     "category": "Games & Brinquedos"
   },
-{
+  {
     "question": "Qual é a espécie dos protagonistas que carregam Baby Mario em Yoshi's Island (SNES)?",
     "options": ["Koopas", "Goombas", "Yoshis", "Toads"],
     "answer": "Yoshis",
     "category": "Games & Brinquedos"
   },
-{
+  {
     "question": "Qual a principal característica das moedas coletáveis em Yoshi's Island (SNES)?",
-    "options": ["Moedas azuis", "Moedas brilhantes", "Moedas em forma de estrela", "Moedas vermelhas e amarelas"],
-    "answer": "Moedas vermelhas e amarelas",
+    "options": ["Moedas azuis", "Moedas brilhosas", "Moedas de estrela", "Vermelhas e amarelas"],
+    "answer": "Vermelhas e amarelas",
     "category": "Games & Brinquedos"
   },
-{
+  {
     "question": "Qual a principal diferença de jogabilidade de Yoshi's Island (SNES) em relação a Super Mario World?",
-    "options": ["Não tem Yoshi", "Foco no Yoshi e seus ovos", "É um jogo de plataforma 3D", "É um RPG"],
-    "answer": "Foco no Yoshi e seus ovos",
+    "options": ["Não tem Yoshi", "Foco em Yoshi e ovos", "É um jogo de 3D", "É um RPG"],
+    "answer": "Foco em Yoshi e ovos",
     "category": "Games & Brinquedos"
   },
   {
     "question": "Qual a principal razão para o visual 'desenhado a lápis' de Yoshi's Island (SNES)?",
-    "options": ["Limitação de hardware", "Estilo artístico único", "Para economizar tempo de desenvolvimento", "Para parecer um jogo de criança"],
-    "answer": "Estilo artístico único",
+    "options": ["Limite hardware", "Estilo artístico", "Economia tempo", "Parecer infantil"],
+    "answer": "Estilo artístico",
     "category": "Games & Brinquedos"
   },
   {
     "question": "Em Yoshi's Island (SNES), o que o contador numérico em cima da bolha de Baby Mario representa?",
-    "options": ["Vidas restantes", "Pontos de vida", "Tempo até perder Baby Mario", "Número de ovos"],
-    "answer": "Tempo até perder Baby Mario",
+    "options": ["Vidas restantes", "Pontos de vida", "Tempo para perder", "Número de ovos"],
+    "answer": "Tempo para perder",
     "category": "Games & Brinquedos"
   },
-{
+  {
     "question": "O que acontece com Baby Mario quando ele é atingido por um inimigo em Yoshi's Island (SNES)?",
-    "options": ["Ele desaparece", "Ele chora e flutua em uma bolha", "Ele perde uma vida", "Ele se torna invencível"],
-    "answer": "Ele chora e flutua em uma bolha",
+    "options": ["Ele desaparece", "Chora em uma bolha", "Ele perde uma vida", "Ele se torna invencível"],
+    "answer": "Chora em uma bolha",
     "category": "Games & Brinquedos"
   },
   {
     "question": "Em Yoshi's Island (SNES), o que Kamek faz com Baby Bowser para torná-lo gigante na batalha final?",
-    "options": ["Usa um feitiço de crescimento", "Dá uma poção mágica", "Ele nasce gigante", "Ele come um cogumelo"],
-    "answer": "Usa um feitiço de crescimento",
+    "options": ["Feitiço de crescer", "Poção mágica", "Ele nasce grande", "Ele come cogumelo"],
+    "answer": "Feitiço de crescer",
     "category": "Games & Brinquedos"
   },
   {
@@ -53,67 +53,67 @@
     "answer": "Combo Breaker",
     "category": "Games & Brinquedos"
   },
-{
+  {
     "question": "Qual personagem de Killer Instinct do SNES é um ciborgue avançado da Ultratech?",
     "options": ["Cinder", "Glacius", "Fulgore", "Riptor"],
     "answer": "Fulgore",
     "category": "Games & Brinquedos"
   },
- {
+  {
     "question": "Qual a empresa fictícia que organiza o torneio Killer Instinct?",
     "options": ["MegaCorp", "Cyberdyne", "Ultratech", "GlobalCorp"],
     "answer": "Ultratech",
     "category": "Games & Brinquedos"
   },
-{
+  {
     "question": "Qual a dificuldade de portar Killer Instinct do arcade para o SNES?",
-    "options": ["Gráficos 3D", "Limitação de memória", "Poucos botões no controle", "Ausência de disco rígido"],
-    "answer": "Limitação de memória",
+    "options": ["Gráficos 3D", "Limite de memória", "Poucos botões", "Sem disco rígido"],
+    "answer": "Limite de memória",
     "category": "Games & Brinquedos"
   },
-{
+  {
     "question": "Em Killer Instinct do SNES, qual personagem pode se transformar em um lobo durante a luta?",
     "options": ["Sabrewulf", "Spinal", "Thunder", "Jago"],
     "answer": "Sabrewulf",
     "category": "Games & Brinquedos"
   },
-{
+  {
     "question": "Em Killer Instinct do SNES, o que é um 'Ultra Combo'?",
-    "options": ["Um golpe finalizador", "Uma sequência de golpes muito longa", "Um golpe único de grande dano", "Um combo que restaura a vida"],
-    "answer": "Uma sequência de golpes muito longa",
+    "options": ["Um golpe final", "Sequência de golpes", "Um golpe de dano", "Combo restaura vida"],
+    "answer": "Sequência de golpes",
     "category": "Games & Brinquedos"
   },
-{
+  {
     "question": "Qual a característica mais marcante da voz do anunciador em Killer Instinct (SNES)?",
-    "options": ["Voz robótica", "Voz grave e vibrante", "Voz feminina", "Voz aguda"],
-    "answer": "Voz grave e vibrante",
+    "options": ["Voz robótica", "Voz grave e forte", "Voz feminina", "Voz aguda"],
+    "answer": "Voz grave e forte",
     "category": "Games & Brinquedos"
   },
-{
+  {
     "question": "Qual empresa foi a desenvolvedora de Killer Instinct para o SNES?",
     "options": ["Capcom", "Rare", "Midway", "Nintendo"],
     "answer": "Rare",
     "category": "Games & Brinquedos"
   },
-{
+  {
     "question": "Qual elemento é crucial para o sucesso das perseguições em Driver 2?",
-    "options": ["Velocidade do carro", "Habilidade de tiro", "Manobras e domínio do carro", "Conhecer o mapa"],
-    "answer": "Manobras e domínio do carro",
+    "options": ["Velocidade do carro", "Habilidade de tiro", "Manobras e carro", "Conhecer o mapa"],
+    "answer": "Manobras e carro",
     "category": "Games & Brinquedos"
   },
-{
+  {
     "question": "Driver 2 foi o segundo jogo da série. Qual foi sua principal inovação?",
-    "options": ["Gráficos 3D", "Multiplayer online", "Sair do carro e andar", "Sistema de danos"],
-    "answer": "Sair do carro e andar",
+    "options": ["Gráficos 3D", "Multiplayer online", "Sair e andar", "Sistema de danos"],
+    "answer": "Sair e andar",
     "category": "Games & Brinquedos"
   },
- {
+  {
     "question": "Quantas cidades abertas o jogador pode explorar em Driver 2?",
     "options": ["Duas", "Três", "Quatro", "Cinco"],
     "answer": "Quatro",
     "category": "Games & Brinquedos"
   },
- {
+  {
     "question": "Qual o principal protagonista do jogo Driver 2 no PS1?",
     "options": ["Tanner", "Jones", "Jericho", "Tobias"],
     "answer": "Tanner",
@@ -121,17 +121,17 @@
   },
   {
     "question": "Em Need for Speed Porsche Unleashed, como o jogador desbloqueia novos carros no modo Evolution?",
-    "options": ["Ganhando dinheiro", "Progredindo nas eras", "Completando desafios", "Achando segredos"],
-    "answer": "Progredindo nas eras",
+    "options": ["Ganhando dinheiro", "Progredindo eras", "Completando desafios", "Achando segredos"],
+    "answer": "Progredindo eras",
     "category": "Games & Brinquedos"
   },
-{
+  {
     "question": "O jogo Need for Speed Porsche Unleashed inclui carros da Porsche de quais períodos?",
     "options": ["Apenas modernos", "Apenas clássicos", "De 1950 a 2000", "Apenas protótipos"],
     "answer": "De 1950 a 2000",
     "category": "Games & Brinquedos"
   },
-{
+  {
     "question": "A jogabilidade de Need for Speed Porsche Unleashed no PS1 era mais focada em qual aspecto?",
     "options": ["Arcade", "Simulação", "Aventura", "Estratégia"],
     "answer": "Simulação",
@@ -139,8 +139,8 @@
   },
   {
     "question": "O jogo Driver 2 foi criticado por qual aspecto no PS1?",
-    "options": ["Sua trilha sonora repetitiva", "IA dos inimigos", "Taxa de quadros instável", "Falta de carros"],
-    "answer": "Taxa de quadros instável",
+    "options": ["Trilha sonora ruim", "IA dos inimigos", "Taxa de quadros ruim", "Falta de carros"],
+    "answer": "Taxa de quadros ruim",
     "category": "Games & Brinquedos"
   },
   {
