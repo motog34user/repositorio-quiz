@@ -46,7 +46,7 @@
     "options": ["Voz robótica", "Voz grave e vibrante", "Voz feminina", "Voz aguda"],
     "answer": "Voz grave e vibrante",
     "category": "Games & Brinquedos"
-  }
+  },
 {
     "question": "Qual empresa foi a desenvolvedora de Killer Instinct para o SNES?",
     "options": ["Capcom", "Rare", "Midway", "Nintendo"],
