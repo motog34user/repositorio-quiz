@@ -1,46 +1,26 @@
 [
     {
-        "question":  "Qual jogo de videogame clássico dos anos 80 tinha um encanador como protagonista que precisava resgatar uma princesa?",
-        "options":  [
-                        "Pac-Man",
-                        "Donkey Kong",
-                        "Super Mario Bros.",
-                        "Tetris"
-                    ],
-        "answer":  "Super Mario Bros.",
-        "category":  "Games & Brinquedos"
-    },
-    {
-        "question":  "Que jogo de tabuleiro dos anos 80 envolvia solucionar um mistério de assassinato?",
-        "options":  [
-                        "Banco Imobiliário",
-                        "War",
-                        "Detetive",
-                        "Cara a Cara"
-                    ],
-        "answer":  "Detetive",
-        "category":  "Games & Brinquedos"
-    },
-    {
-        "question":  "Que famoso console de videogame dos anos 90 popularizou games como 'Sonic'?",
-        "options":  [
-                        "Nintendo 64",
-                        "PlayStation",
-                        "Mega Drive",
-                        "Super Nintendo"
-                    ],
-        "answer":  "Mega Drive",
-        "category":  "Games & Brinquedos"
-    },
-    {
-        "question":  "Qual jogo de videogame do início dos anos 90 era famoso por seus combates de rua e personagens icônicos?",
-        "options":  [
-                        "Street Fighter 2",
-                        "Mortal Kombat",
-                        "Tekken",
-                        "King of Fighters"
-                    ],
-        "answer":  "Street Fighter 2",
-        "category":  "Games & Brinquedos"
-    }
+    "question": "Qual o principal foco do jogo Need for Speed: Porsche Unleashed no PS1?",
+    "options": ["Corrida arcade", "História de um piloto", "Apenas carros Porsche", "Personalização de carros"],
+    "answer": "Apenas carros Porsche",
+    "category": "Games & Brinquedos"
+  },
+{
+    "question": "A jogabilidade de Need for Speed: Porsche Unleashed no PS1 era mais focada em qual aspecto?",
+    "options": ["Arcade", "Simulação", "Aventura", "Estratégia"],
+    "answer": "Simulação",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual modo de jogo em Need for Speed: Porsche Unleashed permite jogar através da história da marca?",
+    "options": ["Quick Race", "Evolution", "Factory Driver", "Championship"],
+    "answer": "Evolution",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em que ano foi lançado Need for Speed: Porsche Unleashed para PlayStation 1?",
+    "options": ["1998", "1999", "2000", "2001"],
+    "answer": "2000",
+    "category": "Games & Brinquedos"
+  }
 ]
