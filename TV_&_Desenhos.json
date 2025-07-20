@@ -5,6 +5,60 @@
     "answer": "1987",
     "category": "TV & Desenhos"
   },
+  {
+    "question": "Qual o nome do personagem que era um ET e visitava o Castelo Rá-Tim-Bum?",
+    "options": ["Vênus", "Marte", "Júpiter", "Saturno"],
+    "answer": "ET Valdo",
+    "category": "TV & Desenhos"
+  },
+ {
+    "question": "Qual dos personagens de Castelo Rá-Tim-Bum tinha um bordão 'Porque sim não é resposta'?",
+    "options": ["Nino", "Telekid", "Dr. Victor", "Gato Pintado"],
+    "answer": "Telekid",
+    "category": "TV & Desenhos"
+  },
+ {
+    "question": "Qual o nome do ator que interpretava o Pedro em Castelo Rá-Tim-Bum?",
+    "options": ["Luciano Amaral", "Fredy Allan", "Cássio Scapin", "Marcelo Tas"],
+    "answer": "Luciano Amaral",
+    "category": "TV & Desenhos"
+  },
+{
+    "question": "Qual o principal motivo de Dr. Abobrinha querer demolir o Castelo Rá-Tim-Bum?",
+    "options": ["Construir um shopping", "Fazer um estacionamento", "Construir um prédio", "Abrir um hotel de luxo"],
+    "answer": "Construir um prédio",
+    "category": "TV & Desenhos"
+  },
+ {
+    "question": "Qual o nome da personagem que era uma repórter e amiga das crianças em Castelo Rá-Tim-Bum?",
+    "options": ["Penélope", "Tia Morgana", "Biba", "Celeste"],
+    "answer": "Penélope",
+    "category": "TV & Desenhos"
+  },
+{
+    "question": "Qual objeto voador era usado pela Tia Morgana em Castelo Rá-Tim-Bum?",
+    "options": ["Tapete mágico", "Vassoura", "Disco voador", "Nuvem"],
+    "answer": "Vassoura",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual dos personagens de Castelo Rá-Tim-Bum era um ser mitológico?",
+    "options": ["Morgana", "Nino", "Caipora", "Celeste"],
+    "answer": "Caipora",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Castelo Rá-Tim-Bum, qual o nome da atriz que interpretava a Biba?",
+    "options": ["Rosane Mulholland", "Cinthya Rachel", "Angela Dip", "Patrícia Gasppar"],
+    "answer": "Cinthya Rachel",
+    "category": "TV & Desenhos"
+  },
+{
+    "question": "Qual o nome do ator que interpretava o Nino em Castelo Rá-Tim-Bum?",
+    "options": ["Cássio Scapin", "Marcelo Tas", "Luciano Amaral", "Álvaro Petersen"],
+    "answer": "Cássio Scapin",
+    "category": "TV & Desenhos"
+  },
 {
     "question": "Qual o nome do personagem que aparecia na biblioteca em Castelo Rá-Tim-Bum?",
     "options": ["Gato Pintado", "Pássaro", "Coruja", "Peixe"],
@@ -49,8 +103,8 @@
   },
   {
     "question": "Qual o nome da dupla de cientistas em Castelo Rá-Tim-Bum que ensinava sobre experimentos?",
-    "options": ["Zeca e Pedro", "Tibério e Perônio", "Mestre e Aprendiz", "Cientistas Malucos"],
-    "answer": "Tibério e Perônio",
+    "options": ["Zeca e Pedro", "Tíbio e Perônio", "Mestre e Aprendiz", "Cientistas Malucos"],
+    "answer": "Tíbio e Perônio",
     "category": "TV & Desenhos"
   },
   {
@@ -119,8 +173,8 @@
     "category": "TV & Desenhos"
   },
   {
-    "question": "No Brasil, o desenho Pole Position foi exibido dentro de quais programas infantis do SBT?",
-    "options": ["Bom Dia & Cia", "Xou da Xuxa e TV Colosso", "Eliana e Programa da Angélica", "TV Globinho e Fofão"],
+    "question": "No Brasil, o desenho Pole Position foi exibido dentro de qual programa infantil do SBT?",
+    "options": ["Bom Dia & Cia", "Xou da Xuxa", "Programa da Angélica", "TV Globinho"],
     "answer": "Bom Dia & Cia",
     "category": "TV & Desenhos"
   },
@@ -132,7 +186,7 @@
   },
  {
     "question": "Qual dos Muppet Babies adora contar piadas, mesmo que não sejam boas?",
-    "options": ["Gonzo", "Fozzie", "Animal", "Kermit"],
+    "options": ["Gonzo", "Fozzie", "Animal", "Caco"],
     "answer": "Fozzie",
     "category": "TV & Desenhos"
   },
@@ -140,12 +194,6 @@
     "question": "Qual personagem dos Muppet Babies é um alienígena excêntrico?",
     "options": ["Gonzo", "Caco", "Scooter", "Fozzie"],
     "answer": "Gonzo",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome da babá dos Muppet Babies?",
-    "options": ["Miss Nanny", "Nanny", "Babá Muppet", "Miss Piggy"],
-    "answer": "Nanny",
     "category": "TV & Desenhos"
   },
    {
@@ -161,13 +209,7 @@
     "category": "TV & Desenhos"
   },
   {
-    "question": "Em que filme apareceram os Muppet Babies antes da série animada?",
-    "options": ["The Muppet Movie", "The Great Muppet Caper", "The Muppets Take Manhattan", "Muppet Treasure Island"],
-    "answer": "The Muppets Take Manhattan",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é a cor da camiseta que Denis, o Pimentinha costuma usar?",
+    "question": "Qual é a cor da macacão que Denis, o Pimentinha costuma usar?",
     "options": ["Vermelha", "Azul", "Verde", "Amarela"],
     "answer": "Vermelha",
     "category": "TV & Desenhos"
@@ -188,12 +230,6 @@
     "question": "Qual a profissão do pai de Denis no desenho animado?",
     "options": ["Professor", "Médico", "Engenheiro", "Jornalista"],
     "answer": "Engenheiro",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual a cidade onde se passa a maioria das aventuras de Denis?",
-    "options": ["Nova York", "Chicago", "Wichita", "Los Angeles"],
-    "answer": "Wichita",
     "category": "TV & Desenhos"
   },
   {
