@@ -6,7 +6,7 @@
     "category": "Cinema & Novelas"
   },
 {
-    "question": "Na Caravana da Coragem, quem sequestra os pais de Towani?",
+    "question": "Na Caravana da Coragem, quem sequestra os pais de Cindel?",
     "options": ["Gorax", "Rancor", "Wampa", "Sarlacc"],
     "answer": "Gorax",
     "category": "Cinema & Novelas"
@@ -49,8 +49,8 @@
   },
   {
     "question": "No filme A Lenda, quem é a princesa sequestrada por goblins?",
-    "options": ["Princess Lily", "Cindel", "Leia", "Sookie"],
-    "answer": "Princess Lily",
+    "options": ["Princesa Lily", "Cindel", "Leia", "Sookie"],
+    "answer": "Princesa Lily",
     "category": "Cinema & Novelas"
   },
   {
@@ -72,13 +72,13 @@
     "category": "Cinema & Novelas"
   },
   {
-    "question": "No Episódio IV, onde Luke vive antes da aventura começar?",
+    "question": "Em Star Wars 6, onde Luke vive antes da aventura começar?",
     "options": ["Endor", "Naboo", "Tatooine", "Hoth"],
     "answer": "Tatooine",
     "category": "Cinema & Novelas"
   },
   {
-    "question": "Em Star Wars IV, quem entrega a mensagem da Leia para Obi-Wan?",
+    "question": "Em Star Wars 6, quem entrega a mensagem da Leia para Obi-Wan?",
     "options": ["R2-D2", "C-3PO", "Luke", "Chewbacca"],
     "answer": "R2-D2",
     "category": "Cinema & Novelas"
