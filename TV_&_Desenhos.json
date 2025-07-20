@@ -5,6 +5,60 @@
     "answer": "1987",
     "category": "TV & Desenhos"
   },
+{
+    "question": "Qual o nome do personagem que aparecia na biblioteca em Castelo Rá-Tim-Bum?",
+    "options": ["Gato Pintado", "Pássaro", "Coruja", "Peixe"],
+    "answer": "Gato Pintado",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Castelo Rá-Tim-Bum foi considerado um marco na televisão brasileira por qual motivo?",
+    "options": ["Ser a primeira série colorida", "Inovar a programação infantil", "Ter apenas um ator", "Ser totalmente animado"],
+    "answer": "Inovar a programação infantil",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual personagem de Castelo Rá-Tim-Bum tinha um bordão 'Klift Kloft Stil, a porta se abriu!'?",
+    "options": ["Nino", "Porteiro", "Dr. Victor", "Morgana"],
+    "answer": "Porteiro",
+    "category": "TV & Desenhos"
+  },
+ {
+    "question": "Qual o nome do cientista e tio de Nino em Castelo Rá-Tim-Bum?",
+    "options": ["Dr. Abobrinha", "Dr. Bactéria", "Dr. Victor", "Dr. Zero"],
+    "answer": "Dr. Victor",
+    "category": "TV & Desenhos"
+  },
+{
+    "question": "Em que ano o programa Castelo Rá-Tim-Bum estreou na TV Cultura?",
+    "options": ["1990", "1992", "1994", "1996"],
+    "answer": "1994",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome da tia-avó de Nino, uma feiticeira de 6.000 anos, em Castelo Rá-Tim-Bum?",
+    "options": ["Adelaide", "Morgana", "Celeste", "Penélope"],
+    "answer": "Morgana",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Onde se localiza o Castelo Rá-Tim-Bum na trama do programa?",
+    "options": ["Rio de Janeiro", "Belo Horizonte", "São Paulo", "Brasília"],
+    "answer": "São Paulo",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome da dupla de cientistas em Castelo Rá-Tim-Bum que ensinava sobre experimentos?",
+    "options": ["Zeca e Pedro", "Tibério e Perônio", "Mestre e Aprendiz", "Cientistas Malucos"],
+    "answer": "Tibério e Perônio",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual era o tipo de animal da personagem Celeste em Castelo Rá-Tim-Bum?",
+    "options": ["Cachorro", "Gato", "Cobra", "Pássaro"],
+    "answer": "Cobra",
+    "category": "TV & Desenhos"
+  },
    {
     "question": "Qual Muppet Baby é conhecido por ser o líder do grupo?",
     "options": ["Piggy", "Gonzo", "Caco", "Fozzie"],
