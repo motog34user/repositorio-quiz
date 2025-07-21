@@ -10,6 +10,210 @@
         "answer": "Cyprien",
         "category": "Games & Brinquedos"
     },
+      {
+    "question": "Em Parasite Eve, qual organismo biológico é a fonte da ameaça que transforma criaturas?",
+    "options": ["Vírus", "Bactéria", "Mitochondria", "Fungo"],
+    "answer": "Mitochondria",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "A trama inicial de Parasite Eve se desenrola em qual famosa cidade dos Estados Unidos?",
+    "options": ["Los Angeles", "Nova York", "Chicago", "Miami"],
+    "answer": "Nova York",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Parasite Eve, onde Aya Brea testemunha a primeira manifestação da epidemia?",
+    "options": ["Delegacia", "Hospital", "Teatro", "Museu"],
+    "answer": "Teatro",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o nome da principal antagonista que surge em Parasite Eve e causa a catástrofe?",
+    "options": ["Eve", "Melissa", "Maeda", "Daniel"],
+    "answer": "Eve",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "O sistema de combate de Parasite Eve mistura elementos de RPG com qual característica?",
+    "options": ["Turnos fixos", "Ação em tempo real", "Cartas", "Quebra-cabeças"],
+    "answer": "Ação em tempo real",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual cientista japonês auxilia Aya Brea na investigação dos eventos de Parasite Eve?",
+    "options": ["Kenichi", "Kunihiko", "Hironobu", "Hideki"],
+    "answer": "Kunihiko",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Parasite Eve é conhecido por combinar terror de sobrevivência com qual outro gênero de jogo?",
+    "options": ["Corrida", "Esportes", "RPG", "Estratégia"],
+    "answer": "RPG",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o estilo visual marcante dos personagens em Pocket Fighter, com proporções pequenas e cabeçudas?",
+    "options": ["Realista", "Pixel art", "Chibi", "Anime"],
+    "answer": "Chibi",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Pocket Fighter, o que os jogadores coletam durante as lutas para fortalecer seus ataques especiais?",
+    "options": ["Moedas", "Gemas", "Estrelas", "Anéis"],
+    "answer": "Gemas",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "De qual famosa série de jogos de luta muitos personagens de Pocket Fighter são originários?",
+    "options": ["Fatal Fury", "Tekken", "Street Fighter", "Mortal Kombat"],
+    "answer": "Street Fighter",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Os ataques especiais em Pocket Fighter são conhecidos por serem transformações divertidas de qual elemento?",
+    "options": ["Armas", "Roupas", "Objetos", "Animais"],
+    "answer": "Roupas",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Pocket Fighter é elogiado por sua jogabilidade mais acessível, ideal para qual tipo de jogador?",
+    "options": ["Profissional", "Casual", "Competitivo", "Estratégico"],
+    "answer": "Casual",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "O que se destaca no tom geral de Pocket Fighter, tornando-o diferente de outros jogos de luta?",
+    "options": ["Seriedade", "Drama", "Terror", "Humor"],
+    "answer": "Humor",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Quais dois personagens principais são jogáveis em Resident Evil 2 Dual Shock, cada um com sua própria campanha?",
+    "options": ["Chris e Jill", "Leon e Claire", "Barry e Rebecca", "Carlos e Ada"],
+    "answer": "Leon e Claire",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Resident Evil 2 Dual Shock, qual cidade fictícia é devastada por um surto viral?",
+    "options": ["Silent Hill", "Raccoon City", "Midgar", "Liberty City"],
+    "answer": "Raccoon City",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "O que o 'Zapping System' em Resident Evil 2 Dual Shock permite aos jogadores experimentarem?",
+    "options": ["Mudar de arma", "Trocar de personagem", "Conectar cenários", "Pular cutscenes"],
+    "answer": "Conectar cenários",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o principal desafio em Resident Evil 2 Dual Shock, além de combater inimigos, para progredir na história?",
+    "options": ["Correr", "Dirigir", "Resolver quebra-cabeças", "Coletar moedas"],
+    "answer": "Resolver quebra-cabeças",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o principal edifício em Resident Evil 2 Dual Shock onde grande parte da ação ocorre?",
+    "options": ["Hospital", "Delegacia de polícia", "Shopping", "Estádio"],
+    "answer": "Delegacia de polícia",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "O que a versão Dual Shock de Resident Evil 2 adicionou para aprimorar a imersão?",
+    "options": ["Gráficos HD", "Modo online", "Vibração", "Novos personagens"],
+    "answer": "Vibração",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a misteriosa espiã que Leon encontra em Resident Evil 2 Dual Shock e que possui uma agenda secreta?",
+    "options": ["Rebecca", "Jill", "Ada Wong", "Sherry"],
+    "answer": "Ada Wong",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o principal diferencial de Road Rash 3D em relação a outros jogos de corrida de moto?",
+    "options": ["Corridas limpas", "Combate", "Manobras radicais", "Personalização"],
+    "answer": "Combate",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a cor do dragão protagonista que embarca em uma aventura para salvar seus irmãos em Spyro the Dragon?",
+    "options": ["Verde", "Vermelho", "Roxo", "Azul"],
+    "answer": "Roxo",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a principal tarefa de Spyro em Spyro the Dragon para restaurar a paz nos Reinos dos Dragões?",
+    "options": ["Derrotar inimigos", "Coletar moedas", "Libertar dragões", "Resolver enigmas"],
+    "answer": "Libertar dragões",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Além de dragões, o que Spyro the Dragon coleta em abundância para progredir no jogo?",
+    "options": ["Flores", "Gemas", "Estrelas", "Anéis"],
+    "answer": "Gemas",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o nome do gnorc que transforma os dragões em cristal em Spyro the Dragon?",
+    "options": ["Ripto", "Gnasty Gnorc", "Sorceress", "Croc"],
+    "answer": "Gnasty Gnorc",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a habilidade de Spyro the Dragon que permite atravessar grandes distâncias e alcançar novas áreas?",
+    "options": ["Nadar", "Escalar", "Planar", "Cavar"],
+    "answer": "Planar",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o principal ataque de Spyro the Dragon para derrotar inimigos e quebrar objetos?",
+    "options": ["Sopro de fogo", "Cauda", "Garras", "Mordida"],
+    "answer": "Sopro de fogo",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Spyro the Dragon é dividido em vários mundos, cada um com um tema diferente, chamados de quê?",
+    "options": ["Zonas", "Reinos", "Níveis", "Fases"],
+    "answer": "Reinos",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a libélula que acompanha Spyro the Dragon e serve como seu medidor de vida?",
+    "options": ["Sparx", "Fairy", "Dragonfly", "Blink"],
+    "answer": "Sparx",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual tipo de inimigo em Spyro the Dragon é imune ao sopro de fogo e precisa ser atacado de outra forma?",
+    "options": ["Gnorcs grandes", "Inimigos de metal", "Inimigos voadores", "Inimigos de pedra"],
+    "answer": "Inimigos de metal",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a principal abordagem para completar as missões em Tenchu Stealth Assassins?",
+    "options": ["Combate direto", "Furtividade", "Corrida", "Exploração"],
+    "answer": "Furtividade",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Quais são os dois ninjas principais que os jogadores podem controlar em Tenchu Stealth Assassins?",
+    "options": ["Hanzo e Kunoichi", "Rikimaru e Ayame", "Goemon e Fujiko", "Musashi e Sakura"],
+    "answer": "Rikimaru e Ayame",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em qual período e local histórico se passa a trama de Tenchu Stealth Assassins?",
+    "options": ["China antiga", "Japão feudal", "Egito antigo", "Europa medieval"],
+    "answer": "Japão feudal",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a ferramenta essencial que os ninjas usam em Tenchu Stealth Assassins para se moverem verticalmente?",
+    "options": ["Escada", "Cordas", "Gancho", "Asas"],
+    "answer": "Gancho",
+    "category": "Games & Brinquedos"
+  },
     {
         "question": "Qual é a organização ambientalista que Cloud e Barret fazem parte em Final Fantasy 7?",
         "options": [
