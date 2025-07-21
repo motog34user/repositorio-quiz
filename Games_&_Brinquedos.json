@@ -6,6 +6,127 @@
     "category": "Games & Brinquedos"
   },
       {
+    "question": "Que tipo de ataque especial era conhecido como 'Meteo Attack' em Dragon Ball Z Legends?",
+    "options": ["Ataque rápido", "Ataque final", "Ataque combinado", "Ataque aéreo"],
+    "answer": "Ataque combinado",
+    "category": "Games & Brinquedos"
+  },
+  
+  {
+    "question": "Qual era a característica principal das arenas de luta em Dragon Ball Z Legends?",
+    "options": ["2D lateral", "3D com liberdade", "Fixas", "Pequenas"],
+    "answer": "3D com liberdade",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Dragon Ball Z Legends, como eram as animações de introdução?",
+    "options": ["Em anime", "CG sofrível", "Desenhos", "Fotos estáticas"],
+    "answer": "CG sofrível",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "O que era liberado ao final do modo história em Dragon Ball Z Legends?",
+    "options": ["Novas fases", "Ilustrações", "Personagens", "Armas"],
+    "answer": "Ilustrações",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Dragon Ball Z Legends, qual era o idioma da dublagem original?",
+    "options": ["Inglês", "Japonês", "Português", "Espanhol"],
+    "answer": "Japonês",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Dragon Ball Z Legends, qual era a principal crítica aos visuais?",
+    "options": ["Muito escuros", "Pixelados", "Sem cor", "Desfocados"],
+    "answer": "Pixelados",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Que tipo de jogabilidade Dragon Ball Z Legends oferecia, diferente dos anteriores?",
+    "options": ["RPG", "Luta livre", "Luta em equipe", "Luta em massa"],
+    "answer": "Luta em massa",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Dragon Ball Z Legends, qual vilão iniciava a Saga Z?",
+    "options": ["Freeza", "Cell", "Majin Buu", "Raditz"],
+    "answer": "Raditz",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a principal diferença na IA entre as versões Saturn e PlayStation de Dragon Ball Z Legends?",
+    "options": ["Sem diferença", "Mais fácil", "Mais agressiva", "Mais lenta"],
+    "answer": "Mais agressiva",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o destaque de Dragon Ball Z Legends para muitos fãs da série?",
+    "options": ["Gráficos", "Trilha sonora", "Abrangência", "Personagens"],
+    "answer": "Abrangência",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Resident Evil, qual equipe da S.T.A.R.S. foi enviada para investigar desaparecimentos?",
+    "options": ["Equipe Delta", "Equipe Alpha", "Equipe Beta", "Equipe Gamma"],
+    "answer": "Equipe Alpha",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual era o nome da mansão principal em Resident Evil?",
+    "options": ["Mansão Wayne", "Mansão Spencer", "Mansão Croft", "Mansão Baker"],
+    "answer": "Mansão Spencer",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Resident Evil, qual era o nome original do jogo no Japão?",
+    "options": ["Zombie Crisis", "Biohazard", "Undead Mansion", "Horror House"],
+    "answer": "Biohazard",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Que tipo de câmera Resident Evil utilizava para criar tensão?",
+    "options": ["Em primeira pessoa", "Livre", "Fixa", "Dinâmica"],
+    "answer": "Fixa",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Resident Evil, qual personagem era conhecido como 'Mestre das Destrancas'?",
+    "options": ["Chris Redfield", "Barry Burton", "Jill Valentine", "Rebecca Chambers"],
+    "answer": "Jill Valentine",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual era o nome da corporação responsável pelo incidente em Resident Evil?",
+    "options": ["Umbrella Corp", "Shinra Inc", "Weyland-Yutani", "Tyrell Corp"],
+    "answer": "Umbrella Corp",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Resident Evil, o que as animações de portas abrindo mascaravam?",
+    "options": ["Salvamento", "Carregamento", "Ataques", "Puzzles"],
+    "answer": "Carregamento",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual animal infectado era um inimigo comum em Resident Evil?",
+    "options": ["Gatos", "Ratos", "Cães", "Morcegos"],
+    "answer": "Cães",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Resident Evil, qual era o papel de Rebecca Chambers?",
+    "options": ["Piloto", "Médica", "Cientista", "Atiradora"],
+    "answer": "Médica",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual era o nome do vilão principal e traidor em Resident Evil?",
+    "options": ["William Birkin", "Albert Wesker", "Nemesis", "Dr Salvador"],
+    "answer": "Albert Wesker",
+    "category": "Games & Brinquedos"
+  },
+      {
     "question": "No jogo Road Rash, qual era o objetivo principal das corridas ilegais?",
     "options": ["Chegar em primeiro", "Vencer o chefe", "Ganhar dinheiro", "Destruir motos"],
     "answer": "Ganhar dinheiro",
