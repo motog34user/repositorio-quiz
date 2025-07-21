@@ -6,6 +6,42 @@
     "category": "Games & Brinquedos"
   },
   {
+    "question": "Qual o nome do personagem de Street Fighter EX2 Plus que é uma espécie de super-herói?",
+    "options": ["Captain Commando", "Skullomania", "Area", "Gouki"],
+    "answer": "Skullomania",
+    "category": "Games & Brinquedos"
+  },
+ {
+    "question": "O que os cenários de EX2 Plus ganharam para parecerem mais 'interativos'?",
+    "options": ["Nada", "Pequenos movimentos", "Destruição", "Queda de itens"],
+    "answer": "Pequenos movimentos",
+    "category": "Games & Brinquedos"
+  },
+ {
+    "question": "Qual a principal razão pela qual a série Street Fighter EX mudou para gráficos 3D?",
+    "options": ["Limitação de hardware do PS1", "Tendência da indústria na época", "Decisão da Capcom para inovar", "Facilitar a criação de novos personagens"],
+    "answer": "Tendência da indústria na época",
+    "category": "Games & Brinquedos"
+  },
+ {
+    "question": "Qual a principal característica do corpo de Garuda em Street Fighter EX2 Plus?",
+    "options": ["Feito de gelo", "Composto de metal e circuitos", "Coberto por espinhos e lâminas", "Possui asas de demônio"],
+    "answer": "Coberto por espinhos e lâminas",
+    "category": "Games & Brinquedos"
+  },
+{
+    "question": "Qual o significado da palavra 'EX' no título de Street Fighter EX2 Plus?",
+    "options": ["Extra ou Exceed", "Experience", "Excellent", "Extreme"],
+    "answer": "Extra ou Exceed",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o nome do personagem secreto de Street Fighter EX2 Plus que é um clone de Ryu sem memória?",
+    "options": ["Shadow Ryu", "Alpha Ryu", "Kairi", "Violent Ken"],
+    "answer": "Kairi",
+    "category": "Games & Brinquedos"
+  },
+  {
     "question": "Qual é a espécie dos protagonistas que carregam Baby Mario em Yoshi's Island (SNES)?",
     "options": ["Koopas", "Goombas", "Yoshis", "Toads"],
     "answer": "Yoshis",
