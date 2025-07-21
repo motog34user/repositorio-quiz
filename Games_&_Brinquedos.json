@@ -5,6 +5,216 @@
     "answer": "Cyprien",
     "category": "Games & Brinquedos"
   },
+      {
+    "question": "Qual a principal forma de interação com o ambiente em Crazy Taxi 2?",
+    "options": ["Destruição", "Interação com pedestres", "Atropelamentos", "Pulos e manobras"],
+    "answer": "Pulos e manobras",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Crazy Taxi 2 tem qual tipo de sistema de pontuação?",
+    "options": ["Baseado em tempo", "Baseado em dinheiro", "Baseado em colisões", "Baseado em distância"],
+    "answer": "Baseado em dinheiro",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a característica mais divertida de Crazy Taxi 2?",
+    "options": ["Gráficos", "Física realista", "Jogabilidade caótica", "Enredo"],
+    "answer": "Jogabilidade caótica",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Crazy Taxi 2 oferece qual tipo de controle de veículo?",
+    "options": ["Simples", "Complexo", "Realista", "Arcade"],
+    "answer": "Arcade",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a importância dos passageiros em Crazy Taxi 2?",
+    "options": ["Apenas para dinheiro", "Determinantes da rota", "Apenas para bônus", "Sem importância"],
+    "answer": "Determinantes da rota",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Crazy Taxi 2 apresenta quais tipos de obstáculos?",
+    "options": ["Zumbis", "Carros de polícia", "Tráfego e edifícios", "Alienígenas"],
+    "answer": "Tráfego e edifícios",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o nome do protagonista em Sword of the Berserk?",
+    "options": ["Guts", "Griffith", "Casca", "Zodd"],
+    "answer": "Guts",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Sword of the Berserk, qual é a arma principal de Guts?",
+    "options": ["Espada pequena", "Dragon Slayer", "Machado", "Lança"],
+    "answer": "Dragon Slayer",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Sword of the Berserk é um jogo de qual gênero?",
+    "options": ["RPG", "Hack and slash", "Estratégia", "Luta"],
+    "answer": "Hack and slash",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual console foi o principal lançamento de Sword of the Berserk?",
+    "options": ["PlayStation 2", "Xbox", "Dreamcast", "GameCube"],
+    "answer": "Dreamcast",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Sword of the Berserk se passa em qual tipo de mundo?",
+    "options": ["Fantasia medieval", "Ficção científica", "Pós-apocalíptico", "Contemporâneo"],
+    "answer": "Fantasia medieval",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é a principal característica do combate em Sword of the Berserk?",
+    "options": ["Lento e estratégico", "Rápido e brutal", "Baseado em turnos", "Focado em magia"],
+    "answer": "Rápido e brutal",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Sword of the Berserk é baseado em qual obra?",
+    "options": ["Anime", "Manga", "Livro", "Filme"],
+    "answer": "Manga",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o nome da companheira de Guts em Sword of the Berserk?",
+    "options": ["Farnese", "Schierke", "Casca", "Isidro"],
+    "answer": "Casca",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Sword of the Berserk é conhecido por sua atmosfera de qual tipo?",
+    "options": ["Alegre", "Sombria e violenta", "Cômica", "Romântica"],
+    "answer": "Sombria e violenta",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o nome do grupo de demônios em Sword of the Berserk?",
+    "options": ["Mão de Deus", "Legião", "Horda", "Exército Sombrio"],
+    "answer": "Mão de Deus",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a importância da fúria de Guts em Sword of the Berserk?",
+    "options": ["Aumenta poder", "Diminui defesa", "Causa dano", "Apenas estética"],
+    "answer": "Aumenta poder",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Sword of the Berserk é conhecido por sua violência, que é?",
+    "options": ["Leve", "Moderada", "Extrema", "Inexistente"],
+    "answer": "Extrema",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a principal motivação de Guts em Sword of the Berserk?",
+    "options": ["Riqueza", "Poder", "Sobrevivência e vingança", "Paz"],
+    "answer": "Sobrevivência e vingança",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o nome do protagonista em Timestalkers?",
+    "options": ["Sword", "Ryo", "Aisha", "Guts"],
+    "answer": "Sword",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Timestalkers é um jogo de qual gênero?",
+    "options": ["Ação", "RPG", "Estratégia", "Luta"],
+    "answer": "RPG",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o sistema de combate em Timestalkers?",
+    "options": ["Tempo real", "Turnos", "Ação rápida", "Estratégia"],
+    "answer": "Turnos",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é a principal característica visual de Timestalkers?",
+    "options": ["Gráficos realistas", "Estilo anime", "Pixel art", "Cel-shaded"],
+    "answer": "Estilo anime",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o nome do protagonista em Shenmue?",
+    "options": ["Lan Di", "Ryo Hazuki", "Ren", "Fuku-san"],
+    "answer": "Ryo Hazuki",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Shenmue se passa em qual país?",
+    "options": ["China", "Japão", "Coreia", "Estados Unidos"],
+    "answer": "Japão",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o nome da cidade onde Ryo vive em Shenmue?",
+    "options": ["Tóquio", "Yokosuka", "Kyoto", "Osaka"],
+    "answer": "Yokosuka",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é a principal forma de interação com os NPCs em Shenmue?",
+    "options": ["Combate", "Diálogo", "Comércio", "Perseguição"],
+    "answer": "Diálogo",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Shenmue é conhecido por seus mini-jogos, quais são?",
+    "options": ["Arcade", "Pesca", "Culinária", "Todos os anteriores"],
+    "answer": "Arcade",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o nome da amiga de infância de Ryo em Shenmue?",
+    "options": ["Joy", "Nozomi", "Ren", "Shenhua"],
+    "answer": "Nozomi",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a importância do tempo em Shenmue?",
+    "options": ["Ilimitado", "Contagem regressiva", "Ciclo dia e noite", "Sem importância"],
+    "answer": "Ciclo dia e noite",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a principal característica dos gráficos de Shenmue?",
+    "options": ["Cartunescos", "Realistas para a época", "Pixel art", "Minimalistas"],
+    "answer": "Realistas para a época",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Shenmue é conhecido por sua trilha sonora, qual é o estilo?",
+    "options": ["Rock", "Orquestral", "Eletrônica", "Pop"],
+    "answer": "Orquestral",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o nome da protagonista em Resident Evil Code Veronica?",
+    "options": ["Jill Valentine", "Claire Redfield", "Ada Wong", "Rebecca Chambers"],
+    "answer": "Claire Redfield",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Resident Evil Code Veronica, Claire está procurando por quem?",
+    "options": ["Seu irmão", "Seu pai", "Seu namorado", "Seu cachorro"],
+    "answer": "Seu irmão",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Resident Evil Code Veronica é um jogo de qual gênero?",
+    "options": ["Ação", "Terror de sobrevivência", "RPG", "Tiro"],
+    "answer": "Terror de sobrevivência",
+    "category": "Games & Brinquedos"
+  },
   {
     "question": "Em Evil Twin Cypriens Chronicles, qual mundo é o lar de Cyprien?",
     "options": ["Mundo Real", "Mundo dos Sonhos", "Mundo Sombrio", "Mundo da Fantasia"],
