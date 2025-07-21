@@ -11,6 +11,90 @@
     "answer": "Ilha remota",
     "category": "Games & Brinquedos"
   },
+     {
+    "question": "Qual é o nome do companheiro de Eliot em Blue Stinger?",
+    "options": ["Dogs Bower", "Janice", "Tim", "Alex"],
+    "answer": "Dogs Bower",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Blue Stinger apresenta qual tipo de inimigo?",
+    "options": ["Zumbis", "Monstros alienígenas", "Humanos mutantes", "Robôs"],
+    "answer": "Monstros alienígenas",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Blue Stinger foi desenvolvido por qual empresa?",
+    "options": ["Capcom", "Climax Graphics", "Konami", "Sega"],
+    "answer": "Climax Graphics",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Blue Stinger é conhecido por sua atmosfera de qual tipo?",
+    "options": ["Alegre", "Tensa e misteriosa", "Cômica", "Romântica"],
+    "answer": "Tensa e misteriosa",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Soul Calibur, qual é o principal foco da jogabilidade?",
+    "options": ["Combate com armas", "Combate corpo a corpo", "Magia", "Tiro"],
+    "answer": "Combate com armas",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Soul Calibur é um jogo de qual gênero?",
+    "options": ["RPG", "Luta 3D", "Ação", "Estratégia"],
+    "answer": "Luta 3D",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o nome da espada maligna em Soul Calibur?",
+    "options": ["Soul Edge", "Soul Blade", "Soul Reaver", "Soul Eater"],
+    "answer": "Soul Edge",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Soul Calibur é conhecido por seu sistema de qual tipo de movimento?",
+    "options": ["Linear", "Livre", "8-Way Run", "2D"],
+    "answer": "8-Way Run",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Soul Calibur, qual é o objetivo dos personagens?",
+    "options": ["Poder", "Vingança", "A espada Soul Edge", "Fama"],
+    "answer": "A espada Soul Edge",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Soul Calibur foi desenvolvido por qual empresa?",
+    "options": ["Capcom", "Bandai Namco", "SNK", "Arc System Works"],
+    "answer": "Bandai Namco",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o papel de Nightmare em Soul Calibur?",
+    "options": ["Aliado", "Antagonista", "Protagonista", "Mentor"],
+    "answer": "Antagonista",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a importância das armas em Soul Calibur?",
+    "options": ["Apenas estética", "Diferencia personagens", "Apenas para dano", "Nenhum"],
+    "answer": "Diferencia personagens",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a principal crítica a Soul Calibur?",
+    "options": ["Gráficos", "Combate", "Falta de personagens", "Modos de jogo"],
+    "answer": "Falta de personagens",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a importância dos cenários em Soul Calibur?",
+    "options": ["Apenas estética", "Interativos", "Com armadilhas", "Apenas para ring out"],
+    "answer": "Apenas para ring out",
+    "category": "Games & Brinquedos"
+  },
   {
     "question": "Qual é o nome do vilão principal em Resident Evil Code Veronica?",
     "options": ["Albert Wesker", "Nemesis", "Tyrant", "Alexia Ashford"],
