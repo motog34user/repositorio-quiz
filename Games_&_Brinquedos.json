@@ -10,6 +10,246 @@
         "answer": "Cyprien",
         "category": "Games & Brinquedos"
     },
+      {
+    "question": "Em Time Commando, qual a principal ameaça que Stanley deve combater ao viajar no tempo?",
+    "options": ["Um vírus de computador", "Uma invasão alienígena", "Um robô descontrolado", "Um ditador do futuro"],
+    "answer": "Um vírus de computador",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o nome do protagonista que tenta impedir o caos temporal em Time Commando?",
+    "options": ["Stanley", "Arthur", "Max", "Victor"],
+    "answer": "Stanley",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Time Commando, qual o objetivo de Stanley ao coletar as esferas de dados?",
+    "options": ["Restaurar a linha do tempo", "Aumentar sua energia", "Desbloquear novas armas", "Viajar para o passado"],
+    "answer": "Restaurar a linha do tempo",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a característica marcante dos cenários de Time Commando em relação ao tempo?",
+    "options": ["Representam eras históricas", "São futuristas e tecnológicos", "São sempre os mesmos", "Mudam aleatoriamente"],
+    "answer": "Representam eras históricas",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Time Commando, como Stanley geralmente derrota seus inimigos em cada era?",
+    "options": ["Usando armas da época", "Com poderes especiais", "Com a ajuda de aliados", "Através de enigmas"],
+    "answer": "Usando armas da época",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Time Commando, o que acontece se Stanley não conseguir conter o vírus a tempo?",
+    "options": ["O tempo colapsa", "Ele fica preso no passado", "A humanidade é apagada", "O vírus se espalha"],
+    "answer": "O tempo colapsa",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a principal forma de progressão em Time Commando entre as diferentes épocas?",
+    "options": ["Através de portais temporais", "Por meio de uma máquina", "Com um teletransporte", "Voando no tempo"],
+    "answer": "Através de portais temporais",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Time Commando, qual o papel do 'vírus' na narrativa?",
+    "options": ["Alterar a história", "Curar doenças", "Criar novos mundos", "Controlar mentes"],
+    "answer": "Alterar a história",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o desafio principal que Stanley enfrenta ao lidar com o vírus em Time Commando?",
+    "options": ["Sua rápida evolução", "Sua invisibilidade", "Sua inteligência artificial", "Sua resistência"],
+    "answer": "Sua rápida evolução",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Tomb Raider, qual a profissão de Lara Croft, a protagonista da aventura?",
+    "options": ["Arqueóloga", "Detetive", "Exploradora espacial", "Caçadora de tesouros"],
+    "answer": "Arqueóloga",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o principal objetivo de Lara Croft em sua primeira jornada em Tomb Raider?",
+    "options": ["Encontrar o Scion", "Salvar o mundo", "Resgatar um amigo", "Descobrir uma cidade"],
+    "answer": "Encontrar o Scion",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a habilidade mais característica de Lara Croft para atravessar grandes abismos em Tomb Raider?",
+    "options": ["Salto mortal", "Escalada rápida", "Nado sincronizado", "Arremesso de corda"],
+    "answer": "Salto mortal",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Tomb Raider, qual o tipo de ambiente predominante que Lara explora?",
+    "options": ["Tumbas antigas", "Cidades modernas", "Florestas densas", "Desertos vastos"],
+    "answer": "Tumbas antigas",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Tomb Raider, qual a principal forma de interação com o ambiente para resolver quebra-cabeças?",
+    "options": ["Pressionar alavancas", "Atirar em alvos", "Cavar o chão", "Usar magia"],
+    "answer": "Pressionar alavancas",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Tomb Raider, qual a principal arma de Lara Croft para se defender de ameaças?",
+    "options": ["Pistolas duplas", "Arco e flecha", "Espada", "Faca"],
+    "answer": "Pistolas duplas",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o nome da empresa que contratou Lara Croft para sua primeira missão em Tomb Raider?",
+    "options": ["Natla Technologies", "Global Explorations", "Ancient Artifacts Inc.", "World Relics Corp."],
+    "answer": "Natla Technologies",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o principal objetivo dos participantes em Twisted Metal 2?",
+    "options": ["Ser o último sobrevivente", "Coletar mais itens", "Destruir o chefe final", "Chegar à linha de chegada"],
+    "answer": "Ser o último sobrevivente",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a característica marcante das arenas de combate em Twisted Metal 2?",
+    "options": ["São destrutíveis", "São labirintos", "São pistas de corrida", "São abertas e planas"],
+    "answer": "São destrutíveis",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Twisted Metal 2, qual o tipo de armamento principal dos veículos?",
+    "options": ["Mísseis e metralhadoras", "Canhões de água", "Lasers e escudos", "Bombas de fumaça"],
+    "answer": "Mísseis e metralhadoras",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o nome do organizador do torneio Twisted Metal em Twisted Metal 2?",
+    "options": ["Calypso", "Minion", "Darkside", "Warthog"],
+    "answer": "Calypso",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Twisted Metal 2, qual o tipo de jogo predominante?",
+    "options": ["Combate veicular", "Corrida de carros", "Simulação de tanques", "Luta de robôs"],
+    "answer": "Combate veicular",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o nome do chefe final que os jogadores enfrentam em Twisted Metal 2?",
+    "options": ["Darkside", "Minion", "Mr. Slam", "Warthog"],
+    "answer": "Minion",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Ace Combat 2, qual o nome da nação fictícia que o jogador defende?",
+    "options": ["Usea", "Erusea", "Belka", "Osea"],
+    "answer": "Usea",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a característica marcante do combate aéreo em Ace Combat 2?",
+    "options": ["Dogfights intensos", "Bombardeios estratégicos", "Ataques furtivos", "Voos de patrulha"],
+    "answer": "Dogfights intensos",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Ace Combat 2, qual o tipo de arma que o jogador mais utiliza para derrubar aeronaves inimigas?",
+    "options": ["Mísseis guiados", "Metralhadoras", "Bombas de fragmentação", "Canhões de laser"],
+    "answer": "Mísseis guiados",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o nome da unidade de elite de pilotos inimigos que o jogador enfrenta em Ace Combat 2?",
+    "options": ["Scarface Squadron", "Yellow Squadron", "Cipher Squadron", "Mobius Squadron"],
+    "answer": "Scarface Squadron",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Ace Combat 2, qual o elemento crucial para o sucesso nas missões?",
+    "options": ["Manobras evasivas", "Velocidade máxima", "Camuflagem", "Defesa terrestre"],
+    "answer": "Manobras evasivas",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Castlevania: Symphony of the Night, qual o nome do protagonista vampiro que explora o castelo?",
+    "options": ["Alucard", "Richter Belmont", "Dracula", "Simon Belmont"],
+    "answer": "Alucard",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Castlevania: Symphony of the Night, qual o elemento de RPG que Alucard pode equipar?",
+    "options": ["Armas e armaduras", "Carros e motos", "Naves espaciais", "Animais de estimação"],
+    "answer": "Armas e armaduras",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Castlevania: Symphony of the Night, qual o tipo de mapa que auxilia o jogador na exploração?",
+    "options": ["Um mapa detalhado", "Um mapa em branco", "Um mapa 3D", "Um mapa interativo"],
+    "answer": "Um mapa detalhado",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o tipo de jogo que Castlevania: Symphony of the Night popularizou, misturando ação e exploração?",
+    "options": ["Metroidvania", "Roguelike", "Hack and slash", "Bullet hell"],
+    "answer": "Metroidvania",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Castlevania: Symphony of the Night, qual a relação de Maria Renard com Richter Belmont?",
+    "options": ["Ela o busca", "Ela o odeia", "Ela o ignora", "Ela o combate"],
+    "answer": "Ela o busca",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Disney's Hercules, qual o principal tipo de jogo que o jogador experimenta?",
+    "options": ["Plataforma de ação", "Quebra-cabeça", "Corrida", "Estratégia"],
+    "answer": "Plataforma de ação",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Disney's Hercules, qual o principal inimigo que tenta impedir o herói de se tornar um deus?",
+    "options": ["Hades", "Medusa", "Hidra", "Titãs"],
+    "answer": "Hades",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a principal habilidade de Hércules para derrotar inimigos em Disney's Hercules?",
+    "options": ["Soco forte", "Magia", "Arco e flecha", "Espada"],
+    "answer": "Soco forte",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o nome do cavalo alado que acompanha Hércules em Disney's Hercules?",
+    "options": ["Pegasus", "Bucéfalo", "Rocinante", "Sombra"],
+    "answer": "Pegasus",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o nome das duas capangas de Hades que causam problemas para Hércules em Disney's Hercules?",
+    "options": ["Pânico e Agonia", "Fúria e Desespero", "Dor e Prazer", "Medo e Angústia"],
+    "answer": "Pânico e Agonia",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Dragon Ball GT Final Bout, qual o estilo de jogo predominante?",
+    "options": ["Luta 3D", "Luta 2D", "RPG de ação", "Aventura"],
+    "answer": "Luta 3D",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o nome do vilão principal que Goku e seus amigos enfrentam em Dragon Ball GT: Final Bout?",
+    "options": ["Baby Vegeta", "Freeza", "Cell", "Majin Boo"],
+    "answer": "Baby Vegeta",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o nome do ataque especial de Vegeta em Dragon Ball GT: Final Bout?",
+    "options": ["Final Flash", "Galick Gun", "Big Bang Attack", "Spirit Bomb"],
+    "answer": "Final Flash",
+    "category": "Games & Brinquedos"
+  }
     {
         "question": "Em Resident Evil, que tipo de controle era famoso por ser 'tanque'?",
         "options": [
