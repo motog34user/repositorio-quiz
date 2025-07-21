@@ -5,6 +5,120 @@
     "answer": "Cyprien",
     "category": "Games & Brinquedos"
   },
+    {
+    "question": "Resident Evil Code Veronica se passa em qual tipo de ambiente?",
+    "options": ["Cidade", "Floresta", "Ilha remota", "Montanha"],
+    "answer": "Ilha remota",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o nome do vilão principal em Resident Evil Code Veronica?",
+    "options": ["Albert Wesker", "Nemesis", "Tyrant", "Alexia Ashford"],
+    "answer": "Alexia Ashford",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Resident Evil Code Veronica é conhecido por qual tipo de câmera?",
+    "options": ["Fixa", "Livre", "Primeira pessoa", "Isométrica"],
+    "answer": "Fixa",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Resident Evil Code Veronica, qual é o nome da ilha?",
+    "options": ["Ilha Rockfort", "Ilha Zombie", "Ilha do Medo", "Ilha da Morte"],
+    "answer": "Ilha Rockfort",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Resident Evil Code Veronica foi desenvolvido por qual empresa?",
+    "options": ["Konami", "Capcom", "Square Enix", "Sega"],
+    "answer": "Capcom",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a importância da munição em Resident Evil Code Veronica?",
+    "options": ["Abundante", "Escassa", "Ilimitada", "Inexistente"],
+    "answer": "Escassa",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Resident Evil Code Veronica apresenta qual tipo de sistema de inventário?",
+    "options": ["Ilimitado", "Limitado", "Baseado em peso", "Automático"],
+    "answer": "Limitado",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o nome do vírus em Resident Evil Code Veronica?",
+    "options": ["T-Virus", "G-Virus", "T-Veronica", "C-Virus"],
+    "answer": "T-Veronica",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Resident Evil Code Veronica tem qual tipo de trilha sonora?",
+    "options": ["Rock", "Suspense e terror", "Eletrônica", "Pop"],
+    "answer": "Suspense e terror",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o papel de Steve Burnside em Resident Evil Code Veronica?",
+    "options": ["Vilão", "Aliado", "Refém", "Cientista"],
+    "answer": "Aliado",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Resident Evil Code Veronica tem qual tipo de sistema de cura?",
+    "options": ["Automático", "Ervas e sprays", "Regeneração", "Poções"],
+    "answer": "Ervas e sprays",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a importância dos documentos em Resident Evil Code Veronica?",
+    "options": ["Apenas lore", "Pistas para puzzles", "Itens de coleção", "Nenhum"],
+    "answer": "Pistas para puzzles",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Resident Evil Code Veronica é conhecido por sua atmosfera de qual tipo?",
+    "options": ["Alegre", "Tensa e claustrofóbica", "Cômica", "Romântica"],
+    "answer": "Tensa e claustrofóbica",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o papel de Alfred Ashford em Resident Evil Code Veronica?",
+    "options": ["Aliado", "Antagonista", "Vítima", "Cientista"],
+    "answer": "Antagonista",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a principal motivação de Alexia Ashford em Resident Evil Code Veronica?",
+    "options": ["Poder", "Vingança", "Dominação mundial", "Criação de monstros"],
+    "answer": "Dominação mundial",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a sensação de Resident Evil Code Veronica?",
+    "options": ["Segurança", "Vulnerabilidade", "Poder", "Felicidade"],
+    "answer": "Vulnerabilidade",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o nome do protagonista em Blue Stinger?",
+    "options": ["Eliot Ballade", "Dogs Bower", "Janice", "Tim"],
+    "answer": "Eliot Ballade",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Blue Stinger, qual é o principal evento que ocorre?",
+    "options": ["Invasão alienígena", "Apocalipse zumbi", "Terremoto", "Guerra nuclear"],
+    "answer": "Invasão alienígena",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Blue Stinger se passa em qual tipo de ambiente?",
+    "options": ["Cidade", "Ilha tropical", "Espaço", "Subterrâneo"],
+    "answer": "Ilha tropical",
+    "category": "Games & Brinquedos"
+  },
       {
     "question": "Qual a principal forma de interação com o ambiente em Crazy Taxi 2?",
     "options": ["Destruição", "Interação com pedestres", "Atropelamentos", "Pulos e manobras"],
