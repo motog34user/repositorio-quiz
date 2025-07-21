@@ -1,3093 +1,2279 @@
 [
     {
-        "question": "Qual é o nome do protagonista em Evil Twin Cypriens Chronicles?",
+        "question": "Qual é a organização ambientalista que Cloud e Barret fazem parte em Final Fantasy 7?",
         "options": [
-            "Cyprien",
-            "Tim",
-            "Rastus",
-            "Barnaby"
+            "Avalanche",
+            "Shinra",
+            "Wutai",
+            "Turks"
         ],
-        "answer": "Cyprien",
+        "answer": "Avalanche",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Em Time Commando, qual a principal ameaça que Stanley deve combater ao viajar no tempo?",
+        "question": "Qual é a organização ambientalista que Cloud e Barret fazem parte em Final Fantasy 7?",
         "options": [
-            "Um vírus de computador",
-            "Uma invasão alienígena",
-            "Um robô descontrolado",
-            "Um ditador do futuro"
+            "Avalanche",
+            "Shinra",
+            "Wutai",
+            "Turks"
         ],
-        "answer": "Um vírus de computador",
+        "answer": "Avalanche",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual o nome do protagonista que tenta impedir o caos temporal em Time Commando?",
+        "question": "Em Final Fantasy 7, qual é o nome da cidade onde a maior parte da história inicial se desenrola, dominada pela Shinra?",
         "options": [
-            "Stanley",
-            "Arthur",
-            "Max",
-            "Victor"
+            "Midgar",
+            "Kalm",
+            "Junon",
+            "Nibelheim"
         ],
-        "answer": "Stanley",
+        "answer": "Midgar",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Em Time Commando, qual o objetivo de Stanley ao coletar as esferas de dados?",
+        "question": "Qual é o nome da poderosa energia vital do planeta que a Shinra explora em Final Fantasy 7?",
         "options": [
-            "Restaurar a linha do tempo",
-            "Aumentar sua energia",
-            "Desbloquear novas armas",
-            "Viajar para o passado"
+            "Mako",
+            "Materia",
+            "Limit Break",
+            "Summons"
         ],
-        "answer": "Restaurar a linha do tempo",
+        "answer": "Mako",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual a característica marcante dos cenários de Time Commando em relação ao tempo?",
+        "question": "Em Final Fantasy 7, qual criatura lendária é invocada por Aerith para proteger o planeta?",
         "options": [
-            "Representam eras históricas",
-            "São futuristas e tecnológicos",
-            "São sempre os mesmos",
-            "Mudam aleatoriamente"
+            "Holy",
+            "Meteor",
+            "Ultima",
+            "Bahamut"
         ],
-        "answer": "Representam eras históricas",
+        "answer": "Holy",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Em Time Commando, como Stanley geralmente derrota seus inimigos em cada era?",
+        "question": "Qual membro do grupo de Final Fantasy 7 é um felino robótico que fala através de um megafone?",
         "options": [
-            "Usando armas da época",
-            "Com poderes especiais",
-            "Com a ajuda de aliados",
-            "Através de enigmas"
+            "Cait Sith",
+            "Red XIII",
+            "Mog",
+            "Chocobo"
         ],
-        "answer": "Usando armas da época",
+        "answer": "Cait Sith",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Em Time Commando, o que acontece se Stanley não conseguir conter o vírus a tempo?",
+        "question": "Em Final Fantasy 7, qual é o nome da espada gigante icônica de Cloud Strife?",
         "options": [
-            "O tempo colapsa",
-            "Ele fica preso no passado",
-            "A humanidade é apagada",
-            "O vírus se espalha"
+            "Buster Sword",
+            "Masamune",
+            "Ultima Weapon",
+            "Murasame"
         ],
-        "answer": "O tempo colapsa",
+        "answer": "Buster Sword",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual a principal forma de progressão em Time Commando entre as diferentes épocas?",
+        "question": "Qual é o nome do principal antagonista de Final Fantasy 7, conhecido por sua longa espada e cabelo prateado?",
         "options": [
-            "Através de portais temporais",
-            "Por meio de uma máquina",
-            "Com um teletransporte",
-            "Voando no tempo"
+            "Sephiroth",
+            "Rufus",
+            "Hojo",
+            "Jenova"
         ],
-        "answer": "Através de portais temporais",
+        "answer": "Sephiroth",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Em Time Commando, qual o papel do 'vírus' na narrativa?",
+        "question": "Em Final Fantasy 7, qual é a raça ancestral de Aerith, que tem uma conexão especial com o Planeta?",
         "options": [
-            "Alterar a história",
-            "Curar doenças",
-            "Criar novos mundos",
-            "Controlar mentes"
+            "Cetra",
+            "Shinra",
+            "Wutai",
+            "Gi"
         ],
-        "answer": "Alterar a história",
+        "answer": "Cetra",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual o desafio principal que Stanley enfrenta ao lidar com o vírus em Time Commando?",
+        "question": "Em Final Fantasy 7, qual é a substância mágica que permite aos personagens usar habilidades e magias?",
         "options": [
-            "Sua rápida evolução",
-            "Sua invisibilidade",
-            "Sua inteligência artificial",
-            "Sua resistência"
+            "Materia",
+            "Potion",
+            "Elixir",
+            "Phoenix Down"
         ],
-        "answer": "Sua rápida evolução",
+        "answer": "Materia",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Em Tomb Raider, qual a profissão de Lara Croft, a protagonista da aventura?",
+        "question": "Qual é o nome do deus caído que retorna como o principal vilão em Mortal Kombat 4?",
         "options": [
-            "Arqueóloga",
-            "Detetive",
-            "Exploradora espacial",
-            "Caçadora de tesouros"
+            "Shinnok",
+            "Quan Chi",
+            "Goro",
+            "Shao Kahn"
         ],
-        "answer": "Arqueóloga",
+        "answer": "Shinnok",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual o principal objetivo de Lara Croft em sua primeira jornada em Tomb Raider?",
-        "options": [
-            "Encontrar o Scion",
-            "Salvar o mundo",
-            "Resgatar um amigo",
-            "Descobrir uma cidade"
-        ],
-        "answer": "Encontrar o Scion",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual a habilidade mais característica de Lara Croft para atravessar grandes abismos em Tomb Raider?",
-        "options": [
-            "Salto mortal",
-            "Escalada rápida",
-            "Nado sincronizado",
-            "Arremesso de corda"
-        ],
-        "answer": "Salto mortal",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Tomb Raider, qual o tipo de ambiente predominante que Lara explora?",
-        "options": [
-            "Tumbas antigas",
-            "Cidades modernas",
-            "Florestas densas",
-            "Desertos vastos"
-        ],
-        "answer": "Tumbas antigas",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Tomb Raider, qual a principal forma de interação com o ambiente para resolver quebra-cabeças?",
-        "options": [
-            "Pressionar alavancas",
-            "Atirar em alvos",
-            "Cavar o chão",
-            "Usar magia"
-        ],
-        "answer": "Pressionar alavancas",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Tomb Raider, qual a principal arma de Lara Croft para se defender de ameaças?",
-        "options": [
-            "Pistolas duplas",
-            "Arco e flecha",
-            "Espada",
-            "Faca"
-        ],
-        "answer": "Pistolas duplas",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual o nome da empresa que contratou Lara Croft para sua primeira missão em Tomb Raider?",
-        "options": [
-            "Natla Technologies",
-            "Global Explorations",
-            "Ancient Artifacts Inc.",
-            "World Relics Corp."
-        ],
-        "answer": "Natla Technologies",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual o principal objetivo dos participantes em Twisted Metal 2?",
-        "options": [
-            "Ser o último sobrevivente",
-            "Coletar mais itens",
-            "Destruir o chefe final",
-            "Chegar à linha de chegada"
-        ],
-        "answer": "Ser o último sobrevivente",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual a característica marcante das arenas de combate em Twisted Metal 2?",
-        "options": [
-            "São destrutíveis",
-            "São labirintos",
-            "São pistas de corrida",
-            "São abertas e planas"
-        ],
-        "answer": "São destrutíveis",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Twisted Metal 2, qual o tipo de armamento principal dos veículos?",
-        "options": [
-            "Mísseis e metralhadoras",
-            "Canhões de água",
-            "Lasers e escudos",
-            "Bombas de fumaça"
-        ],
-        "answer": "Mísseis e metralhadoras",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual o nome do organizador do torneio Twisted Metal em Twisted Metal 2?",
-        "options": [
-            "Calypso",
-            "Minion",
-            "Darkside",
-            "Warthog"
-        ],
-        "answer": "Calypso",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Twisted Metal 2, qual o tipo de jogo predominante?",
-        "options": [
-            "Combate veicular",
-            "Corrida de carros",
-            "Simulação de tanques",
-            "Luta de robôs"
-        ],
-        "answer": "Combate veicular",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual o nome do chefe final que os jogadores enfrentam em Twisted Metal 2?",
-        "options": [
-            "Darkside",
-            "Minion",
-            "Mr. Slam",
-            "Warthog"
-        ],
-        "answer": "Minion",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Ace Combat 2, qual o nome da nação fictícia que o jogador defende?",
-        "options": [
-            "Usea",
-            "Erusea",
-            "Belka",
-            "Osea"
-        ],
-        "answer": "Usea",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual a característica marcante do combate aéreo em Ace Combat 2?",
-        "options": [
-            "Dogfights intensos",
-            "Bombardeios estratégicos",
-            "Ataques furtivos",
-            "Voos de patrulha"
-        ],
-        "answer": "Dogfights intensos",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Ace Combat 2, qual o tipo de arma que o jogador mais utiliza para derrubar aeronaves inimigas?",
-        "options": [
-            "Mísseis guiados",
-            "Metralhadoras",
-            "Bombas de fragmentação",
-            "Canhões de laser"
-        ],
-        "answer": "Mísseis guiados",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual o nome da unidade de elite de pilotos inimigos que o jogador enfrenta em Ace Combat 2?",
-        "options": [
-            "Scarface Squadron",
-            "Yellow Squadron",
-            "Cipher Squadron",
-            "Mobius Squadron"
-        ],
-        "answer": "Scarface Squadron",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Ace Combat 2, qual o elemento crucial para o sucesso nas missões?",
-        "options": [
-            "Manobras evasivas",
-            "Velocidade máxima",
-            "Camuflagem",
-            "Defesa terrestre"
-        ],
-        "answer": "Manobras evasivas",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Castlevania: Symphony of the Night, qual o nome do protagonista vampiro que explora o castelo?",
-        "options": [
-            "Alucard",
-            "Richter Belmont",
-            "Dracula",
-            "Simon Belmont"
-        ],
-        "answer": "Alucard",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Castlevania: Symphony of the Night, qual o elemento de RPG que Alucard pode equipar?",
-        "options": [
-            "Armas e armaduras",
-            "Carros e motos",
-            "Naves espaciais",
-            "Animais de estimação"
-        ],
-        "answer": "Armas e armaduras",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Castlevania: Symphony of the Night, qual o tipo de mapa que auxilia o jogador na exploração?",
-        "options": [
-            "Um mapa detalhado",
-            "Um mapa em branco",
-            "Um mapa 3D",
-            "Um mapa interativo"
-        ],
-        "answer": "Um mapa detalhado",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual o tipo de jogo que Castlevania: Symphony of the Night popularizou, misturando ação e exploração?",
-        "options": [
-            "Metroidvania",
-            "Roguelike",
-            "Hack and slash",
-            "Bullet hell"
-        ],
-        "answer": "Metroidvania",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Castlevania: Symphony of the Night, qual a relação de Maria Renard com Richter Belmont?",
-        "options": [
-            "Ela o busca",
-            "Ela o odeia",
-            "Ela o ignora",
-            "Ela o combate"
-        ],
-        "answer": "Ela o busca",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Disney's Hercules, qual o principal tipo de jogo que o jogador experimenta?",
-        "options": [
-            "Plataforma de ação",
-            "Quebra-cabeça",
-            "Corrida",
-            "Estratégia"
-        ],
-        "answer": "Plataforma de ação",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Disney's Hercules, qual o principal inimigo que tenta impedir o herói de se tornar um deus?",
-        "options": [
-            "Hades",
-            "Medusa",
-            "Hidra",
-            "Titãs"
-        ],
-        "answer": "Hades",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual a principal habilidade de Hércules para derrotar inimigos em Disney's Hercules?",
-        "options": [
-            "Soco forte",
-            "Magia",
-            "Arco e flecha",
-            "Espada"
-        ],
-        "answer": "Soco forte",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual o nome do cavalo alado que acompanha Hércules em Disney's Hercules?",
-        "options": [
-            "Pegasus",
-            "Bucéfalo",
-            "Rocinante",
-            "Sombra"
-        ],
-        "answer": "Pegasus",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual o nome das duas capangas de Hades que causam problemas para Hércules em Disney's Hercules?",
-        "options": [
-            "Pânico e Agonia",
-            "Fúria e Desespero",
-            "Dor e Prazer",
-            "Medo e Angústia"
-        ],
-        "answer": "Pânico e Agonia",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Dragon Ball GT Final Bout, qual o estilo de jogo predominante?",
-        "options": [
-            "Luta 3D",
-            "Luta 2D",
-            "RPG de ação",
-            "Aventura"
-        ],
-        "answer": "Luta 3D",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual o nome do vilão principal que Goku e seus amigos enfrentam em Dragon Ball GT: Final Bout?",
-        "options": [
-            "Baby Vegeta",
-            "Freeza",
-            "Cell",
-            "Majin Boo"
-        ],
-        "answer": "Baby Vegeta",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual o nome do ataque especial de Vegeta em Dragon Ball GT: Final Bout?",
-        "options": [
-            "Final Flash",
-            "Galick Gun",
-            "Big Bang Attack",
-            "Spirit Bomb"
-        ],
-        "answer": "Final Flash",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Resident Evil, que tipo de controle era famoso por ser 'tanque'?",
-        "options": [
-            "Mouse e teclado",
-            "Joystick",
-            "Direcional",
-            "Analógico"
-        ],
-        "answer": "Direcional",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual jogo japonês inspirou a criação de Resident Evil?",
-        "options": [
-            "Silent Hill",
-            "Alone in the Dark",
-            "Sweet Home",
-            "Clock Tower"
-        ],
-        "answer": "Sweet Home",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Que tipo de vídeo era usado na introdução de Resident Evil?",
-        "options": [
-            "Animação",
-            "CGI",
-            "Live-action",
-            "Desenho"
-        ],
-        "answer": "Live-action",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Resident Evil, qual personagem era um especialista em armas?",
-        "options": [
-            "Chris Redfield",
-            "Jill Valentine",
-            "Barry Burton",
-            "Rebecca Chambers"
-        ],
-        "answer": "Barry Burton",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual a principal característica dos cenários de Resident Evil?",
-        "options": [
-            "Gerados",
-            "Pré-renderizados",
-            "Aleatórios",
-            "Dinâmicos"
-        ],
-        "answer": "Pré-renderizados",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual era o nome do monstro humanoide criado pela Umbrella em Resident Evil?",
-        "options": [
-            "Licker",
-            "Tyrant",
-            "Nemesis",
-            "G-Creature"
-        ],
-        "answer": "Tyrant",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual era a principal diferença entre Chris e Jill em Resident Evil?",
-        "options": [
-            "Armas iniciais",
-            "Roupas",
-            "Caminhos",
-            "Habilidades"
-        ],
-        "answer": "Habilidades",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Resident Evil, qual era a função dos baús espalhados pela mansão?",
-        "options": [
-            "Guardar itens",
-            "Esconder inimigos",
-            "Salvar jogo",
-            "Dar pistas"
-        ],
-        "answer": "Guardar itens",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Resident Evil, qual era o tipo de inimigo mais comum?",
-        "options": [
-            "Zumbis",
-            "Aranhas",
-            "Corvos",
-            "Morcegos"
-        ],
-        "answer": "Zumbis",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual era o nome da região onde a mansão de Resident Evil estava localizada?",
-        "options": [
-            "Floresta Negra",
-            "Montanhas Arklay",
-            "Vale da Morte",
-            "Deserto de Mojave"
-        ],
-        "answer": "Montanhas Arklay",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Tekken 3, qual personagem fez sua estreia como neto de Heihachi?",
-        "options": [
-            "Kazuya",
-            "Jin Kazama",
-            "Lars",
-            "Lee"
-        ],
-        "answer": "Jin Kazama",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual era o nome do principal antagonista em Tekken 3?",
-        "options": [
-            "Devil Jin",
-            "Heihachi",
-            "Ogre",
-            "Kazuya"
-        ],
-        "answer": "Ogre",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Tekken 3, qual era o estilo de luta de Eddy Gordo?",
-        "options": [
-            "Karatê",
-            "Judô",
-            "Capoeira",
-            "Kung Fu"
-        ],
-        "answer": "Capoeira",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Que modo de jogo bônus em Tekken 3 era similar a vôlei?",
-        "options": [
-            "Tekken Force",
-            "Tekken Bowl",
-            "Tekken Ball",
-            "Tekken Tag"
-        ],
-        "answer": "Tekken Ball",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Tekken 3, qual personagem podia se auto-ferir com sua espada?",
-        "options": [
-            "Law",
-            "Hwoarang",
-            "Yoshimitsu",
-            "Lei Wulong"
-        ],
-        "answer": "Yoshimitsu",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Tekken 3, qual personagem era um dinossauro secreto?",
-        "options": [
-            "Alex",
-            "Roger",
-            "Gon",
-            "Combot"
-        ],
-        "answer": "Gon",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Tekken 3, qual personagem era um urso de estimação?",
-        "options": [
-            "Kuma",
-            "Panda",
-            "Roger",
-            "Alex"
-        ],
-        "answer": "Kuma",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual era o nome do modo beat 'em up em Tekken 3?",
-        "options": [
-            "Tekken Quest",
-            "Tekken Force",
-            "Tekken Battle",
-            "Tekken Story"
-        ],
-        "answer": "Tekken Force",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual personagem feminina de Tekken 3 era uma estudante?",
-        "options": [
-            "Nina",
-            "Anna",
-            "Xiaoyu",
-            "Julia"
-        ],
-        "answer": "Xiaoyu",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Tekken 3, qual era o objetivo de Heihachi ao treinar Jin?",
-        "options": [
-            "Vingança",
-            "Atrair Ogre",
-            "Proteger Jin",
-            "Dominar o mundo"
-        ],
-        "answer": "Atrair Ogre",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual personagem de Tekken 3 era um robô policial?",
-        "options": [
-            "Jack",
-            "Bryan Fury",
-            "Gun Jack",
-            "P Jack"
-        ],
-        "answer": "Bryan Fury",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual personagem de Tekken 3 era uma lutadora de Taekwondo?",
-        "options": [
-            "Hwoarang",
-            "Baek Doo San",
-            "Jin Kazama",
-            "Eddy Gordo"
-        ],
-        "answer": "Hwoarang",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Tekken 3, qual personagem era uma espiã e assassina?",
-        "options": [
-            "Anna Williams",
-            "Nina Williams",
-            "Julia Chang",
-            "Xiaoyu"
-        ],
-        "answer": "Nina Williams",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual era o nome do hardware de arcade usado para Tekken 3?",
-        "options": [
-            "System 10",
-            "System 11",
-            "System 12",
-            "System 14"
-        ],
-        "answer": "System 12",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Tekken 3, qual personagem era um policial de Hong Kong?",
-        "options": [
-            "Lei Wulong",
-            "Marshall Law",
-            "Forest Law",
-            "Bryan Fury"
-        ],
-        "answer": "Lei Wulong",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Que tipo de ataque especial era conhecido como 'Meteo Attack' em Dragon Ball Z Legends?",
-        "options": [
-            "Ataque rápido",
-            "Ataque final",
-            "Ataque combinado",
-            "Ataque aéreo"
-        ],
-        "answer": "Ataque combinado",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual era a característica principal das arenas de luta em Dragon Ball Z Legends?",
-        "options": [
-            "2D lateral",
-            "3D com liberdade",
-            "Fixas",
-            "Pequenas"
-        ],
-        "answer": "3D com liberdade",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Dragon Ball Z Legends, como eram as animações de introdução?",
-        "options": [
-            "Em anime",
-            "CG sofrível",
-            "Desenhos",
-            "Fotos estáticas"
-        ],
-        "answer": "CG sofrível",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "O que era liberado ao final do modo história em Dragon Ball Z Legends?",
-        "options": [
-            "Novas fases",
-            "Ilustrações",
-            "Personagens",
-            "Armas"
-        ],
-        "answer": "Ilustrações",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Dragon Ball Z Legends, qual era o idioma da dublagem original?",
-        "options": [
-            "Inglês",
-            "Japonês",
-            "Português",
-            "Espanhol"
-        ],
-        "answer": "Japonês",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Dragon Ball Z Legends, qual era a principal crítica aos visuais?",
-        "options": [
-            "Muito escuros",
-            "Pixelados",
-            "Sem cor",
-            "Desfocados"
-        ],
-        "answer": "Pixelados",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Que tipo de jogabilidade Dragon Ball Z Legends oferecia, diferente dos anteriores?",
-        "options": [
-            "RPG",
-            "Luta livre",
-            "Luta em equipe",
-            "Luta em massa"
-        ],
-        "answer": "Luta em massa",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Dragon Ball Z Legends, qual vilão iniciava a Saga Z?",
-        "options": [
-            "Freeza",
-            "Cell",
-            "Majin Buu",
-            "Raditz"
-        ],
-        "answer": "Raditz",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual a principal diferença na IA entre as versões Saturn e PlayStation de Dragon Ball Z Legends?",
-        "options": [
-            "Sem diferença",
-            "Mais fácil",
-            "Mais agressiva",
-            "Mais lenta"
-        ],
-        "answer": "Mais agressiva",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual o destaque de Dragon Ball Z Legends para muitos fãs da série?",
-        "options": [
-            "Gráficos",
-            "Trilha sonora",
-            "Abrangência",
-            "Personagens"
-        ],
-        "answer": "Abrangência",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Resident Evil, qual equipe da S.T.A.R.S. foi enviada para investigar desaparecimentos?",
-        "options": [
-            "Equipe Delta",
-            "Equipe Alpha",
-            "Equipe Beta",
-            "Equipe Gamma"
-        ],
-        "answer": "Equipe Alpha",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual era o nome da mansão principal em Resident Evil?",
-        "options": [
-            "Mansão Wayne",
-            "Mansão Spencer",
-            "Mansão Croft",
-            "Mansão Baker"
-        ],
-        "answer": "Mansão Spencer",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Resident Evil, qual era o nome original do jogo no Japão?",
-        "options": [
-            "Zombie Crisis",
-            "Biohazard",
-            "Undead Mansion",
-            "Horror House"
-        ],
-        "answer": "Biohazard",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Que tipo de câmera Resident Evil utilizava para criar tensão?",
-        "options": [
-            "Em primeira pessoa",
-            "Livre",
-            "Fixa",
-            "Dinâmica"
-        ],
-        "answer": "Fixa",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Resident Evil, qual personagem era conhecido como 'Mestre das Destrancas'?",
-        "options": [
-            "Chris Redfield",
-            "Barry Burton",
-            "Jill Valentine",
-            "Rebecca Chambers"
-        ],
-        "answer": "Jill Valentine",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual era o nome da corporação responsável pelo incidente em Resident Evil?",
-        "options": [
-            "Umbrella Corp",
-            "Shinra Inc",
-            "Weyland-Yutani",
-            "Tyrell Corp"
-        ],
-        "answer": "Umbrella Corp",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Resident Evil, o que as animações de portas abrindo mascaravam?",
-        "options": [
-            "Salvamento",
-            "Carregamento",
-            "Ataques",
-            "Puzzles"
-        ],
-        "answer": "Carregamento",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual animal infectado era um inimigo comum em Resident Evil?",
-        "options": [
-            "Gatos",
-            "Ratos",
-            "Cães",
-            "Morcegos"
-        ],
-        "answer": "Cães",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Resident Evil, qual era o papel de Rebecca Chambers?",
-        "options": [
-            "Piloto",
-            "Médica",
-            "Cientista",
-            "Atiradora"
-        ],
-        "answer": "Médica",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual era o nome do vilão principal e traidor em Resident Evil?",
-        "options": [
-            "William Birkin",
-            "Albert Wesker",
-            "Nemesis",
-            "Dr Salvador"
-        ],
-        "answer": "Albert Wesker",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "No jogo Road Rash, qual era o objetivo principal das corridas ilegais?",
-        "options": [
-            "Chegar em primeiro",
-            "Vencer o chefe",
-            "Ganhar dinheiro",
-            "Destruir motos"
-        ],
-        "answer": "Ganhar dinheiro",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual ação em Road Rash podia resultar em ser preso pela polícia?",
-        "options": [
-            "Bater na moto",
-            "Cair perto deles",
-            "Usar arma",
-            "Correr rápido"
-        ],
-        "answer": "Cair perto deles",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual elemento de jogabilidade Road Rash introduziu nas corridas?",
-        "options": [
-            "Carros voadores",
-            "Combate fisico",
-            "Pistas de gelo",
-            "Motos aquáticas"
-        ],
-        "answer": "Combate fisico",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Road Rash, qual estado americano servia de cenário para as pistas?",
-        "options": [
-            "Flórida",
-            "Califórnia",
-            "Texas",
-            "Nova Iorque"
-        ],
-        "answer": "Califórnia",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual tipo de música era predominante na trilha sonora de Road Rash?",
-        "options": [
-            "Pop",
-            "Rock",
-            "Grunge",
-            "Eletrônica"
-        ],
-        "answer": "Grunge",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Como Road Rash representava os personagens nas cutscenes?",
-        "options": [
-            "Desenhos animados",
-            "Sprites 3D",
-            "Atores reais",
-            "Pixel art"
-        ],
-        "answer": "Atores reais",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Além das corridas, que outro modo de jogo existia em Road Rash?",
-        "options": [
-            "Modo livre",
-            "Modo Thrash",
-            "Modo desafio",
-            "Modo equipe"
-        ],
-        "answer": "Modo Thrash",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual era a consequência de colidir com obstáculos em Road Rash?",
-        "options": [
-            "Ganhar pontos",
-            "Ser ejetado",
-            "Acelerar",
-            "Mudar de pista"
-        ],
-        "answer": "Ser ejetado",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual empresa desenvolveu o clássico Road Rash?",
-        "options": [
-            "Ubisoft",
-            "Capcom",
-            "Electronic Arts",
-            "Konami"
-        ],
-        "answer": "Electronic Arts",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Road Rash, qual era o nome do modo de campanha principal?",
-        "options": [
-            "Modo Big Game",
-            "Modo Aventura",
-            "Modo Carreira",
-            "Modo Desafio"
-        ],
-        "answer": "Modo Big Game",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Road Rash, qual era a penalidade por ser pego pela polícia?",
-        "options": [
-            "Perder moto",
-            "Pagar fiança",
-            "Reiniciar jogo",
-            "Perder nível"
-        ],
-        "answer": "Pagar fiança",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Dragon Ball Z Legends, qual saga do anime o jogo abrangia?",
-        "options": [
-            "Saga Saiyajin",
-            "Saga Freeza",
-            "Saga Cell",
-            "Toda a Saga Z"
-        ],
-        "answer": "Toda a Saga Z",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual console, além do PlayStation, recebeu Dragon Ball Z Legends?",
-        "options": [
-            "Nintendo 64",
-            "Sega Saturn",
-            "Xbox",
-            "Dreamcast"
-        ],
-        "answer": "Sega Saturn",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Dragon Ball Z Legends, o que a barra central na tela decidia?",
-        "options": [
-            "Nível de ki",
-            "Vencedor do round",
-            "Dano causado",
-            "Tempo da luta"
-        ],
-        "answer": "Vencedor do round",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Resident Evil Code Veronica se passa em qual tipo de ambiente?",
-        "options": [
-            "Cidade",
-            "Floresta",
-            "Ilha remota",
-            "Montanha"
-        ],
-        "answer": "Ilha remota",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é o nome do companheiro de Eliot em Blue Stinger?",
-        "options": [
-            "Dogs Bower",
-            "Janice",
-            "Tim",
-            "Alex"
-        ],
-        "answer": "Dogs Bower",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Blue Stinger apresenta qual tipo de inimigo?",
-        "options": [
-            "Zumbis",
-            "Monstros alienígenas",
-            "Humanos mutantes",
-            "Robôs"
-        ],
-        "answer": "Monstros alienígenas",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Blue Stinger foi desenvolvido por qual empresa?",
-        "options": [
-            "Capcom",
-            "Climax Graphics",
-            "Konami",
-            "Sega"
-        ],
-        "answer": "Climax Graphics",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Blue Stinger é conhecido por sua atmosfera de qual tipo?",
-        "options": [
-            "Alegre",
-            "Tensa e misteriosa",
-            "Cômica",
-            "Romântica"
-        ],
-        "answer": "Tensa e misteriosa",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Soul Calibur, qual é o principal foco da jogabilidade?",
-        "options": [
-            "Combate com armas",
-            "Combate corpo a corpo",
-            "Magia",
-            "Tiro"
-        ],
-        "answer": "Combate com armas",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Soul Calibur é um jogo de qual gênero?",
-        "options": [
-            "RPG",
-            "Luta 3D",
-            "Ação",
-            "Estratégia"
-        ],
-        "answer": "Luta 3D",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é o nome da espada maligna em Soul Calibur?",
-        "options": [
-            "Soul Edge",
-            "Soul Blade",
-            "Soul Reaver",
-            "Soul Eater"
-        ],
-        "answer": "Soul Edge",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Soul Calibur é conhecido por seu sistema de qual tipo de movimento?",
-        "options": [
-            "Linear",
-            "Livre",
-            "8-Way Run",
-            "2D"
-        ],
-        "answer": "8-Way Run",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Soul Calibur, qual é o objetivo dos personagens?",
-        "options": [
-            "Poder",
-            "Vingança",
-            "A espada Soul Edge",
-            "Fama"
-        ],
-        "answer": "A espada Soul Edge",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Soul Calibur foi desenvolvido por qual empresa?",
-        "options": [
-            "Capcom",
-            "Bandai Namco",
-            "SNK",
-            "Arc System Works"
-        ],
-        "answer": "Bandai Namco",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual o papel de Nightmare em Soul Calibur?",
-        "options": [
-            "Aliado",
-            "Antagonista",
-            "Protagonista",
-            "Mentor"
-        ],
-        "answer": "Antagonista",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual a importância das armas em Soul Calibur?",
-        "options": [
-            "Apenas estética",
-            "Diferencia personagens",
-            "Apenas para dano",
-            "Nenhum"
-        ],
-        "answer": "Diferencia personagens",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual a principal crítica a Soul Calibur?",
-        "options": [
-            "Gráficos",
-            "Combate",
-            "Falta de personagens",
-            "Modos de jogo"
-        ],
-        "answer": "Falta de personagens",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual a importância dos cenários em Soul Calibur?",
-        "options": [
-            "Apenas estética",
-            "Interativos",
-            "Com armadilhas",
-            "Apenas para ring out"
-        ],
-        "answer": "Apenas para ring out",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é o nome do vilão principal em Resident Evil Code Veronica?",
-        "options": [
-            "Albert Wesker",
-            "Nemesis",
-            "Tyrant",
-            "Alexia Ashford"
-        ],
-        "answer": "Alexia Ashford",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Resident Evil Code Veronica é conhecido por qual tipo de câmera?",
-        "options": [
-            "Fixa",
-            "Livre",
-            "Primeira pessoa",
-            "Isométrica"
-        ],
-        "answer": "Fixa",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Resident Evil Code Veronica, qual é o nome da ilha?",
-        "options": [
-            "Ilha Rockfort",
-            "Ilha Zombie",
-            "Ilha do Medo",
-            "Ilha da Morte"
-        ],
-        "answer": "Ilha Rockfort",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Resident Evil Code Veronica foi desenvolvido por qual empresa?",
-        "options": [
-            "Konami",
-            "Capcom",
-            "Square Enix",
-            "Sega"
-        ],
-        "answer": "Capcom",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual a importância da munição em Resident Evil Code Veronica?",
-        "options": [
-            "Abundante",
-            "Escassa",
-            "Ilimitada",
-            "Inexistente"
-        ],
-        "answer": "Escassa",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Resident Evil Code Veronica apresenta qual tipo de sistema de inventário?",
-        "options": [
-            "Ilimitado",
-            "Limitado",
-            "Baseado em peso",
-            "Automático"
-        ],
-        "answer": "Limitado",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é o nome do vírus em Resident Evil Code Veronica?",
-        "options": [
-            "T-Virus",
-            "G-Virus",
-            "T-Veronica",
-            "C-Virus"
-        ],
-        "answer": "T-Veronica",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Resident Evil Code Veronica tem qual tipo de trilha sonora?",
-        "options": [
-            "Rock",
-            "Suspense e terror",
-            "Eletrônica",
-            "Pop"
-        ],
-        "answer": "Suspense e terror",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual o papel de Steve Burnside em Resident Evil Code Veronica?",
-        "options": [
-            "Vilão",
-            "Aliado",
-            "Refém",
-            "Cientista"
-        ],
-        "answer": "Aliado",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Resident Evil Code Veronica tem qual tipo de sistema de cura?",
-        "options": [
-            "Automático",
-            "Ervas e sprays",
-            "Regeneração",
-            "Poções"
-        ],
-        "answer": "Ervas e sprays",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual a importância dos documentos em Resident Evil Code Veronica?",
-        "options": [
-            "Apenas lore",
-            "Pistas para puzzles",
-            "Itens de coleção",
-            "Nenhum"
-        ],
-        "answer": "Pistas para puzzles",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Resident Evil Code Veronica é conhecido por sua atmosfera de qual tipo?",
-        "options": [
-            "Alegre",
-            "Tensa e claustrofóbica",
-            "Cômica",
-            "Romântica"
-        ],
-        "answer": "Tensa e claustrofóbica",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual o papel de Alfred Ashford em Resident Evil Code Veronica?",
-        "options": [
-            "Aliado",
-            "Antagonista",
-            "Vítima",
-            "Cientista"
-        ],
-        "answer": "Antagonista",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual a principal motivação de Alexia Ashford em Resident Evil Code Veronica?",
-        "options": [
-            "Poder",
-            "Vingança",
-            "Dominação mundial",
-            "Criação de monstros"
-        ],
-        "answer": "Dominação mundial",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual a sensação de Resident Evil Code Veronica?",
-        "options": [
-            "Segurança",
-            "Vulnerabilidade",
-            "Poder",
-            "Felicidade"
-        ],
-        "answer": "Vulnerabilidade",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é o nome do protagonista em Blue Stinger?",
-        "options": [
-            "Eliot Ballade",
-            "Dogs Bower",
-            "Janice",
-            "Tim"
-        ],
-        "answer": "Eliot Ballade",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Blue Stinger, qual é o principal evento que ocorre?",
-        "options": [
-            "Invasão alienígena",
-            "Apocalipse zumbi",
-            "Terremoto",
-            "Guerra nuclear"
-        ],
-        "answer": "Invasão alienígena",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Blue Stinger se passa em qual tipo de ambiente?",
-        "options": [
-            "Cidade",
-            "Ilha tropical",
-            "Espaço",
-            "Subterrâneo"
-        ],
-        "answer": "Ilha tropical",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual a principal forma de interação com o ambiente em Crazy Taxi 2?",
-        "options": [
-            "Destruição",
-            "Interação com pedestres",
-            "Atropelamentos",
-            "Pulos e manobras"
-        ],
-        "answer": "Pulos e manobras",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Crazy Taxi 2 tem qual tipo de sistema de pontuação?",
-        "options": [
-            "Baseado em tempo",
-            "Baseado em dinheiro",
-            "Baseado em colisões",
-            "Baseado em distância"
-        ],
-        "answer": "Baseado em dinheiro",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual a característica mais divertida de Crazy Taxi 2?",
-        "options": [
-            "Gráficos",
-            "Física realista",
-            "Jogabilidade caótica",
-            "Enredo"
-        ],
-        "answer": "Jogabilidade caótica",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Crazy Taxi 2 oferece qual tipo de controle de veículo?",
-        "options": [
-            "Simples",
-            "Complexo",
-            "Realista",
-            "Arcade"
-        ],
-        "answer": "Arcade",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual a importância dos passageiros em Crazy Taxi 2?",
-        "options": [
-            "Apenas para dinheiro",
-            "Determinantes da rota",
-            "Apenas para bônus",
-            "Sem importância"
-        ],
-        "answer": "Determinantes da rota",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Crazy Taxi 2 apresenta quais tipos de obstáculos?",
-        "options": [
-            "Zumbis",
-            "Carros de polícia",
-            "Tráfego e edifícios",
-            "Alienígenas"
-        ],
-        "answer": "Tráfego e edifícios",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é o nome do protagonista em Sword of the Berserk?",
-        "options": [
-            "Guts",
-            "Griffith",
-            "Casca",
-            "Zodd"
-        ],
-        "answer": "Guts",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Sword of the Berserk, qual é a arma principal de Guts?",
-        "options": [
-            "Espada pequena",
-            "Dragon Slayer",
-            "Machado",
-            "Lança"
-        ],
-        "answer": "Dragon Slayer",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Sword of the Berserk é um jogo de qual gênero?",
-        "options": [
-            "RPG",
-            "Hack and slash",
-            "Estratégia",
-            "Luta"
-        ],
-        "answer": "Hack and slash",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual console foi o principal lançamento de Sword of the Berserk?",
-        "options": [
-            "PlayStation 2",
-            "Xbox",
-            "Dreamcast",
-            "GameCube"
-        ],
-        "answer": "Dreamcast",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Sword of the Berserk se passa em qual tipo de mundo?",
-        "options": [
-            "Fantasia medieval",
-            "Ficção científica",
-            "Pós-apocalíptico",
-            "Contemporâneo"
-        ],
-        "answer": "Fantasia medieval",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é a principal característica do combate em Sword of the Berserk?",
-        "options": [
-            "Lento e estratégico",
-            "Rápido e brutal",
-            "Baseado em turnos",
-            "Focado em magia"
-        ],
-        "answer": "Rápido e brutal",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Sword of the Berserk é baseado em qual obra?",
-        "options": [
-            "Anime",
-            "Manga",
-            "Livro",
-            "Filme"
-        ],
-        "answer": "Manga",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é o nome da companheira de Guts em Sword of the Berserk?",
-        "options": [
-            "Farnese",
-            "Schierke",
-            "Casca",
-            "Isidro"
-        ],
-        "answer": "Casca",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Sword of the Berserk é conhecido por sua atmosfera de qual tipo?",
-        "options": [
-            "Alegre",
-            "Sombria e violenta",
-            "Cômica",
-            "Romântica"
-        ],
-        "answer": "Sombria e violenta",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é o nome do grupo de demônios em Sword of the Berserk?",
-        "options": [
-            "Mão de Deus",
-            "Legião",
-            "Horda",
-            "Exército Sombrio"
-        ],
-        "answer": "Mão de Deus",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual a importância da fúria de Guts em Sword of the Berserk?",
-        "options": [
-            "Aumenta poder",
-            "Diminui defesa",
-            "Causa dano",
-            "Apenas estética"
-        ],
-        "answer": "Aumenta poder",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Sword of the Berserk é conhecido por sua violência, que é?",
-        "options": [
-            "Leve",
-            "Moderada",
-            "Extrema",
-            "Inexistente"
-        ],
-        "answer": "Extrema",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual a principal motivação de Guts em Sword of the Berserk?",
-        "options": [
-            "Riqueza",
-            "Poder",
-            "Sobrevivência e vingança",
-            "Paz"
-        ],
-        "answer": "Sobrevivência e vingança",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é o nome do protagonista em Timestalkers?",
-        "options": [
-            "Sword",
-            "Ryo",
-            "Aisha",
-            "Guts"
-        ],
-        "answer": "Sword",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Timestalkers é um jogo de qual gênero?",
-        "options": [
-            "Ação",
-            "RPG",
-            "Estratégia",
-            "Luta"
-        ],
-        "answer": "RPG",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é o sistema de combate em Timestalkers?",
-        "options": [
-            "Tempo real",
-            "Turnos",
-            "Ação rápida",
-            "Estratégia"
-        ],
-        "answer": "Turnos",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é a principal característica visual de Timestalkers?",
-        "options": [
-            "Gráficos realistas",
-            "Estilo anime",
-            "Pixel art",
-            "Cel-shaded"
-        ],
-        "answer": "Estilo anime",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é o nome do protagonista em Shenmue?",
-        "options": [
-            "Lan Di",
-            "Ryo Hazuki",
-            "Ren",
-            "Fuku-san"
-        ],
-        "answer": "Ryo Hazuki",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Shenmue se passa em qual país?",
-        "options": [
-            "China",
-            "Japão",
-            "Coreia",
-            "Estados Unidos"
-        ],
-        "answer": "Japão",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é o nome da cidade onde Ryo vive em Shenmue?",
-        "options": [
-            "Tóquio",
-            "Yokosuka",
-            "Kyoto",
-            "Osaka"
-        ],
-        "answer": "Yokosuka",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é a principal forma de interação com os NPCs em Shenmue?",
-        "options": [
-            "Combate",
-            "Diálogo",
-            "Comércio",
-            "Perseguição"
-        ],
-        "answer": "Diálogo",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Shenmue é conhecido por seus mini-jogos, quais são?",
-        "options": [
-            "Arcade",
-            "Pesca",
-            "Culinária",
-            "Todos os anteriores"
-        ],
-        "answer": "Arcade",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é o nome da amiga de infância de Ryo em Shenmue?",
-        "options": [
-            "Joy",
-            "Nozomi",
-            "Ren",
-            "Shenhua"
-        ],
-        "answer": "Nozomi",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual a importância do tempo em Shenmue?",
-        "options": [
-            "Ilimitado",
-            "Contagem regressiva",
-            "Ciclo dia e noite",
-            "Sem importância"
-        ],
-        "answer": "Ciclo dia e noite",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual a principal característica dos gráficos de Shenmue?",
-        "options": [
-            "Cartunescos",
-            "Realistas para a época",
-            "Pixel art",
-            "Minimalistas"
-        ],
-        "answer": "Realistas para a época",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Shenmue é conhecido por sua trilha sonora, qual é o estilo?",
-        "options": [
-            "Rock",
-            "Orquestral",
-            "Eletrônica",
-            "Pop"
-        ],
-        "answer": "Orquestral",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é o nome da protagonista em Resident Evil Code Veronica?",
-        "options": [
-            "Jill Valentine",
-            "Claire Redfield",
-            "Ada Wong",
-            "Rebecca Chambers"
-        ],
-        "answer": "Claire Redfield",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Resident Evil Code Veronica, Claire está procurando por quem?",
-        "options": [
-            "Seu irmão",
-            "Seu pai",
-            "Seu namorado",
-            "Seu cachorro"
-        ],
-        "answer": "Seu irmão",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Resident Evil Code Veronica é um jogo de qual gênero?",
-        "options": [
-            "Ação",
-            "Terror de sobrevivência",
-            "RPG",
-            "Tiro"
-        ],
-        "answer": "Terror de sobrevivência",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Evil Twin Cypriens Chronicles, qual mundo é o lar de Cyprien?",
-        "options": [
-            "Mundo Real",
-            "Mundo dos Sonhos",
-            "Mundo Sombrio",
-            "Mundo da Fantasia"
-        ],
-        "answer": "Mundo dos Sonhos",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "O que acontece com Cyprien no início de Evil Twin Cypriens Chronicles?",
-        "options": [
-            "Ele encontra um tesouro",
-            "Ele é sequestrado",
-            "Ele perde seu ursinho",
-            "Ele ganha poderes"
-        ],
-        "answer": "Ele perde seu ursinho",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é a principal habilidade de Cyprien em Evil Twin Cypriens Chronicles?",
-        "options": [
-            "Voar",
-            "Transformação",
-            "Super Força",
-            "Invisibilidade"
-        ],
-        "answer": "Transformação",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Evil Twin Cypriens Chronicles apresenta qual tipo de jogabilidade?",
-        "options": [
-            "Corrida",
-            "Plataforma 3D",
-            "Estratégia",
-            "Tiro em primeira pessoa"
-        ],
-        "answer": "Plataforma 3D",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Quem é o principal antagonista em Evil Twin Cypriens Chronicles?",
-        "options": [
-            "Rei Pesadelo",
-            "Rainha Sombria",
-            "Dr. Maligno",
-            "Mestre das Sombras"
-        ],
-        "answer": "Rei Pesadelo",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Evil Twin Cypriens Chronicles, qual é o objetivo de Cyprien?",
-        "options": [
-            "Salvar a princesa",
-            "Resgatar seu ursinho",
-            "Derrotar o dragão",
-            "Explorar o universo"
-        ],
-        "answer": "Resgatar seu ursinho",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Evil Twin Cypriens Chronicles é conhecido por seu estilo visual, que é?",
-        "options": [
-            "Realista",
-            "Cartunesco",
-            "Minimalista",
-            "Pixel Art"
-        ],
-        "answer": "Cartunesco",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual console foi o principal lançamento de Evil Twin Cypriens Chronicles?",
-        "options": [
-            "PlayStation 2",
-            "Xbox",
-            "GameCube",
-            "Dreamcast"
-        ],
-        "answer": "PlayStation 2",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Evil Twin Cypriens Chronicles tem um enredo que envolve qual conceito?",
-        "options": [
-            "Viagem no tempo",
-            "Realidades paralelas",
-            "Inteligência artificial",
-            "Conquista espacial"
-        ],
-        "answer": "Realidades paralelas",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é a atmosfera geral de Evil Twin Cypriens Chronicles?",
-        "options": [
-            "Terror",
-            "Comédia",
-            "Fantasia sombria",
-            "Ficção científica"
-        ],
-        "answer": "Fantasia sombria",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Evil Twin Cypriens Chronicles permite que Cyprien se transforme em quem?",
-        "options": [
-            "Um monstro",
-            "Um herói",
-            "Uma versão maligna",
-            "Um animal"
-        ],
-        "answer": "Uma versão maligna",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é o nome do companheiro de Cyprien em Evil Twin Cypriens Chronicles?",
-        "options": [
-            "Gnarly",
-            "Sparky",
-            "Buddy",
-            "Gizmo"
-        ],
-        "answer": "Gnarly",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Evil Twin Cypriens Chronicles, qual objeto mágico é crucial?",
-        "options": [
-            "Anel",
-            "Cajado",
-            "Espelho",
-            "Amuleto"
-        ],
-        "answer": "Amuleto",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Evil Twin Cypriens Chronicles foi desenvolvido por qual empresa?",
-        "options": [
-            "Ubisoft",
-            "Atari",
-            "Microids",
-            "Capcom"
-        ],
-        "answer": "Microids",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Quantos mundos diferentes Cyprien explora em Evil Twin Cypriens Chronicles?",
-        "options": [
-            "Três",
-            "Cinco",
-            "Sete",
-            "Dez"
-        ],
-        "answer": "Sete",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Evil Twin Cypriens Chronicles possui qual tipo de combate?",
-        "options": [
-            "Turnos",
-            "Tempo real",
-            "Tiro",
-            "Estratégia"
-        ],
-        "answer": "Tempo real",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é a fonte dos poderes de Cyprien em Evil Twin Cypriens Chronicles?",
-        "options": [
-            "Magia ancestral",
-            "Tecnologia alienígena",
-            "Seu ursinho",
-            "Sonhos"
-        ],
-        "answer": "Sonhos",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Evil Twin Cypriens Chronicles se passa principalmente onde?",
-        "options": [
-            "No espaço",
-            "Em um mundo de sonhos",
-            "Em uma cidade",
-            "No fundo do mar"
-        ],
-        "answer": "Em um mundo de sonhos",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual elemento é central para a narrativa de Evil Twin Cypriens Chronicles?",
-        "options": [
-            "Amizade",
-            "Vingança",
-            "Sonhos e pesadelos",
-            "Honra"
-        ],
-        "answer": "Sonhos e pesadelos",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Evil Twin Cypriens Chronicles apresenta inimigos baseados em que?",
-        "options": [
-            "Animais",
-            "Pesadelos",
-            "Robôs",
-            "Zumbis"
-        ],
-        "answer": "Pesadelos",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Evil Twin Cypriens Chronicles possui quais características de jogabilidade?",
-        "options": [
-            "Puzzles e exploração",
-            "Combate intenso",
-            "Construção de bases",
-            "Corrida"
-        ],
-        "answer": "Puzzles e exploração",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Evil Twin Cypriens Chronicles tem qual tipo de trilha sonora?",
-        "options": [
-            "Eletrônica",
-            "Orquestral",
-            "Rock",
-            "Jazz"
-        ],
-        "answer": "Orquestral",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é o nome da versão maligna de Cyprien em Evil Twin Cypriens Chronicles?",
-        "options": [
-            "Dark Cyprien",
-            "Bad Cyprien",
-            "Evil Cyprien",
-            "Shadow Cyprien"
-        ],
-        "answer": "Evil Cyprien",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Onde Ryo Hazuki continua sua jornada em Shenmue 2?",
-        "options": [
-            "Japão",
-            "Hong Kong",
-            "Estados Unidos",
-            "Europa"
-        ],
-        "answer": "Hong Kong",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é o objetivo principal de Ryo em Shenmue 2?",
-        "options": [
-            "Encontrar seu pai",
-            "Vingar seu pai",
-            "Procurar um tesouro",
-            "Achar um emprego"
-        ],
-        "answer": "Vingar seu pai",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Shenmue 2 é conhecido por seu gênero de jogo, qual é?",
-        "options": [
-            "RPG de ação",
-            "Aventura de mundo aberto",
-            "Luta",
-            "Simulação de vida"
-        ],
-        "answer": "Aventura de mundo aberto",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual personagem feminina ajuda Ryo em Shenmue 2?",
-        "options": [
-            "Lan Di",
-            "Ren",
-            "Joy",
-            "Shenhua"
-        ],
-        "answer": "Joy",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Shenmue 2, Ryo busca informações sobre qual organização?",
-        "options": [
-            "Mafia",
-            "Os Quatro",
-            "Chiyoumen",
-            "Dragões Negros"
-        ],
-        "answer": "Chiyoumen",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Shenmue 2 introduz qual novo sistema de combate?",
-        "options": [
-            "QTEs",
-            "Lutas de rua",
-            "Combate por turnos",
-            "Estratégia"
-        ],
-        "answer": "Lutas de rua",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é o nome do principal antagonista em Shenmue 2?",
-        "options": [
-            "Lan Di",
-            "Xiuying",
-            "Wong",
-            "Ren"
-        ],
-        "answer": "Lan Di",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Shenmue 2 se destaca por qual característica de jogo?",
-        "options": [
-            "Gráficos cartunescos",
-            "Mundo interativo",
-            "Linearidade",
-            "Foco em multiplayer"
-        ],
-        "answer": "Mundo interativo",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é a fonte de renda de Ryo em Shenmue 2?",
-        "options": [
-            "Trabalhos",
-            "Herança",
-            "Assaltos",
-            "Apostas"
-        ],
-        "answer": "Trabalhos",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Shenmue 2 foi lançado originalmente para qual console?",
-        "options": [
-            "PlayStation 2",
-            "Xbox",
-            "Dreamcast",
-            "GameCube"
-        ],
-        "answer": "Dreamcast",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Shenmue 2 é conhecido por seus eventos de qual tipo?",
-        "options": [
-            "Corrida",
-            "QTEs",
-            "Tiro",
-            "Estratégia"
-        ],
-        "answer": "QTEs",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é a relação de Shenhua com Ryo em Shenmue 2?",
-        "options": [
-            "Irmã",
-            "Amiga",
-            "Guia",
-            "Inimiga"
-        ],
-        "answer": "Guia",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Shenmue 2 apresenta qual tipo de clima dinâmico?",
-        "options": [
-            "Estações",
-            "Chuva",
-            "Neve",
-            "Vento"
-        ],
-        "answer": "Chuva",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é o nome do artefato misterioso em Shenmue 2?",
-        "options": [
-            "Espelho Dragão",
-            "Espelho Fênix",
-            "Espelho Sagrado",
-            "Espelho Mágico"
-        ],
-        "answer": "Espelho Fênix",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é o nome do jovem ladrão que Ryo encontra em Shenmue 2?",
+        "question": "Em Mortal Kombat 4, qual lutador tem braços extras e é um príncipe Shokan?",
         "options": [
             "Goro",
-            "Wong",
-            "Fuku",
-            "Tom"
+            "Kintaro",
+            "Motaro",
+            "Sheeva"
         ],
-        "answer": "Wong",
+        "answer": "Goro",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Shenmue 2 é conhecido por sua atenção aos detalhes em qual aspecto?",
+        "question": "Em Mortal Kombat 4, qual feiticeiro é o braço direito de Shinnok e mestre da magia negra?",
         "options": [
-            "Gráficos",
-            "Narrativa",
-            "Simulação da vida",
-            "Combate"
+            "Quan Chi",
+            "Shang Tsung",
+            "Ermac",
+            "Noob Saibot"
         ],
-        "answer": "Simulação da vida",
+        "answer": "Quan Chi",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Shenmue 2 foi desenvolvido por qual estúdio?",
+        "question": "Em Mortal Kombat 4, qual personagem é um guarda-costas de Sonya Blade e usa um chapéu de lâmina?",
         "options": [
-            "Capcom",
-            "Sega AM2",
-            "Square Enix",
-            "Kojima Productions"
+            "Jarek",
+            "Jax",
+            "Johnny Cage",
+            "Liu Kang"
         ],
-        "answer": "Sega AM2",
+        "answer": "Jarek",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Shenmue 2 é famoso por sua imersão em qual cultura?",
+        "question": "Em Mortal Kombat 4, qual lutadora é uma assassina Edeniana que usa leques como arma?",
         "options": [
-            "Japonesa",
-            "Chinesa",
-            "Coreana",
-            "Americana"
+            "Tanya",
+            "Kitana",
+            "Mileena",
+            "Jade"
         ],
-        "answer": "Chinesa",
+        "answer": "Tanya",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual é o nome da arte marcial secreta em Shenmue 2?",
+        "question": "Qual é o nome do ataque final brutal que é uma marca registrada de Mortal Kombat 4?",
         "options": [
-            "Estilo Dragão",
-            "Estilo Tigre",
-            "Estilo Fênix",
-            "Estilo Serpente"
+            "Fatality",
+            "Brutality",
+            "Animality",
+            "Friendship"
         ],
-        "answer": "Estilo Fênix",
+        "answer": "Fatality",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Shenmue 2 continua a história de qual jornada de Ryo?",
+        "question": "Em Mortal Kombat 4, qual personagem é um monge Shaolin que busca redenção?",
         "options": [
-            "Descoberta pessoal",
-            "Vingança familiar",
-            "Busca por poder",
-            "Exploração mundial"
+            "Kai",
+            "Liu Kang",
+            "Kung Lao",
+            "Raiden"
         ],
-        "answer": "Vingança familiar",
+        "answer": "Kai",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual é a principal diferença de Shenmue 2 em relação ao original?",
+        "question": "Em Nightmare Creatures, qual cidade europeia é assolada por monstros geneticamente modificados?",
         "options": [
-            "Mais personagens",
-            "Maior mapa",
-            "Melhor combate",
-            "Mais QTEs"
+            "Londres",
+            "Paris",
+            "Roma",
+            "Berlim"
         ],
-        "answer": "Maior mapa",
+        "answer": "Londres",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Shenmue 2 tem qual tipo de progressão de tempo?",
+        "question": "Qual é o nome do cientista louco responsável pela criação das criaturas em Nightmare Creatures?",
         "options": [
-            "Tempo real",
-            "Tempo acelerado",
-            "Tempo parado",
-            "Tempo reverso"
+            "Adam Crowley",
+            "Victor Frankenstein",
+            "Dr Jekyll",
+            "Jack, o Estripador"
         ],
-        "answer": "Tempo real",
+        "answer": "Adam Crowley",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual é o foco principal de Metropolis Street Racing?",
+        "question": "Em Nightmare Creatures, qual é o nome da ordem secreta que combate as abominações?",
         "options": [
-            "Corridas de rua",
-            "Combate veicular",
-            "Exploração",
-            "Construção de carros"
+            "Irmandade de Heliós",
+            "Templários",
+            "Assassinos",
+            "Caçadores"
         ],
-        "answer": "Corridas de rua",
+        "answer": "Irmandade de Heliós",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Metropolis Street Racing introduziu qual sistema de recompensa?",
+        "question": "Em Nightmare Creatures, qual tipo de arma é essencial para afastar os inimigos e causar dano extra?",
         "options": [
-            "Pontos de estilo",
-            "Dinheiro",
-            "Carros novos",
-            "Experiência"
+            "Armas de fogo",
+            "Armas brancas",
+            "Bombas",
+            "Magias"
         ],
-        "answer": "Pontos de estilo",
+        "answer": "Armas de fogo",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Metropolis Street Racing é conhecido por seu realismo em qual aspecto?",
+        "question": "Qual é o objetivo principal dos heróis em Nightmare Creatures ao enfrentar as criaturas?",
         "options": [
-            "Danos no carro",
-            "Física de condução",
-            "Clima dinâmico",
-            "Tráfego"
+            "Parar a praga",
+            "Destruir Crowley",
+            "Salvar a cidade",
+            "Resgatar reféns"
         ],
-        "answer": "Física de condução",
+        "answer": "Parar a praga",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual console foi o principal lançamento de Metropolis Street Racing?",
+        "question": "Qual é o nome da filha de um dos protagonistas em Nightmare Creatures que está desaparecida?",
         "options": [
-            "PlayStation 2",
-            "Xbox",
-            "Dreamcast",
-            "GameCube"
+            "Isabella",
+            "Elizabeth",
+            "Victoria",
+            "Catherine"
         ],
-        "answer": "Dreamcast",
+        "answer": "Isabella",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual é o nome do sistema de desafios em Metropolis Street Racing?",
+        "question": "Qual é a mecânica de combate única de Rival Schools que permite ataques em dupla?",
         "options": [
-            "Kudos",
-            "Estilo",
-            "Pontos",
-            "Desafios"
+            "Ataques em Equipe",
+            "Ataques Especiais",
+            "Super Combos",
+            "Final Moves"
         ],
-        "answer": "Kudos",
+        "answer": "Ataques em Equipe",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Metropolis Street Racing se destaca por qual elemento visual?",
+        "question": "Em Rival Schools, qual personagem é uma professora de ginástica que usa movimentos acrobáticos?",
         "options": [
-            "Gráficos cartunescos",
-            "Cenários detalhados",
-            "Efeitos de explosão",
-            "Animações de personagens"
+            "Tiffany",
+            "Akira",
+            "Natsu",
+            "Sakura"
         ],
-        "answer": "Cenários detalhados",
+        "answer": "Tiffany",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual é o objetivo ao ganhar Kudos em Metropolis Street Racing?",
+        "question": "Qual é o nome do diretor da escola que está por trás dos incidentes em Rival Schools?",
         "options": [
-            "Desbloquear carros",
-            "Comprar upgrades",
-            "Avançar na carreira",
-            "Competir online"
+            "Raizo Imawano",
+            "Daigo Kazama",
+            "Roberto Miura",
+            "Roy Bromwell"
         ],
-        "answer": "Avançar na carreira",
+        "answer": "Raizo Imawano",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Em Metropolis Street Racing, qual a importância do tempo?",
+        "question": "Em Rival Schools, qual personagem é um lutador de judô com um forte senso de justiça?",
         "options": [
-            "Limite de tempo",
-            "Ciclo dia e noite",
-            "Estações",
-            "Clima"
+            "Daigo",
+            "Hinata",
+            "Kyosuke",
+            "Batsu"
         ],
-        "answer": "Ciclo dia e noite",
+        "answer": "Daigo",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Metropolis Street Racing foi desenvolvido por qual estúdio?",
+        "question": "Em Rival Schools, qual personagem é um estudante transferido que busca seu irmão desaparecido?",
         "options": [
-            "Criterion Games",
-            "Bizarre Creations",
-            "Codemasters",
-            "Turn 10 Studios"
+            "Akira",
+            "Batsu",
+            "Kyosuke",
+            "Roberto"
         ],
-        "answer": "Bizarre Creations",
+        "answer": "Akira",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Metropolis Street Racing é considerado um precursor de qual série?",
+        "question": "Em Samurai Spirits Amakusa Revenge, qual é o nome do demônio que retorna para causar destruição?",
         "options": [
-            "Forza Motorsport",
-            "Gran Turismo",
-            "Project Gotham Racing",
-            "Need for Speed"
+            "Amakusa Shiro Tokisada",
+            "Zankuro",
+            "Gaoh",
+            "Mizuki"
         ],
-        "answer": "Project Gotham Racing",
+        "answer": "Amakusa Shiro Tokisada",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Metropolis Street Racing oferece qual variedade de carros?",
+        "question": "Em Samurai Spirits Amakusa Revenge, qual personagem é um espadachim errante com um cão?",
         "options": [
-            "Apenas esportivos",
-            "Clássicos",
-            "Licenciados",
-            "Fictícios"
+            "Galford",
+            "Haohmaru",
+            "Genjuro",
+            "Ukyo"
         ],
-        "answer": "Licenciados",
+        "answer": "Galford",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual é o objetivo final em Metropolis Street Racing?",
+        "question": "Qual é o objetivo principal dos guerreiros em Samurai Spirits Amakusa Revenge?",
         "options": [
-            "Ser o mais rápido",
-            "Acumular mais Kudos",
-            "Completar todas as corridas",
-            "Derrotar rivais"
+            "Derrotar Amakusa",
+            "Proteger o Japão",
+            "Vingar-se",
+            "Buscar honra"
         ],
-        "answer": "Acumular mais Kudos",
+        "answer": "Derrotar Amakusa",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual é a importância da precisão em Metropolis Street Racing?",
+        "question": "Em Samurai Spirits Amakusa Revenge, qual personagem é uma sacerdotisa que usa magia?",
         "options": [
-            "Crucial para Kudos",
-            "Irrelevante",
-            "Apenas para tempo",
-            "Apenas para colisões"
+            "Nakoruru",
+            "Rimururu",
+            "Shiki",
+            "Mina"
         ],
-        "answer": "Crucial para Kudos",
+        "answer": "Nakoruru",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual é o nome do protagonista em Headhunter?",
+        "question": "Em Samurai Spirits Amakusa Revenge, qual personagem é um samurai com uma espada gigante?",
         "options": [
-            "Jack",
-            "Jack Wade",
-            "John",
-            "Alex"
+            "Haohmaru",
+            "Jubei",
+            "Kazuki",
+            "Sogetsu"
         ],
-        "answer": "Jack Wade",
+        "answer": "Haohmaru",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Em Headhunter, qual é o principal objetivo de Jack Wade?",
+        "question": "Qual é o nome do período histórico que serve de pano de fundo para Samurai Spirits Amakusa Revenge?",
         "options": [
-            "Resgatar a princesa",
-            "Vingar sua família",
-            "Recuperar sua memória",
-            "Derrotar o vilão"
+            "Período Edo",
+            "Período Sengoku",
+            "Período Meiji",
+            "Período Heian"
         ],
-        "answer": "Recuperar sua memória",
+        "answer": "Período Edo",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Headhunter se passa em qual tipo de futuro?",
+        "question": "Em Samurai Spirits Amakusa Revenge, qual personagem é uma ninja que usa correntes como arma?",
         "options": [
-            "Utopia",
-            "Distopia",
-            "Pós-apocalíptico",
-            "Medieval"
+            "Shiki",
+            "Charlotte",
+            "Sieger",
+            "Tam Tam"
         ],
-        "answer": "Distopia",
+        "answer": "Shiki",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Headhunter apresenta qual tipo de veículo?",
+        "question": "Em Spawn The Eternal, qual é o nome do protagonista que se torna um Hellspawn?",
         "options": [
-            "Carro",
-            "Moto",
-            "Nave espacial",
-            "Tanque"
+            "Al Simmons",
+            "Malebolgia",
+            "Cogliostro",
+            "Violator"
         ],
-        "answer": "Moto",
+        "answer": "Al Simmons",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual é o principal inimigo em Headhunter?",
+        "question": "Qual é a principal fonte de poder de Spawn em Spawn The Eternal, que se esgota com o uso?",
         "options": [
-            "Ciborgues",
-            "Gangues",
-            "Corporações",
-            "Terroristas"
+            "Necroplasma",
+            "Magia",
+            "Alma",
+            "Energia"
         ],
-        "answer": "Corporações",
+        "answer": "Necroplasma",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Headhunter possui qual tipo de perspectiva de câmera?",
+        "question": "Em Spawn The Eternal, qual é o nome do demônio que concede os poderes a Spawn?",
         "options": [
-            "Primeira pessoa",
-            "Terceira pessoa",
-            "Isométrica",
-            "Top-down"
+            "Malebolgia",
+            "Violator",
+            "Clown",
+            "Mammon"
         ],
-        "answer": "Terceira pessoa",
+        "answer": "Malebolgia",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual é a moeda em Headhunter?",
+        "question": "Qual é o objetivo de Spawn em Spawn The Eternal após retornar do inferno?",
         "options": [
-            "Créditos",
-            "Dólares",
-            "Ouro",
-            "Pontos"
+            "Vingar-se",
+            "Salvar a humanidade",
+            "Dominar o mundo",
+            "Buscar redenção"
         ],
-        "answer": "Créditos",
+        "answer": "Vingar-se",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Headhunter apresenta quais elementos de jogabilidade?",
+        "question": "Qual é o nome do palhaço demoníaco que atormenta Spawn em Spawn The Eternal?",
         "options": [
-            "Tiro e furtividade",
-            "Corrida e combate",
-            "Puzzles e exploração",
-            "Construção de bases"
+            "Violator",
+            "Malebolgia",
+            "Clown",
+            "Redeemer"
         ],
-        "answer": "Tiro e furtividade",
+        "answer": "Violator",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual é o nome da inteligência artificial que Jack Wade interage em Headhunter?",
+        "question": "Em Spawn The Eternal, qual é o nome da esposa de Al Simmons que ele tenta proteger?",
         "options": [
-            "IRIS",
-            "HAL",
-            "Skynet",
-            "GLaDOS"
+            "Wanda Blake",
+            "Jessica Priest",
+            "Terry Fitzgerald",
+            "Cyan"
         ],
-        "answer": "IRIS",
+        "answer": "Wanda Blake",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Headhunter foi desenvolvido por qual empresa?",
+        "question": "Qual é o principal tipo de combate em Spawn The Eternal?",
         "options": [
-            "Rockstar Games",
-            "Amuze",
-            "Konami",
-            "Sega"
+            "Combate corpo a corpo",
+            "Combate à distância",
+            "Combate furtivo",
+            "Combate estratégico"
         ],
-        "answer": "Amuze",
+        "answer": "Combate corpo a corpo",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual é o nome da filha do chefe de Jack em Headhunter?",
+        "question": "Em Spawn The Eternal, qual é o cenário predominante do jogo, refletindo o mundo sombrio?",
         "options": [
-            "Angela",
-            "Anna",
-            "Alice",
-            "Amy"
+            "Cenários urbanos e infernais",
+            "Cenários medievais",
+            "Cenários futuristas",
+            "Cenários de fantasia"
         ],
-        "answer": "Angela",
+        "answer": "Cenários urbanos e infernais",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Headhunter tem qual tipo de trilha sonora?",
+        "question": "Qual é o nome da arma principal de Spawn em Spawn The Eternal, que ele pode conjurar?",
         "options": [
-            "Rock",
-            "Eletrônica",
-            "Orquestral",
-            "Jazz"
+            "Correntes",
+            "Espada",
+            "Arma de fogo",
+            "Machado"
         ],
-        "answer": "Orquestral",
+        "answer": "Correntes",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual é o principal mistério em Headhunter?",
+        "question": "Qual é a principal característica que diferencia Street Fighter EX Plus Alpha dos jogos clássicos?",
         "options": [
-            "Quem matou o chefe",
-            "Onde está a cura",
-            "A identidade de Jack",
-            "O segredo da corporação"
+            "Gráficos 3D",
+            "Novos personagens",
+            "Combos aéreos",
+            "Cenários interativos"
         ],
-        "answer": "A identidade de Jack",
+        "answer": "Gráficos 3D",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual é a arma padrão de Jack Wade em Headhunter?",
+        "question": "Qual é a mecânica de combate introduzida em Street Fighter EX Plus Alpha que permite combos especiais?",
         "options": [
-            "Pistola",
-            "Rifle",
-            "Faca",
-            "Punhos"
+            "Excel",
+            "Super Combos",
+            "Guard Break",
+            "Custom Combo"
         ],
-        "answer": "Pistola",
+        "answer": "Excel",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual é o nome do chefe de Jack Wade em Headhunter?",
+        "question": "Em Street Fighter EX Plus Alpha, qual personagem é um lutador mascarado com um esqueleto?",
         "options": [
-            "Chief Johnson",
-            "Chief Miller",
-            "Chief Jones",
-            "Chief Smith"
-        ],
-        "answer": "Chief Miller",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual a principal inspiração para o design de Headhunter?",
-        "options": [
-            "Filmes de ação",
-            "Jogos de terror",
-            "Animes",
-            "Quadrinhos"
-        ],
-        "answer": "Filmes de ação",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Em Crazy Taxi 2, qual é o objetivo principal do jogador?",
-        "options": [
-            "Entregar passageiros",
-            "Correr contra o tempo",
-            "Destruir carros",
-            "Explorar a cidade"
-        ],
-        "answer": "Entregar passageiros",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Crazy Taxi 2 é conhecido por sua trilha sonora, qual é o gênero?",
-        "options": [
-            "Rock",
-            "Pop",
-            "Eletrônica",
-            "Hip Hop"
-        ],
-        "answer": "Rock",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Crazy Taxi 2 apresenta qual tipo de ambiente?",
-        "options": [
-            "Pistas de corrida",
-            "Cidades abertas",
-            "Floresta",
-            "Deserto"
-        ],
-        "answer": "Cidades abertas",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é a principal característica visual de Crazy Taxi 2?",
-        "options": [
-            "Gráficos realistas",
-            "Estilo arcade",
-            "Pixel art",
-            "Cel-shaded"
-        ],
-        "answer": "Estilo arcade",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é o elemento chave para ganhar mais dinheiro em Crazy Taxi 2?",
-        "options": [
-            "Velocidade",
-            "Colisões",
-            "Manobras",
-            "Rotas longas"
-        ],
-        "answer": "Manobras",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual a importância do tempo em Crazy Taxi 2?",
-        "options": [
-            "Ilimitado",
-            "Contagem regressiva",
-            "Bônus por tempo",
-            "Sem importância"
-        ],
-        "answer": "Contagem regressiva",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual é a sensação de jogabilidade em Crazy Taxi 2?",
-        "options": [
-            "Lenta",
-            "Realista",
-            "Frenética",
-            "Calma"
-        ],
-        "answer": "Frenética",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual o principal foco do jogo Need for Speed Porsche Unleashed no PS1?",
-        "options": [
-            "Corrida arcade",
-            "História piloto",
-            "Carros Porsche",
-            "Personalizar carros"
-        ],
-        "answer": "Carros Porsche",
-        "category": "Games & Brinquedos"
-    },
-    {
-        "question": "Qual o nome do personagem de Street Fighter EX2 Plus que é uma espécie de super-herói?",
-        "options": [
-            "Captain Commando",
             "Skullomania",
-            "Area",
-            "Gouki"
+            "Vega",
+            "Balrog",
+            "Sagat"
         ],
         "answer": "Skullomania",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "O que os cenários de EX2 Plus ganharam para parecerem mais 'interativos'?",
+        "question": "Qual é o nome do ataque que quebra a guarda do oponente em Street Fighter EX Plus Alpha?",
         "options": [
-            "Nada",
-            "Pequenos movimentos",
-            "Destruição",
-            "Queda de itens"
+            "Guard Break",
+            "Throw",
+            "Counter",
+            "Block"
         ],
-        "answer": "Pequenos movimentos",
+        "answer": "Guard Break",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual a principal razão pela qual a série Street Fighter EX mudou para gráficos 3D?",
+        "question": "Em Street Fighter EX Plus Alpha, qual personagem é uma dançarina com movimentos ágeis?",
         "options": [
-            "Limitação de hardware do PS1",
-            "Tendência da indústria na época",
-            "Decisão da Capcom para inovar",
-            "Facilitar a criação de novos personagens"
+            "Blair Dame",
+            "Chun-Li",
+            "Cammy",
+            "Rose"
         ],
-        "answer": "Tendência da indústria na época",
+        "answer": "Blair Dame",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual a principal característica do corpo de Garuda em Street Fighter EX2 Plus?",
+        "question": "Em Street Fighter EX Plus Alpha, qual personagem é um mestre de artes marciais com um bastão?",
         "options": [
-            "Feito de gelo",
-            "Composto de metal e circuitos",
-            "Coberto por espinhos e lâminas",
-            "Possui asas de demônio"
+            "Doctrine Dark",
+            "Guile",
+            "Ken",
+            "Ryu"
         ],
-        "answer": "Coberto por espinhos e lâminas",
+        "answer": "Doctrine Dark",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual o significado da palavra 'EX' no título de Street Fighter EX2 Plus?",
+        "question": "Em Street Fighter EX Plus Alpha, qual personagem é uma lutadora de kung fu que usa um leque?",
         "options": [
-            "Extra ou Exceed",
-            "Experience",
-            "Excellent",
-            "Extreme"
+            "Hokuto",
+            "Chun-Li",
+            "Sakura",
+            "Karin"
         ],
-        "answer": "Extra ou Exceed",
+        "answer": "Hokuto",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual o nome do personagem secreto de Street Fighter EX2 Plus que é um clone de Ryu sem memória?",
+        "question": "Qual é o nome do sistema de combate introduzido em The King of Fighters 97 que afeta a barra de poder?",
         "options": [
-            "Shadow Ryu",
-            "Alpha Ryu",
+            "Advanced e Extra",
+            "Power Gauge",
+            "Super Cancel",
+            "Max Mode"
+        ],
+        "answer": "Advanced e Extra",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em The King of Fighters 97, qual personagem é uma lutadora de Taekwondo que usa um leque?",
+        "options": [
+            "Mai Shiranui",
+            "King",
+            "Yuri Sakazaki",
+            "Athena Asamiya"
+        ],
+        "answer": "Mai Shiranui",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do torneio que reúne os lutadores em The King of Fighters 97?",
+        "options": [
+            "The King of Fighters",
+            "Fatal Fury Tournament",
+            "Art of Fighting Tournament",
+            "KOF Cup"
+        ],
+        "answer": "The King of Fighters",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em The King of Fighters 97, qual personagem é um lutador de artes marciais que usa chamas?",
+        "options": [
+            "Kyo Kusanagi",
+            "Iori Yagami",
+            "Benimaru Nikaido",
+            "Goro Daimon"
+        ],
+        "answer": "Kyo Kusanagi",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do chefe final de The King of Fighters 97, uma entidade divina?",
+        "options": [
+            "Orochi",
+            "Goenitz",
+            "Rugal",
+            "Omega Rugal"
+        ],
+        "answer": "Orochi",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Tomb Raider 2, qual é o nome do artefato místico que Lara Croft busca?",
+        "options": [
+            "Adaga de Xian",
+            "Scion",
+            "Olho de Isis",
+            "Máscara de Tornarsuk"
+        ],
+        "answer": "Adaga de Xian",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome da mansão de Lara Croft em Tomb Raider 2, que serve como área de treino?",
+        "options": [
+            "Croft Manor",
+            "Croft Estate",
+            "Lara's Home",
+            "Croft Residence"
+        ],
+        "answer": "Croft Manor",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Tomb Raider 2, qual animal selvagem é um inimigo comum que Lara enfrenta?",
+        "options": [
+            "Tigre",
+            "Urso",
+            "Lobo",
+            "Crocodilo"
+        ],
+        "answer": "Tigre",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Tomb Raider 2, qual é a cidade italiana famosa que Lara explora em busca de pistas?",
+        "options": [
+            "Veneza",
+            "Roma",
+            "Florença",
+            "Milão"
+        ],
+        "answer": "Veneza",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o principal tipo de arma que Blasto usa para combater os inimigos?",
+        "options": [
+            "Armas de laser",
+            "Espadas",
+            "Granadas",
+            "Mísseis"
+        ],
+        "answer": "Armas de laser",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Blasto, qual é o nome do vilão que sequestrou as princesas alienígenas?",
+        "options": [
+            "Demented Blob",
+            "Bop",
+            "Glurp",
+            "Evil Overlord"
+        ],
+        "answer": "Demented Blob",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é a principal habilidade de Blasto para se mover pelos níveis em Blasto?",
+        "options": [
+            "Pular",
+            "Voar",
+            "Correr",
+            "Rastejar"
+        ],
+        "answer": "Pular",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Blasto, qual é o planeta natal das princesas que Blasto deve salvar?",
+        "options": [
+            "Planetoid X",
+            "Terra",
+            "Marte",
+            "Vênus"
+        ],
+        "answer": "Planetoid X",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome dos pequenos inimigos gelatinosos que Blasto enfrenta em Blasto?",
+        "options": [
+            "Blobs",
+            "Slimes",
+            "Goo",
+            "Jellies"
+        ],
+        "answer": "Blobs",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Blasto, qual é o objetivo final de Blasto ao longo do jogo?",
+        "options": [
+            "Resgatar as princesas",
+            "Derrotar o vilão",
+            "Explorar o espaço",
+            "Coletar itens"
+        ],
+        "answer": "Resgatar as princesas",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do veículo voador que Blasto usa em algumas fases de Blasto?",
+        "options": [
+            "Hovercraft",
+            "Nave espacial",
+            "Jato",
+            "Helicóptero"
+        ],
+        "answer": "Hovercraft",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Crash Bandicoot 3 Warped, qual é a principal habilidade de Crash para viajar no tempo?",
+        "options": [
+            "Máquina do Tempo",
+            "Portal",
+            "Teletransporte",
+            "Warp Pad"
+        ],
+        "answer": "Máquina do Tempo",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Final Fantasy 7, qual é o nome da cidade onde a maior parte da história inicial se desenrola, dominada pela Shinra?",
+        "options": [
+            "Midgar",
+            "Kalm",
+            "Junon",
+            "Nibelheim"
+        ],
+        "answer": "Midgar",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome da poderosa energia vital do planeta que a Shinra explora em Final Fantasy 7?",
+        "options": [
+            "Mako",
+            "Materia",
+            "Limit Break",
+            "Summons"
+        ],
+        "answer": "Mako",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Final Fantasy 7, qual criatura lendária é invocada por Aerith para proteger o planeta?",
+        "options": [
+            "Holy",
+            "Meteor",
+            "Ultima",
+            "Bahamut"
+        ],
+        "answer": "Holy",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual membro do grupo de Final Fantasy 7 é um felino robótico que fala através de um megafone?",
+        "options": [
+            "Cait Sith",
+            "Red XIII",
+            "Mog",
+            "Chocobo"
+        ],
+        "answer": "Cait Sith",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Final Fantasy 7, qual é o nome da espada gigante icônica de Cloud Strife?",
+        "options": [
+            "Buster Sword",
+            "Masamune",
+            "Ultima Weapon",
+            "Murasame"
+        ],
+        "answer": "Buster Sword",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do principal antagonista de Final Fantasy 7, conhecido por sua longa espada e cabelo prateado?",
+        "options": [
+            "Sephiroth",
+            "Rufus",
+            "Hojo",
+            "Jenova"
+        ],
+        "answer": "Sephiroth",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Final Fantasy 7, qual é a raça ancestral de Aerith, que tem uma conexão especial com o Planeta?",
+        "options": [
+            "Cetra",
+            "Shinra",
+            "Wutai",
+            "Gi"
+        ],
+        "answer": "Cetra",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do parque de diversões gigante que o grupo visita em Final Fantasy 7?",
+        "options": [
+            "Gold Saucer",
+            "Costa del Sol",
+            "Icicle Inn",
+            "Cosmo Canyon"
+        ],
+        "answer": "Gold Saucer",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Final Fantasy 7, qual é a substância mágica que permite aos personagens usar habilidades e magias?",
+        "options": [
+            "Materia",
+            "Potion",
+            "Elixir",
+            "Phoenix Down"
+        ],
+        "answer": "Materia",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do deus caído que retorna como o principal vilão em Mortal Kombat 4?",
+        "options": [
+            "Shinnok",
+            "Quan Chi",
+            "Goro",
+            "Shao Kahn"
+        ],
+        "answer": "Shinnok",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Mortal Kombat 4, qual lutador tem braços extras e é um príncipe Shokan?",
+        "options": [
+            "Goro",
+            "Kintaro",
+            "Motaro",
+            "Sheeva"
+        ],
+        "answer": "Goro",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é a nova mecânica de combate introduzida em Mortal Kombat 4 que permite pegar armas?",
+        "options": [
+            "Armas",
+            "Brutalities",
+            "Animalities",
+            "Friendships"
+        ],
+        "answer": "Armas",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Mortal Kombat 4, qual feiticeiro é o braço direito de Shinnok e mestre da magia negra?",
+        "options": [
+            "Quan Chi",
+            "Shang Tsung",
+            "Ermac",
+            "Noob Saibot"
+        ],
+        "answer": "Quan Chi",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual lutador de Mortal Kombat 4 é um ninja de gelo e irmão de Sub-Zero?",
+        "options": [
+            "Sub-Zero",
+            "Scorpion",
+            "Reptile",
+            "Smoke"
+        ],
+        "answer": "Sub-Zero",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Mortal Kombat 4, qual personagem é um guarda-costas de Sonya Blade e usa um chapéu de lâmina?",
+        "options": [
+            "Jarek",
+            "Jax",
+            "Johnny Cage",
+            "Liu Kang"
+        ],
+        "answer": "Jarek",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do reino de onde Shinnok foi banido em Mortal Kombat 4?",
+        "options": [
+            "Netherrealm",
+            "Outworld",
+            "Earthrealm",
+            "Edenia"
+        ],
+        "answer": "Netherrealm",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Mortal Kombat 4, qual lutadora é uma assassina Edeniana que usa leques como arma?",
+        "options": [
+            "Tanya",
+            "Kitana",
+            "Mileena",
+            "Jade"
+        ],
+        "answer": "Tanya",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do ataque final brutal que é uma marca registrada de Mortal Kombat 4?",
+        "options": [
+            "Fatality",
+            "Brutality",
+            "Animality",
+            "Friendship"
+        ],
+        "answer": "Fatality",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Mortal Kombat 4, qual personagem é um monge Shaolin que busca redenção?",
+        "options": [
+            "Kai",
+            "Liu Kang",
+            "Kung Lao",
+            "Raiden"
+        ],
+        "answer": "Kai",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Nightmare Creatures, qual cidade europeia é assolada por monstros geneticamente modificados?",
+        "options": [
+            "Londres",
+            "Paris",
+            "Roma",
+            "Berlim"
+        ],
+        "answer": "Londres",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do cientista louco responsável pela criação das criaturas em Nightmare Creatures?",
+        "options": [
+            "Adam Crowley",
+            "Victor Frankenstein",
+            "Dr Jekyll",
+            "Jack, o Estripador"
+        ],
+        "answer": "Adam Crowley",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Nightmare Creatures, qual é o nome da ordem secreta que combate as abominações?",
+        "options": [
+            "Irmandade de Heliós",
+            "Templários",
+            "Assassinos",
+            "Caçadores"
+        ],
+        "answer": "Irmandade de Heliós",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual dos personagens jogáveis em Nightmare Creatures usa uma espada e um machado?",
+        "options": [
+            "Ignatius",
+            "Nadia",
+            "Jack",
+            "Jill"
+        ],
+        "answer": "Ignatius",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Nightmare Creatures, qual tipo de arma é essencial para afastar os inimigos e causar dano extra?",
+        "options": [
+            "Armas de fogo",
+            "Armas brancas",
+            "Bombas",
+            "Magias"
+        ],
+        "answer": "Armas de fogo",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o objetivo principal dos heróis em Nightmare Creatures ao enfrentar as criaturas?",
+        "options": [
+            "Parar a praga",
+            "Destruir Crowley",
+            "Salvar a cidade",
+            "Resgatar reféns"
+        ],
+        "answer": "Parar a praga",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Nightmare Creatures, qual é o medidor que indica a saúde mental do personagem, além da vida?",
+        "options": [
+            "Medo",
+            "Sanidade",
+            "Coragem",
+            "Espírito"
+        ],
+        "answer": "Medo",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome da filha de um dos protagonistas em Nightmare Creatures que está desaparecida?",
+        "options": [
+            "Isabella",
+            "Elizabeth",
+            "Victoria",
+            "Catherine"
+        ],
+        "answer": "Isabella",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Nightmare Creatures, qual é o elemento gótico e sombrio que permeia o cenário do jogo?",
+        "options": [
+            "Terror vitoriano",
+            "Ficção científica",
+            "Fantasia medieval",
+            "Steampunk"
+        ],
+        "answer": "Terror vitoriano",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do cemitério infame que os heróis exploram em Nightmare Creatures?",
+        "options": [
+            "Highgate",
+            "Westminster",
+            "Kensal Green",
+            "Brompton"
+        ],
+        "answer": "Highgate",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Rival Schools, qual é o nome da escola que serve como cenário principal para os combates?",
+        "options": [
+            "Taiyo High",
+            "Gedo High",
+            "Pacific High",
+            "Gorin High"
+        ],
+        "answer": "Taiyo High",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é a mecânica de combate única de Rival Schools que permite ataques em dupla?",
+        "options": [
+            "Ataques em Equipe",
+            "Ataques Especiais",
+            "Super Combos",
+            "Final Moves"
+        ],
+        "answer": "Ataques em Equipe",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Rival Schools, qual personagem é um jogador de beisebol com um bastão como arma?",
+        "options": [
+            "Shoma",
+            "Batsu",
+            "Kyosuke",
+            "Hideo"
+        ],
+        "answer": "Shoma",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o objetivo principal dos estudantes em Rival Schools ao participar dos torneios?",
+        "options": [
+            "Descobrir sequestros",
+            "Vingar-se",
+            "Ganhar prêmios",
+            "Ficar famoso"
+        ],
+        "answer": "Descobrir sequestros",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Rival Schools, qual personagem é uma professora de ginástica que usa movimentos acrobáticos?",
+        "options": [
+            "Tiffany",
+            "Akira",
+            "Natsu",
+            "Sakura"
+        ],
+        "answer": "Tiffany",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do diretor da escola que está por trás dos incidentes em Rival Schools?",
+        "options": [
+            "Raizo Imawano",
+            "Daigo Kazama",
+            "Roberto Miura",
+            "Roy Bromwell"
+        ],
+        "answer": "Raizo Imawano",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Rival Schools, qual personagem é um lutador de judô com um forte senso de justiça?",
+        "options": [
+            "Daigo",
+            "Hinata",
+            "Kyosuke",
+            "Batsu"
+        ],
+        "answer": "Daigo",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do ataque especial em Rival Schools que envolve a cooperação de dois personagens?",
+        "options": [
+            "Team-Up Technique",
+            "Partner Attack",
+            "Duo Combo",
+            "Joint Strike"
+        ],
+        "answer": "Team-Up Technique",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Rival Schools, qual personagem é um estudante transferido que busca seu irmão desaparecido?",
+        "options": [
+            "Akira",
+            "Batsu",
+            "Kyosuke",
+            "Roberto"
+        ],
+        "answer": "Akira",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do torneio que reúne estudantes de diferentes escolas em Rival Schools?",
+        "options": [
+            "Torneio Escolar",
+            "Torneio de Luta",
+            "Festival de Artes Marciais",
+            "Campeonato Interescolar"
+        ],
+        "answer": "Torneio Escolar",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Samurai Spirits Amakusa Revenge, qual é o nome do demônio que retorna para causar destruição?",
+        "options": [
+            "Amakusa Shiro Tokisada",
+            "Zankuro",
+            "Gaoh",
+            "Mizuki"
+        ],
+        "answer": "Amakusa Shiro Tokisada",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é a mecânica de combate distintiva de Samurai Spirits Amakusa Revenge focada em armas?",
+        "options": [
+            "Combate com Armas",
+            "Combos",
+            "Desarmes",
+            "Contra-ataques"
+        ],
+        "answer": "Combate com Armas",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Samurai Spirits Amakusa Revenge, qual personagem é um espadachim errante com um cão?",
+        "options": [
+            "Galford",
+            "Haohmaru",
+            "Genjuro",
+            "Ukyo"
+        ],
+        "answer": "Galford",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o objetivo principal dos guerreiros em Samurai Spirits Amakusa Revenge?",
+        "options": [
+            "Derrotar Amakusa",
+            "Proteger o Japão",
+            "Vingar-se",
+            "Buscar honra"
+        ],
+        "answer": "Derrotar Amakusa",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Samurai Spirits Amakusa Revenge, qual personagem é uma sacerdotisa que usa magia?",
+        "options": [
+            "Nakoruru",
+            "Rimururu",
+            "Shiki",
+            "Mina"
+        ],
+        "answer": "Nakoruru",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do ataque especial que causa grande dano em Samurai Spirits Amakusa Revenge?",
+        "options": [
+            "Weapon Flipping Technique",
+            "Super Slash",
+            "Rage Explosion",
+            "Fatal Flash"
+        ],
+        "answer": "Weapon Flipping Technique",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Samurai Spirits Amakusa Revenge, qual personagem é um samurai com uma espada gigante?",
+        "options": [
+            "Haohmaru",
+            "Jubei",
+            "Kazuki",
+            "Sogetsu"
+        ],
+        "answer": "Haohmaru",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do período histórico que serve de pano de fundo para Samurai Spirits Amakusa Revenge?",
+        "options": [
+            "Período Edo",
+            "Período Sengoku",
+            "Período Meiji",
+            "Período Heian"
+        ],
+        "answer": "Período Edo",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Samurai Spirits Amakusa Revenge, qual personagem é uma ninja que usa correntes como arma?",
+        "options": [
+            "Shiki",
+            "Charlotte",
+            "Sieger",
+            "Tam Tam"
+        ],
+        "answer": "Shiki",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do ataque que desarma o oponente em Samurai Spirits Amakusa Revenge?",
+        "options": [
+            "Desarme",
+            "Quebra de Guarda",
+            "Contra-ataque",
+            "Ataque Forte"
+        ],
+        "answer": "Desarme",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Spawn The Eternal, qual é o nome do protagonista que se torna um Hellspawn?",
+        "options": [
+            "Al Simmons",
+            "Malebolgia",
+            "Cogliostro",
+            "Violator"
+        ],
+        "answer": "Al Simmons",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é a principal fonte de poder de Spawn em Spawn The Eternal, que se esgota com o uso?",
+        "options": [
+            "Necroplasma",
+            "Magia",
+            "Alma",
+            "Energia"
+        ],
+        "answer": "Necroplasma",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Spawn The Eternal, qual é o nome do demônio que concede os poderes a Spawn?",
+        "options": [
+            "Malebolgia",
+            "Violator",
+            "Clown",
+            "Mammon"
+        ],
+        "answer": "Malebolgia",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o objetivo de Spawn em Spawn The Eternal após retornar do inferno?",
+        "options": [
+            "Vingar-se",
+            "Salvar a humanidade",
+            "Dominar o mundo",
+            "Buscar redenção"
+        ],
+        "answer": "Vingar-se",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Spawn The Eternal, qual é o nome da organização que caça Spawn e outras criaturas?",
+        "options": [
+            "A.T.F.",
+            "CIA",
+            "FBI",
+            "S.H.I.E.L.D."
+        ],
+        "answer": "A.T.F.",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do palhaço demoníaco que atormenta Spawn em Spawn The Eternal?",
+        "options": [
+            "Violator",
+            "Malebolgia",
+            "Clown",
+            "Redeemer"
+        ],
+        "answer": "Violator",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Spawn The Eternal, qual é o nome da esposa de Al Simmons que ele tenta proteger?",
+        "options": [
+            "Wanda Blake",
+            "Jessica Priest",
+            "Terry Fitzgerald",
+            "Cyan"
+        ],
+        "answer": "Wanda Blake",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o principal tipo de combate em Spawn The Eternal?",
+        "options": [
+            "Combate corpo a corpo",
+            "Combate à distância",
+            "Combate furtivo",
+            "Combate estratégico"
+        ],
+        "answer": "Combate corpo a corpo",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Spawn The Eternal, qual é o cenário predominante do jogo, refletindo o mundo sombrio?",
+        "options": [
+            "Cenários urbanos e infernais",
+            "Cenários medievais",
+            "Cenários futuristas",
+            "Cenários de fantasia"
+        ],
+        "answer": "Cenários urbanos e infernais",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome da arma principal de Spawn em Spawn The Eternal, que ele pode conjurar?",
+        "options": [
+            "Correntes",
+            "Espada",
+            "Arma de fogo",
+            "Machado"
+        ],
+        "answer": "Correntes",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é a principal característica que diferencia Street Fighter EX Plus Alpha dos jogos clássicos?",
+        "options": [
+            "Gráficos 3D",
+            "Novos personagens",
+            "Combos aéreos",
+            "Cenários interativos"
+        ],
+        "answer": "Gráficos 3D",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Street Fighter EX Plus Alpha, qual é o nome do novo personagem que utiliza um estilo de luta de karatê?",
+        "options": [
             "Kairi",
-            "Violent Ken"
+            "Hokuto",
+            "Doctrine Dark",
+            "Skullomania"
         ],
         "answer": "Kairi",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual é a espécie dos protagonistas que carregam Baby Mario em Yoshi's Island (SNES)?",
+        "question": "Qual é a mecânica de combate introduzida em Street Fighter EX Plus Alpha que permite combos especiais?",
         "options": [
-            "Koopas",
-            "Goombas",
-            "Yoshis",
-            "Toads"
+            "Excel",
+            "Super Combos",
+            "Guard Break",
+            "Custom Combo"
         ],
-        "answer": "Yoshis",
+        "answer": "Excel",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual a principal característica das moedas coletáveis em Yoshi's Island (SNES)?",
+        "question": "Em Street Fighter EX Plus Alpha, qual personagem é um lutador mascarado com um esqueleto?",
         "options": [
-            "Moedas azuis",
-            "Moedas brilhosas",
-            "Moedas de estrela",
-            "Vermelhas e amarelas"
+            "Skullomania",
+            "Vega",
+            "Balrog",
+            "Sagat"
         ],
-        "answer": "Vermelhas e amarelas",
+        "answer": "Skullomania",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual a principal diferença de jogabilidade de Yoshi's Island (SNES) em relação a Super Mario World?",
+        "question": "Qual é o nome do ataque que quebra a guarda do oponente em Street Fighter EX Plus Alpha?",
         "options": [
-            "Não tem Yoshi",
-            "Foco em Yoshi e ovos",
-            "É um jogo de 3D",
-            "É um RPG"
+            "Guard Break",
+            "Throw",
+            "Counter",
+            "Block"
         ],
-        "answer": "Foco em Yoshi e ovos",
+        "answer": "Guard Break",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual a principal razão para o visual 'desenhado a lápis' de Yoshi's Island (SNES)?",
+        "question": "Em Street Fighter EX Plus Alpha, qual personagem é uma dançarina com movimentos ágeis?",
         "options": [
-            "Limite hardware",
-            "Estilo artístico",
-            "Economia tempo",
-            "Parecer infantil"
+            "Blair Dame",
+            "Chun-Li",
+            "Cammy",
+            "Rose"
         ],
-        "answer": "Estilo artístico",
+        "answer": "Blair Dame",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Em Yoshi's Island (SNES), o que o contador numérico em cima da bolha de Baby Mario representa?",
+        "question": "Qual é o nome do modo de jogo que permite treinar combos em Street Fighter EX Plus Alpha?",
         "options": [
-            "Vidas restantes",
-            "Pontos de vida",
-            "Tempo para perder",
-            "Número de ovos"
+            "Modo Treino",
+            "Modo Arcade",
+            "Modo Versus",
+            "Modo Bônus"
         ],
-        "answer": "Tempo para perder",
+        "answer": "Modo Treino",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "O que acontece com Baby Mario quando ele é atingido por um inimigo em Yoshi's Island (SNES)?",
+        "question": "Em Street Fighter EX Plus Alpha, qual personagem é um mestre de artes marciais com um bastão?",
         "options": [
-            "Ele desaparece",
-            "Chora em uma bolha",
-            "Ele perde uma vida",
-            "Ele se torna invencível"
+            "Doctrine Dark",
+            "Guile",
+            "Ken",
+            "Ryu"
         ],
-        "answer": "Chora em uma bolha",
+        "answer": "Doctrine Dark",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Em Yoshi's Island (SNES), o que Kamek faz com Baby Bowser para torná-lo gigante na batalha final?",
+        "question": "Qual é a principal inovação gráfica de Street Fighter EX Plus Alpha em relação aos anteriores?",
         "options": [
-            "Feitiço de crescer",
-            "Poção mágica",
-            "Ele nasce grande",
-            "Ele come cogumelo"
+            "Modelos poligonais",
+            "Sprites detalhados",
+            "Animações fluidas",
+            "Efeitos de luz"
         ],
-        "answer": "Feitiço de crescer",
+        "answer": "Modelos poligonais",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual o nome da mecânica que permite interromper os combos do adversário em Killer Instinct do SNES?",
+        "question": "Em Street Fighter EX Plus Alpha, qual personagem é uma lutadora de kung fu que usa um leque?",
         "options": [
-            "Combo Stopper",
-            "Breaker",
-            "Combo Breaker",
-            "Defense Move"
+            "Hokuto",
+            "Chun-Li",
+            "Sakura",
+            "Karin"
         ],
-        "answer": "Combo Breaker",
+        "answer": "Hokuto",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual personagem de Killer Instinct do SNES é um ciborgue avançado da Ultratech?",
+        "question": "Qual é a principal característica de The King of Fighters 97 que o diferencia de outros jogos de luta?",
         "options": [
-            "Cinder",
-            "Glacius",
-            "Fulgore",
-            "Riptor"
+            "Lutas em equipe de três",
+            "Combate um contra um",
+            "Sistema de tag",
+            "Armas"
         ],
-        "answer": "Fulgore",
+        "answer": "Lutas em equipe de três",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual a empresa fictícia que organiza o torneio Killer Instinct?",
+        "question": "Em The King of Fighters 97, qual é o nome do clã que busca ressuscitar Orochi?",
         "options": [
-            "MegaCorp",
-            "Cyberdyne",
-            "Ultratech",
-            "GlobalCorp"
+            "Orochi",
+            "Oito Serpentes",
+            "Kusanagi",
+            "Yagami"
         ],
-        "answer": "Ultratech",
+        "answer": "Orochi",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual a dificuldade de portar Killer Instinct do arcade para o SNES?",
+        "question": "Qual é o nome do sistema de combate introduzido em The King of Fighters 97 que afeta a barra de poder?",
         "options": [
-            "Gráficos 3D",
-            "Limite de memória",
-            "Poucos botões",
-            "Sem disco rígido"
+            "Advanced e Extra",
+            "Power Gauge",
+            "Super Cancel",
+            "Max Mode"
         ],
-        "answer": "Limite de memória",
+        "answer": "Advanced e Extra",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Em Killer Instinct do SNES, qual personagem pode se transformar em um lobo durante a luta?",
+        "question": "Em The King of Fighters 97, qual personagem é um lutador de karatê com um temperamento explosivo?",
         "options": [
-            "Sabrewulf",
-            "Spinal",
-            "Thunder",
-            "Jago"
+            "Iori Yagami",
+            "Kyo Kusanagi",
+            "Terry Bogard",
+            "Ryo Sakazaki"
         ],
-        "answer": "Sabrewulf",
+        "answer": "Iori Yagami",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Em Killer Instinct do SNES, o que é um 'Ultra Combo'?",
+        "question": "Qual é o nome do ataque final devastador em The King of Fighters 97?",
         "options": [
-            "Um golpe final",
-            "Sequência de golpes",
-            "Um golpe de dano",
-            "Combo restaura vida"
+            "Super Special Move",
+            "Desperation Move",
+            "Max Super Move",
+            "Ultimate Move"
         ],
-        "answer": "Sequência de golpes",
+        "answer": "Super Special Move",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual a característica mais marcante da voz do anunciador em Killer Instinct (SNES)?",
+        "question": "Em The King of Fighters 97, qual personagem é uma lutadora de Taekwondo que usa um leque?",
         "options": [
-            "Voz robótica",
-            "Voz grave e forte",
-            "Voz feminina",
-            "Voz aguda"
+            "Mai Shiranui",
+            "King",
+            "Yuri Sakazaki",
+            "Athena Asamiya"
         ],
-        "answer": "Voz grave e forte",
+        "answer": "Mai Shiranui",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual empresa foi a desenvolvedora de Killer Instinct para o SNES?",
+        "question": "Qual é o nome do torneio que reúne os lutadores em The King of Fighters 97?",
         "options": [
-            "Capcom",
-            "Rare",
-            "Midway",
-            "Nintendo"
+            "The King of Fighters",
+            "Fatal Fury Tournament",
+            "Art of Fighting Tournament",
+            "KOF Cup"
         ],
-        "answer": "Rare",
+        "answer": "The King of Fighters",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual elemento é crucial para o sucesso das perseguições em Driver 2?",
+        "question": "Em The King of Fighters 97, qual personagem é um lutador de artes marciais que usa chamas?",
         "options": [
-            "Velocidade do carro",
-            "Habilidade de tiro",
-            "Manobras e carro",
-            "Conhecer o mapa"
+            "Kyo Kusanagi",
+            "Iori Yagami",
+            "Benimaru Nikaido",
+            "Goro Daimon"
         ],
-        "answer": "Manobras e carro",
+        "answer": "Kyo Kusanagi",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Driver 2 foi o segundo jogo da série. Qual foi sua principal inovação?",
+        "question": "Qual é o nome do chefe final de The King of Fighters 97, uma entidade divina?",
         "options": [
-            "Gráficos 3D",
-            "Multiplayer online",
-            "Sair e andar",
-            "Sistema de danos"
+            "Orochi",
+            "Goenitz",
+            "Rugal",
+            "Omega Rugal"
         ],
-        "answer": "Sair e andar",
+        "answer": "Orochi",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Quantas cidades abertas o jogador pode explorar em Driver 2?",
+        "question": "Em The King of Fighters 97, qual personagem é um lutador de boxe com luvas enormes?",
         "options": [
-            "Duas",
-            "Três",
-            "Quatro",
-            "Cinco"
+            "Heavy D!",
+            "Joe Higashi",
+            "Andy Bogard",
+            "Robert Garcia"
         ],
-        "answer": "Quatro",
+        "answer": "Heavy D!",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual o principal protagonista do jogo Driver 2 no PS1?",
+        "question": "Em Tomb Raider 2, qual é o nome do artefato místico que Lara Croft busca?",
         "options": [
-            "Tanner",
-            "Jones",
-            "Jericho",
-            "Tobias"
+            "Adaga de Xian",
+            "Scion",
+            "Olho de Isis",
+            "Máscara de Tornarsuk"
         ],
-        "answer": "Tanner",
+        "answer": "Adaga de Xian",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Em Need for Speed Porsche Unleashed, como o jogador desbloqueia novos carros no modo Evolution?",
+        "question": "Qual é o principal meio de transporte que Lara Croft utiliza em Tomb Raider 2?",
         "options": [
-            "Ganhando dinheiro",
-            "Progredindo eras",
-            "Completando desafios",
-            "Achando segredos"
+            "Motocicleta",
+            "Carro",
+            "Barco",
+            "Avião"
         ],
-        "answer": "Progredindo eras",
+        "answer": "Motocicleta",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "O jogo Need for Speed Porsche Unleashed inclui carros da Porsche de quais períodos?",
+        "question": "Em Tomb Raider 2, qual é o nome do vilão que lidera uma seita e busca o artefato?",
         "options": [
-            "Apenas modernos",
-            "Apenas clássicos",
-            "De 1950 a 2000",
-            "Apenas protótipos"
+            "Marco Bartoli",
+            "Natla",
+            "Larson",
+            "Pierre"
         ],
-        "answer": "De 1950 a 2000",
+        "answer": "Marco Bartoli",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "A jogabilidade de Need for Speed Porsche Unleashed no PS1 era mais focada em qual aspecto?",
+        "question": "Qual é a principal habilidade de Lara Croft em Tomb Raider 2 para atravessar obstáculos?",
         "options": [
-            "Arcade",
-            "Simulação",
-            "Aventura",
-            "Estratégia"
+            "Escalar",
+            "Nadar",
+            "Pular",
+            "Rastejar"
         ],
-        "answer": "Simulação",
+        "answer": "Escalar",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "O jogo Driver 2 foi criticado por qual aspecto no PS1?",
+        "question": "Em Tomb Raider 2, qual é o cenário mais icônico e subaquático que Lara explora?",
         "options": [
-            "Trilha sonora ruim",
-            "IA dos inimigos",
-            "Taxa de quadros ruim",
-            "Falta de carros"
+            "Grande Muralha",
+            "Veneza",
+            "Plataforma de Petróleo",
+            "Templo de Xian"
         ],
-        "answer": "Taxa de quadros ruim",
+        "answer": "Grande Muralha",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Qual modo de jogo em Need for Speed Porsche Unleashed permite jogar através da história da marca?",
+        "question": "Qual é o nome da mansão de Lara Croft em Tomb Raider 2, que serve como área de treino?",
         "options": [
-            "Quick Race",
-            "Evolution",
-            "Factory Driver",
-            "Championship"
+            "Croft Manor",
+            "Croft Estate",
+            "Lara's Home",
+            "Croft Residence"
         ],
-        "answer": "Evolution",
+        "answer": "Croft Manor",
         "category": "Games & Brinquedos"
     },
     {
-        "question": "Em que ano foi lançado Need for Speed Porsche Unleashed para PlayStation 1?",
+        "question": "Em Tomb Raider 2, qual animal selvagem é um inimigo comum que Lara enfrenta?",
         "options": [
-            "1998",
-            "1999",
-            "2000",
-            "2001"
+            "Tigre",
+            "Urso",
+            "Lobo",
+            "Crocodilo"
         ],
-        "answer": "2000",
+        "answer": "Tigre",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do tipo de arma que Lara Croft usa como sua principal defesa em Tomb Raider 2?",
+        "options": [
+            "Pistolas duplas",
+            "Escopeta",
+            "Uzi",
+            "Rifle"
+        ],
+        "answer": "Pistolas duplas",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Tomb Raider 2, qual é a cidade italiana famosa que Lara explora em busca de pistas?",
+        "options": [
+            "Veneza",
+            "Roma",
+            "Florença",
+            "Milão"
+        ],
+        "answer": "Veneza",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do traje icônico de Lara Croft em Tomb Raider 2?",
+        "options": [
+            "Jaqueta bomber",
+            "Roupa de mergulho",
+            "Camiseta verde",
+            "Macacão preto"
+        ],
+        "answer": "Jaqueta bomber",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Blasto, qual é o nome do herói espacial que deve resgatar as princesas?",
+        "options": [
+            "Captain Blasto",
+            "Bop",
+            "Glurp",
+            "Demented Blob"
+        ],
+        "answer": "Captain Blasto",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o principal tipo de arma que Blasto usa para combater os inimigos?",
+        "options": [
+            "Armas de laser",
+            "Espadas",
+            "Granadas",
+            "Mísseis"
+        ],
+        "answer": "Armas de laser",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Blasto, qual é o nome do vilão que sequestrou as princesas alienígenas?",
+        "options": [
+            "Demented Blob",
+            "Bop",
+            "Glurp",
+            "Evil Overlord"
+        ],
+        "answer": "Demented Blob",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é a principal habilidade de Blasto para se mover pelos níveis em Blasto?",
+        "options": [
+            "Pular",
+            "Voar",
+            "Correr",
+            "Rastejar"
+        ],
+        "answer": "Pular",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Blasto, qual é o planeta natal das princesas que Blasto deve salvar?",
+        "options": [
+            "Planetoid X",
+            "Terra",
+            "Marte",
+            "Vênus"
+        ],
+        "answer": "Planetoid X",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do companheiro robótico de Blasto que o ajuda na aventura?",
+        "options": [
+            "Bop",
+            "Glurp",
+            "Clank",
+            "Ratchet"
+        ],
+        "answer": "Bop",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Blasto, qual é o estilo de jogo predominante do game?",
+        "options": [
+            "Plataforma 3D",
+            "Tiro em primeira pessoa",
+            "RPG",
+            "Aventura"
+        ],
+        "answer": "Plataforma 3D",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome dos pequenos inimigos gelatinosos que Blasto enfrenta em Blasto?",
+        "options": [
+            "Blobs",
+            "Slimes",
+            "Goo",
+            "Jellies"
+        ],
+        "answer": "Blobs",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Blasto, qual é o objetivo final de Blasto ao longo do jogo?",
+        "options": [
+            "Resgatar as princesas",
+            "Derrotar o vilão",
+            "Explorar o espaço",
+            "Coletar itens"
+        ],
+        "answer": "Resgatar as princesas",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do veículo voador que Blasto usa em algumas fases de Blasto?",
+        "options": [
+            "Hovercraft",
+            "Nave espacial",
+            "Jato",
+            "Helicóptero"
+        ],
+        "answer": "Hovercraft",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Crash Bandicoot 3 Warped, qual é a principal habilidade de Crash para viajar no tempo?",
+        "options": [
+            "Máquina do Tempo",
+            "Portal",
+            "Teletransporte",
+            "Warp Pad"
+        ],
+        "answer": "Máquina do Tempo",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do vilão principal que Crash e Coco enfrentam em Crash Bandicoot 3 Warped?",
+        "options": [
+            "Uka Uka",
+            "Neo Cortex",
+            "N. Tropy",
+            "Dingodile"
+        ],
+        "answer": "Uka Uka",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Crash Bandicoot 3 Warped, qual é o nome do espírito da máscara que protege Crash?",
+        "options": [
+            "Aku Aku",
+            "Uka Uka",
+            "Tiki",
+            "Mojo"
+        ],
+        "answer": "Aku Aku",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o objetivo principal de Crash em Crash Bandicoot 3 Warped?",
+        "options": [
+            "Coletar Cristais",
+            "Resgatar Coco",
+            "Derrotar Neo Cortex",
+            "Salvar o mundo"
+        ],
+        "answer": "Coletar Cristais",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Crash Bandicoot 3 Warped, qual é o nome do personagem jogável que monta um tigre?",
+        "options": [
+            "Coco Bandicoot",
+            "Crash Bandicoot",
+            "Polar",
+            "Pura"
+        ],
+        "answer": "Coco Bandicoot",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome dos itens colecionáveis que abrem novos portais em Crash Bandicoot 3 Warped?",
+        "options": [
+            "Cristais",
+            "Gemas",
+            "Relíquias",
+            "Wumpa Fruit"
+        ],
+        "answer": "Cristais",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Crash Bandicoot 3 Warped, qual é o tipo de fase que envolve pilotar um avião?",
+        "options": [
+            "Fases aéreas",
+            "Fases de corrida",
+            "Fases de natação",
+            "Fases de plataforma"
+        ],
+        "answer": "Fases aéreas",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do cientista que cria os inimigos em Crash Bandicoot 3 Warped?",
+        "options": [
+            "Dr. Neo Cortex",
+            "Dr. N. Gin",
+            "Dr. N. Tropy",
+            "Dr. Nitrus Brio"
+        ],
+        "answer": "Dr. Neo Cortex",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Crash Bandicoot 3 Warped, qual é o nome da habilidade de Crash que permite girar rapidamente?",
+        "options": [
+            "Spin",
+            "Giro",
+            "Tornado",
+            "Redemoinho"
+        ],
+        "answer": "Spin",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome dos desafios de tempo que dão relíquias em Crash Bandicoot 3 Warped?",
+        "options": [
+            "Time Trials",
+            "Speed Runs",
+            "Race Challenges",
+            "Bonus Rounds"
+        ],
+        "answer": "Time Trials",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Crime Killer, qual é o nome da cidade futurista onde o jogo se passa?",
+        "options": [
+            "Neo-City",
+            "Metrópolis",
+            "Cyber City",
+            "Mega-City"
+        ],
+        "answer": "Neo-City",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o principal veículo que o jogador controla em Crime Killer para combater o crime?",
+        "options": [
+            "Hovercraft",
+            "Carro voador",
+            "Tanque",
+            "Moto"
+        ],
+        "answer": "Hovercraft",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Crime Killer, qual é o nome da organização criminosa que domina a cidade?",
+        "options": [
+            "Syndicate",
+            "Mafia",
+            "Cartel",
+            "Gang"
+        ],
+        "answer": "Syndicate",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o objetivo principal do jogador em Crime Killer?",
+        "options": [
+            "Limpar a cidade",
+            "Destruir o Syndicate",
+            "Resgatar reféns",
+            "Proteger civis"
+        ],
+        "answer": "Limpar a cidade",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Crime Killer, qual é o tipo de arma que o hovercraft pode equipar para combater inimigos?",
+        "options": [
+            "Lasers",
+            "Mísseis",
+            "Canhões",
+            "Metralhadoras"
+        ],
+        "answer": "Lasers",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do sistema de mira que ajuda o jogador a acertar os alvos em Crime Killer?",
+        "options": [
+            "Auto-aim",
+            "Manual aim",
+            "Lock-on",
+            "Smart aim"
+        ],
+        "answer": "Auto-aim",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Crime Killer, qual é o estilo de jogo predominante do game?",
+        "options": [
+            "Tiro em terceira pessoa",
+            "Corrida",
+            "Estratégia",
+            "RPG"
+        ],
+        "answer": "Tiro em terceira pessoa",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome dos chefes que o jogador enfrenta em Crime Killer, que são líderes do Syndicate?",
+        "options": [
+            "Chefes de gangue",
+            "Mestres do crime",
+            "Líderes de facção",
+            "Barões do crime"
+        ],
+        "answer": "Chefes de gangue",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Crime Killer, qual é o elemento visual que se destaca nos cenários do jogo?",
+        "options": [
+            "Arquitetura futurista",
+            "Ruínas antigas",
+            "Florestas densas",
+            "Desertos vastos"
+        ],
+        "answer": "Arquitetura futurista",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome da polícia especial que o jogador faz parte em Crime Killer?",
+        "options": [
+            "Força Tarefa",
+            "Unidade de Elite",
+            "Esquadrão Anti-Crime",
+            "Patrulha Urbana"
+        ],
+        "answer": "Força Tarefa",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Darkstalkers 3, qual é a principal característica que diferencia os personagens?",
+        "options": [
+            "Seres sobrenaturais",
+            "Lutadores de rua",
+            "Robôs",
+            "Animais mutantes"
+        ],
+        "answer": "Seres sobrenaturais",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome da mecânica de combate em Darkstalkers 3 que permite cancelar ataques?",
+        "options": [
+            "Chain Combos",
+            "Dark Force",
+            "EX Moves",
+            "Guard Cancel"
+        ],
+        "answer": "Chain Combos",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Darkstalkers 3, qual personagem é uma súcubo com asas de morcego?",
+        "options": [
+            "Morrigan Aensland",
+            "Lilith",
+            "Felicia",
+            "Hsien-Ko"
+        ],
+        "answer": "Morrigan Aensland",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o objetivo dos Darkstalkers em Darkstalkers 3?",
+        "options": [
+            "Lutar pela sobrevivência",
+            "Dominar o mundo",
+            "Buscar poder",
+            "Proteger a humanidade"
+        ],
+        "answer": "Lutar pela sobrevivência",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Darkstalkers 3, qual personagem é um vampiro nobre com poderes sombrios?",
+        "options": [
+            "Demitri Maximoff",
+            "Donovan Baine",
+            "Jedah Dohma",
+            "Victor von Gerdenheim"
+        ],
+        "answer": "Demitri Maximoff",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do modo especial em Darkstalkers 3 que aumenta as habilidades do personagem?",
+        "options": [
+            "Dark Force",
+            "EX Mode",
+            "Super Mode",
+            "Hyper Mode"
+        ],
+        "answer": "Dark Force",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Darkstalkers 3, qual personagem é uma múmia com ataduras e garras?",
+        "options": [
+            "Anakaris",
+            "Rikuo",
+            "Jon Talbain",
+            "Sasquatch"
+        ],
+        "answer": "Anakaris",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do reino demoníaco de onde muitos Darkstalkers vêm em Darkstalkers 3?",
+        "options": [
+            "Makai",
+            "Netherworld",
+            "Underworld",
+            "Demon Realm"
+        ],
+        "answer": "Makai",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Darkstalkers 3, qual personagem é uma lobisomem que se transforma durante os ataques?",
+        "options": [
+            "Jon Talbain",
+            "Felicia",
+            "Q-Bee",
+            "Lilith"
+        ],
+        "answer": "Jon Talbain",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do chefe final de Darkstalkers 3, um ser supremo do Makai?",
+        "options": [
+            "Jedah Dohma",
+            "Pyron",
+            "Demitri",
+            "Morrigan"
+        ],
+        "answer": "Jedah Dohma",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Gran Turismo, qual é a principal característica que o diferencia de outros jogos de corrida?",
+        "options": [
+            "Simulação realista",
+            "Corridas de arcade",
+            "Carros de fantasia",
+            "Pistas futuristas"
+        ],
+        "answer": "Simulação realista",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do modo de jogo em Gran Turismo que permite comprar e tunar carros?",
+        "options": [
+            "Modo Gran Turismo",
+            "Modo Arcade",
+            "Modo Carreira",
+            "Modo Licença"
+        ],
+        "answer": "Modo Gran Turismo",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Gran Turismo, qual é o objetivo principal do jogador no modo carreira?",
+        "options": [
+            "Obter licenças",
+            "Ganhar corridas",
+            "Colecionar carros",
+            "Tornar-se campeão"
+        ],
+        "answer": "Obter licenças",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do tipo de corrida que exige carros de um fabricante específico em Gran Turismo?",
+        "options": [
+            "Corridas de Marca",
+            "Corridas de Enduro",
+            "Corridas de Rali",
+            "Corridas de Campeonato"
+        ],
+        "answer": "Corridas de Marca",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Gran Turismo, qual é o sistema que avalia a habilidade do jogador ao dirigir?",
+        "options": [
+            "Sistema de Licenças",
+            "Pontuação de Habilidade",
+            "Ranking de Piloto",
+            "Nível de Experiência"
+        ],
+        "answer": "Sistema de Licenças",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do tipo de carro que é crucial para progredir em Gran Turismo?",
+        "options": [
+            "Carros de rua",
+            "Carros de corrida",
+            "Carros conceito",
+            "Carros clássicos"
+        ],
+        "answer": "Carros de rua",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Gran Turismo, qual é o nome da pista de corrida que simula uma cidade real?",
+        "options": [
+            "Tokyo R246",
+            "Deep Forest",
+            "Grand Valley",
+            "Trial Mountain"
+        ],
+        "answer": "Tokyo R246",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome da empresa desenvolvedora de Gran Turismo?",
+        "options": [
+            "Polyphony Digital",
+            "Sony",
+            "Nintendo",
+            "Microsoft"
+        ],
+        "answer": "Polyphony Digital",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Em Gran Turismo, qual é o elemento que permite personalizar o desempenho do carro?",
+        "options": [
+            "Tuning",
+            "Pintura",
+            "Adesivos",
+            "Rodas"
+        ],
+        "answer": "Tuning",
+        "category": "Games & Brinquedos"
+    },
+    {
+        "question": "Qual é o nome do tipo de evento em Gran Turismo que testa a resistência do piloto e do carro?",
+        "options": [
+            "Corridas de Enduro",
+            "Corridas de Sprint",
+            "Corridas de Arrancada",
+            "Corridas de Tempo"
+        ],
+        "answer": "Corridas de Enduro",
         "category": "Games & Brinquedos"
     }
 ]
