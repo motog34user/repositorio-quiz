@@ -4,8 +4,7 @@
     "options": ["Cyprien", "Tim", "Rastus", "Barnaby"],
     "answer": "Cyprien",
     "category": "Games & Brinquedos"
-  },
-    
+  },  
   {
     "question": "Em Resident Evil, que tipo de controle era famoso por ser 'tanque'?",
     "options": ["Mouse e teclado", "Joystick", "Direcional", "Analógico"],
@@ -162,7 +161,6 @@
     "answer": "Ataque combinado",
     "category": "Games & Brinquedos"
   },
-  
   {
     "question": "Qual era a característica principal das arenas de luta em Dragon Ball Z Legends?",
     "options": ["2D lateral", "3D com liberdade", "Fixas", "Pequenas"],
