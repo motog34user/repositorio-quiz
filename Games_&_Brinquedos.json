@@ -5,6 +5,157 @@
     "answer": "Cyprien",
     "category": "Games & Brinquedos"
   },
+    
+  {
+    "question": "Em Resident Evil, que tipo de controle era famoso por ser 'tanque'?",
+    "options": ["Mouse e teclado", "Joystick", "Direcional", "Analógico"],
+    "answer": "Direcional",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual jogo japonês inspirou a criação de Resident Evil?",
+    "options": ["Silent Hill", "Alone in the Dark", "Sweet Home", "Clock Tower"],
+    "answer": "Sweet Home",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Que tipo de vídeo era usado na introdução de Resident Evil?",
+    "options": ["Animação", "CGI", "Live-action", "Desenho"],
+    "answer": "Live-action",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Resident Evil, qual personagem era um especialista em armas?",
+    "options": ["Chris Redfield", "Jill Valentine", "Barry Burton", "Rebecca Chambers"],
+    "answer": "Barry Burton",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a principal característica dos cenários de Resident Evil?",
+    "options": ["Gerados", "Pré-renderizados", "Aleatórios", "Dinâmicos"],
+    "answer": "Pré-renderizados",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual era o nome do monstro humanoide criado pela Umbrella em Resident Evil?",
+    "options": ["Licker", "Tyrant", "Nemesis", "G-Creature"],
+    "answer": "Tyrant",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual era a principal diferença entre Chris e Jill em Resident Evil?",
+    "options": ["Armas iniciais", "Roupas", "Caminhos", "Habilidades"],
+    "answer": "Habilidades",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Resident Evil, qual era a função dos baús espalhados pela mansão?",
+    "options": ["Guardar itens", "Esconder inimigos", "Salvar jogo", "Dar pistas"],
+    "answer": "Guardar itens",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Resident Evil, qual era o tipo de inimigo mais comum?",
+    "options": ["Zumbis", "Aranhas", "Corvos", "Morcegos"],
+    "answer": "Zumbis",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual era o nome da região onde a mansão de Resident Evil estava localizada?",
+    "options": ["Floresta Negra", "Montanhas Arklay", "Vale da Morte", "Deserto de Mojave"],
+    "answer": "Montanhas Arklay",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Tekken 3, qual personagem fez sua estreia como neto de Heihachi?",
+    "options": ["Kazuya", "Jin Kazama", "Lars", "Lee"],
+    "answer": "Jin Kazama",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual era o nome do principal antagonista em Tekken 3?",
+    "options": ["Devil Jin", "Heihachi", "Ogre", "Kazuya"],
+    "answer": "Ogre",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Tekken 3, qual era o estilo de luta de Eddy Gordo?",
+    "options": ["Karatê", "Judô", "Capoeira", "Kung Fu"],
+    "answer": "Capoeira",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Que modo de jogo bônus em Tekken 3 era similar a vôlei?",
+    "options": ["Tekken Force", "Tekken Bowl", "Tekken Ball", "Tekken Tag"],
+    "answer": "Tekken Ball",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Tekken 3, qual personagem podia se auto-ferir com sua espada?",
+    "options": ["Law", "Hwoarang", "Yoshimitsu", "Lei Wulong"],
+    "answer": "Yoshimitsu",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Tekken 3, qual personagem era um dinossauro secreto?",
+    "options": ["Alex", "Roger", "Gon", "Combot"],
+    "answer": "Gon",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Tekken 3, qual personagem era um urso de estimação?",
+    "options": ["Kuma", "Panda", "Roger", "Alex"],
+    "answer": "Kuma",
+    "category": "Games & Brinquedos
+  },
+  {
+    "question": "Qual era o nome do modo beat 'em up em Tekken 3?",
+    "options": ["Tekken Quest", "Tekken Force", "Tekken Battle", "Tekken Story"],
+    "answer": "Tekken Force",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual personagem feminina de Tekken 3 era uma estudante?",
+    "options": ["Nina", "Anna", "Xiaoyu", "Julia"],
+    "answer": "Xiaoyu",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Tekken 3, qual era o objetivo de Heihachi ao treinar Jin?",
+    "options": ["Vingança", "Atrair Ogre", "Proteger Jin", "Dominar o mundo"],
+    "answer": "Atrair Ogre",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual personagem de Tekken 3 era um robô policial?",
+    "options": ["Jack", "Bryan Fury", "Gun Jack", "P Jack"],
+    "answer": "Bryan Fury",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual personagem de Tekken 3 era uma lutadora de Taekwondo?",
+    "options": ["Hwoarang", "Baek Doo San", "Jin Kazama", "Eddy Gordo"],
+    "answer": "Hwoarang",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Tekken 3, qual personagem era uma espiã e assassina?",
+    "options": ["Anna Williams", "Nina Williams", "Julia Chang", "Xiaoyu"],
+    "answer": "Nina Williams",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual era o nome do hardware de arcade usado para Tekken 3?",
+    "options": ["System 10", "System 11", "System 12", "System 14"],
+    "answer": "System 12",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Tekken 3, qual personagem era um policial de Hong Kong?",
+    "options": ["Lei Wulong", "Marshall Law", "Forest Law", "Bryan Fury"],
+    "answer": "Lei Wulong",
+    "category": "Games & Brinquedos"
+  },
       {
     "question": "Que tipo de ataque especial era conhecido como 'Meteo Attack' em Dragon Ball Z Legends?",
     "options": ["Ataque rápido", "Ataque final", "Ataque combinado", "Ataque aéreo"],
