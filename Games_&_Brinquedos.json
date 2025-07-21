@@ -5,6 +5,90 @@
     "answer": "Cyprien",
     "category": "Games & Brinquedos"
   },
+      {
+    "question": "No jogo Road Rash, qual era o objetivo principal das corridas ilegais?",
+    "options": ["Chegar em primeiro", "Vencer o chefe", "Ganhar dinheiro", "Destruir motos"],
+    "answer": "Ganhar dinheiro",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual ação em Road Rash podia resultar em ser preso pela polícia?",
+    "options": ["Bater na moto", "Cair perto deles", "Usar arma", "Correr rápido"],
+    "answer": "Cair perto deles",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual elemento de jogabilidade Road Rash introduziu nas corridas?",
+    "options": ["Carros voadores", "Combate fisico", "Pistas de gelo", "Motos aquáticas"],
+    "answer": "Combate fisico",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Road Rash, qual estado americano servia de cenário para as pistas?",
+    "options": ["Flórida", "Califórnia", "Texas", "Nova Iorque"],
+    "answer": "Califórnia",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual tipo de música era predominante na trilha sonora de Road Rash?",
+    "options": ["Pop", "Rock", "Grunge", "Eletrônica"],
+    "answer": "Grunge",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Como Road Rash representava os personagens nas cutscenes?",
+    "options": ["Desenhos animados", "Sprites 3D", "Atores reais", "Pixel art"],
+    "answer": "Atores reais",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Além das corridas, que outro modo de jogo existia em Road Rash?",
+    "options": ["Modo livre", "Modo Thrash", "Modo desafio", "Modo equipe"],
+    "answer": "Modo Thrash",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual era a consequência de colidir com obstáculos em Road Rash?",
+    "options": ["Ganhar pontos", "Ser ejetado", "Acelerar", "Mudar de pista"],
+    "answer": "Ser ejetado",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual empresa desenvolveu o clássico Road Rash?",
+    "options": ["Ubisoft", "Capcom", "Electronic Arts", "Konami"],
+    "answer": "Electronic Arts",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Road Rash, qual era o nome do modo de campanha principal?",
+    "options": ["Modo Big Game", "Modo Aventura", "Modo Carreira", "Modo Desafio"],
+    "answer": "Modo Big Game",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Road Rash, qual era a penalidade por ser pego pela polícia?",
+    "options": ["Perder moto", "Pagar fiança", "Reiniciar jogo", "Perder nível"],
+    "answer": "Pagar fiança",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Dragon Ball Z Legends, qual saga do anime o jogo abrangia?",
+    "options": ["Saga Saiyajin", "Saga Freeza", "Saga Cell", "Toda a Saga Z"],
+    "answer": "Toda a Saga Z",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual console, além do PlayStation, recebeu Dragon Ball Z Legends?",
+    "options": ["Nintendo 64", "Sega Saturn", "Xbox", "Dreamcast"],
+    "answer": "Sega Saturn",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Dragon Ball Z Legends, o que a barra central na tela decidia?",
+    "options": ["Nível de ki", "Vencedor do round", "Dano causado", "Tempo da luta"],
+    "answer": "Vencedor do round",
+    "category": "Games & Brinquedos"
+  },
     {
     "question": "Resident Evil Code Veronica se passa em qual tipo de ambiente?",
     "options": ["Cidade", "Floresta", "Ilha remota", "Montanha"],
