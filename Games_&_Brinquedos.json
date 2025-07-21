@@ -1,4 +1,496 @@
 [
+    {
+    "question": "Qual é o nome do protagonista em Evil Twin Cypriens Chronicles?",
+    "options": ["Cyprien", "Tim", "Rastus", "Barnaby"],
+    "answer": "Cyprien",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Evil Twin Cypriens Chronicles, qual mundo é o lar de Cyprien?",
+    "options": ["Mundo Real", "Mundo dos Sonhos", "Mundo Sombrio", "Mundo da Fantasia"],
+    "answer": "Mundo dos Sonhos",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "O que acontece com Cyprien no início de Evil Twin Cypriens Chronicles?",
+    "options": ["Ele encontra um tesouro", "Ele é sequestrado", "Ele perde seu ursinho", "Ele ganha poderes"],
+    "answer": "Ele perde seu ursinho",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é a principal habilidade de Cyprien em Evil Twin Cypriens Chronicles?",
+    "options": ["Voar", "Transformação", "Super Força", "Invisibilidade"],
+    "answer": "Transformação",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Evil Twin Cypriens Chronicles apresenta qual tipo de jogabilidade?",
+    "options": ["Corrida", "Plataforma 3D", "Estratégia", "Tiro em primeira pessoa"],
+    "answer": "Plataforma 3D",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Quem é o principal antagonista em Evil Twin Cypriens Chronicles?",
+    "options": ["Rei Pesadelo", "Rainha Sombria", "Dr. Maligno", "Mestre das Sombras"],
+    "answer": "Rei Pesadelo",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Evil Twin Cypriens Chronicles, qual é o objetivo de Cyprien?",
+    "options": ["Salvar a princesa", "Resgatar seu ursinho", "Derrotar o dragão", "Explorar o universo"],
+    "answer": "Resgatar seu ursinho",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Evil Twin Cypriens Chronicles é conhecido por seu estilo visual, que é?",
+    "options": ["Realista", "Cartunesco", "Minimalista", "Pixel Art"],
+    "answer": "Cartunesco",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual console foi o principal lançamento de Evil Twin Cypriens Chronicles?",
+    "options": ["PlayStation 2", "Xbox", "GameCube", "Dreamcast"],
+    "answer": "PlayStation 2",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Evil Twin Cypriens Chronicles tem um enredo que envolve qual conceito?",
+    "options": ["Viagem no tempo", "Realidades paralelas", "Inteligência artificial", "Conquista espacial"],
+    "answer": "Realidades paralelas",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é a atmosfera geral de Evil Twin Cypriens Chronicles?",
+    "options": ["Terror", "Comédia", "Fantasia sombria", "Ficção científica"],
+    "answer": "Fantasia sombria",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Evil Twin Cypriens Chronicles permite que Cyprien se transforme em quem?",
+    "options": ["Um monstro", "Um herói", "Uma versão maligna", "Um animal"],
+    "answer": "Uma versão maligna",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o nome do companheiro de Cyprien em Evil Twin Cypriens Chronicles?",
+    "options": ["Gnarly", "Sparky", "Buddy", "Gizmo"],
+    "answer": "Gnarly",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Evil Twin Cypriens Chronicles, qual objeto mágico é crucial?",
+    "options": ["Anel", "Cajado", "Espelho", "Amuleto"],
+    "answer": "Amuleto",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Evil Twin Cypriens Chronicles foi desenvolvido por qual empresa?",
+    "options": ["Ubisoft", "Atari", "Microids", "Capcom"],
+    "answer": "Microids",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Quantos mundos diferentes Cyprien explora em Evil Twin Cypriens Chronicles?",
+    "options": ["Três", "Cinco", "Sete", "Dez"],
+    "answer": "Sete",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Evil Twin Cypriens Chronicles possui qual tipo de combate?",
+    "options": ["Turnos", "Tempo real", "Tiro", "Estratégia"],
+    "answer": "Tempo real",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é a fonte dos poderes de Cyprien em Evil Twin Cypriens Chronicles?",
+    "options": ["Magia ancestral", "Tecnologia alienígena", "Seu ursinho", "Sonhos"],
+    "answer": "Sonhos",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Evil Twin Cypriens Chronicles se passa principalmente onde?",
+    "options": ["No espaço", "Em um mundo de sonhos", "Em uma cidade", "No fundo do mar"],
+    "answer": "Em um mundo de sonhos",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual elemento é central para a narrativa de Evil Twin Cypriens Chronicles?",
+    "options": ["Amizade", "Vingança", "Sonhos e pesadelos", "Honra"],
+    "answer": "Sonhos e pesadelos",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Evil Twin Cypriens Chronicles apresenta inimigos baseados em que?",
+    "options": ["Animais", "Pesadelos", "Robôs", "Zumbis"],
+    "answer": "Pesadelos",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Evil Twin Cypriens Chronicles possui quais características de jogabilidade?",
+    "options": ["Puzzles e exploração", "Combate intenso", "Construção de bases", "Corrida"],
+    "answer": "Puzzles e exploração",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Evil Twin Cypriens Chronicles tem qual tipo de trilha sonora?",
+    "options": ["Eletrônica", "Orquestral", "Rock", "Jazz"],
+    "answer": "Orquestral",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o nome da versão maligna de Cyprien em Evil Twin Cypriens Chronicles?",
+    "options": ["Dark Cyprien", "Bad Cyprien", "Evil Cyprien", "Shadow Cyprien"],
+    "answer": "Evil Cyprien",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Onde Ryo Hazuki continua sua jornada em Shenmue 2?",
+    "options": ["Japão", "Hong Kong", "Estados Unidos", "Europa"],
+    "answer": "Hong Kong",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o objetivo principal de Ryo em Shenmue 2?",
+    "options": ["Encontrar seu pai", "Vingar seu pai", "Procurar um tesouro", "Achar um emprego"],
+    "answer": "Vingar seu pai",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Shenmue 2 é conhecido por seu gênero de jogo, qual é?",
+    "options": ["RPG de ação", "Aventura de mundo aberto", "Luta", "Simulação de vida"],
+    "answer": "Aventura de mundo aberto",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual personagem feminina ajuda Ryo em Shenmue 2?",
+    "options": ["Lan Di", "Ren", "Joy", "Shenhua"],
+    "answer": "Joy",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Shenmue 2, Ryo busca informações sobre qual organização?",
+    "options": ["Mafia", "Os Quatro", "Chiyoumen", "Dragões Negros"],
+    "answer": "Chiyoumen",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Shenmue 2 introduz qual novo sistema de combate?",
+    "options": ["QTEs", "Lutas de rua", "Combate por turnos", "Estratégia"],
+    "answer": "Lutas de rua",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o nome do principal antagonista em Shenmue 2?",
+    "options": ["Lan Di", "Xiuying", "Wong", "Ren"],
+    "answer": "Lan Di",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Shenmue 2 se destaca por qual característica de jogo?",
+    "options": ["Gráficos cartunescos", "Mundo interativo", "Linearidade", "Foco em multiplayer"],
+    "answer": "Mundo interativo",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é a fonte de renda de Ryo em Shenmue 2?",
+    "options": ["Trabalhos", "Herança", "Assaltos", "Apostas"],
+    "answer": "Trabalhos",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Shenmue 2 foi lançado originalmente para qual console?",
+    "options": ["PlayStation 2", "Xbox", "Dreamcast", "GameCube"],
+    "answer": "Dreamcast",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Shenmue 2 é conhecido por seus eventos de qual tipo?",
+    "options": ["Corrida", "QTEs", "Tiro", "Estratégia"],
+    "answer": "QTEs",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é a relação de Shenhua com Ryo em Shenmue 2?",
+    "options": ["Irmã", "Amiga", "Guia", "Inimiga"],
+    "answer": "Guia",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Shenmue 2 apresenta qual tipo de clima dinâmico?",
+    "options": ["Estações", "Chuva", "Neve", "Vento"],
+    "answer": "Chuva",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o nome do artefato misterioso em Shenmue 2?",
+    "options": ["Espelho Dragão", "Espelho Fênix", "Espelho Sagrado", "Espelho Mágico"],
+    "answer": "Espelho Fênix",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o nome do jovem ladrão que Ryo encontra em Shenmue 2?",
+    "options": ["Goro", "Wong", "Fuku", "Tom"],
+    "answer": "Wong",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Shenmue 2 é conhecido por sua atenção aos detalhes em qual aspecto?",
+    "options": ["Gráficos", "Narrativa", "Simulação da vida", "Combate"],
+    "answer": "Simulação da vida",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Shenmue 2 foi desenvolvido por qual estúdio?",
+    "options": ["Capcom", "Sega AM2", "Square Enix", "Kojima Productions"],
+    "answer": "Sega AM2",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Shenmue 2 é famoso por sua imersão em qual cultura?",
+    "options": ["Japonesa", "Chinesa", "Coreana", "Americana"],
+    "answer": "Chinesa",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o nome da arte marcial secreta em Shenmue 2?",
+    "options": ["Estilo Dragão", "Estilo Tigre", "Estilo Fênix", "Estilo Serpente"],
+    "answer": "Estilo Fênix",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Shenmue 2 continua a história de qual jornada de Ryo?",
+    "options": ["Descoberta pessoal", "Vingança familiar", "Busca por poder", "Exploração mundial"],
+    "answer": "Vingança familiar",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é a principal diferença de Shenmue 2 em relação ao original?",
+    "options": ["Mais personagens", "Maior mapa", "Melhor combate", "Mais QTEs"],
+    "answer": "Maior mapa",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Shenmue 2 tem qual tipo de progressão de tempo?",
+    "options": ["Tempo real", "Tempo acelerado", "Tempo parado", "Tempo reverso"],
+    "answer": "Tempo real",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o foco principal de Metropolis Street Racing?",
+    "options": ["Corridas de rua", "Combate veicular", "Exploração", "Construção de carros"],
+    "answer": "Corridas de rua",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Metropolis Street Racing introduziu qual sistema de recompensa?",
+    "options": ["Pontos de estilo", "Dinheiro", "Carros novos", "Experiência"],
+    "answer": "Pontos de estilo",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Metropolis Street Racing é conhecido por seu realismo em qual aspecto?",
+    "options": ["Danos no carro", "Física de condução", "Clima dinâmico", "Tráfego"],
+    "answer": "Física de condução",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual console foi o principal lançamento de Metropolis Street Racing?",
+    "options": ["PlayStation 2", "Xbox", "Dreamcast", "GameCube"],
+    "answer": "Dreamcast",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o nome do sistema de desafios em Metropolis Street Racing?",
+    "options": ["Kudos", "Estilo", "Pontos", "Desafios"],
+    "answer": "Kudos",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Metropolis Street Racing se destaca por qual elemento visual?",
+    "options": ["Gráficos cartunescos", "Cenários detalhados", "Efeitos de explosão", "Animações de personagens"],
+    "answer": "Cenários detalhados",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o objetivo ao ganhar Kudos em Metropolis Street Racing?",
+    "options": ["Desbloquear carros", "Comprar upgrades", "Avançar na carreira", "Competir online"],
+    "answer": "Avançar na carreira",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Metropolis Street Racing, qual a importância do tempo?",
+    "options": ["Limite de tempo", "Ciclo dia e noite", "Estações", "Clima"],
+    "answer": "Ciclo dia e noite",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Metropolis Street Racing foi desenvolvido por qual estúdio?",
+    "options": ["Criterion Games", "Bizarre Creations", "Codemasters", "Turn 10 Studios"],
+    "answer": "Bizarre Creations",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Metropolis Street Racing é considerado um precursor de qual série?",
+    "options": ["Forza Motorsport", "Gran Turismo", "Project Gotham Racing", "Need for Speed"],
+    "answer": "Project Gotham Racing",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Metropolis Street Racing oferece qual variedade de carros?",
+    "options": ["Apenas esportivos", "Clássicos", "Licenciados", "Fictícios"],
+    "answer": "Licenciados",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o objetivo final em Metropolis Street Racing?",
+    "options": ["Ser o mais rápido", "Acumular mais Kudos", "Completar todas as corridas", "Derrotar rivais"],
+    "answer": "Acumular mais Kudos",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é a importância da precisão em Metropolis Street Racing?",
+    "options": ["Crucial para Kudos", "Irrelevante", "Apenas para tempo", "Apenas para colisões"],
+    "answer": "Crucial para Kudos",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o nome do protagonista em Headhunter?",
+    "options": ["Jack", "Jack Wade", "John", "Alex"],
+    "answer": "Jack Wade",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Headhunter, qual é o principal objetivo de Jack Wade?",
+    "options": ["Resgatar a princesa", "Vingar sua família", "Recuperar sua memória", "Derrotar o vilão"],
+    "answer": "Recuperar sua memória",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Headhunter se passa em qual tipo de futuro?",
+    "options": ["Utopia", "Distopia", "Pós-apocalíptico", "Medieval"],
+    "answer": "Distopia",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Headhunter apresenta qual tipo de veículo?",
+    "options": ["Carro", "Moto", "Nave espacial", "Tanque"],
+    "answer": "Moto",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o principal inimigo em Headhunter?",
+    "options": ["Ciborgues", "Gangues", "Corporações", "Terroristas"],
+    "answer": "Corporações",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Headhunter possui qual tipo de perspectiva de câmera?",
+    "options": ["Primeira pessoa", "Terceira pessoa", "Isométrica", "Top-down"],
+    "answer": "Terceira pessoa",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é a moeda em Headhunter?",
+    "options": ["Créditos", "Dólares", "Ouro", "Pontos"],
+    "answer": "Créditos",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Headhunter apresenta quais elementos de jogabilidade?",
+    "options": ["Tiro e furtividade", "Corrida e combate", "Puzzles e exploração", "Construção de bases"],
+    "answer": "Tiro e furtividade",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o nome da inteligência artificial que Jack Wade interage em Headhunter?",
+    "options": ["IRIS", "HAL", "Skynet", "GLaDOS"],
+    "answer": "IRIS",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Headhunter foi desenvolvido por qual empresa?",
+    "options": ["Rockstar Games", "Amuze", "Konami", "Sega"],
+    "answer": "Amuze",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o nome da filha do chefe de Jack em Headhunter?",
+    "options": ["Angela", "Anna", "Alice", "Amy"],
+    "answer": "Angela",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Headhunter tem qual tipo de trilha sonora?",
+    "options": ["Rock", "Eletrônica", "Orquestral", "Jazz"],
+    "answer": "Orquestral",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o principal mistério em Headhunter?",
+    "options": ["Quem matou o chefe", "Onde está a cura", "A identidade de Jack", "O segredo da corporação"],
+    "answer": "A identidade de Jack",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é a arma padrão de Jack Wade em Headhunter?",
+    "options": ["Pistola", "Rifle", "Faca", "Punhos"],
+    "answer": "Pistola",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o nome do chefe de Jack Wade em Headhunter?",
+    "options": ["Chief Johnson", "Chief Miller", "Chief Jones", "Chief Smith"],
+    "answer": "Chief Miller",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a principal inspiração para o design de Headhunter?",
+    "options": ["Filmes de ação", "Jogos de terror", "Animes", "Quadrinhos"],
+    "answer": "Filmes de ação",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Crazy Taxi 2, qual é o objetivo principal do jogador?",
+    "options": ["Entregar passageiros", "Correr contra o tempo", "Destruir carros", "Explorar a cidade"],
+    "answer": "Entregar passageiros",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Crazy Taxi 2 é conhecido por sua trilha sonora, qual é o gênero?",
+    "options": ["Rock", "Pop", "Eletrônica", "Hip Hop"],
+    "answer": "Rock",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Crazy Taxi 2 apresenta qual tipo de ambiente?",
+    "options": ["Pistas de corrida", "Cidades abertas", "Floresta", "Deserto"],
+    "answer": "Cidades abertas",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é a principal característica visual de Crazy Taxi 2?",
+    "options": ["Gráficos realistas", "Estilo arcade", "Pixel art", "Cel-shaded"],
+    "answer": "Estilo arcade",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é o elemento chave para ganhar mais dinheiro em Crazy Taxi 2?",
+    "options": ["Velocidade", "Colisões", "Manobras", "Rotas longas"],
+    "answer": "Manobras",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a importância do tempo em Crazy Taxi 2?",
+    "options": ["Ilimitado", "Contagem regressiva", "Bônus por tempo", "Sem importância"],
+    "answer": "Contagem regressiva",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual é a sensação de jogabilidade em Crazy Taxi 2?",
+    "options": ["Lenta", "Realista", "Frenética", "Calma"],
+    "answer": "Frenética",
+    "category": "Games & Brinquedos"
+  },
   {
     "question": "Qual o principal foco do jogo Need for Speed Porsche Unleashed no PS1?",
     "options": ["Corrida arcade", "História piloto", "Carros Porsche", "Personalizar carros"],
