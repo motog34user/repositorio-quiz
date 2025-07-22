@@ -10,6 +10,450 @@
         "answer": "Cyprien",
         "category": "Games & Brinquedos"
     },
+      {
+    "question": "Qual personagem de Final Fantasy VII faz uma aparição jogável em Ehrgeiz God Bless the Ring?",
+    "options": ["Tifa", "Barret", "Cloud", "Sephiroth"],
+    "answer": "Cloud",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Ehrgeiz God Bless the Ring, o que os personagens podem usar no ambiente para causar dano extra?",
+    "options": ["Armadilhas", "Objetos", "Paredes", "Água"],
+    "answer": "Objetos",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o objetivo no modo de história de Ehrgeiz God Bless the Ring para o protagonista Koji?",
+    "options": ["Salvar o mundo", "Derrotar o mal", "Encontrar o anel", "Vingar-se"],
+    "answer": "Encontrar o anel",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a principal empresa desenvolvedora por trás de Ehrgeiz God Bless the Ring?",
+    "options": ["Capcom", "Namco", "Square", "Konami"],
+    "answer": "Square",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Fatal Fury Wild Ambition trouxe a série para qual dimensão gráfica pela primeira vez?",
+    "options": ["2D", "3D", "Isométrica", "Top-down"],
+    "answer": "3D",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Fatal Fury Wild Ambition, qual o sistema de defesa que permite contra-ataques imediatos?",
+    "options": ["Bloqueio perfeito", "Esquiva rápida", "Contra-ataque", "Parry"],
+    "answer": "Parry",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o tipo de ataque especial em Fatal Fury Wild Ambition que exige uma barra de energia cheia?",
+    "options": ["Super soco", "Desperation Move", "Chute forte", "Combo simples"],
+    "answer": "Desperation Move",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "A trama de Fatal Fury Wild Ambition gira em torno de qual famoso torneio de luta?",
+    "options": ["King of Fighters", "Fatal Fury", "KOF", "The King of Fighters"],
+    "answer": "King of Fighters",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Fatal Fury Wild Ambition é uma reimaginação de qual jogo original da série?",
+    "options": ["Fatal Fury 2", "Fatal Fury 3", "Fatal Fury", "Real Bout"],
+    "answer": "Fatal Fury",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "FIFA 2000 introduziu qual modo de jogo que permite aos jogadores controlar um time por várias temporadas?",
+    "options": ["Amistoso", "Carreira", "Torneio", "Treino"],
+    "answer": "Carreira",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a principal habilidade de Gex em Gex 3 Deep Cover Gecko para derrotar inimigos e interagir?",
+    "options": ["Sopro de fogo", "Cauda", "Garras", "Mordida"],
+    "answer": "Cauda",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o nome da vilã principal que Gex precisa resgatar em Gex 3 Deep Cover Gecko?",
+    "options": ["Lara Croft", "Agent X", "Agent Fox", "Agent Mina"],
+    "answer": "Agent X",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "O que Gex 3 Deep Cover Gecko permite aos jogadores fazer para explorar os níveis de forma diferente?",
+    "options": ["Nadar", "Dirigir veículos", "Escalar", "Voar"],
+    "answer": "Dirigir veículos",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o tipo de humor predominante em Gex 3 Deep Cover Gecko, com muitas referências à cultura pop?",
+    "options": ["Sério", "Sarcástico", "Infantil", "Romântico"],
+    "answer": "Sarcástico",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "O que Gex coleta em Gex 3 Deep Cover Gecko para desbloquear novas áreas e progredir?",
+    "options": ["Moedas", "Controles remotos", "Estrelas", "Gemas"],
+    "answer": "Controles remotos",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a habilidade de Gex em Gex 3 Deep Cover Gecko que o permite se camuflar no ambiente?",
+    "options": ["Invisibilidade", "Mudar de cor", "Escalar paredes", "Ficar parado"],
+    "answer": "Escalar paredes",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o principal desafio em Gex 3 Deep Cover Gecko, além de combater inimigos?",
+    "options": ["Resolver enigmas", "Correr", "Dirigir", "Coletar itens"],
+    "answer": "Resolver enigmas",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o nome do protagonista vampiro que busca vingança em Legacy of Kain Soul Reaver?",
+    "options": ["Kain", "Raziel", "Vorador", "Ariel"],
+    "answer": "Raziel",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Legacy of Kain Soul Reaver, o que Raziel pode fazer para alternar entre os reinos físico e espiritual?",
+    "options": ["Voar", "Mudar de forma", "Mudar de dimensão", "Teletransportar"],
+    "answer": "Mudar de dimensão",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a arma mística que Raziel empunha em Legacy of Kain Soul Reaver, com poderes de alma?",
+    "options": ["Espada", "Soul Reaver", "Lança", "Cajado"],
+    "answer": "Soul Reaver",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Legacy of Kain Soul Reaver é conhecido por sua atmosfera sombria e qual tipo de narrativa?",
+    "options": ["Comédia", "Drama", "Gótica", "Romance"],
+    "answer": "Gótica",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "O que os inimigos vampiros em Legacy of Kain Soul Reaver precisam para serem derrotados permanentemente?",
+    "options": ["Fogo", "Estaca", "Luz", "Água"],
+    "answer": "Luz",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Legacy of Kain Soul Reaver explora temas de destino e qual outro conceito filosófico?",
+    "options": ["Liberdade", "Escolha", "Moralidade", "Imortalidade"],
+    "answer": "Imortalidade",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Medal of Honor foi um dos primeiros jogos a simular qual conflito histórico em primeira pessoa?",
+    "options": ["Guerra Civil", "Primeira Guerra", "Segunda Guerra", "Guerra Fria"],
+    "answer": "Segunda Guerra",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o gênero principal de Medal of Honor, com foco em combate e missões?",
+    "options": ["Estratégia", "RPG", "Tiro em primeira pessoa", "Simulação"],
+    "answer": "Tiro em primeira pessoa",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Medal of Honor é conhecido por qual característica que aumenta o realismo das missões?",
+    "options": ["Gráficos simples", "Cenários coloridos", "Objetivos históricos", "Inimigos fracos"],
+    "answer": "Objetivos históricos",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "O que os jogadores precisam fazer em Medal of Honor para completar as missões?",
+    "options": ["Correr", "Atirar", "Infiltrar e sabotar", "Esconder"],
+    "answer": "Infiltrar e sabotar",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a sensação predominante que Medal of Honor busca transmitir ao jogador?",
+    "options": ["Alegria", "Aventura", "Tensão de guerra", "Comédia"],
+    "answer": "Tensão de guerra",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Medal of Honor foi desenvolvido com a consultoria de qual especialista para garantir a autenticidade?",
+    "options": ["Historiador", "Veterano de guerra", "Cineasta", "Militar"],
+    "answer": "Veterano de guerra",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "O que os jogadores podem encontrar em Medal of Honor para restaurar a saúde durante o combate?",
+    "options": ["Moedas", "Kits médicos", "Armas", "Escudos"],
+    "answer": "Kits médicos",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Need for Speed High Stakes, os jogadores podem correr com quais tipos de carros?",
+    "options": ["Populares", "Esportivos de luxo", "Clássicos", "Caminhões"],
+    "answer": "Esportivos de luxo",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o tipo de trilha sonora predominante em Need for Speed High Stakes, com músicas eletrônicas?",
+    "options": ["Rock", "Jazz", "Eletrônica", "Clássica"],
+    "answer": "Eletrônica",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "O que os carros de polícia em Need for Speed High Stakes usam para parar os jogadores?",
+    "options": ["Armas", "Barricadas", "Correntes", "Raios"],
+    "answer": "Barricadas",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o tipo de veículo que o jogador controla em Omega Boost para combater inimigos espaciais?",
+    "options": ["Nave", "Robô gigante", "Avião", "Tanque"],
+    "answer": "Robô gigante",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Omega Boost, o que o jogador precisa fazer para derrotar os inimigos mais rapidamente?",
+    "options": ["Esconder", "Usar ataques melee", "Usar lock-on", "Fugir"],
+    "answer": "Usar lock-on",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o principal objetivo em Omega Boost, além de destruir inimigos?",
+    "options": ["Coletar itens", "Salvar a Terra", "Explorar", "Correr"],
+    "answer": "Salvar a Terra",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a principal ameaça que o jogador enfrenta em Omega Boost, uma inteligência artificial?",
+    "options": ["Alienígenas", "Vírus", "Alpha Core", "Robôs"],
+    "answer": "Alpha Core",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "O que os chefes em Omega Boost são conhecidos por ter, exigindo estratégias específicas?",
+    "options": ["Poderes fracos", "Pontos fracos", "Armas limitadas", "Movimentos lentos"],
+    "answer": "Pontos fracos",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o item clássico que Pac-Man come em Pac-Man World para se tornar invencível temporariamente?",
+    "options": ["Cereja", "Pílula de poder", "Maçã", "Banana"],
+    "answer": "Pílula de poder",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Pepsiman, qual a principal ameaça que o jogador precisa evitar durante as corridas?",
+    "options": ["Inimigos", "Obstáculos", "Buracos", "Água"],
+    "answer": "Obstáculos",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "As fases de Pepsiman são baseadas em quais tipos de cenários?",
+    "options": ["Florestas", "Desertos", "Cidades e fábricas", "Montanhas"],
+    "answer": "Cidades e fábricas",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual a principal habilidade de Pepsiman para desviar de obstáculos rapidamente?",
+    "options": ["Voar", "Pular e deslizar", "Escalar", "Nadar"],
+    "answer": "Pular e deslizar",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Pepsiman se destaca por qual aspecto que o torna um jogo único e peculiar?",
+    "options": ["História profunda", "Personagens complexos", "Tema inusitado", "Gráficos realistas"],
+    "answer": "Tema inusitado",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em R-Types, qual o sistema de arma que pode ser acoplado à nave para aumentar o poder de fogo?",
+    "options": ["Míssil", "Laser", "Force", "Bomba"],
+    "answer": "Force",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "R-Types é conhecido por sua dificuldade e qual característica que exige memorização dos padrões?",
+    "options": ["Fases aleatórias", "Inimigos imprevisíveis", "Design de níveis", "Chefes fáceis"],
+    "answer": "Design de níveis",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "O que os jogadores podem fazer em R-Types para carregar o tiro e liberar um ataque mais poderoso?",
+    "options": ["Apertar rápido", "Segurar botão", "Combinar botões", "Usar item"],
+    "answer": "Segurar botão",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o nome dos inimigos alienígenas que o jogador enfrenta em R-Types?",
+    "options": ["Bydo", "Zerg", "Xenomorph", "Predator"],
+    "answer": "Bydo",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "R-Types se destaca por qual aspecto visual que o torna um clássico do gênero?",
+    "options": ["Gráficos simples", "Pixel art detalhada", "Cores vibrantes", "Efeitos 3D"],
+    "answer": "Pixel art detalhada",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o nome da protagonista que tenta escapar de Raccoon City em Resident Evil 3?",
+    "options": ["Claire Redfield", "Rebecca Chambers", "Jill Valentine", "Ada Wong"],
+    "answer": "Jill Valentine",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Resident Evil 3, qual o nome do monstro implacável que persegue Jill por toda a cidade?",
+    "options": ["Tyrant", "Licker", "Nemesis", "Hunter"],
+    "answer": "Nemesis",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o sistema em Resident Evil 3 que permite aos jogadores fazer escolhas que afetam o jogo?",
+    "options": ["Sistema de diálogo", "Sistema de decisão", "Live Selection", "Escolha de arma"],
+    "answer": "Live Selection",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Resident Evil 3 se passa em qual cidade fictícia, devastada por um surto viral?",
+    "options": ["Silent Hill", "Raccoon City", "Midgar", "Liberty City"],
+    "answer": "Raccoon City",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o protagonista que busca sua filha desaparecida em Silent Hill?",
+    "options": ["Leon Kennedy", "Harry Mason", "James Sunderland", "Heather Mason"],
+    "answer": "Harry Mason",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Silent Hill é conhecido por qual característica que distorce a realidade e causa terror psicológico?",
+    "options": ["Inimigos fáceis", "Mundo alternativo", "Gráficos coloridos", "História simples"],
+    "answer": "Mundo alternativo",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "O que Harry Mason usa em Silent Hill para detectar a presença de inimigos na escuridão?",
+    "options": ["Lanterna", "Rádio", "Mapa", "Arma"],
+    "answer": "Rádio",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Silent Hill utiliza qual elemento visual para aumentar a sensação de isolamento e perigo?",
+    "options": ["Cores vibrantes", "Neblina", "Luz do sol", "Céu azul"],
+    "answer": "Neblina",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o objetivo de Harry Mason em Silent Hill, além de encontrar sua filha?",
+    "options": ["Salvar a cidade", "Entender o mistério", "Escapar", "Lutar"],
+    "answer": "Entender o mistério",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o objetivo principal em Street Sk8er, além de fazer manobras?",
+    "options": ["Vencer a corrida", "Superar pontuações", "Coletar itens", "Lutar"],
+    "answer": "Superar pontuações",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "As pistas de Street Sk8er são baseadas em quais tipos de cenários urbanos?",
+    "options": ["Parques", "Ruas e praças", "Montanhas", "Desertos"],
+    "answer": "Ruas e praças",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o nome do agente secreto protagonista em Syphon Filter?",
+    "options": ["James Bond", "Ethan Hunt", "Gabe Logan", "Jason Bourne"],
+    "answer": "Gabe Logan",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Syphon Filter, qual o tipo de arma que se destaca por seu alcance e precisão?",
+    "options": ["Pistola", "Rifle de precisão", "Escopeta", "Faca"],
+    "answer": "Rifle de precisão",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o principal objetivo em Syphon Filter, envolvendo uma conspiração global?",
+    "options": ["Resgatar reféns", "Impedir terroristas", "Coletar dados", "Lutar"],
+    "answer": "Impedir terroristas",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "The King of Fighters 98 apresenta um grande elenco de personagens de quais séries da SNK?",
+    "options": ["Fatal Fury e Art of Fighting", "Samurai Shodown e Last Blade", "Fatal Fury e Art of Fighting", "KOF e Fatal Fury"],
+    "answer": "Fatal Fury e Art of Fighting",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Em Tomb Raider 4 The Last Revelation, a aventura de Lara a leva a qual país antigo?",
+    "options": ["Grécia", "Egito", "Roma", "China"],
+    "answer": "Egito",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o tipo de artefato que Lara Croft busca em Tomb Raider 4 The Last Revelation, ligado a uma divindade?",
+    "options": ["Estátuas", "Cristais", "Amuleto", "Moedas"],
+    "answer": "Amuleto",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "O que Lara Croft precisa evitar em Tomb Raider 4 The Last Revelation para sobreviver em tumbas e ruínas?",
+    "options": ["Quedas", "Armadilhas", "Inimigos", "Água"],
+    "answer": "Armadilhas",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Tomb Raider 4 The Last Revelation apresenta qual novidade que permite a Lara usar um item para escalar estruturas?",
+    "options": ["Gancho", "Corda", "Binóculos", "Laser"],
+    "answer": "Corda",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Vigilante 8 Second Offense é a sequência de qual famoso jogo de combate veicular?",
+    "options": ["Twisted Metal", "Carmageddon", "Vigilante 8", "Burnout"],
+    "answer": "Vigilante 8",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Vigilante 8 Second Offense adicionou quais novos veículos?",
+    "options": ["Carros", "Motos", "Veículos pesados", "Aviões"],
+    "answer": "Veículos pesados",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o modo de jogo em Winning Eleven 4 que permite aos jogadores controlar um time por várias temporadas?",
+    "options": ["Amistoso", "Master League", "Torneio", "Treino"],
+    "answer": "Master League",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Xena Warrior Princess PS1 apresenta uma variedade de inimigos baseados em quais criaturas?",
+    "options": ["Zumbis", "Robôs", "Mitologia grega", "Alienígenas"],
+    "answer": "Mitologia grega",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "As fases de Xena Warrior Princess PS1 são baseadas em quais tipos de cenários antigos?",
+    "options": ["Cidades modernas", "Florestas e ruínas", "Espaço", "Desertos"],
+    "answer": "Florestas e ruínas",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Yu-Gi-Oh Forbidden Memories é conhecido por qual característica que permite aos jogadores combinar cartas?",
+    "options": ["Fusão", "Descarte", "Troca", "Venda"],
+    "answer": "Fusão",
+    "category": "Games & Brinquedos"
+  },
+  {
+    "question": "Qual o nome do protagonista que pode se transformar em dragão em Breath of Fire 4?",
+    "options": ["Ryu", "Nina", "Fou-Lu", "Cray"],
+    "answer": "Ryu",
+    "category": "Games & Brinquedos"
+  },
     {
         "question": "Em Parasite Eve, qual organismo biológico é a fonte da ameaça que transforma criaturas?",
         "options": [
