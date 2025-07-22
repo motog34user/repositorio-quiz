@@ -1,661 +1,1674 @@
 [
-      {
-    "question": "Qual o nome do planeta natal dos Ratos Motoqueiros de Marte?",
-    "options": ["Júpiter", "Saturno", "Marte", "Vênus"],
-    "answer": "Marte",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual dos Ratos Motoqueiros perdeu um braço na guerra contra os Plutarkianos?",
-    "options": ["Vinnie", "Modo", "Throttle", "Charley"],
-    "answer": "Modo",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o principal vilão que os Ratos Motoqueiros enfrentam na Terra?",
-    "options": ["Fred o Mutante", "Greasepit", "Limburger", "Carbine"],
-    "answer": "Limburger",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome da mecânica humana que ajuda os Ratos Motoqueiros?",
-    "options": ["Sarah", "Emily", "Charley", "Lisa"],
-    "answer": "Charley",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "De que planeta são os inimigos de Limburger e os Ratos Motoqueiros?",
-    "options": ["Plutão", "Vênus", "Plutark", "Urano"],
-    "answer": "Plutark",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual Rato Motoqueiro tem uma cicatriz no olho e é o líder do grupo?",
-    "options": ["Modo", "Vinnie", "Throttle", "Stoker"],
-    "answer": "Throttle",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do capanga desajeitado de Limburger, com um capacete grande?",
-    "options": ["Greasepit", "Pit Boss", "Fred", "Napoleon"],
-    "answer": "Greasepit",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o Rato Motoqueiro que usa uma bandana vermelha e é o mais vaidoso?",
-    "options": ["Throttle", "Modo", "Vinnie", "Stoker"],
-    "answer": "Vinnie",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o principal objetivo de Limburger na Terra?",
-    "options": ["Dominar o mundo", "Roubar queijo", "Extrair recursos", "Encontrar um tesouro"],
-    "answer": "Extrair recursos",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do cientista maluco que trabalha para Limburger?",
-    "options": ["Dr. Kiln", "Dr. Phineas P. Phibes", "Dr. Wily", "Dr. Nefarious"],
-    "answer": "Dr. Phineas P. Phibes",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o alimento favorito dos Plutarkianos, que eles tentam roubar da Terra?",
-    "options": ["Maçãs", "Queijo", "Carne", "Chocolate"],
-    "answer": "Queijo",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual a cidade onde os Ratos Motoqueiros residem na Terra?",
-    "options": ["Nova Iorque", "Chicago", "Detroit", "Los Angeles"],
-    "answer": "Chicago",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do general que é um aliado dos Ratos Motoqueiros em Marte?",
-    "options": ["General Stoker", "General Patton", "General Zod", "General Kael"],
-    "answer": "General Stoker",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do mutante que serve a Limburger e tem uma cabeça de peixe?",
-    "options": ["Fred o Mutante", "Fish Face", "Squid Head", "Merman"],
-    "answer": "Fred o Mutante",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o tipo de arma principal que Modo usa em seu braço robótico?",
-    "options": ["Laser", "Foguete", "Canhão", "Serra"],
-    "answer": "Canhão",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do edifício onde Limburger tem sua base de operações?",
-    "options": ["Torre Plutarkiana", "Torre Limburger", "Torre Queijo", "Torre da Destruição"],
-    "answer": "Torre Limburger",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual a frase de efeito frequentemente dita por Vinnie?",
-    "options": ["É hora do show!", "Vamos nessa!", "Que a força esteja!", "Rock and Roll!"],
-    "answer": "Rock and Roll!",
-    "category": "TV & Desenhos"
-  },
     {
-    "question": "Qual é o nome da mãe de Doug em Doug?",
-    "options": ["Theda Funnie", "Patti Mayonnaise", "Judy Funnie", "Beebe Bluff"],
-    "answer": "Theda Funnie",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Doug, qual é o nome do pai de Doug?",
-    "options": ["Phil Funnie", "Bob Funnie", "Jim Funnie", "Tom Funnie"],
-    "answer": "Phil Funnie",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome da colega de classe de Doug que é muito inteligente em Doug?",
-    "options": ["Connie Benge", "Beebe Bluff", "Patti Mayonnaise", "Judy Funnie"],
-    "answer": "Connie Benge",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Doug, qual é o nome do programa de TV favorito de Doug?",
-    "options": ["Smash Adams", "Quailman", "The Beets", "Honker Burger"],
-    "answer": "Smash Adams",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o principal traço de personalidade de Taz em Taz-Mania, além de sua velocidade?",
-    "options": ["Fome insaciável", "Timidez extrema", "Inteligência superior", "Paciência infinita"],
-    "answer": "Fome insaciável",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do hotel onde Taz e sua família trabalham em Taz-Mania?",
-    "options": ["Hotel Taz", "Hotel Platypus", "Hotel Koala", "Hotel Bush"],
-    "answer": "Hotel Taz",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Scooby-Doo, Cadê Você?, qual item Fred frequentemente usa para capturar os vilões?",
-    "options": ["Rede", "Armadilha", "Corda", "Jaula"],
-    "answer": "Rede",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é a cor do carro da Mistério S.A. em Scooby-Doo, Cadê Você?",
-    "options": ["Azul", "Verde", "Laranja", "Roxo"],
-    "answer": "Verde",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é a comida favorita de Scooby e Salsicha em Scooby-Doo, Cadê Você?",
-    "options": ["Pizza", "Sanduíche", "Biscoito", "Hambúrguer"],
-    "answer": "Biscoito",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Scooby-Doo, Cadê Você?, quem é o membro mais cético da equipe?",
-    "options": ["Daphne", "Velma", "Fred", "Salsicha"],
-    "answer": "Velma",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Scooby-Doo, Cadê Você?, o que geralmente acontece com os vilões no final dos episódios?",
-    "options": ["Fugiam", "Eram presos", "Viravam heróis", "Desapareciam"],
-    "answer": "Eram presos",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Scooby-Doo, Cadê Você?, quem é a mais vaidosa do grupo?",
-    "options": ["Velma", "Daphne", "Salsicha", "Fred"],
-    "answer": "Daphne",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do criador de Scooby-Doo, Cadê Você?",
-    "options": ["Hanna-Barbera", "Disney", "Warner Bros", "Pixar"],
-    "answer": "Hanna-Barbera",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o objeto que Velma sempre perde em Scooby-Doo, Cadê Você?",
-    "options": ["Chaves", "Óculos", "Livro", "Chapéu"],
-    "answer": "Óculos",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Scooby-Doo, Cadê Você?, qual é o nome completo de Salsicha?",
-    "options": ["Norville Rogers", "Shaggy Rogers", "Scooby Rogers", "Fred Rogers"],
-    "answer": "Norville Rogers",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o principal poder dos Ursinhos Carinhosos que os ajuda a resolver problemas?",
-    "options": ["Raio do Bem", "Super Força", "Voo", "Invisibilidade"],
-    "answer": "Raio do Bem",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Ursinhos Carinhosos, qual é o nome do Ursinho que tem um trevo de quatro folhas na barriga?",
-    "options": ["Sortudo", "Amor", "Alegria", "Esperança"],
-    "answer": "Sortudo",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Ursinhos Carinhosos, qual é o nome do Ursinho que tem um arco-íris na barriga?",
-    "options": ["Arco-Íris", "Amor", "Alegria", "Compartilhar"],
-    "answer": "Arco-Íris",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do vilão principal que tenta espalhar a falta de carinho em Ursinhos Carinhosos?",
-    "options": ["Coração Gelado", "Coração Sombrio", "Sem Coração", "Coração Cruel"],
-    "answer": "Coração Gelado",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome da minhoquinha que morava na maçã e adorava ler?",
-    "options": ["Lili", "Lulu", "Lala", "Lelo"],
-    "answer": "Lili",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em A Minhoquinha que Morava na Maçã, qual é o passatempo favorito de Lili?",
-    "options": ["Cantar", "Dançar", "Ler", "Pintar"],
-    "answer": "Ler",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Onde Lili, a minhoquinha que morava na maçã, costumava passar a maior parte do tempo?",
-    "options": ["Na grama", "Na árvore", "Dentro da maçã", "No rio"],
-    "answer": "Dentro da maçã",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Doug, qual é o nome do melhor amigo de Doug?",
-    "options": ["Skeeter", "Roger", "Porkchop", "Beebe"],
-    "answer": "Skeeter",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome da cidade onde Doug e seus amigos vivem em Doug?",
-    "options": ["Bluffington", "Quailman City", "Funnieville", "Greenville"],
-    "answer": "Bluffington",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Doug, qual é o nome da garota por quem Doug tem uma queda?",
-    "options": ["Patti Mayonnaise", "Judy Funnie", "Beebe Bluff", "Connie Benge"],
-    "answer": "Patti Mayonnaise",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do cachorro de estimação de Doug em Doug?",
-    "options": ["Costelinha", "Spot", "Buddy", "Max"],
-    "answer": "Costelinha",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Doug, qual é o nome do valentão da escola?",
-    "options": ["Roger Klotz", "Ned Brainard", "Mr. Bone", "Al and Moo"],
-    "answer": "Roger Klotz",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome da irmã mais velha de Doug em Doug?",
-    "options": ["Judy Funnie", "Theda Funnie", "Connie Benge", "Beebe Bluff"],
-    "answer": "Judy Funnie",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Doug, qual é o nome do restaurante favorito de Doug e Skeeter?",
-    "options": ["Honker Burger", "Chili's", "The Diner", "Pizza Place"],
-    "answer": "Honker Burger",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Doug, qual é o nome do vizinho rico de Doug?",
-    "options": ["Mr. Dink", "Mr. Funnie", "Mr. Bone", "Mr. Bluff"],
-    "answer": "Mr. Dink",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome da banda favorita de Doug em Doug?",
-    "options": ["The Beets", "The Pickles", "The Peppers", "The Carrots"],
-    "answer": "The Beets",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Doug, qual é o nome do diretor da escola de Doug?",
-    "options": ["Mr. Bone", "Mr. Dink", "Mr. Swirly", "Mr. Bluff"],
-    "answer": "Mr. Bone",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em que ano foi lançado o desenho Denis, o Pimentinha no Brasil?",
-    "options": ["1983", "1984", "1987", "1986"],
-    "answer": "1987",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do personagem que era um ET e visitava o Castelo Rá-Tim-Bum?",
-    "options": ["ET Valdo", "Marte", "Júpiter", "Saturno"],
-    "answer": "ET Valdo",
-    "category": "TV & Desenhos"
-  },
- {
-    "question": "Qual dos personagens de Castelo Rá-Tim-Bum tinha um bordão 'Porque sim não é resposta'?",
-    "options": ["Nino", "Telekid", "Dr. Victor", "Gato Pintado"],
-    "answer": "Telekid",
-    "category": "TV & Desenhos"
-  },
- {
-    "question": "Qual o nome do ator que interpretava o Pedro em Castelo Rá-Tim-Bum?",
-    "options": ["Luciano Amaral", "Fredy Allan", "Cássio Scapin", "Marcelo Tas"],
-    "answer": "Luciano Amaral",
-    "category": "TV & Desenhos"
-  },
-{
-    "question": "Qual o principal motivo de Dr. Abobrinha querer demolir o Castelo Rá-Tim-Bum?",
-    "options": ["Construir um shopping", "Fazer um estacionamento", "Construir um prédio", "Abrir um hotel de luxo"],
-    "answer": "Construir um prédio",
-    "category": "TV & Desenhos"
-  },
- {
-    "question": "Qual o nome da personagem que era uma repórter e amiga das crianças em Castelo Rá-Tim-Bum?",
-    "options": ["Penélope", "Tia Morgana", "Biba", "Celeste"],
-    "answer": "Penélope",
-    "category": "TV & Desenhos"
-  },
-{
-    "question": "Qual objeto voador era usado pela Tia Morgana em Castelo Rá-Tim-Bum?",
-    "options": ["Tapete mágico", "Vassoura", "Disco voador", "Nuvem"],
-    "answer": "Vassoura",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual dos personagens de Castelo Rá-Tim-Bum era um ser mitológico?",
-    "options": ["Morgana", "Nino", "Caipora", "Celeste"],
-    "answer": "Caipora",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Castelo Rá-Tim-Bum, qual o nome da atriz que interpretava a Biba?",
-    "options": ["Rosane Mulholland", "Cinthya Rachel", "Angela Dip", "Patrícia Gasppar"],
-    "answer": "Cinthya Rachel",
-    "category": "TV & Desenhos"
-  },
-{
-    "question": "Qual o nome do ator que interpretava o Nino em Castelo Rá-Tim-Bum?",
-    "options": ["Cássio Scapin", "Marcelo Tas", "Luciano Amaral", "Álvaro Petersen"],
-    "answer": "Cássio Scapin",
-    "category": "TV & Desenhos"
-  },
-{
-    "question": "Qual o nome do personagem que aparecia na biblioteca em Castelo Rá-Tim-Bum?",
-    "options": ["Gato Pintado", "Pássaro", "Coruja", "Peixe"],
-    "answer": "Gato Pintado",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Castelo Rá-Tim-Bum foi considerado um marco na televisão brasileira por qual motivo?",
-    "options": ["Ser a primeira série colorida", "Inovar a programação infantil", "Ter apenas um ator", "Ser totalmente animado"],
-    "answer": "Inovar a programação infantil",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual personagem de Castelo Rá-Tim-Bum tinha um bordão 'Klift Kloft Stil, a porta se abriu!'?",
-    "options": ["Nino", "Porteiro", "Dr. Victor", "Morgana"],
-    "answer": "Porteiro",
-    "category": "TV & Desenhos"
-  },
- {
-    "question": "Qual o nome do cientista e tio de Nino em Castelo Rá-Tim-Bum?",
-    "options": ["Dr. Abobrinha", "Dr. Bactéria", "Dr. Victor", "Dr. Zero"],
-    "answer": "Dr. Victor",
-    "category": "TV & Desenhos"
-  },
-{
-    "question": "Em que ano o programa Castelo Rá-Tim-Bum estreou na TV Cultura?",
-    "options": ["1990", "1992", "1994", "1996"],
-    "answer": "1994",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome da tia-avó de Nino, uma feiticeira de 6.000 anos, em Castelo Rá-Tim-Bum?",
-    "options": ["Adelaide", "Morgana", "Celeste", "Penélope"],
-    "answer": "Morgana",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Onde se localiza o Castelo Rá-Tim-Bum na trama do programa?",
-    "options": ["Rio de Janeiro", "Belo Horizonte", "São Paulo", "Brasília"],
-    "answer": "São Paulo",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome da dupla de cientistas em Castelo Rá-Tim-Bum que ensinava sobre experimentos?",
-    "options": ["Zeca e Pedro", "Tíbio e Perônio", "Mestre e Aprendiz", "Cientistas Malucos"],
-    "answer": "Tíbio e Perônio",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual era o tipo de animal da personagem Celeste em Castelo Rá-Tim-Bum?",
-    "options": ["Cachorro", "Gato", "Cobra", "Pássaro"],
-    "answer": "Cobra",
-    "category": "TV & Desenhos"
-  },
-   {
-    "question": "Qual Muppet Baby é conhecido por ser o líder do grupo?",
-    "options": ["Piggy", "Gonzo", "Caco", "Fozzie"],
-    "answer": "Caco",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Onde os Muppet Babies passam a maior parte do tempo em suas aventuras imaginárias?",
-    "options": ["No sótão", "No quintal", "No quarto de brincar", "Na cozinha"],
-    "answer": "No quarto de brincar",
-    "category": "TV & Desenhos"
-  },
-   {
-    "question": "O que os Muppet Babies frequentemente aprendem no final de cada episódio?",
-    "options": [
-      "Matemática avançada",
-      "Uma lição de moral",
-      "Como construir robôs",
-      "Fatos históricos"
-    ],
-    "answer": "Uma lição de moral",
-    "category": "TV & Desenhos"
-  },
-   {
-    "question": "Qual Muppet Baby tem um sobrinho que é um girino?",
-    "options": ["Piggy", "Caco", "Fozzie", "Gonzo"],
-    "answer": "Caco",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "A babá dos Muppet Babies frequentemente oferece o que aos bebês?",
-    "options": ["Doces", "Conselhos", "Novos brinquedos", "Tarefas domésticas"],
-    "answer": "Conselhos",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual Muppet Baby é um cão calmo e musical que adora tocar piano?",
-    "options": ["Caco", "Fozzie", "Rowlf", "Gonzo"],
-    "answer": "Rowlf",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do Muppet Baby que é um baterista selvagem e cheio de energia?",
-    "options": ["Gonzo", "Animal", "Rowlf", "Scooter"],
-    "answer": "Animal",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual tecnologia avançada os carros de Pole Position possuíam para ajudar os heróis?",
-    "options": ["Piloto automático", "Inteligência Artificial", "Viagem no tempo", "Invisibilidade"],
-    "answer": "Inteligência Artificial",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Os carros de Pole Position podiam ser equipados com quais recursos especiais?",
-    "options": ["Asas para voar", "Rodas de esqui aquático", "Armas de laser", "Pneus retráteis"],
-    "answer": "Rodas de esqui aquático",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "No Brasil, o desenho Pole Position foi exibido dentro de qual programa infantil do SBT?",
-    "options": ["Bom Dia & Cia", "Xou da Xuxa", "Programa da Angélica", "TV Globinho"],
-    "answer": "Bom Dia & Cia",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual Muppet Baby está sempre tentando impressionar a Piggy?",
-    "options": ["Fozzie", "Gonzo", "Caco", "Scooter"],
-    "answer": "Caco",
-    "category": "TV & Desenhos"
-  },
- {
-    "question": "Qual dos Muppet Babies adora contar piadas, mesmo que não sejam boas?",
-    "options": ["Gonzo", "Fozzie", "Animal", "Caco"],
-    "answer": "Fozzie",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual personagem dos Muppet Babies é um alienígena excêntrico?",
-    "options": ["Gonzo", "Caco", "Scooter", "Fozzie"],
-    "answer": "Gonzo",
-    "category": "TV & Desenhos"
-  },
-   {
-    "question": "Como a babá é mostrada em Muppet Babies original?",
-    "options": ["Inteira", "Apenas mãos", "De costas", "Do pescoço para baixo"],
-    "answer": "Do pescoço para baixo",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Quem é o irmão gêmeo tímido de Skeeter em Muppet Babies?",
-    "options": ["Scooter", "Fozzie", "Gonzo", "Rowlf"],
-    "answer": "Scooter",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é a cor da macacão que Denis, o Pimentinha costuma usar?",
-    "options": ["Vermelha", "Azul", "Verde", "Amarela"],
-    "answer": "Vermelha",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual personagem é o melhor amigo de Denis no desenho?",
-    "options": ["Juca", "Henry", "Danny", "Mike"],
-    "answer": "Juca",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do cachorro travesso que aparece na série de Denis?",
-    "options": ["Rufus", "Gromit", "Rexy", "Ginger"],
-    "answer": "Rufus",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual a profissão do pai de Denis no desenho animado?",
-    "options": ["Professor", "Médico", "Engenheiro", "Jornalista"],
-    "answer": "Engenheiro",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Denis, o Pimentinha, é baseado em personagens de qual tipo de mídia?",
-    "options": ["Revista em quadrinhos", "Livro infantil", "Programa de rádio", "Peça de teatro"],
-    "answer": "Revista em quadrinhos",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual canal transmitia o desenho Denis, o Pimentinha no Brasil em 1987?",
-    "options": ["SBT", "Globo", "Band", "Record"],
-    "answer": "SBT",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em os caezinhos do canil, qual o principal objetivo de Medroso ao liderar os filhotes?",
-    "options": ["Achar comida", "Fugir do canil", "Ajudar a encontrar lares", "Brincar o dia todo"],
-    "answer": "Ajudar a encontrar lares",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Quem é a cruel diretora do canil em os caezinhos do canil, que dificulta a vida dos filhotes?",
-    "options": ["Sra. Smith", "Katrina Coração de Pedra", "Tia Beth", "Dona Clara"],
-    "answer": "Katrina Coração de Pedra",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual filhote de os caezinhos do canil é conhecido por ter um faro excepcional para resolver problemas?",
-    "options": ["Bright Eyes", "Whopper", "Nose Marie", "Howler"],
-    "answer": "Nose Marie",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em os caezinhos do canil, qual a garota que sempre tenta ajudar os filhotes a encontrar um lar?",
-    "options": ["Sarah", "Holly", "Emily", "Lisa"],
-    "answer": "Holly",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual a característica mais marcante dos Popples que os permite se esconder?",
-    "options": ["Ficam invisíveis", "Viram uma bola", "Encolhem de tamanho", "Mudam de cor"],
-    "answer": "Viram uma bola",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em popples, onde os Popples geralmente são encontrados quando não estão brincando?",
-    "options": ["Na floresta", "Em caixas de brinquedo", "Dentro de suas bolsas", "No sótão"],
-    "answer": "Dentro de suas bolsas",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em popples, qual a atividade que os Popples mais gostam de fazer, mesmo causando confusão?",
-    "options": ["Cozinhar", "Organizar", "Ajudar", "Dormir"],
-    "answer": "Ajudar",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Os Popples interagem principalmente com quais crianças humanas?",
-    "options": ["Billy e Bonnie", "Kevin e Kelly", "Mike e Molly", "Tim e Tina"],
-    "answer": "Billy e Bonnie",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual Popple adora resolver enigmas e quebra-cabeças?",
-    "options": ["Putter", "Puzzle", "Potato", "Prize Popple"],
-    "answer": "Puzzle",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "A natureza dos Popples é principalmente de seres:",
-    "options": ["Mal-humorados", "Quietos", "Travessos", "Tímidos"],
-    "answer": "Travessos",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em papa leguas, qual empresa o Coiote sempre usa para comprar seus equipamentos?",
-    "options": ["Acme Corporation", "Apex Tools", "Dynamo Gear", "Mega Gadgets"],
-    "answer": "Acme Corporation",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o som característico que o Papa-Léguas faz ao correr?",
-    "options": ["Zip-zap", "Beep-beep", "Vrum-vrum", "Tic-tac"],
-    "answer": "Beep-beep",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o objetivo principal do Coiote em papa leguas?",
-    "options": ["Fazer um amigo", "Construir uma casa", "Capturar o Papa-Léguas", "Explorar o deserto"],
-    "answer": "Capturar o Papa-Léguas",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Onde se passam a maioria das perseguições no desenho do papa leguas?",
-    "options": ["Na floresta", "Na cidade", "No deserto", "Em montanhas nevadas"],
-    "answer": "No deserto",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "O que invariavelmente acontece com os planos do coiote em papa leguas?",
-    "options": ["Eles dão certo", "Eles são roubados", "Eles falham", "Eles são ignorados"],
-    "answer": "Eles falham",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "O Papa-Léguas é um tipo de qual animal?",
-    "options": ["Avestruz", "Galinha", "Corredor", "Pássaro"],
-    "answer": "Pássaro",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em papa leguas, qual erro o Coiote frequentemente comete ao usar seus inventos?",
-    "options": ["Não lê o manual", "Não testa antes", "Usa no lugar errado", "Vira a armadilha contra si"],
-    "answer": "Vira a armadilha contra si",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Após um plano falhar em papa leguas, qual a reação mais comum do Coiote?",
-    "options": ["Desistir", "Chorar", "Ficar irritado", "Tentar de novo imediatamente"],
-    "answer": "Tentar de novo imediatamente",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em papa leguas, o que o Coiote frequentemente desenha nas rochas para enganar o Papa-Léguas?",
-    "options": ["Placas de trânsito", "Túneis falsos", "Árvores", "Mapas"],
-    "answer": "Túneis falsos",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Quem era a principal adversária de Denis nas histórias do desenho?",
-    "options": ["Margaret", "Dora", "Lisa", "Maggie"],
-    "answer": "Margaret",
-    "category": "TV & Desenhos"
-  }
+        "question": "No universo de Skeleton Warriors qual cristal místico alimenta Luminicity e dá poder?",
+        "options": [
+            "Cristal Estelar",
+            "Luminara",
+            "Cristal da Luz",
+            "Crystal Heart"
+        ],
+        "answer": "Cristal da Luz",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Skeleton Warriors quem o Barão Dark transforma em guerreiros esqueléticos?",
+        "options": [
+            "Pessoas de coração maligno",
+            "Cientistas aliados",
+            "Animais sombrios",
+            "Guerreiros místicos"
+        ],
+        "answer": "Pessoas de coração maligno",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "No planeta Luminaire qual cidade é alimentada pelo cristal central em Skeleton Warriors?",
+        "options": [
+            "Luminicity",
+            "Cidade da Aurora",
+            "Citadel of Light",
+            "Synar"
+        ],
+        "answer": "Luminicity",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Skeleton Warriors qual poder Grimskull, irmão de Lightstar, possui?",
+        "options": [
+            "Viajar em sombras",
+            "Lançar projéteis",
+            "Levitacão aérea",
+            "Super força"
+        ],
+        "answer": "Viajar em sombras",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual habilidade Talyn desenvolve após a fragmentação do cristal em Skeleton Warriors?",
+        "options": [
+            "Voar",
+            "Cura instantânea",
+            "Invisibilidade",
+            "Telepatia"
+        ],
+        "answer": "Voar",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Skeleton Warriors qual ataque Lightstar canaliza usando a espada cristalina?",
+        "options": [
+            "Raio de energia",
+            "Chama sagrada",
+            "Pulso gravitacional",
+            "Tiro congelante"
+        ],
+        "answer": "Raio de energia",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Quem é o mentor e conselheiro da Legião da Luz em Skeleton Warriors?",
+        "options": [
+            "Guardião Ursak",
+            "Barão Dark",
+            "Grimskull",
+            "Talyn"
+        ],
+        "answer": "Guardião Ursak",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual meio permite aos heróis restaurar esqueleto para humano em Skeleton Warriors?",
+        "options": [
+            "Remover gemas do coração",
+            "Purificar o cristal",
+            "Destruir Darkon",
+            "Descongelar raios"
+        ],
+        "answer": "Remover gemas do coração",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual característica distingue o Barão Dark de outros esqueleto em Skeleton Warriors?",
+        "options": [
+            "Mantém mais crânios extras",
+            "Capa luminosa",
+            "Olhos vermelhos",
+            "Armadura de cristal"
+        ],
+        "answer": "Mantém mais crânios extras",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Como Grimskull age após abandonar o lado do Barão Dark em Skeleton Warriors?",
+        "options": [
+            "Busca redenção na Legião",
+            "Vinga seu irmão",
+            "Tenta dominar o cristal",
+            "Trai Talyn"
+        ],
+        "answer": "Busca redenção na Legião",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o planeta fictício onde se passa toda a trama de Skeleton Warriors?",
+        "options": [
+            "Luminaire",
+            "Synar",
+            "Luminicity",
+            "Argos"
+        ],
+        "answer": "Luminaire",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Pequeno Urso, qual animal é o melhor amigo do Pequeno Urso?",
+        "options": [
+            "Pata",
+            "Coruja",
+            "Gata",
+            "Galinha"
+        ],
+        "answer": "Coruja",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o passatempo favorito do Pequeno Urso e seus amigos?",
+        "options": [
+            "Jogar bola",
+            "Contar histórias",
+            "Explorar a floresta",
+            "Pintar quadros"
+        ],
+        "answer": "Explorar a floresta",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da boneca que a Pequena Ursa, Emily, carrega em O Pequeno Urso?",
+        "options": [
+            "Lucy",
+            "Lola",
+            "Boneca de Pano",
+            "Não tem boneca"
+        ],
+        "answer": "Lucy",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Pequeno Urso, o que a Mãe Ursa sempre prepara para o Pequeno Urso comer?",
+        "options": [
+            "Sanduíches",
+            "Sopa de legumes",
+            "Mingau de aveia",
+            "Biscoitos"
+        ],
+        "answer": "Mingau de aveia",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Onde o Pequeno Urso e seus amigos costumam se encontrar para brincar em O Pequeno Urso?",
+        "options": [
+            "Na casa da Pata",
+            "No rio",
+            "Na clareira",
+            "Na árvore oca"
+        ],
+        "answer": "Na clareira",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da criança humana que visita o Pequeno Urso e seus amigos?",
+        "options": [
+            "Maria",
+            "Emily",
+            "Clara",
+            "Alice"
+        ],
+        "answer": "Emily",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Pequeno Urso, o que a Galinha sempre faz quando está nervosa?",
+        "options": [
+            "Canta",
+            "Corre em círculos",
+            "Bota um ovo",
+            "Bate as asas"
+        ],
+        "answer": "Corre em círculos",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do local onde a família do Pequeno Urso vive?",
+        "options": [
+            "Uma caverna",
+            "Uma casa na árvore",
+            "Uma toca",
+            "Uma casa de madeira"
+        ],
+        "answer": "Uma casa de madeira",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Animais do Bosque dos Vinténs, qual o motivo inicial da jornada dos animais?",
+        "options": [
+            "Procurar comida",
+            "Fugir de caçadores",
+            "Destruição do lar",
+            "Explorar o mundo"
+        ],
+        "answer": "Destruição do lar",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do líder escolhido pelos animais para guiá-los em Animais do Bosque dos Vinténs?",
+        "options": [
+            "O Texugo",
+            "O Raposo",
+            "A Coruja",
+            "A Doninha"
+        ],
+        "answer": "O Raposo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Animais do Bosque dos Vinténs, qual animal é conhecido por sua sabedoria e por voar alto?",
+        "options": [
+            "A Águia",
+            "O Falcão",
+            "A Coruja",
+            "O Corvo"
+        ],
+        "answer": "A Coruja",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o destino final dos animais em Animais do Bosque dos Vinténs?",
+        "options": [
+            "Vale Verde",
+            "Parque do Cervo Branco",
+            "Montanha Sagrada",
+            "Lago Azul"
+        ],
+        "answer": "Parque do Cervo Branco",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Animais do Bosque dos Vinténs, qual animal é o mais velho e experiente do grupo?",
+        "options": [
+            "O Texugo",
+            "O Raposo",
+            "A Toupeira",
+            "A Doninha"
+        ],
+        "answer": "O Texugo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o principal perigo que os animais enfrentam ao atravessar a estrada em Animais do Bosque dos Vinténs?",
+        "options": [
+            "Caçadores",
+            "Veículos",
+            "Inundações",
+            "Animais selvagens"
+        ],
+        "answer": "Veículos",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Animais do Bosque dos Vinténs, qual animal é o mais medroso e vive se escondendo?",
+        "options": [
+            "O Coelho",
+            "A Toupeira",
+            "O Rato",
+            "O Ouriço"
+        ],
+        "answer": "A Toupeira",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Animais do Bosque dos Vinténs, qual animal é o mensageiro do grupo, voando para frente?",
+        "options": [
+            "O Falcão",
+            "A Coruja",
+            "O Pássaro",
+            "O Corvo"
+        ],
+        "answer": "O Falcão",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Animais do Bosque dos Vinténs, qual o principal predador que os animais tentam evitar?",
+        "options": [
+            "Lobos",
+            "Ursos",
+            "Humanos",
+            "Cães selvagens"
+        ],
+        "answer": "Humanos",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Animais do Bosque dos Vinténs, qual animal é o mais lento do grupo e precisa de ajuda para se mover?",
+        "options": [
+            "A Tartaruga",
+            "O Sapo",
+            "O Ouriço",
+            "O Caracol"
+        ],
+        "answer": "O Sapo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da floresta original de onde os animais vêm em Animais do Bosque dos Vinténs?",
+        "options": [
+            "Bosque Encantado",
+            "Bosque dos Vinténs",
+            "Floresta Antiga",
+            "Mata Cerrada"
+        ],
+        "answer": "Bosque dos Vinténs",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Animais do Bosque dos Vinténs, qual animal é o mais protetor dos filhotes?",
+        "options": [
+            "A Raposa",
+            "A Texuga",
+            "A Doninha",
+            "A Coruja"
+        ],
+        "answer": "A Raposa",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em As Aventuras de Tintim, qual o nome do cachorro leal que acompanha Tintim em suas jornadas?",
+        "options": [
+            "Milu",
+            "Rex",
+            "Bobby",
+            "Pluto"
+        ],
+        "answer": "Milu",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual a bebida favorita do Capitão Haddock em As Aventuras de Tintim?",
+        "options": [
+            "Cerveja",
+            "Vinho",
+            "Uísque",
+            "Rum"
+        ],
+        "answer": "Uísque",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em As Aventuras de Tintim, qual o nome da mansão que o Capitão Haddock herda?",
+        "options": [
+            "Solar do Tubarão",
+            "Castelo de Moulinsart",
+            "Casa do Capitão",
+            "Mansão Haddock"
+        ],
+        "answer": "Castelo de Moulinsart",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome dos detetives gêmeos atrapalhados em As Aventuras de Tintim?",
+        "options": [
+            "Dupond e Dupont",
+            "Thompson e Thomson",
+            "Smith e Jones",
+            "Pierre e Paul"
+        ],
+        "answer": "Dupond e Dupont",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em As Aventuras de Tintim, qual a profissão do Professor Girasol?",
+        "options": [
+            "Historiador",
+            "Arqueólogo",
+            "Cientista",
+            "Jornalista"
+        ],
+        "answer": "Cientista",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da cantora de ópera que sempre persegue o Capitão Haddock em As Aventuras de Tintim?",
+        "options": [
+            "Maria Callas",
+            "Bianca Castafiore",
+            "Carla Bruni",
+            "Madame Butterfly"
+        ],
+        "answer": "Bianca Castafiore",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em As Aventuras de Tintim, qual o nome do país fictício onde se passa a aventura de 'O Cetro de Ottokar'?",
+        "options": [
+            "Syldavia",
+            "Borduria",
+            "San Theodoros",
+            "Khemed"
+        ],
+        "answer": "Syldavia",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do navio usado para a expedição em 'O Tesouro de Rackham, o Terrível' em As Aventuras de Tintim?",
+        "options": [
+            "Estrela do Mar",
+            "Unicórnio",
+            "Sirius",
+            "Aurora"
+        ],
+        "answer": "Sirius",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em As Aventuras de Tintim, qual o nome do vilão que é um traficante de ópio em 'Os Charutos do Faraó'?",
+        "options": [
+            "Rastapopoulos",
+            "Allan",
+            "Dr. Müller",
+            "Mitsuhirato"
+        ],
+        "answer": "Rastapopoulos",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em As Aventuras de Tintim, qual o nome do general que é amigo do Capitão Haddock e sempre está em golpes de estado?",
+        "options": [
+            "General Tapioca",
+            "General Alcazar",
+            "General Sponsz",
+            "General Krollspell"
+        ],
+        "answer": "General Alcazar",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do mar que Tintim e seus amigos atravessam em 'O Caranguejo das Tenazes de Ouro'?",
+        "options": [
+            "Mar Mediterrâneo",
+            "Oceano Atlântico",
+            "Mar Vermelho",
+            "Mar Arábico"
+        ],
+        "answer": "Mar Mediterrâneo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do mordomo do Castelo de Moulinsart em As Aventuras de Tintim?",
+        "options": [
+            "Alfred",
+            "James",
+            "Nestor",
+            "Jeeves"
+        ],
+        "answer": "Nestor",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do planeta natal dos Ratos Motoqueiros de Marte?",
+        "options": [
+            "Júpiter",
+            "Saturno",
+            "Marte",
+            "Vênus"
+        ],
+        "answer": "Marte",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual dos Ratos Motoqueiros perdeu um braço na guerra contra os Plutarkianos?",
+        "options": [
+            "Vinnie",
+            "Modo",
+            "Throttle",
+            "Charley"
+        ],
+        "answer": "Modo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o principal vilão que os Ratos Motoqueiros enfrentam na Terra?",
+        "options": [
+            "Fred o Mutante",
+            "Greasepit",
+            "Limburger",
+            "Carbine"
+        ],
+        "answer": "Limburger",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da mecânica humana que ajuda os Ratos Motoqueiros?",
+        "options": [
+            "Sarah",
+            "Emily",
+            "Charley",
+            "Lisa"
+        ],
+        "answer": "Charley",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "De que planeta são os inimigos de Limburger e os Ratos Motoqueiros?",
+        "options": [
+            "Plutão",
+            "Vênus",
+            "Plutark",
+            "Urano"
+        ],
+        "answer": "Plutark",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual Rato Motoqueiro tem uma cicatriz no olho e é o líder do grupo?",
+        "options": [
+            "Modo",
+            "Vinnie",
+            "Throttle",
+            "Stoker"
+        ],
+        "answer": "Throttle",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do capanga desajeitado de Limburger, com um capacete grande?",
+        "options": [
+            "Greasepit",
+            "Pit Boss",
+            "Fred",
+            "Napoleon"
+        ],
+        "answer": "Greasepit",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o Rato Motoqueiro que usa uma bandana vermelha e é o mais vaidoso?",
+        "options": [
+            "Throttle",
+            "Modo",
+            "Vinnie",
+            "Stoker"
+        ],
+        "answer": "Vinnie",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o principal objetivo de Limburger na Terra?",
+        "options": [
+            "Dominar o mundo",
+            "Roubar queijo",
+            "Extrair recursos",
+            "Encontrar um tesouro"
+        ],
+        "answer": "Extrair recursos",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do cientista maluco que trabalha para Limburger?",
+        "options": [
+            "Dr. Kiln",
+            "Dr. Phineas P. Phibes",
+            "Dr. Wily",
+            "Dr. Nefarious"
+        ],
+        "answer": "Dr. Phineas P. Phibes",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o alimento favorito dos Plutarkianos, que eles tentam roubar da Terra?",
+        "options": [
+            "Maçãs",
+            "Queijo",
+            "Carne",
+            "Chocolate"
+        ],
+        "answer": "Queijo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual a cidade onde os Ratos Motoqueiros residem na Terra?",
+        "options": [
+            "Nova Iorque",
+            "Chicago",
+            "Detroit",
+            "Los Angeles"
+        ],
+        "answer": "Chicago",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do general que é um aliado dos Ratos Motoqueiros em Marte?",
+        "options": [
+            "General Stoker",
+            "General Patton",
+            "General Zod",
+            "General Kael"
+        ],
+        "answer": "General Stoker",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do mutante que serve a Limburger e tem uma cabeça de peixe?",
+        "options": [
+            "Fred o Mutante",
+            "Fish Face",
+            "Squid Head",
+            "Merman"
+        ],
+        "answer": "Fred o Mutante",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o tipo de arma principal que Modo usa em seu braço robótico?",
+        "options": [
+            "Laser",
+            "Foguete",
+            "Canhão",
+            "Serra"
+        ],
+        "answer": "Canhão",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do edifício onde Limburger tem sua base de operações?",
+        "options": [
+            "Torre Plutarkiana",
+            "Torre Limburger",
+            "Torre Queijo",
+            "Torre da Destruição"
+        ],
+        "answer": "Torre Limburger",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual a frase de efeito frequentemente dita por Vinnie?",
+        "options": [
+            "É hora do show!",
+            "Vamos nessa!",
+            "Que a força esteja!",
+            "Rock and Roll!"
+        ],
+        "answer": "Rock and Roll!",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome da mãe de Doug em Doug?",
+        "options": [
+            "Theda Funnie",
+            "Patti Mayonnaise",
+            "Judy Funnie",
+            "Beebe Bluff"
+        ],
+        "answer": "Theda Funnie",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Doug, qual é o nome do pai de Doug?",
+        "options": [
+            "Phil Funnie",
+            "Bob Funnie",
+            "Jim Funnie",
+            "Tom Funnie"
+        ],
+        "answer": "Phil Funnie",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome da colega de classe de Doug que é muito inteligente em Doug?",
+        "options": [
+            "Connie Benge",
+            "Beebe Bluff",
+            "Patti Mayonnaise",
+            "Judy Funnie"
+        ],
+        "answer": "Connie Benge",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Doug, qual é o nome do programa de TV favorito de Doug?",
+        "options": [
+            "Smash Adams",
+            "Quailman",
+            "The Beets",
+            "Honker Burger"
+        ],
+        "answer": "Smash Adams",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o principal traço de personalidade de Taz em Taz-Mania, além de sua velocidade?",
+        "options": [
+            "Fome insaciável",
+            "Timidez extrema",
+            "Inteligência superior",
+            "Paciência infinita"
+        ],
+        "answer": "Fome insaciável",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do hotel onde Taz e sua família trabalham em Taz-Mania?",
+        "options": [
+            "Hotel Taz",
+            "Hotel Platypus",
+            "Hotel Koala",
+            "Hotel Bush"
+        ],
+        "answer": "Hotel Taz",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Scooby-Doo, Cadê Você?, qual item Fred frequentemente usa para capturar os vilões?",
+        "options": [
+            "Rede",
+            "Armadilha",
+            "Corda",
+            "Jaula"
+        ],
+        "answer": "Rede",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é a cor do carro da Mistério S.A. em Scooby-Doo, Cadê Você?",
+        "options": [
+            "Azul",
+            "Verde",
+            "Laranja",
+            "Roxo"
+        ],
+        "answer": "Verde",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é a comida favorita de Scooby e Salsicha em Scooby-Doo, Cadê Você?",
+        "options": [
+            "Pizza",
+            "Sanduíche",
+            "Biscoito",
+            "Hambúrguer"
+        ],
+        "answer": "Biscoito",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Scooby-Doo, Cadê Você?, quem é o membro mais cético da equipe?",
+        "options": [
+            "Daphne",
+            "Velma",
+            "Fred",
+            "Salsicha"
+        ],
+        "answer": "Velma",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Scooby-Doo, Cadê Você?, o que geralmente acontece com os vilões no final dos episódios?",
+        "options": [
+            "Fugiam",
+            "Eram presos",
+            "Viravam heróis",
+            "Desapareciam"
+        ],
+        "answer": "Eram presos",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Scooby-Doo, Cadê Você?, quem é a mais vaidosa do grupo?",
+        "options": [
+            "Velma",
+            "Daphne",
+            "Salsicha",
+            "Fred"
+        ],
+        "answer": "Daphne",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do criador de Scooby-Doo, Cadê Você?",
+        "options": [
+            "Hanna-Barbera",
+            "Disney",
+            "Warner Bros",
+            "Pixar"
+        ],
+        "answer": "Hanna-Barbera",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o objeto que Velma sempre perde em Scooby-Doo, Cadê Você?",
+        "options": [
+            "Chaves",
+            "Óculos",
+            "Livro",
+            "Chapéu"
+        ],
+        "answer": "Óculos",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Scooby-Doo, Cadê Você?, qual é o nome completo de Salsicha?",
+        "options": [
+            "Norville Rogers",
+            "Shaggy Rogers",
+            "Scooby Rogers",
+            "Fred Rogers"
+        ],
+        "answer": "Norville Rogers",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o principal poder dos Ursinhos Carinhosos que os ajuda a resolver problemas?",
+        "options": [
+            "Raio do Bem",
+            "Super Força",
+            "Voo",
+            "Invisibilidade"
+        ],
+        "answer": "Raio do Bem",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Ursinhos Carinhosos, qual é o nome do Ursinho que tem um trevo de quatro folhas na barriga?",
+        "options": [
+            "Sortudo",
+            "Amor",
+            "Alegria",
+            "Esperança"
+        ],
+        "answer": "Sortudo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Ursinhos Carinhosos, qual é o nome do Ursinho que tem um arco-íris na barriga?",
+        "options": [
+            "Arco-Íris",
+            "Amor",
+            "Alegria",
+            "Compartilhar"
+        ],
+        "answer": "Arco-Íris",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do vilão principal que tenta espalhar a falta de carinho em Ursinhos Carinhosos?",
+        "options": [
+            "Coração Gelado",
+            "Coração Sombrio",
+            "Sem Coração",
+            "Coração Cruel"
+        ],
+        "answer": "Coração Gelado",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome da minhoquinha que morava na maçã e adorava ler?",
+        "options": [
+            "Lili",
+            "Lulu",
+            "Lala",
+            "Lelo"
+        ],
+        "answer": "Lili",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em A Minhoquinha que Morava na Maçã, qual é o passatempo favorito de Lili?",
+        "options": [
+            "Cantar",
+            "Dançar",
+            "Ler",
+            "Pintar"
+        ],
+        "answer": "Ler",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Onde Lili, a minhoquinha que morava na maçã, costumava passar a maior parte do tempo?",
+        "options": [
+            "Na grama",
+            "Na árvore",
+            "Dentro da maçã",
+            "No rio"
+        ],
+        "answer": "Dentro da maçã",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Doug, qual é o nome do melhor amigo de Doug?",
+        "options": [
+            "Skeeter",
+            "Roger",
+            "Porkchop",
+            "Beebe"
+        ],
+        "answer": "Skeeter",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome da cidade onde Doug e seus amigos vivem em Doug?",
+        "options": [
+            "Bluffington",
+            "Quailman City",
+            "Funnieville",
+            "Greenville"
+        ],
+        "answer": "Bluffington",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Doug, qual é o nome da garota por quem Doug tem uma queda?",
+        "options": [
+            "Patti Mayonnaise",
+            "Judy Funnie",
+            "Beebe Bluff",
+            "Connie Benge"
+        ],
+        "answer": "Patti Mayonnaise",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do cachorro de estimação de Doug em Doug?",
+        "options": [
+            "Costelinha",
+            "Spot",
+            "Buddy",
+            "Max"
+        ],
+        "answer": "Costelinha",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Doug, qual é o nome do valentão da escola?",
+        "options": [
+            "Roger Klotz",
+            "Ned Brainard",
+            "Mr. Bone",
+            "Al and Moo"
+        ],
+        "answer": "Roger Klotz",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome da irmã mais velha de Doug em Doug?",
+        "options": [
+            "Judy Funnie",
+            "Theda Funnie",
+            "Connie Benge",
+            "Beebe Bluff"
+        ],
+        "answer": "Judy Funnie",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Doug, qual é o nome do restaurante favorito de Doug e Skeeter?",
+        "options": [
+            "Honker Burger",
+            "Chili's",
+            "The Diner",
+            "Pizza Place"
+        ],
+        "answer": "Honker Burger",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Doug, qual é o nome do vizinho rico de Doug?",
+        "options": [
+            "Mr. Dink",
+            "Mr. Funnie",
+            "Mr. Bone",
+            "Mr. Bluff"
+        ],
+        "answer": "Mr. Dink",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome da banda favorita de Doug em Doug?",
+        "options": [
+            "The Beets",
+            "The Pickles",
+            "The Peppers",
+            "The Carrots"
+        ],
+        "answer": "The Beets",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Doug, qual é o nome do diretor da escola de Doug?",
+        "options": [
+            "Mr. Bone",
+            "Mr. Dink",
+            "Mr. Swirly",
+            "Mr. Bluff"
+        ],
+        "answer": "Mr. Bone",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em que ano foi lançado o desenho Denis, o Pimentinha no Brasil?",
+        "options": [
+            "1983",
+            "1984",
+            "1987",
+            "1986"
+        ],
+        "answer": "1987",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do personagem que era um ET e visitava o Castelo Rá-Tim-Bum?",
+        "options": [
+            "ET Valdo",
+            "Marte",
+            "Júpiter",
+            "Saturno"
+        ],
+        "answer": "ET Valdo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual dos personagens de Castelo Rá-Tim-Bum tinha um bordão 'Porque sim não é resposta'?",
+        "options": [
+            "Nino",
+            "Telekid",
+            "Dr. Victor",
+            "Gato Pintado"
+        ],
+        "answer": "Telekid",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do ator que interpretava o Pedro em Castelo Rá-Tim-Bum?",
+        "options": [
+            "Luciano Amaral",
+            "Fredy Allan",
+            "Cássio Scapin",
+            "Marcelo Tas"
+        ],
+        "answer": "Luciano Amaral",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o principal motivo de Dr. Abobrinha querer demolir o Castelo Rá-Tim-Bum?",
+        "options": [
+            "Construir um shopping",
+            "Fazer um estacionamento",
+            "Construir um prédio",
+            "Abrir um hotel de luxo"
+        ],
+        "answer": "Construir um prédio",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da personagem que era uma repórter e amiga das crianças em Castelo Rá-Tim-Bum?",
+        "options": [
+            "Penélope",
+            "Tia Morgana",
+            "Biba",
+            "Celeste"
+        ],
+        "answer": "Penélope",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual objeto voador era usado pela Tia Morgana em Castelo Rá-Tim-Bum?",
+        "options": [
+            "Tapete mágico",
+            "Vassoura",
+            "Disco voador",
+            "Nuvem"
+        ],
+        "answer": "Vassoura",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual dos personagens de Castelo Rá-Tim-Bum era um ser mitológico?",
+        "options": [
+            "Morgana",
+            "Nino",
+            "Caipora",
+            "Celeste"
+        ],
+        "answer": "Caipora",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Castelo Rá-Tim-Bum, qual o nome da atriz que interpretava a Biba?",
+        "options": [
+            "Rosane Mulholland",
+            "Cinthya Rachel",
+            "Angela Dip",
+            "Patrícia Gasppar"
+        ],
+        "answer": "Cinthya Rachel",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do ator que interpretava o Nino em Castelo Rá-Tim-Bum?",
+        "options": [
+            "Cássio Scapin",
+            "Marcelo Tas",
+            "Luciano Amaral",
+            "Álvaro Petersen"
+        ],
+        "answer": "Cássio Scapin",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do personagem que aparecia na biblioteca em Castelo Rá-Tim-Bum?",
+        "options": [
+            "Gato Pintado",
+            "Pássaro",
+            "Coruja",
+            "Peixe"
+        ],
+        "answer": "Gato Pintado",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Castelo Rá-Tim-Bum foi considerado um marco na televisão brasileira por qual motivo?",
+        "options": [
+            "Ser a primeira série colorida",
+            "Inovar a programação infantil",
+            "Ter apenas um ator",
+            "Ser totalmente animado"
+        ],
+        "answer": "Inovar a programação infantil",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual personagem de Castelo Rá-Tim-Bum tinha um bordão 'Klift Kloft Stil, a porta se abriu!'?",
+        "options": [
+            "Nino",
+            "Porteiro",
+            "Dr. Victor",
+            "Morgana"
+        ],
+        "answer": "Porteiro",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do cientista e tio de Nino em Castelo Rá-Tim-Bum?",
+        "options": [
+            "Dr. Abobrinha",
+            "Dr. Bactéria",
+            "Dr. Victor",
+            "Dr. Zero"
+        ],
+        "answer": "Dr. Victor",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em que ano o programa Castelo Rá-Tim-Bum estreou na TV Cultura?",
+        "options": [
+            "1990",
+            "1992",
+            "1994",
+            "1996"
+        ],
+        "answer": "1994",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da tia-avó de Nino, uma feiticeira de 6.000 anos, em Castelo Rá-Tim-Bum?",
+        "options": [
+            "Adelaide",
+            "Morgana",
+            "Celeste",
+            "Penélope"
+        ],
+        "answer": "Morgana",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Onde se localiza o Castelo Rá-Tim-Bum na trama do programa?",
+        "options": [
+            "Rio de Janeiro",
+            "Belo Horizonte",
+            "São Paulo",
+            "Brasília"
+        ],
+        "answer": "São Paulo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da dupla de cientistas em Castelo Rá-Tim-Bum que ensinava sobre experimentos?",
+        "options": [
+            "Zeca e Pedro",
+            "Tíbio e Perônio",
+            "Mestre e Aprendiz",
+            "Cientistas Malucos"
+        ],
+        "answer": "Tíbio e Perônio",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual era o tipo de animal da personagem Celeste em Castelo Rá-Tim-Bum?",
+        "options": [
+            "Cachorro",
+            "Gato",
+            "Cobra",
+            "Pássaro"
+        ],
+        "answer": "Cobra",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual Muppet Baby é conhecido por ser o líder do grupo?",
+        "options": [
+            "Piggy",
+            "Gonzo",
+            "Caco",
+            "Fozzie"
+        ],
+        "answer": "Caco",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Onde os Muppet Babies passam a maior parte do tempo em suas aventuras imaginárias?",
+        "options": [
+            "No sótão",
+            "No quintal",
+            "No quarto de brincar",
+            "Na cozinha"
+        ],
+        "answer": "No quarto de brincar",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "O que os Muppet Babies frequentemente aprendem no final de cada episódio?",
+        "options": [
+            "Matemática avançada",
+            "Uma lição de moral",
+            "Como construir robôs",
+            "Fatos históricos"
+        ],
+        "answer": "Uma lição de moral",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual Muppet Baby tem um sobrinho que é um girino?",
+        "options": [
+            "Piggy",
+            "Caco",
+            "Fozzie",
+            "Gonzo"
+        ],
+        "answer": "Caco",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "A babá dos Muppet Babies frequentemente oferece o que aos bebês?",
+        "options": [
+            "Doces",
+            "Conselhos",
+            "Novos brinquedos",
+            "Tarefas domésticas"
+        ],
+        "answer": "Conselhos",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual Muppet Baby é um cão calmo e musical que adora tocar piano?",
+        "options": [
+            "Caco",
+            "Fozzie",
+            "Rowlf",
+            "Gonzo"
+        ],
+        "answer": "Rowlf",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do Muppet Baby que é um baterista selvagem e cheio de energia?",
+        "options": [
+            "Gonzo",
+            "Animal",
+            "Rowlf",
+            "Scooter"
+        ],
+        "answer": "Animal",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual tecnologia avançada os carros de Pole Position possuíam para ajudar os heróis?",
+        "options": [
+            "Piloto automático",
+            "Inteligência Artificial",
+            "Viagem no tempo",
+            "Invisibilidade"
+        ],
+        "answer": "Inteligência Artificial",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Os carros de Pole Position podiam ser equipados com quais recursos especiais?",
+        "options": [
+            "Asas para voar",
+            "Rodas de esqui aquático",
+            "Armas de laser",
+            "Pneus retráteis"
+        ],
+        "answer": "Rodas de esqui aquático",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "No Brasil, o desenho Pole Position foi exibido dentro de qual programa infantil do SBT?",
+        "options": [
+            "Bom Dia & Cia",
+            "Xou da Xuxa",
+            "Programa da Angélica",
+            "TV Globinho"
+        ],
+        "answer": "Bom Dia & Cia",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual Muppet Baby está sempre tentando impressionar a Piggy?",
+        "options": [
+            "Fozzie",
+            "Gonzo",
+            "Caco",
+            "Scooter"
+        ],
+        "answer": "Caco",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual dos Muppet Babies adora contar piadas, mesmo que não sejam boas?",
+        "options": [
+            "Gonzo",
+            "Fozzie",
+            "Animal",
+            "Caco"
+        ],
+        "answer": "Fozzie",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual personagem dos Muppet Babies é um alienígena excêntrico?",
+        "options": [
+            "Gonzo",
+            "Caco",
+            "Scooter",
+            "Fozzie"
+        ],
+        "answer": "Gonzo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Como a babá é mostrada em Muppet Babies original?",
+        "options": [
+            "Inteira",
+            "Apenas mãos",
+            "De costas",
+            "Do pescoço para baixo"
+        ],
+        "answer": "Do pescoço para baixo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Quem é o irmão gêmeo tímido de Skeeter em Muppet Babies?",
+        "options": [
+            "Scooter",
+            "Fozzie",
+            "Gonzo",
+            "Rowlf"
+        ],
+        "answer": "Scooter",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é a cor da macacão que Denis, o Pimentinha costuma usar?",
+        "options": [
+            "Vermelha",
+            "Azul",
+            "Verde",
+            "Amarela"
+        ],
+        "answer": "Vermelha",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual personagem é o melhor amigo de Denis no desenho?",
+        "options": [
+            "Juca",
+            "Henry",
+            "Danny",
+            "Mike"
+        ],
+        "answer": "Juca",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do cachorro travesso que aparece na série de Denis?",
+        "options": [
+            "Rufus",
+            "Gromit",
+            "Rexy",
+            "Ginger"
+        ],
+        "answer": "Rufus",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual a profissão do pai de Denis no desenho animado?",
+        "options": [
+            "Professor",
+            "Médico",
+            "Engenheiro",
+            "Jornalista"
+        ],
+        "answer": "Engenheiro",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Denis, o Pimentinha, é baseado em personagens de qual tipo de mídia?",
+        "options": [
+            "Revista em quadrinhos",
+            "Livro infantil",
+            "Programa de rádio",
+            "Peça de teatro"
+        ],
+        "answer": "Revista em quadrinhos",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual canal transmitia o desenho Denis, o Pimentinha no Brasil em 1987?",
+        "options": [
+            "SBT",
+            "Globo",
+            "Band",
+            "Record"
+        ],
+        "answer": "SBT",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em os caezinhos do canil, qual o principal objetivo de Medroso ao liderar os filhotes?",
+        "options": [
+            "Achar comida",
+            "Fugir do canil",
+            "Ajudar a encontrar lares",
+            "Brincar o dia todo"
+        ],
+        "answer": "Ajudar a encontrar lares",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Quem é a cruel diretora do canil em os caezinhos do canil, que dificulta a vida dos filhotes?",
+        "options": [
+            "Sra. Smith",
+            "Katrina Coração de Pedra",
+            "Tia Beth",
+            "Dona Clara"
+        ],
+        "answer": "Katrina Coração de Pedra",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual filhote de os caezinhos do canil é conhecido por ter um faro excepcional para resolver problemas?",
+        "options": [
+            "Bright Eyes",
+            "Whopper",
+            "Nose Marie",
+            "Howler"
+        ],
+        "answer": "Nose Marie",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em os caezinhos do canil, qual a garota que sempre tenta ajudar os filhotes a encontrar um lar?",
+        "options": [
+            "Sarah",
+            "Holly",
+            "Emily",
+            "Lisa"
+        ],
+        "answer": "Holly",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual a característica mais marcante dos Popples que os permite se esconder?",
+        "options": [
+            "Ficam invisíveis",
+            "Viram uma bola",
+            "Encolhem de tamanho",
+            "Mudam de cor"
+        ],
+        "answer": "Viram uma bola",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em popples, onde os Popples geralmente são encontrados quando não estão brincando?",
+        "options": [
+            "Na floresta",
+            "Em caixas de brinquedo",
+            "Dentro de suas bolsas",
+            "No sótão"
+        ],
+        "answer": "Dentro de suas bolsas",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em popples, qual a atividade que os Popples mais gostam de fazer, mesmo causando confusão?",
+        "options": [
+            "Cozinhar",
+            "Organizar",
+            "Ajudar",
+            "Dormir"
+        ],
+        "answer": "Ajudar",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Os Popples interagem principalmente com quais crianças humanas?",
+        "options": [
+            "Billy e Bonnie",
+            "Kevin e Kelly",
+            "Mike e Molly",
+            "Tim e Tina"
+        ],
+        "answer": "Billy e Bonnie",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual Popple adora resolver enigmas e quebra-cabeças?",
+        "options": [
+            "Putter",
+            "Puzzle",
+            "Potato",
+            "Prize Popple"
+        ],
+        "answer": "Puzzle",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "A natureza dos Popples é principalmente de seres:",
+        "options": [
+            "Mal-humorados",
+            "Quietos",
+            "Travessos",
+            "Tímidos"
+        ],
+        "answer": "Travessos",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em papa leguas, qual empresa o Coiote sempre usa para comprar seus equipamentos?",
+        "options": [
+            "Acme Corporation",
+            "Apex Tools",
+            "Dynamo Gear",
+            "Mega Gadgets"
+        ],
+        "answer": "Acme Corporation",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o som característico que o Papa-Léguas faz ao correr?",
+        "options": [
+            "Zip-zap",
+            "Beep-beep",
+            "Vrum-vrum",
+            "Tic-tac"
+        ],
+        "answer": "Beep-beep",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o objetivo principal do Coiote em papa leguas?",
+        "options": [
+            "Fazer um amigo",
+            "Construir uma casa",
+            "Capturar o Papa-Léguas",
+            "Explorar o deserto"
+        ],
+        "answer": "Capturar o Papa-Léguas",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Onde se passam a maioria das perseguições no desenho do papa leguas?",
+        "options": [
+            "Na floresta",
+            "Na cidade",
+            "No deserto",
+            "Em montanhas nevadas"
+        ],
+        "answer": "No deserto",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "O que invariavelmente acontece com os planos do coiote em papa leguas?",
+        "options": [
+            "Eles dão certo",
+            "Eles são roubados",
+            "Eles falham",
+            "Eles são ignorados"
+        ],
+        "answer": "Eles falham",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "O Papa-Léguas é um tipo de qual animal?",
+        "options": [
+            "Avestruz",
+            "Galinha",
+            "Corredor",
+            "Pássaro"
+        ],
+        "answer": "Pássaro",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em papa leguas, qual erro o Coiote frequentemente comete ao usar seus inventos?",
+        "options": [
+            "Não lê o manual",
+            "Não testa antes",
+            "Usa no lugar errado",
+            "Vira a armadilha contra si"
+        ],
+        "answer": "Vira a armadilha contra si",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Após um plano falhar em papa leguas, qual a reação mais comum do Coiote?",
+        "options": [
+            "Desistir",
+            "Chorar",
+            "Ficar irritado",
+            "Tentar de novo imediatamente"
+        ],
+        "answer": "Tentar de novo imediatamente",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em papa leguas, o que o Coiote frequentemente desenha nas rochas para enganar o Papa-Léguas?",
+        "options": [
+            "Placas de trânsito",
+            "Túneis falsos",
+            "Árvores",
+            "Mapas"
+        ],
+        "answer": "Túneis falsos",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Quem era a principal adversária de Denis nas histórias do desenho?",
+        "options": [
+            "Margaret",
+            "Dora",
+            "Lisa",
+            "Maggie"
+        ],
+        "answer": "Margaret",
+        "category": "TV & Desenhos"
+    }
 ]
