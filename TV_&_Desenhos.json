@@ -1659,5 +1659,263 @@
         ],
         "answer": "Margaret",
         "category": "TV & Desenhos"
-    }
+    },
+    {
+    "question": "Em As Aventuras de Tintim, qual o nome do inimigo que é um falsificador de dinheiro em 'A Ilha Negra'?",
+    "options": ["Dr. Müller", "Ranko", "Piotr Skut", "Ivan"],
+    "answer": "Dr. Müller",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome da nave espacial que leva Tintim e seus amigos à Lua em As Aventuras de Tintim?",
+    "options": ["Foguete X", "Explorador Lunar", "Apolo", "Nave Sirius"],
+    "answer": "Foguete X",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em As Aventuras de Tintim, qual a principal característica do Professor Girasol que causa confusão?",
+    "options": ["Ele é cego", "Ele é surdo", "Ele é mudo", "Ele é esquecido"],
+    "answer": "Ele é surdo",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em As Aventuras de Tintim, qual o nome do tesouro que eles procuram em 'O Segredo do Unicórnio'?",
+    "options": ["Ouro pirata", "Joias raras", "Documentos antigos", "Tesouro de Rackham"],
+    "answer": "Tesouro de Rackham",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Os Super Patos, qual o nome do líder da equipe, que usa uma máscara de goleiro?",
+    "options": ["Nosedive", "Wildwing", "Duke", "Grin"],
+    "answer": "Wildwing",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "De qual planeta vêm os Super Patos?",
+    "options": ["Marte", "Puckworld", "Quack-Terra", "Ducktopia"],
+    "answer": "Puckworld",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Os Super Patos, qual o nome do principal vilão, um lagarto gigante?",
+    "options": ["Reptilius", "Dragaunus", "Sauron", "Lagarto Rei"],
+    "answer": "Dragaunus",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o esporte que os Super Patos praticam na Terra?",
+    "options": ["Futebol", "Basquete", "Hóquei no Gelo", "Beisebol"],
+    "answer": "Hóquei no Gelo",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Os Super Patos, qual membro da equipe é o mais forte e musculoso?",
+    "options": ["Nosedive", "Grin", "Duke", "Wildwing"],
+    "answer": "Grin",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Os Super Patos, qual o nome do irmão mais novo de Wildwing?",
+    "options": ["Duke", "Nosedive", "Grin", "Canard"],
+    "answer": "Nosedive",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Os Super Patos, qual membro da equipe é o gênio da tecnologia e inventora?",
+    "options": ["Mallory", "Tanya", "Daisy", "Minnie"],
+    "answer": "Tanya",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome da cidade na Terra onde os Super Patos se estabelecem?",
+    "options": ["Nova York", "Los Angeles", "Anaheim", "Chicago"],
+    "answer": "Anaheim",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Os Super Patos, qual o nome do pato que é um ex-ladrão e especialista em disfarces?",
+    "options": ["Duke L'Orange", "Nosedive", "Grin", "Wildwing"],
+    "answer": "Duke L'Orange",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Os Super Patos, qual o nome do treinador humano da equipe de hóquei?",
+    "options": ["Phil", "Buzz", "Coach", "Capitão"],
+    "answer": "Phil",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome da nave dos Super Patos, que também é sua base secreta?",
+    "options": ["Mighty Duck", "Aeroduck", "Duckwing", "Migrator"],
+    "answer": "Migrator",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Os Super Patos, qual o nome da raça de Dragaunus e seus lacaios?",
+    "options": ["Reptilianos", "Saurianos", "Dragões", "Lagartos"],
+    "answer": "Saurianos",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o principal rival dos Super Patos no hóquei na Terra?",
+    "options": ["Os Ursos", "Os Leões", "Os Gaviões", "Os Tubarões"],
+    "answer": "Os Gaviões",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do estádio onde os Super Patos jogam hóquei?",
+    "options": ["Arena Duck", "Pato-Dome", "Pond", "Anaheim Arena"],
+    "answer": "Anaheim Arena",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em 101 Dálmatas Série, qual dálmata é o mais aventureiro e líder do trio principal?",
+    "options": ["Rolly", "Cadpig", "Lucky", "Patch"],
+    "answer": "Lucky",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome da galinha que pensa que é um dálmata em 101 Dálmatas Série?",
+    "options": ["Pipoca", "Pintada", "Spot", "Clara"],
+    "answer": "Spot",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em 101 Dálmatas Série, qual o nome dos capangas atrapalhados de Cruella De Vil?",
+    "options": ["Tom e Jerry", "Horácio e Gaspar", "Biff e Buzz", "Max e Leo"],
+    "answer": "Horácio e Gaspar",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o principal objetivo de Cruella De Vil em 101 Dálmatas Série?",
+    "options": ["Comprar a fazenda", "Roubar os dálmatas", "Abrir uma loja", "Ser famosa"],
+    "answer": "Roubar os dálmatas",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em 101 Dálmatas Série, qual dálmata é o mais comilão e sempre pensa em comida?",
+    "options": ["Lucky", "Cadpig", "Rolly", "Patch"],
+    "answer": "Rolly",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do fazendeiro, dono dos dálmatas, em 101 Dálmatas Série?",
+    "options": ["Roger", "Pongo", "Jasper", "Horácio"],
+    "answer": "Roger",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em 101 Dálmatas Série, qual dálmata é a mais filosófica e excêntrica?",
+    "options": ["Lucky", "Rolly", "Cadpig", "Patch"],
+    "answer": "Cadpig",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em 101 Dálmatas Série, qual o nome da fazenda onde os dálmatas vivem?",
+    "options": ["Fazenda Feliz", "Fazenda da Família", "Fazenda da Cruella", "Fazenda Dearly"],
+    "answer": "Fazenda Dearly",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em 101 Dálmatas Série, qual o nome do tio de Cruella De Vil, um inventor maluco?",
+    "options": ["Professor Cruel", "Professor De Vil", "Doutor Maluco", "Tio Malvado"],
+    "answer": "Professor De Vil",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o principal meio de transporte de Cruella De Vil em 101 Dálmatas Série?",
+    "options": ["Um helicóptero", "Um carro esportivo", "Um carro de luxo", "Um ônibus"],
+    "answer": "Um carro de luxo",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em 101 Dálmatas Série, qual o tipo de programa de TV favorito de Lucky?",
+    "options": ["Desenhos animados", "Filmes de ação", "Programas de culinária", "Noticiários"],
+    "answer": "Filmes de ação",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do pai dos dálmatas em 101 Dálmatas Série?",
+    "options": ["Pongo", "Roger", "Lucky", "Rolly"],
+    "answer": "Pongo",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do programa de TV favorito de Lucky, estrelado por um super-herói canino em 101 Dálmatas Série?",
+    "options": ["Relâmpago", "Trovão", "Super Cão", "Herói Canino"],
+    "answer": "Relâmpago",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em A Família Camundongo, qual o nome da camundonga que adora viajar e explorar o mundo?",
+    "options": ["Maria", "Emily", "Clara", "Sofia"],
+    "answer": "Emily",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do camundongo que é mais cauteloso e prefere a segurança do lar em A Família Camundongo?",
+    "options": ["Pedro", "Alexandre", "João", "Carlos"],
+    "answer": "Alexandre",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em A Família Camundongo, em qual cidade europeia os camundongos investigam um mistério relacionado a um relógio?",
+    "options": ["Paris", "Londres", "Viena", "Roma"],
+    "answer": "Londres",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o tipo de problema que Emily e Alexandre mais resolvem em suas viagens em A Família Camundongo?",
+    "options": ["Desastres naturais", "Crimes e roubos", "Problemas pessoais", "Mistérios históricos"],
+    "answer": "Mistérios históricos",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o objeto que Emily e Alexandre sempre levam consigo em suas viagens em A Família Camundongo?",
+    "options": ["Um mapa", "Uma lanterna", "Uma lupa", "Uma câmera"],
+    "answer": "Uma lupa",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em A Família Camundongo, em qual continente os camundongos procuram por um tesouro perdido em uma selva?",
+    "options": ["África", "América do Sul", "Ásia", "Oceania"],
+    "answer": "América do Sul",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Rupert, qual o nome da cidade onde Rupert e seus amigos vivem?",
+    "options": ["Bosque Encantado", "Cidade dos Ursos", "Nutwood", "Vila Feliz"],
+    "answer": "Nutwood",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do melhor amigo de Rupert, um texugo?",
+    "options": ["Billy", "Bill", "Bobby", "Ben"],
+    "answer": "Bill",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Rupert, qual o animal que é um elefante e amigo de Rupert?",
+    "options": ["Eddie", "Edward", "Eric", "Elmer"],
+    "answer": "Edward",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Rupert, qual o acessório de vestuário mais icônico de Rupert?",
+    "options": ["Chapéu de sol", "Cachecol xadrez", "Óculos redondos", "Gravata borboleta"],
+    "answer": "Cachecol xadrez",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Rupert, qual o nome do professor que é um inventor e ajuda Rupert em suas aventuras?",
+    "options": ["Professor Owl", "Professor Wise", "Professor", "Professor Genius"],
+    "answer": "Professor",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o tipo de histórias que Rupert geralmente vive?",
+    "options": ["Mistérios e magia", "Esportes e jogos", "Vida escolar", "Viagens espaciais"],
+    "answer": "Mistérios e magia",
+    "category": "TV & Desenhos"
+  }
 ]
