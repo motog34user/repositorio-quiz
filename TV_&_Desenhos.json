@@ -1,4 +1,184 @@
 [
+      {
+    "question": "Em O Fantástico Mundo de Bobby, qual o nome do amigo imaginário que sempre acompanha Bobby em suas aventuras?",
+    "options": ["Capitão Squash", "Urso Fluffy", "Pato Quack", "Tio Ted"],
+    "answer": "Capitão Squash",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "No Fantástico Mundo de Bobby, qual é o nome do cachorro da família Generic?",
+    "options": ["Roger", "Linguiça", "Pintado", "Trovão"],
+    "answer": "Roger",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Fantástico Mundo de Bobby, qual o nome da irmã mais velha de Bobby que o provoca constantemente?",
+    "options": ["Kelly", "Sarah", "Susan", "Emily"],
+    "answer": "Kelly",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do tio de Bobby, que narra as histórias e frequentemente interage com ele em O Fantástico Mundo de Bobby?",
+    "options": ["Tio Ted", "Tio Bob", "Tio Frank", "Tio John"],
+    "answer": "Tio Ted",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Fantástico Mundo de Bobby, qual o nome da mãe de Bobby?",
+    "options": ["Martha", "Susan", "Alice", "Betty"],
+    "answer": "Martha",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Fantástico Mundo de Bobby, qual o nome do pai de Bobby, que muitas vezes é o alvo de suas fantasias?",
+    "options": ["Howard", "Peter", "Charles", "Robert"],
+    "answer": "Howard",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Fantástico Mundo de Bobby, qual o nome da vizinha de Bobby que é sua amiga e às vezes o acompanha em suas aventuras imaginárias?",
+    "options": ["Jackie", "Brenda", "Melissa", "Cathy"],
+    "answer": "Jackie",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Cadillacs e Dinossauros, qual o nome do protagonista que é mecânico e aventureiro?",
+    "options": ["Jack Tenrec", "Mustapha Cairo", "Hannah Dundee", "Mess O'Bradovich"],
+    "answer": "Jack Tenrec",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "No mundo de Cadillacs e Dinossauros, qual o nome da cientista e diplomata que acompanha Jack?",
+    "options": ["Hannah Dundee", "Grace Hopper", "Eliza Thornberry", "Sarah Connor"],
+    "answer": "Hannah Dundee",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o tipo de veículo modificado que Jack Tenrec utiliza para se locomover em Cadillacs e Dinossauros?",
+    "options": ["Um Cadillac", "Um Jeep", "Uma motocicleta", "Um tanque"],
+    "answer": "Um Cadillac",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do dinossauro de estimação de Jack em Cadillacs e Dinossauros?",
+    "options": ["Hermes", "Rex", "Chomp", "Comet"],
+    "answer": "Hermes",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Cadillacs e Dinossauros, qual o nome da organização que tenta preservar a vida selvagem e os dinossauros?",
+    "options": ["Os Salvadores", "Os Protetores", "Os Guardiões", "Os Preservacionistas"],
+    "answer": "Os Salvadores",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "No desenho Pica Pau, qual o nome do abutre que é um dos principais rivais do Pica Pau?",
+    "options": ["Zeca Urubu", "Abutre Voador", "Corvo Negro", "Pardal Zangado"],
+    "answer": "Zeca Urubu",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Os Gárgulas, qual o nome do líder do clã de gárgulas que desperta em Nova York?",
+    "options": ["Goliath", "Lexington", "Broadway", "Brooklyn"],
+    "answer": "Goliath",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do castelo onde os gárgulas viviam originalmente antes de serem amaldiçoados em Os Gárgulas?",
+    "options": ["Castelo Wyvern", "Castelo Darkmoor", "Castelo Blackwood", "Castelo Stonehaven"],
+    "answer": "Castelo Wyvern",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Os Gárgulas, qual o nome do bilionário que compra o castelo e o transporta para Nova York, despertando os gárgulas?",
+    "options": ["David Xanatos", "Lex Luthor", "Bruce Wayne", "Tony Stark"],
+    "answer": "David Xanatos",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Dragon Ball Z, qual o nome do ataque de energia mais famoso de Goku?",
+    "options": ["Kamehameha", "Final Flash", "Masenko", "Galick Gun"],
+    "answer": "Kamehameha",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Dragon Ball Z, qual o nome da técnica que Goku aprende com o Senhor Kaioh e aumenta seu poder por um curto período?",
+    "options": ["Kaioh-ken", "Genki Dama", "Teletransporte", "Super Saiyajin"],
+    "answer": "Kaioh-ken",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome da forma final de Cell em Dragon Ball Z, após absorver os Androides 17 e 18?",
+    "options": ["Cell Perfeito", "Cell Imperfeito", "Cell Semi-Perfeito", "Cell Júnior"],
+    "answer": "Cell Perfeito",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Dragon Ball Z, qual o nome do filho mais velho de Goku?",
+    "options": ["Gohan", "Goten", "Trunks", "Pan"],
+    "answer": "Gohan",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome da fusão entre Goku e Vegeta usando os brincos Potara em Dragon Ball Z?",
+    "options": ["Vegetto", "Gogeta", "Gotenks", "Piccolo"],
+    "answer": "Vegetto",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Dragon Ball Z, qual o nome do irmão mais velho de Goku que chega à Terra no início da série?",
+    "options": ["Raditz", "Nappa", "Vegeta", "Bardock"],
+    "answer": "Raditz",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do planeta onde a batalha contra Freeza ocorre em Dragon Ball Z?",
+    "options": ["Namekusei", "Vegeta", "Terra", "Kaioh"],
+    "answer": "Namekusei",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do treinador de Gohan que o ajuda a se tornar mais forte em Dragon Ball Z?",
+    "options": ["Piccolo", "Goku", "Vegeta", "Mestre Kame"],
+    "answer": "Piccolo",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Dragon Ball Z, qual o nome da esposa de Goku?",
+    "options": ["Chi-Chi", "Bulma", "Videl", "Android 18"],
+    "answer": "Chi-Chi",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do vilão que é um demônio rosa e tem várias formas em Dragon Ball Z?",
+    "options": ["Majin Boo", "Dabura", "Babidi", "Cell"],
+    "answer": "Majin Boo",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Serviço de Entregas da Kiki, qual o nome do gato preto que é o companheiro inseparável de Kiki?",
+    "options": ["Jiji", "Luna", "Artemis", "Salem"],
+    "answer": "Jiji",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o meio de transporte principal que Kiki usa para suas entregas em O Serviço de Entregas da Kiki?",
+    "options": ["Uma vassoura", "Um carro voador", "Uma bicicleta", "Um balão"],
+    "answer": "Uma vassoura",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Serviço de Entregas da Kiki, qual o problema que Kiki enfrenta ao longo da história, relacionado à sua magia?",
+    "options": ["Perda de poderes", "Medo de voar", "Falta de clientes", "Brigas com Jiji"],
+    "answer": "Perda de poderes",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Bastard!!, qual o nome do poderoso mago negro selado no corpo de Luche Renren?",
+    "options": ["Dark Schneider", "Gara", "Abigail", "Kall-Su"],
+    "answer": "Dark Schneider",
+    "category": "TV & Desenhos"
+  },
     {
         "question": "No universo de Skeleton Warriors qual cristal místico alimenta Luminicity e dá poder?",
         "options": [
