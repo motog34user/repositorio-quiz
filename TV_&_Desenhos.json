@@ -1,4 +1,185 @@
 [
+        {
+    "question": "Em Video Girl Ai, qual o nome do protagonista que se apaixona por uma garota que sai da TV?",
+    "options": ["Yota Moteuchi", "Takashi", "Hiroshi", "Kenji"],
+    "answer": "Yota Moteuchi",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome da Video Girl que aparece para ajudar Yota em Video Girl Ai?",
+    "options": ["Ai Amano", "Moe", "Natsumi", "Yumiko"],
+    "answer": "Ai Amano",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Video Girl Ai, qual o nome da loja de vídeos onde Yota aluga a fita que invoca Ai?",
+    "options": ["Gokuraku", "Paradise", "Heaven", "Dreamland"],
+    "answer": "Gokuraku",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Video Girl Ai, qual o nome da garota por quem Yota é originalmente apaixonado?",
+    "options": ["Moemi Hayakawa", "Natsumi", "Moe", "Yumiko"],
+    "answer": "Moemi Hayakawa",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o problema que Ai Amano tem ao sair da TV em Video Girl Ai, devido a um videocassete com defeito?",
+    "options": ["Personalidade distorcida", "Amnésia", "Perda de poderes", "Falta de energia"],
+    "answer": "Personalidade distorcida",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome da viajante do tempo enviada para mudar o futuro de Junta em DNA²?",
+    "options": ["Karin Aoi", "Ami Kurimoto", "Megumi", "Kotomi"],
+    "answer": "Karin Aoi",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o objeto que Karin Aoi usa para viajar no tempo em DNA²?",
+    "options": ["Uma arma", "Um relógio", "Um carro", "Uma nave"],
+    "answer": "Uma arma",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Yu Yu Hakusho, qual o nome da técnica de Yusuke Urameshi que concentra energia espiritual no dedo?",
+    "options": ["Leigan", "Rei-Ken", "Shotgun", "Spirit Gun"],
+    "answer": "Leigan",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do demônio raposa que se transforma em humano e é um dos aliados de Yusuke em Yu Yu Hakusho?",
+    "options": ["Kurama", "Hiei", "Kuwabara", "Genkai"],
+    "answer": "Kurama",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Yu Yu Hakusho, qual o nome do demônio de fogo que tem um terceiro olho e é um dos aliados de Yusuke?",
+    "options": ["Hiei", "Kurama", "Kuwabara", "Genkai"],
+    "answer": "Hiei",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do melhor amigo de Yusuke, que também é um delinquente e tem uma espada espiritual em Yu Yu Hakusho?",
+    "options": ["Kazuma Kuwabara", "Hiei", "Kurama", "Genkai"],
+    "answer": "Kazuma Kuwabara",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Yu Yu Hakusho, qual o nome do torneio de luta organizado por Toguro e Toguro Ani?",
+    "options": ["Torneio das Trevas", "Torneio Mundial", "Torneio Espiritual", "Torneio dos Demônios"],
+    "answer": "Torneio das Trevas",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome da mestra de Yusuke, que o treina em técnicas espirituais em Yu Yu Hakusho?",
+    "options": ["Genkai", "Botan", "Koenma", "Yukina"],
+    "answer": "Genkai",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Yu Yu Hakusho, qual o nome do filho do Rei Enma que é o chefe do Mundo Espiritual?",
+    "options": ["Koenma", "Enma", "Yusuke", "Botan"],
+    "answer": "Koenma",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome da guia do Mundo Espiritual que leva Yusuke de volta à vida em Yu Yu Hakusho?",
+    "options": ["Botan", "Yukina", "Keiko", "Shizuru"],
+    "answer": "Botan",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Yu Yu Hakusho, qual o nome da namorada de Yusuke?",
+    "options": ["Keiko Yukimura", "Yukina", "Shizuru", "Botan"],
+    "answer": "Keiko Yukimura",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do irmão de Hiei em Yu Yu Hakusho?",
+    "options": ["Yukina", "Mukuro", "Yomi", "Raizen"],
+    "answer": "Yukina",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome da organização criminosa liderada por M. Bison em Street Fighter II V?",
+    "options": ["Shadaloo", "Red Shadow", "Black Hand", "Crimson Guard"],
+    "answer": "Shadaloo",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Street Fighter II V, qual o nome da técnica de energia de Ryu?",
+    "options": ["Hadouken", "Shoryuken", "Tatsumaki Senpukyaku", "Shinku Hadouken"],
+    "answer": "Hadouken",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do lutador tailandês que é um ex-campeão de Muay Thai e tem uma cicatriz no peito em Street Fighter II V?",
+    "options": ["Sagat", "Adon", "Fei Long", "Dee Jay"],
+    "answer": "Sagat",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Dragon Ball, qual o nome da nuvem voadora que apenas pessoas de coração puro podem usar?",
+    "options": ["Nuvem Voadora", "Nuvem Mágica", "Nuvem Dourada", "Nuvem Kinto"],
+    "answer": "Nuvem Voadora",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do porco que pode se transformar em qualquer coisa e é um dos primeiros companheiros de Goku em Dragon Ball?",
+    "options": ["Oolong", "Puar", "Yamcha", "Mestre Kame"],
+    "answer": "Oolong",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Dragon Ball, qual o nome da garota que encontra Goku e o convida para procurar as Esferas do Dragão?",
+    "options": ["Bulma", "Chi-Chi", "Launch", "Videl"],
+    "answer": "Bulma",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do mestre de artes marciais que ensina o Kamehameha a Goku em Dragon Ball?",
+    "options": ["Mestre Kame", "Mestre Karin", "Senhor Popo", "Kami-Sama"],
+    "answer": "Mestre Kame",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Dragon Ball, qual o nome do deserto onde Goku e Bulma encontram Yamcha pela primeira vez?",
+    "options": ["Deserto do Diabo", "Deserto da Morte", "Deserto da Areia", "Deserto Vermelho"],
+    "answer": "Deserto do Diabo",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Dragon Ball, qual o nome do exército que busca as Esferas do Dragão para dominar o mundo?",
+    "options": ["Exército Red Ribbon", "Exército Negro", "Exército Maligno", "Exército do Diabo"],
+    "answer": "Exército Red Ribbon",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do inimigo que é um demônio e é o pai de Piccolo Jr. em Dragon Ball?",
+    "options": ["Rei Piccolo Daimaoh", "Freeza", "Cell", "Majin Boo"],
+    "answer": "Rei Piccolo Daimaoh",
+    "category": "TV & Desenhos"
+  },
+
+  {
+    "question": "Em Dragon Ball, qual o nome do torneio de artes marciais mais famoso?",
+    "options": ["Torneio de Artes Marciais", "Torneio do Poder", "Torneio Mundial", "Torneio da Força"],
+    "answer": "Torneio de Artes Marciais",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do vilão que é um imperador e busca as Esferas do Dragão para ser imortal em Dragon Ball?",
+    "options": ["Pilaf", "Tao Pai Pai", "General Blue", "Comandante Red"],
+    "answer": "Pilaf",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Megaman, qual o nome do cientista que criou Megaman e Roll?",
+    "options": ["Dr. Light", "Dr. Wily", "Dr. Cossack", "Dr. X"],
+    "answer": "Dr. Light",
+    "category": "TV & Desenhos"
+  },
       {
     "question": "Em O Fantástico Mundo de Bobby, qual o nome do amigo imaginário que sempre acompanha Bobby em suas aventuras?",
     "options": ["Capitão Squash", "Urso Fluffy", "Pato Quack", "Tio Ted"],
