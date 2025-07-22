@@ -1,5 +1,161 @@
 [
   {
+    "question": "Em Scooby-Doo, Cadê Você?, qual item Fred frequentemente usa para capturar os vilões?",
+    "options": ["Rede", "Armadilha", "Corda", "Jaula"],
+    "answer": "Rede",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é a cor do carro da Mistério S.A. em Scooby-Doo, Cadê Você?",
+    "options": ["Azul", "Verde", "Laranja", "Roxo"],
+    "answer": "Verde",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é a comida favorita de Scooby e Salsicha em Scooby-Doo, Cadê Você?",
+    "options": ["Pizza", "Sanduíche", "Biscoito", "Hambúrguer"],
+    "answer": "Biscoito",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Scooby-Doo, Cadê Você?, quem é o membro mais cético da equipe?",
+    "options": ["Daphne", "Velma", "Fred", "Salsicha"],
+    "answer": "Velma",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Scooby-Doo, Cadê Você?, o que geralmente acontece com os vilões no final dos episódios?",
+    "options": ["Fugiam", "Eram presos", "Viravam heróis", "Desapareciam"],
+    "answer": "Eram presos",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Scooby-Doo, Cadê Você?, quem é a mais vaidosa do grupo?",
+    "options": ["Velma", "Daphne", "Salsicha", "Fred"],
+    "answer": "Daphne",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do criador de Scooby-Doo, Cadê Você?",
+    "options": ["Hanna-Barbera", "Disney", "Warner Bros", "Pixar"],
+    "answer": "Hanna-Barbera",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o objeto que Velma sempre perde em Scooby-Doo, Cadê Você?",
+    "options": ["Chaves", "Óculos", "Livro", "Chapéu"],
+    "answer": "Óculos",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Scooby-Doo, Cadê Você?, qual é o nome completo de Salsicha?",
+    "options": ["Norville Rogers", "Shaggy Rogers", "Scooby Rogers", "Fred Rogers"],
+    "answer": "Norville Rogers",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o principal poder dos Ursinhos Carinhosos que os ajuda a resolver problemas?",
+    "options": ["Raio do Bem", "Super Força", "Voo", "Invisibilidade"],
+    "answer": "Raio do Bem",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Ursinhos Carinhosos, qual é o nome do Ursinho que tem um trevo de quatro folhas na barriga?",
+    "options": ["Sortudo", "Amor", "Alegria", "Esperança"],
+    "answer": "Sortudo",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Ursinhos Carinhosos, qual é o nome do Ursinho que tem um arco-íris na barriga?",
+    "options": ["Arco-Íris", "Amor", "Alegria", "Compartilhar"],
+    "answer": "Arco-Íris",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do vilão principal que tenta espalhar a falta de carinho em Ursinhos Carinhosos?",
+    "options": ["Coração Gelado", "Coração Sombrio", "Sem Coração", "Coração Cruel"],
+    "answer": "Coração Gelado",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome da minhoquinha que morava na maçã e adorava ler?",
+    "options": ["Lili", "Lulu", "Lala", "Lelo"],
+    "answer": "Lili",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em A Minhoquinha que Morava na Maçã, qual é o passatempo favorito de Lili?",
+    "options": ["Cantar", "Dançar", "Ler", "Pintar"],
+    "answer": "Ler",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Onde Lili, a minhoquinha que morava na maçã, costumava passar a maior parte do tempo?",
+    "options": ["Na grama", "Na árvore", "Dentro da maçã", "No rio"],
+    "answer": "Dentro da maçã",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Doug, qual é o nome do melhor amigo de Doug?",
+    "options": ["Skeeter", "Roger", "Porkchop", "Beebe"],
+    "answer": "Skeeter",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome da cidade onde Doug e seus amigos vivem em Doug?",
+    "options": ["Bluffington", "Quailman City", "Funnieville", "Greenville"],
+    "answer": "Bluffington",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Doug, qual é o nome da garota por quem Doug tem uma queda?",
+    "options": ["Patti Mayonnaise", "Judy Funnie", "Beebe Bluff", "Connie Benge"],
+    "answer": "Patti Mayonnaise",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do cachorro de estimação de Doug em Doug?",
+    "options": ["Costelinha", "Spot", "Buddy", "Max"],
+    "answer": "Costelinha",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Doug, qual é o nome do valentão da escola?",
+    "options": ["Roger Klotz", "Ned Brainard", "Mr. Bone", "Al and Moo"],
+    "answer": "Roger Klotz",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome da irmã mais velha de Doug em Doug?",
+    "options": ["Judy Funnie", "Theda Funnie", "Connie Benge", "Beebe Bluff"],
+    "answer": "Judy Funnie",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Doug, qual é o nome do restaurante favorito de Doug e Skeeter?",
+    "options": ["Honker Burger", "Chili's", "The Diner", "Pizza Place"],
+    "answer": "Honker Burger",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Doug, qual é o nome do vizinho rico de Doug?",
+    "options": ["Mr. Dink", "Mr. Funnie", "Mr. Bone", "Mr. Bluff"],
+    "answer": "Mr. Dink",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome da banda favorita de Doug em Doug?",
+    "options": ["The Beets", "The Pickles", "The Peppers", "The Carrots"],
+    "answer": "The Beets",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Doug, qual é o nome do diretor da escola de Doug?",
+    "options": ["Mr. Bone", "Mr. Dink", "Mr. Swirly", "Mr. Bluff"],
+    "answer": "Mr. Bone",
+    "category": "TV & Desenhos"
+  },
+  {
     "question": "Em que ano foi lançado o desenho Denis, o Pimentinha no Brasil?",
     "options": ["1983", "1984", "1987", "1986"],
     "answer": "1987",
