@@ -1,4 +1,106 @@
 [
+      {
+    "question": "Qual o nome do planeta natal dos Ratos Motoqueiros de Marte?",
+    "options": ["Júpiter", "Saturno", "Marte", "Vênus"],
+    "answer": "Marte",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual dos Ratos Motoqueiros perdeu um braço na guerra contra os Plutarkianos?",
+    "options": ["Vinnie", "Modo", "Throttle", "Charley"],
+    "answer": "Modo",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o principal vilão que os Ratos Motoqueiros enfrentam na Terra?",
+    "options": ["Fred o Mutante", "Greasepit", "Limburger", "Carbine"],
+    "answer": "Limburger",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome da mecânica humana que ajuda os Ratos Motoqueiros?",
+    "options": ["Sarah", "Emily", "Charley", "Lisa"],
+    "answer": "Charley",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "De que planeta são os inimigos de Limburger e os Ratos Motoqueiros?",
+    "options": ["Plutão", "Vênus", "Plutark", "Urano"],
+    "answer": "Plutark",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual Rato Motoqueiro tem uma cicatriz no olho e é o líder do grupo?",
+    "options": ["Modo", "Vinnie", "Throttle", "Stoker"],
+    "answer": "Throttle",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do capanga desajeitado de Limburger, com um capacete grande?",
+    "options": ["Greasepit", "Pit Boss", "Fred", "Napoleon"],
+    "answer": "Greasepit",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o Rato Motoqueiro que usa uma bandana vermelha e é o mais vaidoso?",
+    "options": ["Throttle", "Modo", "Vinnie", "Stoker"],
+    "answer": "Vinnie",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o principal objetivo de Limburger na Terra?",
+    "options": ["Dominar o mundo", "Roubar queijo", "Extrair recursos", "Encontrar um tesouro"],
+    "answer": "Extrair recursos",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do cientista maluco que trabalha para Limburger?",
+    "options": ["Dr. Kiln", "Dr. Phineas P. Phibes", "Dr. Wily", "Dr. Nefarious"],
+    "answer": "Dr. Phineas P. Phibes",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o alimento favorito dos Plutarkianos, que eles tentam roubar da Terra?",
+    "options": ["Maçãs", "Queijo", "Carne", "Chocolate"],
+    "answer": "Queijo",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual a cidade onde os Ratos Motoqueiros residem na Terra?",
+    "options": ["Nova Iorque", "Chicago", "Detroit", "Los Angeles"],
+    "answer": "Chicago",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do general que é um aliado dos Ratos Motoqueiros em Marte?",
+    "options": ["General Stoker", "General Patton", "General Zod", "General Kael"],
+    "answer": "General Stoker",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do mutante que serve a Limburger e tem uma cabeça de peixe?",
+    "options": ["Fred o Mutante", "Fish Face", "Squid Head", "Merman"],
+    "answer": "Fred o Mutante",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o tipo de arma principal que Modo usa em seu braço robótico?",
+    "options": ["Laser", "Foguete", "Canhão", "Serra"],
+    "answer": "Canhão",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do edifício onde Limburger tem sua base de operações?",
+    "options": ["Torre Plutarkiana", "Torre Limburger", "Torre Queijo", "Torre da Destruição"],
+    "answer": "Torre Limburger",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual a frase de efeito frequentemente dita por Vinnie?",
+    "options": ["É hora do show!", "Vamos nessa!", "Que a força esteja!", "Rock and Roll!"],
+    "answer": "Rock and Roll!",
+    "category": "TV & Desenhos"
+  },
     {
     "question": "Qual é o nome da mãe de Doug em Doug?",
     "options": ["Theda Funnie", "Patti Mayonnaise", "Judy Funnie", "Beebe Bluff"],
