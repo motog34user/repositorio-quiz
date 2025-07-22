@@ -1,4 +1,40 @@
 [
+    {
+    "question": "Qual é o nome da mãe de Doug em Doug?",
+    "options": ["Theda Funnie", "Patti Mayonnaise", "Judy Funnie", "Beebe Bluff"],
+    "answer": "Theda Funnie",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Doug, qual é o nome do pai de Doug?",
+    "options": ["Phil Funnie", "Bob Funnie", "Jim Funnie", "Tom Funnie"],
+    "answer": "Phil Funnie",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome da colega de classe de Doug que é muito inteligente em Doug?",
+    "options": ["Connie Benge", "Beebe Bluff", "Patti Mayonnaise", "Judy Funnie"],
+    "answer": "Connie Benge",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Doug, qual é o nome do programa de TV favorito de Doug?",
+    "options": ["Smash Adams", "Quailman", "The Beets", "Honker Burger"],
+    "answer": "Smash Adams",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o principal traço de personalidade de Taz em Taz-Mania, além de sua velocidade?",
+    "options": ["Fome insaciável", "Timidez extrema", "Inteligência superior", "Paciência infinita"],
+    "answer": "Fome insaciável",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do hotel onde Taz e sua família trabalham em Taz-Mania?",
+    "options": ["Hotel Taz", "Hotel Platypus", "Hotel Koala", "Hotel Bush"],
+    "answer": "Hotel Taz",
+    "category": "TV & Desenhos"
+  },
   {
     "question": "Em Scooby-Doo, Cadê Você?, qual item Fred frequentemente usa para capturar os vilões?",
     "options": ["Rede", "Armadilha", "Corda", "Jaula"],
