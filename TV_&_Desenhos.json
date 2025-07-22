@@ -245,6 +245,120 @@
     "category": "TV & Desenhos"
   },
   {
+    "question": "Em 1985 os caezinhos do canil, qual o principal objetivo de Cooler ao liderar os filhotes?",
+    "options": ["Achar comida", "Fugir do canil", "Ajudar a encontrar lares", "Brincar o dia todo"],
+    "answer": "Ajudar a encontrar lares",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Quem é a cruel diretora do canil em 1985 os caezinhos do canil, que dificulta a vida dos filhotes?",
+    "options": ["Sra. Smith", "Katrina Stoneheart", "Tia Beth", "Dona Clara"],
+    "answer": "Katrina Stoneheart",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual filhote de 1985 os caezinhos do canil é conhecido por ter um faro excepcional para resolver problemas?",
+    "options": ["Bright Eyes", "Whopper", "Nose Marie", "Howler"],
+    "answer": "Nose Marie",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em 1985 os caezinhos do canil, qual a garota que sempre tenta ajudar os filhotes a encontrar um lar?",
+    "options": ["Sarah", "Holly", "Emily", "Lisa"],
+    "answer": "Holly",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual a característica mais marcante dos Popples de 1985 que os permite se esconder?",
+    "options": ["Ficam invisíveis", "Viram uma bola", "Encolhem de tamanho", "Mudam de cor"],
+    "answer": "Viram uma bola",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em 1985 popples dublado, onde os Popples geralmente são encontrados quando não estão brincando?",
+    "options": ["Na floresta", "Em caixas de brinquedo", "Dentro de suas bolsas", "No sótão"],
+    "answer": "Dentro de suas bolsas",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em 1985 popples dublado, qual a atividade que os Popples mais gostam de fazer, mesmo causando confusão?",
+    "options": ["Cozinhar", "Organizar", "Ajudar", "Dormir"],
+    "answer": "Ajudar",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Os Popples de 1985 interagem principalmente com quais crianças humanas?",
+    "options": ["Billy e Bonnie", "Kevin e Kelly", "Mike e Molly", "Tim e Tina"],
+    "answer": "Billy e Bonnie",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual Popple de 1985 adora resolver enigmas e quebra-cabeças?",
+    "options": ["Putter", "Puzzle", "Potato", "Prize Popple"],
+    "answer": "Puzzle",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "A natureza dos Popples de 1985 é principalmente de seres:",
+    "options": ["Mal-humorados", "Quietos", "Travessos", "Tímidos"],
+    "answer": "Travessos",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em papa leguas, qual empresa o Coiote sempre usa para comprar seus equipamentos?",
+    "options": ["Acme Corporation", "Apex Tools", "Dynamo Gear", "Mega Gadgets"],
+    "answer": "Acme Corporation",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o som característico que o Papa-Léguas faz ao correr?",
+    "options": ["Zip-zap", "Beep-beep", "Vrum-vrum", "Tic-tac"],
+    "answer": "Beep-beep",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o objetivo principal do Coiote em papa leguas?",
+    "options": ["Fazer um amigo", "Construir uma casa", "Capturar o Papa-Léguas", "Explorar o deserto"],
+    "answer": "Capturar o Papa-Léguas",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Onde se passam a maioria das perseguições de 1949 papa leguas dublado?",
+    "options": ["Na floresta", "Na cidade", "No deserto", "Em montanhas nevadas"],
+    "answer": "No deserto",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "O que invariavelmente acontece com os planos do Coiote em 1949 papa leguas dublado?",
+    "options": ["Eles dão certo", "Eles são roubados", "Eles falham", "Eles são ignorados"],
+    "answer": "Eles falham",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "O Papa-Léguas é um tipo de qual animal?",
+    "options": ["Avestruz", "Galinha", "Corredor", "Pássaro"],
+    "answer": "Pássaro",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em papa leguas, qual erro o Coiote frequentemente comete ao usar seus inventos?",
+    "options": ["Não lê o manual", "Não testa antes", "Usa no lugar errado", "Vira a armadilha contra si"],
+    "answer": "Vira a armadilha contra si",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Após um plano falhar em papa leguas, qual a reação mais comum do Coiote?",
+    "options": ["Desistir", "Chorar", "Ficar irritado", "Tentar de novo imediatamente"],
+    "answer": "Tentar de novo imediatamente",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em papa leguas, o que o Coiote frequentemente desenha nas rochas para enganar o Papa-Léguas?",
+    "options": ["Placas de trânsito", "Túneis falsos", "Árvores", "Mapas"],
+    "answer": "Túneis falsos",
+    "category": "TV & Desenhos"
+  },
+  {
     "question": "Quem era a principal adversária de Denis nas histórias do desenho?",
     "options": ["Margaret", "Dora", "Lisa", "Maggie"],
     "answer": "Margaret",
