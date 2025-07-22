@@ -121,17 +121,6 @@
         "category": "TV & Desenhos"
     },
     {
-        "question": "Em O Pequeno Urso, qual animal é o melhor amigo do Pequeno Urso?",
-        "options": [
-            "Pata",
-            "Coruja",
-            "Gata",
-            "Galinha"
-        ],
-        "answer": "Coruja",
-        "category": "TV & Desenhos"
-    },
-    {
         "question": "Qual o passatempo favorito do Pequeno Urso e seus amigos?",
         "options": [
             "Jogar bola",
