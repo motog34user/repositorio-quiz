@@ -1,4 +1,172 @@
 ﻿[
+    {
+    "question": "No filme Rambo Programado Para Matar, qual o nome da pequena cidade onde John Rambo é inicialmente preso?",
+    "options": ["Hope", "Freedom", "Liberty", "Justice"],
+    "answer": "Hope",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Rambo Programado Para Matar, qual a patente militar do Coronel Samuel Trautman, mentor de John Rambo?",
+    "options": ["Coronel", "Major", "Capitão", "General"],
+    "answer": "Coronel",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Rambo Programado Para Matar é baseado em qual obra literária de David Morrell?",
+    "options": ["First Blood", "Last Stand", "Lone Wolf", "Silent Hunter"],
+    "answer": "First Blood",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Rambo Programado Para Matar, qual a especialidade de John Rambo no exército, que o ajudou a sobreviver?",
+    "options": ["Forças Especiais", "Paraquedista", "Fuzileiro", "Comando"],
+    "answer": "Forças Especiais",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o transtorno psicológico abordado em Rambo Programado Para Matar, que afeta o protagonista?",
+    "options": ["Estresse Pós-Traumático", "Ansiedade Social", "Pânico Noturno", "Depressão Crônica"],
+    "answer": "Estresse Pós-Traumático",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Rambo Programado Para Matar, qual o nome do xerife que inicia a perseguição a John Rambo?",
+    "options": ["Will Teasle", "Frank Teasle", "Roy Teasle", "Ben Teasle"],
+    "answer": "Will Teasle",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o principal local onde Rambo Programado Para Matar demonstra suas habilidades de sobrevivência?",
+    "options": ["Floresta", "Deserto", "Montanha", "Pântano"],
+    "answer": "Floresta",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Rambo Programado Para Matar, John Rambo usa uma arma específica para se defender do helicóptero. Qual é?",
+    "options": ["Faca", "Arco e flecha", "Rifle", "Granada"],
+    "answer": "Arco e flecha",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Blade Runner, qual o ano em que a história se passa na cidade de Los Angeles?",
+    "options": ["2019", "2029", "2039", "2049"],
+    "answer": "2019",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome da corporação responsável pela criação dos replicantes em Blade Runner?",
+    "options": ["Tyrell Corporation", "Cyberdyne Systems", "OmniCorp", "Weyland-Yutani"],
+    "answer": "Tyrell Corporation",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Blade Runner, qual o nome do líder do grupo de replicantes que Rick Deckard precisa caçar?",
+    "options": ["Roy Batty", "Leon Kowalski", "Zhora Salome", "Pris Stratton"],
+    "answer": "Roy Batty",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Blade Runner, qual o nome do teste usado para distinguir replicantes de humanos?",
+    "options": ["Voight-Kampff", "Turing", "Empathy", "Nexus"],
+    "answer": "Voight-Kampff",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual a principal característica que diferencia Rachel dos outros replicantes em Blade Runner?",
+    "options": ["Memórias implantadas", "Força superior", "Imortalidade", "Invisibilidade"],
+    "answer": "Memórias implantadas",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o principal tema filosófico explorado em Blade Runner, sobre a natureza da existência?",
+    "options": ["Humanidade", "Tecnologia", "Liberdade", "Destino"],
+    "answer": "Humanidade",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o papel de Rick Deckard na história de Blade Runner?",
+    "options": ["Caçador de replicantes", "Cientista", "Policial comum", "Inventor"],
+    "answer": "Caçador de replicantes",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Armadura de Deus, qual o apelido do personagem de Jackie Chan, que busca artefatos?",
+    "options": ["Falcão Asiático", "Dragão Dourado", "Tigre Voador", "Leão Valente"],
+    "answer": "Falcão Asiático",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome da amiga de Jackie Chan que é sequestrada por um culto em A Armadura de Deus?",
+    "options": ["Laura", "May", "Mina", "Karen"],
+    "answer": "Laura",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Armadura de Deus, qual o principal gênero do filme, além da aventura?",
+    "options": ["Comédia", "Drama", "Terror", "Ficção científica"],
+    "answer": "Comédia",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual a principal característica das cenas de luta em A Armadura de Deus?",
+    "options": ["Coreografadas", "Realistas", "Brutais", "Caóticas"],
+    "answer": "Coreografadas",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome do amigo de Ferris Bueller que tem uma Ferrari em Curtindo a Vida Adoidado?",
+    "options": ["Cameron Frye", "Alan Ruck", "Charlie Sheen", "Jeffrey Jones"],
+    "answer": "Cameron Frye",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Curtindo a Vida Adoidado, qual o cargo de Edward Rooney na escola de Ferris?",
+    "options": ["Diretor", "Professor", "Orientador", "Zelador"],
+    "answer": "Diretor",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome da namorada de Ferris Bueller em Curtindo a Vida Adoidado?",
+    "options": ["Sloane Peterson", "Mia Sara", "Jennifer Grey", "Cindy Pickett"],
+    "answer": "Sloane Peterson",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Curtindo a Vida Adoidado, o que acontece com a Ferrari do pai de Cameron no final do filme?",
+    "options": ["É destruída", "É vendida", "É roubada", "É devolvida"],
+    "answer": "É destruída",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual a principal característica narrativa de Ferris Bueller em Curtindo a Vida Adoidado?",
+    "options": ["Quebra da quarta parede", "Narração em off", "Flashbacks", "Sonhos"],
+    "answer": "Quebra da quarta parede",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Curtindo a Vida Adoidado, qual o nome da irmã de Ferris que tenta desmascará-lo?",
+    "options": ["Jeanie Bueller", "Sarah Bueller", "Lisa Bueller", "Amy Bueller"],
+    "answer": "Jeanie Bueller",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o evento público em que Ferris Bueller canta em Curtindo a Vida Adoidado?",
+    "options": ["Desfile", "Concerto", "Jogo", "Feira"],
+    "answer": "Desfile",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Curtindo a Vida Adoidado, qual a principal motivação de Ferris para faltar à escola?",
+    "options": ["Aproveitar a vida", "Fazer uma prova", "Visitar a família", "Trabalhar"],
+    "answer": "Aproveitar a vida",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o tipo de museu que o trio visita em Curtindo a Vida Adoidado?",
+    "options": ["De arte", "De história", "De ciência", "De cera"],
+    "answer": "De arte",
+    "category": "Cinema & Novelas"
+  },
  {
     "question": "Quem é Cindel Towani em Caravana da Coragem?",
     "options": ["Menina humana", "Ewok guerreiro", "Feiticeira", "Mãe dos Ewoks"],
