@@ -1,4 +1,94 @@
 [
+      {
+    "question": "Em Tarzan, qual é o principal conflito interno de Tarzan?",
+    "options": ["Ser gorila ou humano", "Amar Jane ou a selva", "Lutar ou fugir", "Viver ou morrer"],
+    "answer": "Ser gorila ou humano",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é a principal habilidade de Tarzan que o torna único entre os gorilas em Tarzan?",
+    "options": ["Força", "Inteligência", "Velocidade", "Comunicação"],
+    "answer": "Inteligência",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o principal motivo de Clayton para caçar gorilas em Tarzan?",
+    "options": ["Pesquisa", "Dinheiro", "Fama", "Esporte"],
+    "answer": "Dinheiro",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Caminho para El Dorado, qual é o nome dos dois golpistas que encontram o mapa?",
+    "options": ["Tulio e Miguel", "Cortés e Pizarro", "Juan e Pedro", "Diego e Marco"],
+    "answer": "Tulio e Miguel",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome da mulher nativa que se junta a Tulio e Miguel em El Dorado?",
+    "options": ["Chel", "Tzekel-Kan", "Chefe Tannabok", "Altivo"],
+    "answer": "Chel",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Caminho para El Dorado, qual é o nome do sumo sacerdote que desconfia de Tulio e Miguel?",
+    "options": ["Tzekel-Kan", "Chefe Tannabok", "Altivo", "Cortés"],
+    "answer": "Tzekel-Kan",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Caminho para El Dorado, qual é o nome do cavalo que acompanha Tulio e Miguel?",
+    "options": ["Altivo", "Pégaso", "Bucéfalo", "Espírito"],
+    "answer": "Altivo",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Caminho para El Dorado, qual é o principal objeto que leva Tulio e Miguel a El Dorado?",
+    "options": ["Um mapa", "Uma joia", "Uma profecia", "Um sonho"],
+    "answer": "Um mapa",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Caminho para El Dorado, qual é o sacrifício que Tzekel-Kan tenta fazer para os 'deuses'?",
+    "options": ["Pessoas", "Ouro", "Animais", "Comida"],
+    "answer": "Pessoas",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do conquistador espanhol que persegue Tulio e Miguel em O Caminho para El Dorado?",
+    "options": ["Cortés", "Pizarro", "De Soto", "Vasco"],
+    "answer": "Cortés",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do explorador inglês por quem Pocahontas se apaixona em Pocahontas?",
+    "options": ["John Smith", "John Rolfe", "Thomas", "Governor Ratcliffe"],
+    "answer": "John Smith",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do guaxinim de estimação de Pocahontas em Pocahontas?",
+    "options": ["Meeko", "Flit", "Percy", "Kocoum"],
+    "answer": "Meeko",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Pocahontas, qual é o nome do beija-flor de estimação de Pocahontas?",
+    "options": ["Flit", "Meeko", "Percy", "Kocoum"],
+    "answer": "Flit",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do vilão principal em Pocahontas, o governador inglês ganancioso?",
+    "options": ["Governador Ratcliffe", "Thomas", "John Smith", "Ben"],
+    "answer": "Governador Ratcliffe",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Pocahontas, qual é a principal música que Pocahontas canta sobre a conexão com a natureza?",
+    "options": ["Cores do Vento", "Se Não Te Conhecesse", "O Que Eu Farei?", "Minha Vida"],
+    "answer": "Cores do Vento",
+    "category": "TV & Desenhos"
+  },
     {
         "question": "Qual é o nome do monstro de várias cabeças que Hércules enfrenta em Hércules?",
         "options": [
