@@ -1,4 +1,119 @@
 [
+        
+  {
+    "question": "Qual apresentadora icônica comandou o Bom Dia & Companhia por muitos anos em sua primeira fase?",
+    "options": ["Eliana", "Jackeline Petkovic", "Priscilla Alcântara", "Maisa Silva"],
+    "answer": "Eliana",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "O Bom Dia & Companhia tinha um quadro onde as crianças ligavam para qual objetivo principal?",
+    "options": ["Jogar e ganhar prêmios", "Pedir músicas", "Contar piadas", "Dar opiniões"],
+    "answer": "Jogar e ganhar prêmios",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Que tipo de brincadeiras eram comuns no Bom Dia & Companhia, envolvendo participação?",
+    "options": ["Gincanas e desafios", "Esportes", "Apresentações de dança", "Aulas de culinária"],
+    "answer": "Gincanas e desafios",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "O Bom Dia & Companhia era um dos programas infantis mais duradouros de qual emissora?",
+    "options": ["SBT", "Rede Globo", "Record TV", "Band"],
+    "answer": "SBT",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual era o nome do grupo de assistentes de palco femininas que acompanhavam Xuxa no Show de Xuxa?",
+    "options": ["Paquitas", "Xuxetes", "Angelicats", "Chacretes"],
+    "answer": "Paquitas",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual era o nome do personagem mosquito que era um dos ajudantes de palco no Show de Xuxa?",
+    "options": ["Dengue", "Zika", "Pernilongo", "Aedes"],
+    "answer": "Dengue",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "No Show de Xuxa, qual era o nome do personagem alienígena que era um dos ajudantes de palco?",
+    "options": ["Praga", "E.T.", "Marciano", "Extraterrestre"],
+    "answer": "Praga",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Que tipo de interação Xuxa tinha com as crianças no Show de Xuxa, sendo um diferencial?",
+    "options": ["Conversas e abraços", "Apenas autógrafos", "Somente fotos", "Distribuição de doces"],
+    "answer": "Conversas e abraços",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual era o principal objetivo do Show de Xuxa para o público infantil?",
+    "options": ["Entreter e educar", "Vender produtos", "Dar notícias", "Ensinar culinária"],
+    "answer": "Entreter e educar",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "O Show de Xuxa era famoso por qual tipo de brincadeiras e gincanas com as crianças?",
+    "options": ["Gincanas de palco", "Jogos de tabuleiro", "Esportes radicais", "Desafios intelectuais"],
+    "answer": "Gincanas de palco",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual era o nome do cachorro gigante que era um dos mascotes do Show de Xuxa?",
+    "options": ["Txutxucão", "Sasha", "Dudu", "Fido"],
+    "answer": "Txutxucão",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Que tipo de coreografias eram famosas no Show de Xuxa, envolvendo a apresentadora e as Paquitas?",
+    "options": ["Coreografias animadas", "Ballet clássico", "Dança de salão", "Hip hop"],
+    "answer": "Coreografias animadas",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "O Show de Xuxa era um dos programas infantis de maior sucesso em qual período da TV brasileira?",
+    "options": ["Anos 80 e 90", "Anos 60 e 70", "Anos 2000", "Anos 2010"],
+    "answer": "Anos 80 e 90",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual era o principal acessório de Xuxa no Show de Xuxa, além de suas roupas temáticas?",
+    "options": ["Microfone de mão", "Óculos escuros", "Chapéu", "Luvas"],
+    "answer": "Microfone de mão",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Que tipo de mensagens positivas o Show de Xuxa transmitia às crianças?",
+    "options": ["Amizade e respeito", "Competição", "Individualismo", "Consumismo"],
+    "answer": "Amizade e respeito",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "No Cocoricó, qual era o nome do menino que vivia na fazenda com os animais?",
+    "options": ["Júlio", "João", "Pedro", "Lucas"],
+    "answer": "Júlio",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual era a principal característica do cenário do Cocoricó?",
+    "options": ["Fazenda colorida", "Cidade grande", "Floresta densa", "Deserto"],
+    "answer": "Fazenda colorida",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Cocoricó, qual animal era a galinha que sempre estava com seus ovos?",
+    "options": ["Zazá", "Lola", "Alípio", "Caco"],
+    "answer": "Zazá",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual era o nome do cavalo que era um dos amigos de Júlio no Cocoricó?",
+    "options": ["Alípio", "Astolfo", "Caco", "Lola"],
+    "answer": "Alípio",
+    "category": "TV & Desenhos"
+  },
         {
     "question": "No Disney Club (TV Cruj), qual era o principal objetivo do Comitê Revolucionário Ultra Jovem?",
     "options": ["Invadir a programação da TV", "Exibir desenhos antigos", "Conquistar o mundo", "Espalhar o caos"],
