@@ -1,4 +1,82 @@
 [
+            {
+    "question": "Em O Corcunda de Notre Dame, qual é o nome do sineiro deformado da catedral?",
+    "options": ["Quasimodo", "Frollo", "Phoebus", "Clopin"],
+    "answer": "Quasimodo",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome da cigana dançarina por quem Quasimodo e Phoebus se apaixonam em O Corcunda de Notre Dame?",
+    "options": ["Esmeralda", "Laverne", "Madellaine", "Djali"],
+    "answer": "Esmeralda",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Corcunda de Notre Dame, qual é o nome do juiz que é o guardião de Quasimodo e o vilão principal?",
+    "options": ["Frollo", "Phoebus", "Clopin", "Victor"],
+    "answer": "Frollo",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome da cabra de estimação de Esmeralda em O Corcunda de Notre Dame?",
+    "options": ["Djali", "Victor", "Hugo", "Laverne"],
+    "answer": "Djali",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é a principal característica de Frollo em O Corcunda de Notre Dame?",
+    "options": ["Bondade", "Justiça", "Crueldade", "Piedade"],
+    "answer": "Crueldade",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Corcunda de Notre Dame, qual é o nome do festival que acontece em Paris e revela a beleza de Quasimodo?",
+    "options": ["Festival dos Tolos", "Festival da Primavera", "Festival da Luz", "Festival de Notre Dame"],
+    "answer": "Festival dos Tolos",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Hércules, qual é o nome do pai de Hércules, o rei dos deuses?",
+    "options": ["Zeus", "Hades", "Poseidon", "Apolo"],
+    "answer": "Zeus",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do deus do submundo e vilão principal em Hércules?",
+    "options": ["Hades", "Zeus", "Poseidon", "Ares"],
+    "answer": "Hades",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Hércules, qual é o nome do sátiro que treina Hércules para ser um herói?",
+    "options": ["Philoctetes (Phil)", "Pégaso", "Hades", "Zeus"],
+    "answer": "Philoctetes (Phil)",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome da mulher por quem Hércules se apaixona em Hércules?",
+    "options": ["Megara (Meg)", "Hera", "Afrodite", "Perséfone"],
+    "answer": "Megara (Meg)",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Hércules, qual é o nome do cavalo alado de Hércules?",
+    "options": ["Pégaso", "Bucéfalo", "Centauro", "Grifo"],
+    "answer": "Pégaso",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Hércules, qual é o nome do local onde os deuses vivem?",
+    "options": ["Monte Olimpo", "Monte Parnaso", "Monte Etna", "Monte Fuji"],
+    "answer": "Monte Olimpo",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Hércules, qual é a principal música que as Musas cantam sobre a ascensão de Hércules?",
+    "options": ["De Zero a Herói", "Eu Não Direi", "Vou Vencer", "Um Mundo Ideal"],
+    "answer": "De Zero a Herói",
+    "category": "TV & Desenhos"
+  }, 
            {
     "question": "Em A Pequena Sereia, qual é o nome da bruxa do mar que faz um acordo com Ariel?",
     "options": ["Úrsula", "Morgana", "Malévola", "Rainha Má"],
