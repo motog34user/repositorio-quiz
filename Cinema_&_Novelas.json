@@ -1,4 +1,112 @@
 ﻿[
+       {
+    "question": "Em O Voo do Navegador, por quantos anos David Freeman desaparece antes de retornar?",
+    "options": ["Oito anos", "Sete anos", "Seis anos", "Cinco anos"],
+    "answer": "Oito anos",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Voo do Navegador, qual a principal característica do corpo de David ao retornar?",
+    "options": ["Não envelheceu", "Está mais forte", "Está mais alto", "Está mais magro"],
+    "answer": "Não envelheceu",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual a agência que estuda David Freeman após seu retorno em O Voo do Navegador?",
+    "options": ["NASA", "FBI", "CIA", "Pentágono"],
+    "answer": "NASA",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o tema central explorado em O Voo do Navegador, relacionado ao tempo?",
+    "options": ["Viagem no tempo", "Paradoxos temporais", "Loop temporal", "Congelamento do tempo"],
+    "answer": "Viagem no tempo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Voo do Navegador, qual a principal informação que David tem em sua mente após a experiência?",
+    "options": ["Mapas estelares", "Linguagens alienígenas", "História da Terra", "Fórmulas matemáticas"],
+    "answer": "Mapas estelares",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o principal desafio que David enfrenta ao tentar retornar para sua casa em O Voo do Navegador?",
+    "options": ["Ser capturado", "Perder a memória", "Ser esquecido", "Ser transformado"],
+    "answer": "Ser capturado",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome da empresa que está poluindo o lago em Dragões Para Sempre?",
+    "options": ["Química Industrial", "Eco Solutions", "Green Corp", "Tech Labs"],
+    "answer": "Química Industrial",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Dragões Para Sempre, qual o nome do personagem interpretado por Jackie Chan?",
+    "options": ["Jackie Lung", "Thomas", "David", "Moby"],
+    "answer": "Jackie Lung",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Dragões Para Sempre, qual a cidade onde a trama se desenrola?",
+    "options": ["Hong Kong", "Tóquio", "Pequim", "Seul"],
+    "answer": "Hong Kong",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o principal desafio que os advogados enfrentam em Dragões Para Sempre?",
+    "options": ["Infiltrar-se", "Defender-se", "Escapar", "Negociar"],
+    "answer": "Infiltrar-se",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Moonwalker, em qual criatura Michael Jackson se transforma para lutar contra o vilão?",
+    "options": ["Robô gigante", "Lobo", "Vampiro", "Dragão"],
+    "answer": "Robô gigante",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual a música icônica de Michael Jackson que é destaque em Moonwalker, com uma coreografia famosa?",
+    "options": ["Smooth Criminal", "Billie Jean", "Thriller", "Bad"],
+    "answer": "Smooth Criminal",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Moonwalker, qual o papel das crianças na ajuda a Michael Jackson contra o vilão?",
+    "options": ["Ajudam-no", "São reféns", "São vilãs", "São observadoras"],
+    "answer": "Ajudam-no",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o animal que Michael Jackson se transforma em uma cena animada de Moonwalker?",
+    "options": ["Coelho", "Cachorro", "Gato", "Pássaro"],
+    "answer": "Coelho",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Moonwalker, qual o principal gênero do filme, além da fantasia?",
+    "options": ["Musical", "Ação", "Comédia", "Drama"],
+    "answer": "Musical",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Moonwalker, qual o principal recurso visual que Michael Jackson utiliza para contar a história?",
+    "options": ["Videoclipes", "Animação", "Coreografias", "Diálogos"],
+    "answer": "Videoclipes",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Batman de 1989, qual o nome do ator que interpreta o Batman/Bruce Wayne?",
+    "options": ["Michael Keaton", "Christian Bale", "Ben Affleck", "George Clooney"],
+    "answer": "Michael Keaton",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome do ator que interpreta o Coringa em Batman de 1989?",
+    "options": ["Jack Nicholson", "Heath Ledger", "Joaquin Phoenix", "Jared Leto"],
+    "answer": "Jack Nicholson",
+    "category": "Cinema & Novelas"
+  },
     {
     "question": "No filme Rambo Programado Para Matar, qual o nome da pequena cidade onde John Rambo é inicialmente preso?",
     "options": ["Hope", "Freedom", "Liberty", "Justice"],
