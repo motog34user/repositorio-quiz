@@ -1,4 +1,88 @@
 [
+        {
+    "question": "No Disney Club (TV Cruj), qual era o principal objetivo do Comitê Revolucionário Ultra Jovem?",
+    "options": ["Invadir a programação da TV", "Exibir desenhos antigos", "Conquistar o mundo", "Espalhar o caos"],
+    "answer": "Invadir a programação da TV",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "No Disney Club, quem era o apresentador que usava óculos e liderava o Comando?",
+    "options": ["Pedro", "Caju", "Chicote", "Malu"],
+    "answer": "Caju",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual era o apelido da apresentadora mais jovem do Disney Club, cheia de energia?",
+    "options": ["Malu", "Juju", "Pedro", "Chicote"],
+    "answer": "Malu",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual era a saudação final icônica do Comitê Revolucionário Ultra Jovem no Disney Club?",
+    "options": ["CRUJ, CRUJ, Tchau!", "Até a próxima!", "Missão cumprida!", "Fim da transmissão!"],
+    "answer": "CRUJ, CRUJ, Tchau!",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "O Disney Club era conhecido por exibir desenhos de qual grande estúdio?",
+    "options": ["Disney", "Warner Bros", "Hanna-Barbera", "Cartoon Network"],
+    "answer": "Disney",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual era o nome completo da organização fictícia que os apresentadores do Disney Club representavam?",
+    "options": ["Comitê Revolucionário Ultra Jovem", "Comando Radical Unificado Jovem", "Clube Rebelde Ultra Jovem", "Centro de Recreação Universal Jovem"],
+    "answer": "Comitê Revolucionário Ultra Jovem",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "No Disney Club, os personagens tentavam evitar que a programação fosse dominada por qual elemento?",
+    "options": ["O tédio", "Os vilões", "A publicidade", "Os adultos"],
+    "answer": "Os adultos",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "O G4 Brasil era um programa focado em qual tipo de conteúdo principal?",
+    "options": ["Video Games", "Culinária e viagens", "Esportes radicais", "Novelas e filmes"],
+    "answer": "Video Games",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em que emissora brasileira o G4 Brasil era exibido?",
+    "options": ["Band", "Rede Globo", "SBT", "Record TV"],
+    "answer": "Band",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Que tipo de entrevistas eram comuns no G4 Brasil?",
+    "options": ["Com desenvolvedores de jogos", "Com políticos", "Com chefs de cozinha", "Com atletas"],
+    "answer": "Com desenvolvedores de jogos",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "O G4 Brasil trazia notícias sobre qual indústria em ascensão nos anos 2000?",
+    "options": ["Indústria de games", "Indústria automobilística", "Indústria têxtil", "Indústria alimentícia"],
+    "answer": "Indústria de games",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Que tipo de jogos eram frequentemente comentados no G4 Brasil, abrangendo diversas plataformas?",
+    "options": ["Lançamentos de jogos", "Apenas jogos de tabuleiro", "Somente jogos de cartas", "Exclusivamente jogos de esporte"],
+    "answer": "Lançamentos de jogos",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "O G4 Brasil era um programa que misturava qual tipo de formato para seu conteúdo?",
+    "options": ["Revista eletrônica", "Telejornal", "Novela", "Reality show"],
+    "answer": "Revista eletrônica",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "O G4 Brasil ajudou a popularizar qual tipo de conteúdo na TV brasileira, abrindo espaço?",
+    "options": ["Conteúdo de games", "Conteúdo de culinária", "Conteúdo de jardinagem", "Conteúdo de esportes"],
+    "answer": "Conteúdo de games",
+    "category": "TV & Desenhos"
+  },
       {
     "question": "Em Tarzan, qual é o principal conflito interno de Tarzan?",
     "options": ["Ser gorila ou humano", "Amar Jane ou a selva", "Lutar ou fugir", "Viver ou morrer"],
