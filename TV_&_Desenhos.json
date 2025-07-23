@@ -1,5 +1,130 @@
 [
-        
+      {
+    "question": "O Cocoricó abordava temas relacionados a qual ambiente principal?",
+    "options": ["Vida no campo", "Vida na cidade", "Vida na praia", "Vida na montanha"],
+    "answer": "Vida no campo",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Cocoricó, qual animal era a vaca que adorava ler e era muito inteligente?",
+    "options": ["Lola", "Zazá", "Alípio", "Caco"],
+    "answer": "Lola",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "O Cocoricó era conhecido por qual estilo visual dos bonecos, sendo muito expressivos?",
+    "options": ["Bonecos de fantoche", "Bonecos de pano", "Bonecos de madeira", "Bonecos de plástico"],
+    "answer": "Bonecos de fantoche",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual era a principal forma de interação entre os personagens no Cocoricó?",
+    "options": ["Conversas e músicas", "Apenas brigas", "Apenas jogos", "Apenas aulas"],
+    "answer": "Conversas e músicas",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "No Glub Glub, qual era o ambiente principal onde os personagens viviam?",
+    "options": ["Fundo do mar", "Floresta", "Cidade", "Deserto"],
+    "answer": "Fundo do mar",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Que emissora brasileira produziu e exibiu o Glub Glub?",
+    "options": ["TV Cultura", "Rede Globo", "SBT", "Record TV"],
+    "answer": "TV Cultura",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual era a principal característica dos apresentadores do Glub Glub?",
+    "options": ["Eram peixes", "Eram humanos", "Eram robôs", "Eram alienígenas"],
+    "answer": "Eram peixes",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "O Glub Glub era conhecido por exibir qual tipo de conteúdo, além de suas interações?",
+    "options": ["Desenhos animados", "Novelas", "Noticiários", "Documentários"],
+    "answer": "Desenhos animados",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual apresentador icônico comandou o Domingo Legal no SBT por muitos anos?",
+    "options": ["Gugu Liberato", "Silvio Santos", "Faustão", "Ratinho"],
+    "answer": "Gugu Liberato",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "O Domingo Legal era famoso por qual quadro onde celebridades entravam em uma banheira?",
+    "options": ["Banheira do Gugu", "Piscina da Fama", "Chuveiro Legal", "Spa dos Artistas"],
+    "answer": "Banheira do Gugu",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual era o nome do quadro onde Gugu dirigia um táxi e conversava com passageiros famosos?",
+    "options": ["Táxi do Gugu", "Carona Legal", "Motorista da Alegria", "Gugu no Volante"],
+    "answer": "Táxi do Gugu",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "O Domingo Legal tinha um segmento onde pessoas voltavam para sua cidade natal. Qual era o nome?",
+    "options": ["De Volta Para Minha Terra", "Minha Cidade Natal", "Reencontro", "Raízes"],
+    "answer": "De Volta Para Minha Terra",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Que tipo de artistas eram frequentemente convidados para o palco do Domingo Legal para apresentações?",
+    "options": ["Cantores e bandas", "Atores de novela", "Humoristas", "Dançarinos"],
+    "answer": "Cantores e bandas",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Que tipo de música era predominante no Domingo Legal, com diversos gêneros?",
+    "options": ["Música popular brasileira", "Rock", "Clássica", "Jazz"],
+    "answer": "Música popular brasileira",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual apresentador icônico comandava o Em Nome do Amor no SBT?",
+    "options": ["Silvio Santos", "Gugu Liberato", "Ratinho", "Faustão"],
+    "answer": "Silvio Santos",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "O Em Nome do Amor era um programa focado em qual tipo de relacionamento?",
+    "options": ["Namoro e casamento", "Amizade", "Relações familiares", "Relações profissionais"],
+    "answer": "Namoro e casamento",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "O Em Nome do Amor tinha um segmento onde os casais se conheciam de que forma?",
+    "options": ["No palco do programa", "Por telefone", "Pela internet", "Por cartas"],
+    "answer": "No palco do programa",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual era a principal forma de interação dos participantes no Em Nome do Amor com Silvio Santos?",
+    "options": ["Conversas diretas", "Por meio de cartas", "Por telefone", "Por meio de um telão"],
+    "answer": "Conversas diretas",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "O Cinema em Casa era uma sessão de filmes exibida em qual emissora brasileira?",
+    "options": ["SBT", "Rede Globo", "Record TV", "Band"],
+    "answer": "SBT",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Que tipo de filmes eram predominantemente exibidos no Cinema em Casa, para toda a família?",
+    "options": ["Filmes de aventura", "Filmes de terror", "Filmes de arte", "Filmes documentários"],
+    "answer": "Filmes de aventura",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em qual período do dia o Cinema em Casa era tradicionalmente transmitido?",
+    "options": ["Tarde", "Manhã", "Noite", "Madrugada"],
+    "answer": "Tarde",
+    "category": "TV & Desenhos"
+  },    
   {
     "question": "Qual apresentadora icônica comandou o Bom Dia & Companhia por muitos anos em sua primeira fase?",
     "options": ["Eliana", "Jackeline Petkovic", "Priscilla Alcântara", "Maisa Silva"],
