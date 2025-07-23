@@ -1,4 +1,239 @@
 [
+           {
+    "question": "Em A Pequena Sereia, qual é o nome da bruxa do mar que faz um acordo com Ariel?",
+    "options": ["Úrsula", "Morgana", "Malévola", "Rainha Má"],
+    "answer": "Úrsula",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do príncipe humano por quem Ariel se apaixona em A Pequena Sereia?",
+    "options": ["Príncipe Eric", "Príncipe Felipe", "Príncipe Encantado", "Príncipe Adam"],
+    "answer": "Príncipe Eric",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em A Pequena Sereia, qual é o nome do peixe que é o melhor amigo de Ariel?",
+    "options": ["Linguado", "Sebastião", "Sabichão", "Max"],
+    "answer": "Linguado",
+    "category": "TV & Desenhos"
+  },
+
+  {
+    "question": "Em A Pequena Sereia, qual é o nome do pai de Ariel, o rei dos sete mares?",
+    "options": ["Rei Tritão", "Rei Netuno", "Rei Poseidon", "Rei Atlântico"],
+    "answer": "Rei Tritão",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em A Pequena Sereia, o que Ariel dá a Úrsula em troca de pernas humanas?",
+    "options": ["Sua cauda", "Sua voz", "Sua coroa", "Seu tridente"],
+    "answer": "Sua voz",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do objeto mágico que o Rei Tritão usa para controlar o mar em A Pequena Sereia?",
+    "options": ["Tridente", "Vara Mágica", "Cajado Real", "Coroa do Mar"],
+    "answer": "Tridente",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o principal obstáculo que Ariel enfrenta para conquistar o amor de Eric em A Pequena Sereia?",
+    "options": ["Sua família", "Sua voz", "Seu passado", "Sua aparência"],
+    "answer": "Sua voz",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Aladdin, qual é o nome do macaco de estimação de Aladdin?",
+    "options": ["Abu", "Iago", "Rajah", "Sultan"],
+    "answer": "Abu",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Aladdin, qual é o nome do vilão principal que busca o poder da lâmpada?",
+    "options": ["Jafar", "Gênio", "Sultão", "Iago"],
+    "answer": "Jafar",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome da princesa por quem Aladdin se apaixona em Aladdin?",
+    "options": ["Jasmine", "Mulan", "Pocahontas", "Bela"],
+    "answer": "Jasmine",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Aladdin, qual é o nome do papagaio de Jafar que o ajuda em seus planos malignos?",
+    "options": ["Iago", "Abu", "Rajah", "Gênio"],
+    "answer": "Iago",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do pai de Jasmine, o governante de Agrabah em Aladdin?",
+    "options": ["Sultão", "Jafar", "Aladdin", "Gênio"],
+    "answer": "Sultão",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome da cidade onde Aladdin mora em Aladdin?",
+    "options": ["Agrabah", "Bagdá", "Cairo", "Persia"],
+    "answer": "Agrabah",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é a principal música cantada por Aladdin e Jasmine no Tapete Mágico em Aladdin?",
+    "options": ["Um Mundo Ideal", "Amigo Estou Aqui", "Príncipe Ali", "Nunca Tive um Amigo Assim"],
+    "answer": "Um Mundo Ideal",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Rei Leão, qual é o nome do pai de Simba, o rei da Pedra do Reino?",
+    "options": ["Mufasa", "Scar", "Timão", "Pumba"],
+    "answer": "Mufasa",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do tio de Simba, o vilão que planeja tomar o trono em O Rei Leão?",
+    "options": ["Scar", "Mufasa", "Timão", "Pumba"],
+    "answer": "Scar",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Rei Leão, qual é o nome do suricato que se torna amigo de Simba no exílio?",
+    "options": ["Timão", "Pumba", "Zazu", "Rafiki"],
+    "answer": "Timão",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do javali que se torna amigo de Simba no exílio em O Rei Leão?",
+    "options": ["Pumba", "Timão", "Zazu", "Rafiki"],
+    "answer": "Pumba",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Rei Leão, qual é a frase filosófica que Timão e Pumba ensinam a Simba?",
+    "options": ["Hakuna Matata", "Ciclo da Vida", "Nós Somos Um", "Até o Fim"],
+    "answer": "Hakuna Matata",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do mandril sábio que serve como conselheiro e xamã em O Rei Leão?",
+    "options": ["Rafiki", "Zazu", "Timão", "Pumba"],
+    "answer": "Rafiki",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Rei Leão, qual é o nome da leoa que é amiga de infância de Simba e o reencontra adulto?",
+    "options": ["Nala", "Sarabi", "Sarafina", "Kiara"],
+    "answer": "Nala",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do calau que serve como mordomo e conselheiro real em O Rei Leão?",
+    "options": ["Zazu", "Rafiki", "Timão", "Pumba"],
+    "answer": "Zazu",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Rei Leão, qual é o evento trágico que leva Simba a fugir da Pedra do Reino?",
+    "options": ["Morte de Mufasa", "Ataque das hienas", "Seca na savana", "Invasão de Scar"],
+    "answer": "Morte de Mufasa",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do local onde os leões vivem e governam em O Rei Leão?",
+    "options": ["Pedra do Reino", "Terra das Sombras", "Oásis Secreto", "Vale da Paz"],
+    "answer": "Pedra do Reino",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Rei Leão, qual é a principal característica das hienas que servem a Scar?",
+    "options": ["Lealdade", "Inteligência", "Covardia", "Força"],
+    "answer": "Covardia",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome da mãe de Simba em O Rei Leão?",
+    "options": ["Sarabi", "Sarafina", "Nala", "Kiara"],
+    "answer": "Sarabi",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome da área desolada onde as hienas vivem em O Rei Leão?",
+    "options": ["Cemitério de Elefantes", "Terra das Sombras", "Vale da Morte", "Deserto Proibido"],
+    "answer": "Cemitério de Elefantes",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Rei Leão, qual é o principal objetivo de Scar ao matar Mufasa?",
+    "options": ["Vingança", "Poder", "Liberdade", "Destruição"],
+    "answer": "Poder",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Pateta o Filme, qual é o nome do filho de Pateta que ele tenta se reaproximar?",
+    "options": ["Max", "PJ", "Bobby", "Pateta Jr."],
+    "answer": "Max",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o principal evento que Max e Pateta tentam assistir em Pateta o Filme?",
+    "options": ["Show do Powerline", "Jogo de basquete", "Concurso de talentos", "Festival de música"],
+    "answer": "Show do Powerline",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Pateta o Filme, qual é o nome da garota por quem Max é apaixonado?",
+    "options": ["Roxanne", "Stacey", "Lisa", "Mona"],
+    "answer": "Roxanne",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do melhor amigo de Max em Pateta o Filme, filho de Pete?",
+    "options": ["PJ", "Bobby", "Chad", "Brad"],
+    "answer": "PJ",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o principal motivo da viagem de Pateta e Max em Pateta o Filme?",
+    "options": ["Férias", "Pesca", "Visitar parentes", "Aventura"],
+    "answer": "Pesca",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Pateta o Filme, qual é o nome do famoso cantor que Max idolatra?",
+    "options": ["Powerline", "Goof Troop", "Rock Star", "Pop Idol"],
+    "answer": "Powerline",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é a principal mentira que Max conta a Roxanne em Pateta o Filme?",
+    "options": ["Que ele é rico", "Que ele vai ao show", "Que ele tem carro", "Que ele é popular"],
+    "answer": "Que ele vai ao show",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Pateta o Filme, qual é o nome do amigo de Max que é um DJ e um tanto descolado?",
+    "options": ["Bobby Zimuruski", "PJ", "Chad", "Brad"],
+    "answer": "Bobby Zimuruski",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o principal meio de transporte que Pateta e Max usam na viagem em Pateta o Filme?",
+    "options": ["Carro", "Ônibus", "Trem", "Avião"],
+    "answer": "Carro",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Pateta o Filme, qual é o nome do lago onde Pateta planeja pescar o 'Peixe Lendário'?",
+    "options": ["Lago Destino", "Lago Big Foot", "Lago Escondido", "Lago da Floresta"],
+    "answer": "Lago Destino",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é a principal lição que Pateta tenta ensinar a Max em Pateta o Filme?",
+    "options": ["Ser responsável", "Ser honesto", "Aproveitar a vida", "Valorizar a família"],
+    "answer": "Valorizar a família",
+    "category": "TV & Desenhos"
+  },
          {
     "question": "Qual é a principal característica de Gourry Gabriev em Slayers, além de sua habilidade com a espada?",
     "options": ["Inteligência", "Força bruta", "Ingenuidade", "Astúcia"],
