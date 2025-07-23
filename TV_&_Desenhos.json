@@ -1,1317 +1,2402 @@
 [
-              {
-    "question": "Qual é o nome do monstro de várias cabeças que Hércules enfrenta em Hércules?",
-    "options": ["Hidra", "Cérbero", "Medusa", "Minotauro"],
-    "answer": "Hidra",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Vida de Inseto, qual é o nome da formiga inventora que é um pouco desajeitada?",
-    "options": ["Flik", "Atta", "Dot", "Hopper"],
-    "answer": "Flik",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do gafanhoto líder que oprime as formigas em Vida de Inseto?",
-    "options": ["Hopper", "Molt", "Thumper", "Axel"],
-    "answer": "Hopper",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome da formiga mais jovem e otimista, irmã de Atta, em Vida de Inseto?",
-    "options": ["Dot", "Atta", "Flik", "Rainha"],
-    "answer": "Dot",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Vida de Inseto, qual é o nome da joaninha macho que é confundida com fêmea?",
-    "options": ["Francis", "Heimlich", "Slim", "Dim"],
-    "answer": "Francis",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome da lagarta que sonha em ser borboleta e adora comer em Vida de Inseto?",
-    "options": ["Heimlich", "Francis", "Slim", "Dim"],
-    "answer": "Heimlich",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Vida de Inseto, qual é o principal plano de Flik para se livrar dos gafanhotos?",
-    "options": ["Construir uma arma", "Recrutar ajuda", "Fugir", "Esconder comida"],
-    "answer": "Recrutar ajuda",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Vida de Inseto, qual é o principal medo de Hopper em relação às formigas?",
-    "options": ["Que elas o ataquem", "Que elas se rebelem", "Que elas fujam", "Que elas o ignorem"],
-    "answer": "Que elas se rebelem",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Vida de Inseto, qual é o principal objetivo dos gafanhotos ao visitar a colônia de formigas?",
-    "options": ["Fazer amigos", "Pegar comida", "Invadir o local", "Ajudar as formigas"],
-    "answer": "Pegar comida",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Rei Leão 2, qual é o nome da filha de Simba e Nala?",
-    "options": ["Kiara", "Vitani", "Zira", "Sarabi"],
-    "answer": "Kiara",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do leão exilado por quem Kiara se apaixona em O Rei Leão 2?",
-    "options": ["Kovu", "Nuka", "Scar", "Zira"],
-    "answer": "Kovu",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Rei Leão 2, qual é o nome da mãe de Kovu, líder dos Exilados?",
-    "options": ["Zira", "Vitani", "Nuka", "Kiara"],
-    "answer": "Zira",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Rei Leão 2, qual é o principal objetivo de Zira?",
-    "options": ["Vingança", "Paz", "Amor", "Poder"],
-    "answer": "Vingança",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome da música que Simba canta para Kiara sobre a união e o legado em O Rei Leão 2?",
-    "options": ["Nós Somos Um", "O Amor Nos Guiará", "Meu Mundo", "Até o Fim"],
-    "answer": "Nós Somos Um",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Rei Leão 2, qual é o principal obstáculo para a união das duas alcateias?",
-    "options": ["O ódio de Zira", "A desconfiança de Simba", "O passado de Kovu", "A rivalidade de Nuka"],
-    "answer": "O ódio de Zira",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Rei Leão 2, qual é o principal evento que une Kiara e Kovu em sua infância?",
-    "options": ["Uma tempestade", "Um ataque de hienas", "Uma fuga", "Um incêndio"],
-    "answer": "Um incêndio",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Rei Leão 2, qual é o principal tema que a história explora sobre o futuro?",
-    "options": ["Vingança", "Perdão", "Poder", "Destino"],
-    "answer": "Perdão",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Tarzan, qual é o nome do gorila macho que adota Tarzan quando bebê?",
-    "options": ["Kerchak", "Kala", "Terk", "Sabor"],
-    "answer": "Kerchak",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome da gorila fêmea que encontra Tarzan e o cria como seu filho em Tarzan?",
-    "options": ["Kala", "Terk", "Jane", "Rosie"],
-    "answer": "Kala",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Tarzan, qual é o nome da jovem exploradora inglesa por quem Tarzan se apaixona?",
-    "options": ["Jane Porter", "Alice", "Mary", "Elizabeth"],
-    "answer": "Jane Porter",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do vilão principal em Tarzan, um caçador ganancioso?",
-    "options": ["Clayton", "Professor Porter", "Kerchak", "Sabor"],
-    "answer": "Clayton",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Tarzan, qual é o nome da gorila fêmea que é a melhor amiga de Tarzan e o ajuda?",
-    "options": ["Terk", "Kala", "Jane", "Rosie"],
-    "answer": "Terk",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do leopardo que mata os pais biológicos de Tarzan em Tarzan?",
-    "options": ["Sabor", "Kerchak", "Clayton", "Terk"],
-    "answer": "Sabor",
-    "category": "TV & Desenhos"
-  },
-            {
-    "question": "Em O Corcunda de Notre Dame, qual é o nome do sineiro deformado da catedral?",
-    "options": ["Quasimodo", "Frollo", "Phoebus", "Clopin"],
-    "answer": "Quasimodo",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome da cigana dançarina por quem Quasimodo e Phoebus se apaixonam em O Corcunda de Notre Dame?",
-    "options": ["Esmeralda", "Laverne", "Madellaine", "Djali"],
-    "answer": "Esmeralda",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Corcunda de Notre Dame, qual é o nome do juiz que é o guardião de Quasimodo e o vilão principal?",
-    "options": ["Frollo", "Phoebus", "Clopin", "Victor"],
-    "answer": "Frollo",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome da cabra de estimação de Esmeralda em O Corcunda de Notre Dame?",
-    "options": ["Djali", "Victor", "Hugo", "Laverne"],
-    "answer": "Djali",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é a principal característica de Frollo em O Corcunda de Notre Dame?",
-    "options": ["Bondade", "Justiça", "Crueldade", "Piedade"],
-    "answer": "Crueldade",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Corcunda de Notre Dame, qual é o nome do festival que acontece em Paris e revela a beleza de Quasimodo?",
-    "options": ["Festival dos Tolos", "Festival da Primavera", "Festival da Luz", "Festival de Notre Dame"],
-    "answer": "Festival dos Tolos",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Hércules, qual é o nome do pai de Hércules, o rei dos deuses?",
-    "options": ["Zeus", "Hades", "Poseidon", "Apolo"],
-    "answer": "Zeus",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do deus do submundo e vilão principal em Hércules?",
-    "options": ["Hades", "Zeus", "Poseidon", "Ares"],
-    "answer": "Hades",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Hércules, qual é o nome do sátiro que treina Hércules para ser um herói?",
-    "options": ["Philoctetes (Phil)", "Pégaso", "Hades", "Zeus"],
-    "answer": "Philoctetes (Phil)",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome da mulher por quem Hércules se apaixona em Hércules?",
-    "options": ["Megara (Meg)", "Hera", "Afrodite", "Perséfone"],
-    "answer": "Megara (Meg)",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Hércules, qual é o nome do cavalo alado de Hércules?",
-    "options": ["Pégaso", "Bucéfalo", "Centauro", "Grifo"],
-    "answer": "Pégaso",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Hércules, qual é o nome do local onde os deuses vivem?",
-    "options": ["Monte Olimpo", "Monte Parnaso", "Monte Etna", "Monte Fuji"],
-    "answer": "Monte Olimpo",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Hércules, qual é a principal música que as Musas cantam sobre a ascensão de Hércules?",
-    "options": ["De Zero a Herói", "Eu Não Direi", "Vou Vencer", "Um Mundo Ideal"],
-    "answer": "De Zero a Herói",
-    "category": "TV & Desenhos"
-  }, 
-           {
-    "question": "Em A Pequena Sereia, qual é o nome da bruxa do mar que faz um acordo com Ariel?",
-    "options": ["Úrsula", "Morgana", "Malévola", "Rainha Má"],
-    "answer": "Úrsula",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do príncipe humano por quem Ariel se apaixona em A Pequena Sereia?",
-    "options": ["Príncipe Eric", "Príncipe Felipe", "Príncipe Encantado", "Príncipe Adam"],
-    "answer": "Príncipe Eric",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em A Pequena Sereia, qual é o nome do peixe que é o melhor amigo de Ariel?",
-    "options": ["Linguado", "Sebastião", "Sabichão", "Max"],
-    "answer": "Linguado",
-    "category": "TV & Desenhos"
-  },
-
-  {
-    "question": "Em A Pequena Sereia, qual é o nome do pai de Ariel, o rei dos sete mares?",
-    "options": ["Rei Tritão", "Rei Netuno", "Rei Poseidon", "Rei Atlântico"],
-    "answer": "Rei Tritão",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em A Pequena Sereia, o que Ariel dá a Úrsula em troca de pernas humanas?",
-    "options": ["Sua cauda", "Sua voz", "Sua coroa", "Seu tridente"],
-    "answer": "Sua voz",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do objeto mágico que o Rei Tritão usa para controlar o mar em A Pequena Sereia?",
-    "options": ["Tridente", "Vara Mágica", "Cajado Real", "Coroa do Mar"],
-    "answer": "Tridente",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o principal obstáculo que Ariel enfrenta para conquistar o amor de Eric em A Pequena Sereia?",
-    "options": ["Sua família", "Sua voz", "Seu passado", "Sua aparência"],
-    "answer": "Sua voz",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Aladdin, qual é o nome do macaco de estimação de Aladdin?",
-    "options": ["Abu", "Iago", "Rajah", "Sultan"],
-    "answer": "Abu",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Aladdin, qual é o nome do vilão principal que busca o poder da lâmpada?",
-    "options": ["Jafar", "Gênio", "Sultão", "Iago"],
-    "answer": "Jafar",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome da princesa por quem Aladdin se apaixona em Aladdin?",
-    "options": ["Jasmine", "Mulan", "Pocahontas", "Bela"],
-    "answer": "Jasmine",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Aladdin, qual é o nome do papagaio de Jafar que o ajuda em seus planos malignos?",
-    "options": ["Iago", "Abu", "Rajah", "Gênio"],
-    "answer": "Iago",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do pai de Jasmine, o governante de Agrabah em Aladdin?",
-    "options": ["Sultão", "Jafar", "Aladdin", "Gênio"],
-    "answer": "Sultão",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome da cidade onde Aladdin mora em Aladdin?",
-    "options": ["Agrabah", "Bagdá", "Cairo", "Persia"],
-    "answer": "Agrabah",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é a principal música cantada por Aladdin e Jasmine no Tapete Mágico em Aladdin?",
-    "options": ["Um Mundo Ideal", "Amigo Estou Aqui", "Príncipe Ali", "Nunca Tive um Amigo Assim"],
-    "answer": "Um Mundo Ideal",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Rei Leão, qual é o nome do pai de Simba, o rei da Pedra do Reino?",
-    "options": ["Mufasa", "Scar", "Timão", "Pumba"],
-    "answer": "Mufasa",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do tio de Simba, o vilão que planeja tomar o trono em O Rei Leão?",
-    "options": ["Scar", "Mufasa", "Timão", "Pumba"],
-    "answer": "Scar",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Rei Leão, qual é o nome do suricato que se torna amigo de Simba no exílio?",
-    "options": ["Timão", "Pumba", "Zazu", "Rafiki"],
-    "answer": "Timão",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do javali que se torna amigo de Simba no exílio em O Rei Leão?",
-    "options": ["Pumba", "Timão", "Zazu", "Rafiki"],
-    "answer": "Pumba",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Rei Leão, qual é a frase filosófica que Timão e Pumba ensinam a Simba?",
-    "options": ["Hakuna Matata", "Ciclo da Vida", "Nós Somos Um", "Até o Fim"],
-    "answer": "Hakuna Matata",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do mandril sábio que serve como conselheiro e xamã em O Rei Leão?",
-    "options": ["Rafiki", "Zazu", "Timão", "Pumba"],
-    "answer": "Rafiki",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Rei Leão, qual é o nome da leoa que é amiga de infância de Simba e o reencontra adulto?",
-    "options": ["Nala", "Sarabi", "Sarafina", "Kiara"],
-    "answer": "Nala",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do calau que serve como mordomo e conselheiro real em O Rei Leão?",
-    "options": ["Zazu", "Rafiki", "Timão", "Pumba"],
-    "answer": "Zazu",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Rei Leão, qual é o evento trágico que leva Simba a fugir da Pedra do Reino?",
-    "options": ["Morte de Mufasa", "Ataque das hienas", "Seca na savana", "Invasão de Scar"],
-    "answer": "Morte de Mufasa",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do local onde os leões vivem e governam em O Rei Leão?",
-    "options": ["Pedra do Reino", "Terra das Sombras", "Oásis Secreto", "Vale da Paz"],
-    "answer": "Pedra do Reino",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Rei Leão, qual é a principal característica das hienas que servem a Scar?",
-    "options": ["Lealdade", "Inteligência", "Covardia", "Força"],
-    "answer": "Covardia",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome da mãe de Simba em O Rei Leão?",
-    "options": ["Sarabi", "Sarafina", "Nala", "Kiara"],
-    "answer": "Sarabi",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome da área desolada onde as hienas vivem em O Rei Leão?",
-    "options": ["Cemitério de Elefantes", "Terra das Sombras", "Vale da Morte", "Deserto Proibido"],
-    "answer": "Cemitério de Elefantes",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Rei Leão, qual é o principal objetivo de Scar ao matar Mufasa?",
-    "options": ["Vingança", "Poder", "Liberdade", "Destruição"],
-    "answer": "Poder",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Pateta o Filme, qual é o nome do filho de Pateta que ele tenta se reaproximar?",
-    "options": ["Max", "PJ", "Bobby", "Pateta Jr."],
-    "answer": "Max",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o principal evento que Max e Pateta tentam assistir em Pateta o Filme?",
-    "options": ["Show do Powerline", "Jogo de basquete", "Concurso de talentos", "Festival de música"],
-    "answer": "Show do Powerline",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Pateta o Filme, qual é o nome da garota por quem Max é apaixonado?",
-    "options": ["Roxanne", "Stacey", "Lisa", "Mona"],
-    "answer": "Roxanne",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do melhor amigo de Max em Pateta o Filme, filho de Pete?",
-    "options": ["PJ", "Bobby", "Chad", "Brad"],
-    "answer": "PJ",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o principal motivo da viagem de Pateta e Max em Pateta o Filme?",
-    "options": ["Férias", "Pesca", "Visitar parentes", "Aventura"],
-    "answer": "Pesca",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Pateta o Filme, qual é o nome do famoso cantor que Max idolatra?",
-    "options": ["Powerline", "Goof Troop", "Rock Star", "Pop Idol"],
-    "answer": "Powerline",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é a principal mentira que Max conta a Roxanne em Pateta o Filme?",
-    "options": ["Que ele é rico", "Que ele vai ao show", "Que ele tem carro", "Que ele é popular"],
-    "answer": "Que ele vai ao show",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Pateta o Filme, qual é o nome do amigo de Max que é um DJ e um tanto descolado?",
-    "options": ["Bobby Zimuruski", "PJ", "Chad", "Brad"],
-    "answer": "Bobby Zimuruski",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o principal meio de transporte que Pateta e Max usam na viagem em Pateta o Filme?",
-    "options": ["Carro", "Ônibus", "Trem", "Avião"],
-    "answer": "Carro",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Pateta o Filme, qual é o nome do lago onde Pateta planeja pescar o 'Peixe Lendário'?",
-    "options": ["Lago Destino", "Lago Big Foot", "Lago Escondido", "Lago da Floresta"],
-    "answer": "Lago Destino",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é a principal lição que Pateta tenta ensinar a Max em Pateta o Filme?",
-    "options": ["Ser responsável", "Ser honesto", "Aproveitar a vida", "Valorizar a família"],
-    "answer": "Valorizar a família",
-    "category": "TV & Desenhos"
-  },
-         {
-    "question": "Qual é a principal característica de Gourry Gabriev em Slayers, além de sua habilidade com a espada?",
-    "options": ["Inteligência", "Força bruta", "Ingenuidade", "Astúcia"],
-    "answer": "Ingenuidade",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é a principal arma de Gourry Gabriev em Slayers?",
-    "options": ["Espada de Luz", "Espada Negra", "Espada Demoníaca", "Espada Encantada"],
-    "answer": "Espada de Luz",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do padre e Lorde Demônio que é um dos principais antagonistas em Slayers?",
-    "options": ["Rezo", "Xellos", "Gaav", "Shabranigdu"],
-    "answer": "Rezo",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Slayers, qual é o nome do artefato mágico que Lina Inverse carrega e amplifica seus feitiços?",
-    "options": ["Pedra de Slayers", "Amuleto Mágico", "Orbe de Poder", "Joia Espiritual"],
-    "answer": "Pedra de Slayers",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é a principal paixão de Lina Inverse em Slayers, além de lutar contra o mal?",
-    "options": ["Comida", "Dinheiro", "Aventura", "Poder"],
-    "answer": "Dinheiro",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Chobits, qual é o nome da Persocom que Hideki Motosuwa encontra jogada no lixo?",
-    "options": ["Chii", "Freya", "Elda", "Yumi"],
-    "answer": "Chii",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Chobits, qual é o nome do amigo de Hideki que é um gênio em computadores e o ajuda com Chii?",
-    "options": ["Minoru Kokubunji", "Hiromu Shinbo", "Kojima", "Ueda"],
-    "answer": "Minoru Kokubunji",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Chobits, qual é o nome da Persocom que Minoru Kokubunji possui e que é muito pequena?",
-    "options": ["Sumomo", "Kotoko", "Yumi", "Freya"],
-    "answer": "Sumomo",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é a principal pergunta que Chii faz constantemente em Chobits?",
-    "options": ["O que sou eu?", "O que é amor?", "O que é um Persocom?", "O que é o mundo?"],
-    "answer": "O que é amor?",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é a principal preocupação de Hideki em relação a Chii em Chobits?",
-    "options": ["Sua inteligência", "Sua segurança", "Seu passado", "Seu futuro"],
-    "answer": "Sua segurança",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Chobits, qual é o nome da Persocom que é uma detetive e ajuda Minoru a investigar Chii?",
-    "options": ["Kotoko", "Sumomo", "Freya", "Yumi"],
-    "answer": "Kotoko",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Mogli, qual é o nome do urso que se torna amigo e mentor de Mogli na selva?",
-    "options": ["Baloo", "Bagheera", "Shere Khan", "Kaa"],
-    "answer": "Baloo",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome da pantera negra que encontra Mogli e o leva para a alcateia em Mogli?",
-    "options": ["Bagheera", "Baloo", "Shere Khan", "Kaa"],
-    "answer": "Bagheera",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Mogli, qual é o nome do tigre que é o principal antagonista e caça Mogli?",
-    "options": ["Shere Khan", "Kaa", "King Louie", "Akela"],
-    "answer": "Shere Khan",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é a principal música cantada por Baloo em Mogli, que fala sobre a vida despreocupada?",
-    "options": ["Somente o Necessário", "Eu Quero Ser Como Você", "Marcha dos Elefantes", "Confia em Mim"],
-    "answer": "Somente o Necessário",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em A Pequena Sereia, qual é o nome da princesa sereia que sonha em ser humana?",
-    "options": ["Ariel", "Melody", "Attina", "Vanessa"],
-    "answer": "Ariel",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do caranguejo conselheiro do Rei Tritão em A Pequena Sereia?",
-    "options": ["Sebastião", "Linguado", "Sabichão", "Max"],
-    "answer": "Sebastião",
-    "category": "TV & Desenhos"
-  }, 
-         {
-    "question": "Em Serial Experiments Lain, qual é o nome do protocolo de comunicação que é a base do Wired?",
-    "options": ["Protocolo 7", "Protocolo Zero", "Protocolo Alfa", "Protocolo Beta"],
-    "answer": "Protocolo 7",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Serial Experiments Lain, qual é o nome do dispositivo que Lain usa para se conectar ao Wired?",
-    "options": ["NaVi", "CompuCom", "CyberLink", "WiredLink"],
-    "answer": "NaVi",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o principal tema filosófico explorado em Serial Experiments Lain?",
-    "options": ["Amor e amizade", "Guerra e paz", "Realidade e identidade", "Natureza e tecnologia"],
-    "answer": "Realidade e identidade",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Serial Experiments Lain, qual é o nome do clube noturno onde Lain e Arisu frequentam?",
-    "options": ["Cyberia", "The Grid", "The Node", "The Hub"],
-    "answer": "Cyberia",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é a forma de comunicação que Lain recebe que a leva a investigar o Wired em Serial Experiments Lain?",
-    "options": ["Carta", "E-mail", "Mensagem de texto", "Chamada telefônica"],
-    "answer": "E-mail",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o principal objetivo dos Cavaleiros em Serial Experiments Lain?",
-    "options": ["Dominar o Wired", "Revelar a verdade", "Criar um novo mundo", "Controlar a humanidade"],
-    "answer": "Revelar a verdade",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Serial Experiments Lain, o que Lain descobre sobre sua própria existência no final da série?",
-    "options": ["Ela é um clone", "Ela é um programa", "Ela é uma deusa", "Ela é uma ilusão"],
-    "answer": "Ela é um programa",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Ah Megami-sama OVA, qual é o nome do jovem que acidentalmente invoca a deusa Belldandy?",
-    "options": ["Keiichi Morisato", "Tamiya", "Otaki", "Aoshima"],
-    "answer": "Keiichi Morisato",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Ah Megami-sama OVA, qual é o nome da irmã mais velha de Belldandy, conhecida por ser travessa?",
-    "options": ["Skuld", "Urd", "Peorth", "Lind"],
-    "answer": "Urd",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o principal meio de transporte de Belldandy em Ah Megami-sama OVA?",
-    "options": ["Carro voador", "Moto", "Bicicleta", "Nuvem mágica"],
-    "answer": "Moto",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é a cor do cabelo de Belldandy em Ah Megami-sama OVA?",
-    "options": ["Azul", "Loiro", "Castanho", "Preto"],
-    "answer": "Loiro",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do colega de classe de Yukino em Karekano que também é considerado perfeito?",
-    "options": ["Soichiro Arima", "Hideaki Asaba", "Takefumi Moeda", "Kazuma Ikeda"],
-    "answer": "Soichiro Arima",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome da irmã mais nova de Yukino em Karekano que a provoca constantemente?",
-    "options": ["Tsukino", "Kano", "Maho", "Sakura"],
-    "answer": "Tsukino",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Karekano, qual é o principal esporte que Soichiro Arima pratica?",
-    "options": ["Basquete", "Futebol", "Kendo", "Natação"],
-    "answer": "Kendo",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Karekano, qual é a principal preocupação de Yukino em relação à sua imagem pública?",
-    "options": ["Ser popular", "Ser inteligente", "Ser perfeita", "Ser amada"],
-    "answer": "Ser perfeita",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o principal tema abordado em Karekano sobre a vida adolescente?",
-    "options": ["Amizade", "Amor", "Aparências", "Família"],
-    "answer": "Aparências",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é a principal organização em Bucky que luta contra o Demônio Crânio?",
-    "options": ["Grande Ordem", "Guardiões dos Sonhos", "Exército da Luz", "Cavaleiros do Sonho"],
-    "answer": "Grande Ordem",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Bucky, qual é o nome da Fera Espiritual que acompanha Bucky e é sua principal aliada?",
-    "options": ["Pink", "Jibak", "Dartagnan", "Kai"],
-    "answer": "Pink",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Bucky, qual é o nome da Fera Espiritual que é um dragão e pode voar?",
-    "options": ["Jibak", "Pink", "Dartagnan", "Kai"],
-    "answer": "Jibak",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do líder da Grande Ordem em Bucky?",
-    "options": ["Mestre", "Comandante", "Grande Ancião", "Rei"],
-    "answer": "Grande Ancião",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Bucky, qual é a principal fraqueza do Demônio Crânio?",
-    "options": ["Luz", "Água", "Sonhos puros", "Fogo"],
-    "answer": "Sonhos puros",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do reino que Bucky e seus amigos devem proteger em Bucky?",
-    "options": ["Reino da Luz", "Reino dos Sonhos", "Reino da Fantasia", "Reino da Esperança"],
-    "answer": "Reino dos Sonhos",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Bucky, qual é o principal desafio que Bucky enfrenta para se tornar um verdadeiro herói?",
-    "options": ["Controlar seus poderes", "Superar seus medos", "Derrotar o Demônio", "Encontrar seu lar"],
-    "answer": "Superar seus medos",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é a raça de insetos gigantes que são os principais inimigos em El Hazard?",
-    "options": ["Bugrom", "Insectoids", "Arachnids", "Beetles"],
-    "answer": "Bugrom",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual personagem em El Hazard é a irmã mais nova de Jinnai e se junta aos Bugrom?",
-    "options": ["Nanami Jinnai", "Alielle", "Ifurita", "Rune Venus"],
-    "answer": "Nanami Jinnai",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em El Hazard, qual é o nome da arma antiga que Ifurita controla e que pode destruir mundos?",
-    "options": ["Olho de Deus", "Máquina de Destruição", "Arma Final", "Dispositivo Supremo"],
-    "answer": "Olho de Deus",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é a principal habilidade de Makoto Mizuhara em El Hazard?",
-    "options": ["Magia", "Força física", "Inteligência", "Liderança"],
-    "answer": "Inteligência",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do vilão principal em El Hazard que lidera os Bugrom?",
-    "options": ["Jinnai", "Katsuhiko", "Galus", "Ifurita"],
-    "answer": "Jinnai",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o principal objetivo de Jinnai em El Hazard?",
-    "options": ["Dominar o mundo", "Voltar para casa", "Destruir Makoto", "Proteger os Bugrom"],
-    "answer": "Dominar o mundo",
-    "category": "TV & Desenhos"
-  }, 
-         {
-    "question": "Qual o nome do arqui-inimigo de Megaman, um cientista malvado que cria robôs para dominar o mundo?",
-    "options": ["Dr. Wily", "Dr. Light", "Dr. Cossack", "Dr. X"],
-    "answer": "Dr. Wily",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Megaman, qual o nome da irmã robô de Megaman?",
-    "options": ["Roll", "Proto Woman", "Mega Woman", "Robot Girl"],
-    "answer": "Roll",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do cão robô que auxilia Megaman em suas missões?",
-    "options": ["Rush", "Beat", "Eddie", "Tango"],
-    "answer": "Rush",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Megaman, qual o nome do robô que é o protótipo de Megaman e tem um cachecol?",
-    "options": ["Protoman", "Bass", "Zero", "Duo"],
-    "answer": "Protoman",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do robô que é um robô de suporte e entrega itens para Megaman?",
-    "options": ["Eddie", "Rush", "Beat", "Tango"],
-    "answer": "Eddie",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do robô que é um robô mestre com uma tesoura gigante em Megaman?",
-    "options": ["Cut Man", "Fire Man", "Ice Man", "Guts Man"],
-    "answer": "Cut Man",
-    "category": "TV & Desenhos"
-  },
- 
-  {
-    "question": "Em Neon Genesis Evangelion, qual o nome do protagonista que pilota o Evangelion Unidade 01?",
-    "options": ["Shinji Ikari", "Rei Ayanami", "Asuka Langley", "Kaworu Nagisa"],
-    "answer": "Shinji Ikari",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome da organização militar secreta que combate os Anjos em Neon Genesis Evangelion?",
-    "options": ["NERV", "SEELE", "GEHIRN", "WILLE"],
-    "answer": "NERV",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Neon Genesis Evangelion, qual o nome da piloto do Evangelion Unidade 00, de personalidade enigmática?",
-    "options": ["Rei Ayanami", "Asuka Langley", "Misato Katsuragi", "Ritsuko Akagi"],
-    "answer": "Rei Ayanami",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome da piloto do Evangelion Unidade 02, de origem alemã e personalidade forte em Neon Genesis Evangelion?",
-    "options": ["Asuka Langley Soryu", "Rei Ayanami", "Misato Katsuragi", "Ritsuko Akagi"],
-    "answer": "Asuka Langley Soryu",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Neon Genesis Evangelion, qual o nome do pai de Shinji e comandante da NERV?",
-    "options": ["Gendo Ikari", "Kozo Fuyutsuki", "Ryoji Kaji", "Shigeru Aoba"],
-    "answer": "Gendo Ikari",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome da capitã da NERV que se torna a guardiã de Shinji em Neon Genesis Evangelion?",
-    "options": ["Misato Katsuragi", "Ritsuko Akagi", "Maya Ibuki", "Makoto Hyuga"],
-    "answer": "Misato Katsuragi",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Neon Genesis Evangelion, qual o nome do projeto secreto que busca a evolução da humanidade?",
-    "options": ["Projeto de Instrumentalidade Humana", "Projeto Evangelion", "Projeto Adam", "Projeto Lilith"],
-    "answer": "Projeto de Instrumentalidade Humana",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Neon Genesis Evangelion, qual o nome da doutora chefe do departamento científico da NERV?",
-    "options": ["Ritsuko Akagi", "Misato Katsuragi", "Maya Ibuki", "Yui Ikari"],
-    "answer": "Ritsuko Akagi",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Neon Genesis Evangelion, qual o nome do último Anjo, que é um ser humanoide?",
-    "options": ["Kaworu Nagisa", "Tabris", "Lilith", "Adam"],
-    "answer": "Kaworu Nagisa",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome da escola que os pilotos de Evangelion frequentam em Neon Genesis Evangelion?",
-    "options": ["Primeira Escola de Tóquio-3", "Escola de Pilotos", "Academia NERV", "Escola de Campo"],
-    "answer": "Primeira Escola de Tóquio-3",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome da substância líquida que preenche a cabine dos Evangelions em Neon Genesis Evangelion?",
-    "options": ["LCL", "Água Pesada", "Fluido de Sincronização", "Plasma"],
-    "answer": "LCL",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Detonator Orgun, qual o nome do estudante que se funde com a armadura alienígena Orgun?",
-    "options": ["Tomoru Shindo", "Michi Kanzaki", "I-Mei", "Zoa"],
-    "answer": "Tomoru Shindo",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome da raça alienígena que ataca a Terra em Detonator Orgun?",
-    "options": ["Zoa", "Xenomorphs", "Cylons", "Borg"],
-    "answer": "Zoa",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Detonator Orgun, qual o nome da cientista que estuda a armadura Orgun e ajuda Tomoru?",
-    "options": ["Michi Kanzaki", "I-Mei", "Yoko", "Sakura"],
-    "answer": "Michi Kanzaki",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome da criatura branca e fofa que acompanha Hikaru, Umi e Fuu em Guerreiras Mágicas de Rayearth?",
-    "options": ["Mokona", "Pikachu", "Totoro", "Kero"],
-    "answer": "Mokona",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Guerreiras Mágicas de Rayearth, qual o nome do planeta onde a história se desenrola?",
-    "options": ["Cephiro", "Earth", "Magic World", "Fantasia"],
-    "answer": "Cephiro",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do Guru que invoca as Guerreiras Mágicas para Cephiro em Guerreiras Mágicas de Rayearth?",
-    "options": ["Guru Clef", "Mestre Mage", "Mago Supremo", "Ancião Mágico"],
-    "answer": "Guru Clef",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Samurai Warriors, qual é o nome da jovem que ajuda os guerreiros e possui conhecimentos místicos?",
-    "options": ["Mia Koji", "Yulia", "Akane", "Hikari"],
-    "answer": "Mia Koji",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Para onde os guerreiros de Samurai Warriors são transportados no início da série?",
-    "options": ["Dimensão Espiritual", "Mundo Humano", "Reino Demoníaco", "Cidade de Tóquio"],
-    "answer": "Cidade de Tóquio",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual dos Deuses Shura em Shurato é conhecido como o Rei Leão e possui grande força?",
-    "options": ["Hyouga", "Ryoma", "Reiga", "Dan"],
-    "answer": "Ryoma",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual personagem em Shurato é a Deusa da Beleza e da Misericórdia, aliada de Shurato?",
-    "options": ["Lakshmi", "Renge", "Indra", "Vishnu"],
-    "answer": "Lakshmi",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Shurato, qual é o nome do vilão principal que manipula Gai e busca destruir o Tenkukai?",
-    "options": ["Indra", "Kuroki", "Shiva", "Kaiser"],
-    "answer": "Indra",
-    "category": "TV & Desenhos"
-  },
-
-
-  {
-    "question": "Qual personagem em Shurato é um dos Quatro Reis Guardiões e um grande estrategista?",
-    "options": ["Dan", "Reiga", "Hyouga", "Ryoma"],
-    "answer": "Dan",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Shurato, qual é a arma principal de Gai Kuroki antes de ser possuído por Indra?",
-    "options": ["Espada Negra", "Lança do Trovão", "Punho de Ferro", "Cajado Místico"],
-    "answer": "Espada Negra",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é a relação entre Shurato e Gai em Shurato antes de serem transportados?",
-    "options": ["Irmãos", "Rivais", "Amigos", "Mestres"],
-    "answer": "Amigos",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Shurato, qual é o nome da técnica que permite aos Deuses Shura invocar suas armaduras?",
-    "options": ["Shakti", "Veda", "Soma", "Mandala"],
-    "answer": "Shakti",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual dos Deuses Shura em Shurato é o Rei do Fogo e um guerreiro impetuoso?",
-    "options": ["Ryoma", "Dan", "Hyouga", "Reiga"],
-    "answer": "Ryoma",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Serial Experiments Lain, qual é o nome da rede de comunicação global que Lain explora?",
-    "options": ["A Teia", "A Conexão", "O Wired", "A Matriz"],
-    "answer": "O Wired",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é a principal característica da personalidade de Lain Iwakura no início de Serial Experiments Lain?",
-    "options": ["Extrovertida", "Rebelde", "Tímida", "Curiosa"],
-    "answer": "Tímida",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Serial Experiments Lain, qual grupo busca a liberdade total no Wired e desafia a realidade física?",
-    "options": ["Os Observadores", "Os Conectados", "Os Cavaleiros", "Os Despertos"],
-    "answer": "Os Cavaleiros",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome da amiga de Lain em Serial Experiments Lain que tenta ajudá-la a se socializar?",
-    "options": ["Arisu Mizuki", "Mika Iwakura", "Reika", "Chisa Yomoda"],
-    "answer": "Arisu Mizuki",
-    "category": "TV & Desenhos"
-  },
-        {
-    "question": "Em Video Girl Ai, qual o nome do protagonista que se apaixona por uma garota que sai da TV?",
-    "options": ["Yota Moteuchi", "Takashi", "Hiroshi", "Kenji"],
-    "answer": "Yota Moteuchi",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome da Video Girl que aparece para ajudar Yota em Video Girl Ai?",
-    "options": ["Ai Amano", "Moe", "Natsumi", "Yumiko"],
-    "answer": "Ai Amano",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Video Girl Ai, qual o nome da loja de vídeos onde Yota aluga a fita que invoca Ai?",
-    "options": ["Gokuraku", "Paradise", "Heaven", "Dreamland"],
-    "answer": "Gokuraku",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Video Girl Ai, qual o nome da garota por quem Yota é originalmente apaixonado?",
-    "options": ["Moemi Hayakawa", "Natsumi", "Moe", "Yumiko"],
-    "answer": "Moemi Hayakawa",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o problema que Ai Amano tem ao sair da TV em Video Girl Ai, devido a um videocassete com defeito?",
-    "options": ["Personalidade distorcida", "Amnésia", "Perda de poderes", "Falta de energia"],
-    "answer": "Personalidade distorcida",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome da viajante do tempo enviada para mudar o futuro de Junta em DNA²?",
-    "options": ["Karin Aoi", "Ami Kurimoto", "Megumi", "Kotomi"],
-    "answer": "Karin Aoi",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o objeto que Karin Aoi usa para viajar no tempo em DNA²?",
-    "options": ["Uma arma", "Um relógio", "Um carro", "Uma nave"],
-    "answer": "Uma arma",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Yu Yu Hakusho, qual o nome da técnica de Yusuke Urameshi que concentra energia espiritual no dedo?",
-    "options": ["Leigan", "Rei-Ken", "Shotgun", "Spirit Gun"],
-    "answer": "Leigan",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do demônio raposa que se transforma em humano e é um dos aliados de Yusuke em Yu Yu Hakusho?",
-    "options": ["Kurama", "Hiei", "Kuwabara", "Genkai"],
-    "answer": "Kurama",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Yu Yu Hakusho, qual o nome do demônio de fogo que tem um terceiro olho e é um dos aliados de Yusuke?",
-    "options": ["Hiei", "Kurama", "Kuwabara", "Genkai"],
-    "answer": "Hiei",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do melhor amigo de Yusuke, que também é um delinquente e tem uma espada espiritual em Yu Yu Hakusho?",
-    "options": ["Kazuma Kuwabara", "Hiei", "Kurama", "Genkai"],
-    "answer": "Kazuma Kuwabara",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Yu Yu Hakusho, qual o nome do torneio de luta organizado por Toguro e Toguro Ani?",
-    "options": ["Torneio das Trevas", "Torneio Mundial", "Torneio Espiritual", "Torneio dos Demônios"],
-    "answer": "Torneio das Trevas",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome da mestra de Yusuke, que o treina em técnicas espirituais em Yu Yu Hakusho?",
-    "options": ["Genkai", "Botan", "Koenma", "Yukina"],
-    "answer": "Genkai",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Yu Yu Hakusho, qual o nome do filho do Rei Enma que é o chefe do Mundo Espiritual?",
-    "options": ["Koenma", "Enma", "Yusuke", "Botan"],
-    "answer": "Koenma",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome da guia do Mundo Espiritual que leva Yusuke de volta à vida em Yu Yu Hakusho?",
-    "options": ["Botan", "Yukina", "Keiko", "Shizuru"],
-    "answer": "Botan",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Yu Yu Hakusho, qual o nome da namorada de Yusuke?",
-    "options": ["Keiko Yukimura", "Yukina", "Shizuru", "Botan"],
-    "answer": "Keiko Yukimura",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do irmão de Hiei em Yu Yu Hakusho?",
-    "options": ["Yukina", "Mukuro", "Yomi", "Raizen"],
-    "answer": "Yukina",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome da organização criminosa liderada por M. Bison em Street Fighter II V?",
-    "options": ["Shadaloo", "Red Shadow", "Black Hand", "Crimson Guard"],
-    "answer": "Shadaloo",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Street Fighter II V, qual o nome da técnica de energia de Ryu?",
-    "options": ["Hadouken", "Shoryuken", "Tatsumaki Senpukyaku", "Shinku Hadouken"],
-    "answer": "Hadouken",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do lutador tailandês que é um ex-campeão de Muay Thai e tem uma cicatriz no peito em Street Fighter II V?",
-    "options": ["Sagat", "Adon", "Fei Long", "Dee Jay"],
-    "answer": "Sagat",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Dragon Ball, qual o nome da nuvem voadora que apenas pessoas de coração puro podem usar?",
-    "options": ["Nuvem Voadora", "Nuvem Mágica", "Nuvem Dourada", "Nuvem Kinto"],
-    "answer": "Nuvem Voadora",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do porco que pode se transformar em qualquer coisa e é um dos primeiros companheiros de Goku em Dragon Ball?",
-    "options": ["Oolong", "Puar", "Yamcha", "Mestre Kame"],
-    "answer": "Oolong",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Dragon Ball, qual o nome da garota que encontra Goku e o convida para procurar as Esferas do Dragão?",
-    "options": ["Bulma", "Chi-Chi", "Launch", "Videl"],
-    "answer": "Bulma",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do mestre de artes marciais que ensina o Kamehameha a Goku em Dragon Ball?",
-    "options": ["Mestre Kame", "Mestre Karin", "Senhor Popo", "Kami-Sama"],
-    "answer": "Mestre Kame",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Dragon Ball, qual o nome do deserto onde Goku e Bulma encontram Yamcha pela primeira vez?",
-    "options": ["Deserto do Diabo", "Deserto da Morte", "Deserto da Areia", "Deserto Vermelho"],
-    "answer": "Deserto do Diabo",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Dragon Ball, qual o nome do exército que busca as Esferas do Dragão para dominar o mundo?",
-    "options": ["Exército Red Ribbon", "Exército Negro", "Exército Maligno", "Exército do Diabo"],
-    "answer": "Exército Red Ribbon",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do inimigo que é um demônio e é o pai de Piccolo Jr. em Dragon Ball?",
-    "options": ["Rei Piccolo Daimaoh", "Freeza", "Cell", "Majin Boo"],
-    "answer": "Rei Piccolo Daimaoh",
-    "category": "TV & Desenhos"
-  },
-
-  {
-    "question": "Em Dragon Ball, qual o nome do torneio de artes marciais mais famoso?",
-    "options": ["Torneio de Artes Marciais", "Torneio do Poder", "Torneio Mundial", "Torneio da Força"],
-    "answer": "Torneio de Artes Marciais",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do vilão que é um imperador e busca as Esferas do Dragão para ser imortal em Dragon Ball?",
-    "options": ["Pilaf", "Tao Pai Pai", "General Blue", "Comandante Red"],
-    "answer": "Pilaf",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Megaman, qual o nome do cientista que criou Megaman e Roll?",
-    "options": ["Dr. Light", "Dr. Wily", "Dr. Cossack", "Dr. X"],
-    "answer": "Dr. Light",
-    "category": "TV & Desenhos"
-  },
-      {
-    "question": "Em O Fantástico Mundo de Bobby, qual o nome do amigo imaginário que sempre acompanha Bobby em suas aventuras?",
-    "options": ["Capitão Squash", "Urso Fluffy", "Pato Quack", "Tio Ted"],
-    "answer": "Capitão Squash",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "No Fantástico Mundo de Bobby, qual é o nome do cachorro da família Generic?",
-    "options": ["Roger", "Linguiça", "Pintado", "Trovão"],
-    "answer": "Roger",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Fantástico Mundo de Bobby, qual o nome da irmã mais velha de Bobby que o provoca constantemente?",
-    "options": ["Kelly", "Sarah", "Susan", "Emily"],
-    "answer": "Kelly",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do tio de Bobby, que narra as histórias e frequentemente interage com ele em O Fantástico Mundo de Bobby?",
-    "options": ["Tio Ted", "Tio Bob", "Tio Frank", "Tio John"],
-    "answer": "Tio Ted",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Fantástico Mundo de Bobby, qual o nome da mãe de Bobby?",
-    "options": ["Martha", "Susan", "Alice", "Betty"],
-    "answer": "Martha",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Fantástico Mundo de Bobby, qual o nome do pai de Bobby, que muitas vezes é o alvo de suas fantasias?",
-    "options": ["Howard", "Peter", "Charles", "Robert"],
-    "answer": "Howard",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Fantástico Mundo de Bobby, qual o nome da vizinha de Bobby que é sua amiga e às vezes o acompanha em suas aventuras imaginárias?",
-    "options": ["Jackie", "Brenda", "Melissa", "Cathy"],
-    "answer": "Jackie",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Cadillacs e Dinossauros, qual o nome do protagonista que é mecânico e aventureiro?",
-    "options": ["Jack Tenrec", "Mustapha Cairo", "Hannah Dundee", "Mess O'Bradovich"],
-    "answer": "Jack Tenrec",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "No mundo de Cadillacs e Dinossauros, qual o nome da cientista e diplomata que acompanha Jack?",
-    "options": ["Hannah Dundee", "Grace Hopper", "Eliza Thornberry", "Sarah Connor"],
-    "answer": "Hannah Dundee",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o tipo de veículo modificado que Jack Tenrec utiliza para se locomover em Cadillacs e Dinossauros?",
-    "options": ["Um Cadillac", "Um Jeep", "Uma motocicleta", "Um tanque"],
-    "answer": "Um Cadillac",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do dinossauro de estimação de Jack em Cadillacs e Dinossauros?",
-    "options": ["Hermes", "Rex", "Chomp", "Comet"],
-    "answer": "Hermes",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Cadillacs e Dinossauros, qual o nome da organização que tenta preservar a vida selvagem e os dinossauros?",
-    "options": ["Os Salvadores", "Os Protetores", "Os Guardiões", "Os Preservacionistas"],
-    "answer": "Os Salvadores",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "No desenho Pica Pau, qual o nome do abutre que é um dos principais rivais do Pica Pau?",
-    "options": ["Zeca Urubu", "Abutre Voador", "Corvo Negro", "Pardal Zangado"],
-    "answer": "Zeca Urubu",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Os Gárgulas, qual o nome do líder do clã de gárgulas que desperta em Nova York?",
-    "options": ["Goliath", "Lexington", "Broadway", "Brooklyn"],
-    "answer": "Goliath",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do castelo onde os gárgulas viviam originalmente antes de serem amaldiçoados em Os Gárgulas?",
-    "options": ["Castelo Wyvern", "Castelo Darkmoor", "Castelo Blackwood", "Castelo Stonehaven"],
-    "answer": "Castelo Wyvern",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Os Gárgulas, qual o nome do bilionário que compra o castelo e o transporta para Nova York, despertando os gárgulas?",
-    "options": ["David Xanatos", "Lex Luthor", "Bruce Wayne", "Tony Stark"],
-    "answer": "David Xanatos",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Dragon Ball Z, qual o nome do ataque de energia mais famoso de Goku?",
-    "options": ["Kamehameha", "Final Flash", "Masenko", "Galick Gun"],
-    "answer": "Kamehameha",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Dragon Ball Z, qual o nome da técnica que Goku aprende com o Senhor Kaioh e aumenta seu poder por um curto período?",
-    "options": ["Kaioh-ken", "Genki Dama", "Teletransporte", "Super Saiyajin"],
-    "answer": "Kaioh-ken",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome da forma final de Cell em Dragon Ball Z, após absorver os Androides 17 e 18?",
-    "options": ["Cell Perfeito", "Cell Imperfeito", "Cell Semi-Perfeito", "Cell Júnior"],
-    "answer": "Cell Perfeito",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Dragon Ball Z, qual o nome do filho mais velho de Goku?",
-    "options": ["Gohan", "Goten", "Trunks", "Pan"],
-    "answer": "Gohan",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome da fusão entre Goku e Vegeta usando os brincos Potara em Dragon Ball Z?",
-    "options": ["Vegetto", "Gogeta", "Gotenks", "Piccolo"],
-    "answer": "Vegetto",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Dragon Ball Z, qual o nome do irmão mais velho de Goku que chega à Terra no início da série?",
-    "options": ["Raditz", "Nappa", "Vegeta", "Bardock"],
-    "answer": "Raditz",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do planeta onde a batalha contra Freeza ocorre em Dragon Ball Z?",
-    "options": ["Namekusei", "Vegeta", "Terra", "Kaioh"],
-    "answer": "Namekusei",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do treinador de Gohan que o ajuda a se tornar mais forte em Dragon Ball Z?",
-    "options": ["Piccolo", "Goku", "Vegeta", "Mestre Kame"],
-    "answer": "Piccolo",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Dragon Ball Z, qual o nome da esposa de Goku?",
-    "options": ["Chi-Chi", "Bulma", "Videl", "Android 18"],
-    "answer": "Chi-Chi",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do vilão que é um demônio rosa e tem várias formas em Dragon Ball Z?",
-    "options": ["Majin Boo", "Dabura", "Babidi", "Cell"],
-    "answer": "Majin Boo",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Serviço de Entregas da Kiki, qual o nome do gato preto que é o companheiro inseparável de Kiki?",
-    "options": ["Jiji", "Luna", "Artemis", "Salem"],
-    "answer": "Jiji",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o meio de transporte principal que Kiki usa para suas entregas em O Serviço de Entregas da Kiki?",
-    "options": ["Uma vassoura", "Um carro voador", "Uma bicicleta", "Um balão"],
-    "answer": "Uma vassoura",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Serviço de Entregas da Kiki, qual o problema que Kiki enfrenta ao longo da história, relacionado à sua magia?",
-    "options": ["Perda de poderes", "Medo de voar", "Falta de clientes", "Brigas com Jiji"],
-    "answer": "Perda de poderes",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Bastard!!, qual o nome do poderoso mago negro selado no corpo de Luche Renren?",
-    "options": ["Dark Schneider", "Gara", "Abigail", "Kall-Su"],
-    "answer": "Dark Schneider",
-    "category": "TV & Desenhos"
-  },
+    {
+        "question": "Qual é o nome do monstro de várias cabeças que Hércules enfrenta em Hércules?",
+        "options": [
+            "Hidra",
+            "Cérbero",
+            "Medusa",
+            "Minotauro"
+        ],
+        "answer": "Hidra",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Vida de Inseto, qual é o nome da formiga inventora que é um pouco desajeitada?",
+        "options": [
+            "Flik",
+            "Atta",
+            "Dot",
+            "Hopper"
+        ],
+        "answer": "Flik",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do gafanhoto líder que oprime as formigas em Vida de Inseto?",
+        "options": [
+            "Hopper",
+            "Molt",
+            "Thumper",
+            "Axel"
+        ],
+        "answer": "Hopper",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome da formiga mais jovem e otimista, irmã de Atta, em Vida de Inseto?",
+        "options": [
+            "Dot",
+            "Atta",
+            "Flik",
+            "Rainha"
+        ],
+        "answer": "Dot",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Vida de Inseto, qual é o nome da joaninha macho que é confundida com fêmea?",
+        "options": [
+            "Francis",
+            "Heimlich",
+            "Slim",
+            "Dim"
+        ],
+        "answer": "Francis",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome da lagarta que sonha em ser borboleta e adora comer em Vida de Inseto?",
+        "options": [
+            "Heimlich",
+            "Francis",
+            "Slim",
+            "Dim"
+        ],
+        "answer": "Heimlich",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Vida de Inseto, qual é o principal plano de Flik para se livrar dos gafanhotos?",
+        "options": [
+            "Construir uma arma",
+            "Recrutar ajuda",
+            "Fugir",
+            "Esconder comida"
+        ],
+        "answer": "Recrutar ajuda",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Vida de Inseto, qual é o principal medo de Hopper em relação às formigas?",
+        "options": [
+            "Que elas o ataquem",
+            "Que elas se rebelem",
+            "Que elas fujam",
+            "Que elas o ignorem"
+        ],
+        "answer": "Que elas se rebelem",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Vida de Inseto, qual é o principal objetivo dos gafanhotos ao visitar a colônia de formigas?",
+        "options": [
+            "Fazer amigos",
+            "Pegar comida",
+            "Invadir o local",
+            "Ajudar as formigas"
+        ],
+        "answer": "Pegar comida",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Rei Leão 2, qual é o nome da filha de Simba e Nala?",
+        "options": [
+            "Kiara",
+            "Vitani",
+            "Zira",
+            "Sarabi"
+        ],
+        "answer": "Kiara",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do leão exilado por quem Kiara se apaixona em O Rei Leão 2?",
+        "options": [
+            "Kovu",
+            "Nuka",
+            "Scar",
+            "Zira"
+        ],
+        "answer": "Kovu",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Rei Leão 2, qual é o nome da mãe de Kovu, líder dos Exilados?",
+        "options": [
+            "Zira",
+            "Vitani",
+            "Nuka",
+            "Kiara"
+        ],
+        "answer": "Zira",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Rei Leão 2, qual é o principal objetivo de Zira?",
+        "options": [
+            "Vingança",
+            "Paz",
+            "Amor",
+            "Poder"
+        ],
+        "answer": "Vingança",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome da música que Simba canta para Kiara sobre a união e o legado em O Rei Leão 2?",
+        "options": [
+            "Nós Somos Um",
+            "O Amor Nos Guiará",
+            "Meu Mundo",
+            "Até o Fim"
+        ],
+        "answer": "Nós Somos Um",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Rei Leão 2, qual é o principal obstáculo para a união das duas alcateias?",
+        "options": [
+            "O ódio de Zira",
+            "A desconfiança de Simba",
+            "O passado de Kovu",
+            "A rivalidade de Nuka"
+        ],
+        "answer": "O ódio de Zira",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Rei Leão 2, qual é o principal evento que une Kiara e Kovu em sua infância?",
+        "options": [
+            "Uma tempestade",
+            "Um ataque de hienas",
+            "Uma fuga",
+            "Um incêndio"
+        ],
+        "answer": "Um incêndio",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Rei Leão 2, qual é o principal tema que a história explora sobre o futuro?",
+        "options": [
+            "Vingança",
+            "Perdão",
+            "Poder",
+            "Destino"
+        ],
+        "answer": "Perdão",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Tarzan, qual é o nome do gorila macho que adota Tarzan quando bebê?",
+        "options": [
+            "Kerchak",
+            "Kala",
+            "Terk",
+            "Sabor"
+        ],
+        "answer": "Kerchak",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome da gorila fêmea que encontra Tarzan e o cria como seu filho em Tarzan?",
+        "options": [
+            "Kala",
+            "Terk",
+            "Jane",
+            "Rosie"
+        ],
+        "answer": "Kala",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Tarzan, qual é o nome da jovem exploradora inglesa por quem Tarzan se apaixona?",
+        "options": [
+            "Jane Porter",
+            "Alice",
+            "Mary",
+            "Elizabeth"
+        ],
+        "answer": "Jane Porter",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do vilão principal em Tarzan, um caçador ganancioso?",
+        "options": [
+            "Clayton",
+            "Professor Porter",
+            "Kerchak",
+            "Sabor"
+        ],
+        "answer": "Clayton",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Tarzan, qual é o nome da gorila fêmea que é a melhor amiga de Tarzan e o ajuda?",
+        "options": [
+            "Terk",
+            "Kala",
+            "Jane",
+            "Rosie"
+        ],
+        "answer": "Terk",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do leopardo que mata os pais biológicos de Tarzan em Tarzan?",
+        "options": [
+            "Sabor",
+            "Kerchak",
+            "Clayton",
+            "Terk"
+        ],
+        "answer": "Sabor",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Corcunda de Notre Dame, qual é o nome do sineiro deformado da catedral?",
+        "options": [
+            "Quasimodo",
+            "Frollo",
+            "Phoebus",
+            "Clopin"
+        ],
+        "answer": "Quasimodo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome da cigana dançarina por quem Quasimodo e Phoebus se apaixonam em O Corcunda de Notre Dame?",
+        "options": [
+            "Esmeralda",
+            "Laverne",
+            "Madellaine",
+            "Djali"
+        ],
+        "answer": "Esmeralda",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Corcunda de Notre Dame, qual é o nome do juiz que é o guardião de Quasimodo e o vilão principal?",
+        "options": [
+            "Frollo",
+            "Phoebus",
+            "Clopin",
+            "Victor"
+        ],
+        "answer": "Frollo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome da cabra de estimação de Esmeralda em O Corcunda de Notre Dame?",
+        "options": [
+            "Djali",
+            "Victor",
+            "Hugo",
+            "Laverne"
+        ],
+        "answer": "Djali",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é a principal característica de Frollo em O Corcunda de Notre Dame?",
+        "options": [
+            "Bondade",
+            "Justiça",
+            "Crueldade",
+            "Piedade"
+        ],
+        "answer": "Crueldade",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Corcunda de Notre Dame, qual é o nome do festival que acontece em Paris e revela a beleza de Quasimodo?",
+        "options": [
+            "Festival dos Tolos",
+            "Festival da Primavera",
+            "Festival da Luz",
+            "Festival de Notre Dame"
+        ],
+        "answer": "Festival dos Tolos",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Hércules, qual é o nome do pai de Hércules, o rei dos deuses?",
+        "options": [
+            "Zeus",
+            "Hades",
+            "Poseidon",
+            "Apolo"
+        ],
+        "answer": "Zeus",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do deus do submundo e vilão principal em Hércules?",
+        "options": [
+            "Hades",
+            "Zeus",
+            "Poseidon",
+            "Ares"
+        ],
+        "answer": "Hades",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Hércules, qual é o nome do sátiro que treina Hércules para ser um herói?",
+        "options": [
+            "Philoctetes (Phil)",
+            "Pégaso",
+            "Hades",
+            "Zeus"
+        ],
+        "answer": "Philoctetes (Phil)",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome da mulher por quem Hércules se apaixona em Hércules?",
+        "options": [
+            "Megara (Meg)",
+            "Hera",
+            "Afrodite",
+            "Perséfone"
+        ],
+        "answer": "Megara (Meg)",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Hércules, qual é o nome do cavalo alado de Hércules?",
+        "options": [
+            "Pégaso",
+            "Bucéfalo",
+            "Centauro",
+            "Grifo"
+        ],
+        "answer": "Pégaso",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Hércules, qual é o nome do local onde os deuses vivem?",
+        "options": [
+            "Monte Olimpo",
+            "Monte Parnaso",
+            "Monte Etna",
+            "Monte Fuji"
+        ],
+        "answer": "Monte Olimpo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Hércules, qual é a principal música que as Musas cantam sobre a ascensão de Hércules?",
+        "options": [
+            "De Zero a Herói",
+            "Eu Não Direi",
+            "Vou Vencer",
+            "Um Mundo Ideal"
+        ],
+        "answer": "De Zero a Herói",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em A Pequena Sereia, qual é o nome da bruxa do mar que faz um acordo com Ariel?",
+        "options": [
+            "Úrsula",
+            "Morgana",
+            "Malévola",
+            "Rainha Má"
+        ],
+        "answer": "Úrsula",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do príncipe humano por quem Ariel se apaixona em A Pequena Sereia?",
+        "options": [
+            "Príncipe Eric",
+            "Príncipe Felipe",
+            "Príncipe Encantado",
+            "Príncipe Adam"
+        ],
+        "answer": "Príncipe Eric",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em A Pequena Sereia, qual é o nome do peixe que é o melhor amigo de Ariel?",
+        "options": [
+            "Linguado",
+            "Sebastião",
+            "Sabichão",
+            "Max"
+        ],
+        "answer": "Linguado",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em A Pequena Sereia, qual é o nome do pai de Ariel, o rei dos sete mares?",
+        "options": [
+            "Rei Tritão",
+            "Rei Netuno",
+            "Rei Poseidon",
+            "Rei Atlântico"
+        ],
+        "answer": "Rei Tritão",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em A Pequena Sereia, o que Ariel dá a Úrsula em troca de pernas humanas?",
+        "options": [
+            "Sua cauda",
+            "Sua voz",
+            "Sua coroa",
+            "Seu tridente"
+        ],
+        "answer": "Sua voz",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do objeto mágico que o Rei Tritão usa para controlar o mar em A Pequena Sereia?",
+        "options": [
+            "Tridente",
+            "Vara Mágica",
+            "Cajado Real",
+            "Coroa do Mar"
+        ],
+        "answer": "Tridente",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o principal obstáculo que Ariel enfrenta para conquistar o amor de Eric em A Pequena Sereia?",
+        "options": [
+            "Sua família",
+            "Sua voz",
+            "Seu passado",
+            "Sua aparência"
+        ],
+        "answer": "Sua voz",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Aladdin, qual é o nome do macaco de estimação de Aladdin?",
+        "options": [
+            "Abu",
+            "Iago",
+            "Rajah",
+            "Sultan"
+        ],
+        "answer": "Abu",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Aladdin, qual é o nome do vilão principal que busca o poder da lâmpada?",
+        "options": [
+            "Jafar",
+            "Gênio",
+            "Sultão",
+            "Iago"
+        ],
+        "answer": "Jafar",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome da princesa por quem Aladdin se apaixona em Aladdin?",
+        "options": [
+            "Jasmine",
+            "Mulan",
+            "Pocahontas",
+            "Bela"
+        ],
+        "answer": "Jasmine",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Aladdin, qual é o nome do papagaio de Jafar que o ajuda em seus planos malignos?",
+        "options": [
+            "Iago",
+            "Abu",
+            "Rajah",
+            "Gênio"
+        ],
+        "answer": "Iago",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do pai de Jasmine, o governante de Agrabah em Aladdin?",
+        "options": [
+            "Sultão",
+            "Jafar",
+            "Aladdin",
+            "Gênio"
+        ],
+        "answer": "Sultão",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome da cidade onde Aladdin mora em Aladdin?",
+        "options": [
+            "Agrabah",
+            "Bagdá",
+            "Cairo",
+            "Persia"
+        ],
+        "answer": "Agrabah",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é a principal música cantada por Aladdin e Jasmine no Tapete Mágico em Aladdin?",
+        "options": [
+            "Um Mundo Ideal",
+            "Amigo Estou Aqui",
+            "Príncipe Ali",
+            "Nunca Tive um Amigo Assim"
+        ],
+        "answer": "Um Mundo Ideal",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Rei Leão, qual é o nome do pai de Simba, o rei da Pedra do Reino?",
+        "options": [
+            "Mufasa",
+            "Scar",
+            "Timão",
+            "Pumba"
+        ],
+        "answer": "Mufasa",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do tio de Simba, o vilão que planeja tomar o trono em O Rei Leão?",
+        "options": [
+            "Scar",
+            "Mufasa",
+            "Timão",
+            "Pumba"
+        ],
+        "answer": "Scar",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Rei Leão, qual é o nome do suricato que se torna amigo de Simba no exílio?",
+        "options": [
+            "Timão",
+            "Pumba",
+            "Zazu",
+            "Rafiki"
+        ],
+        "answer": "Timão",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do javali que se torna amigo de Simba no exílio em O Rei Leão?",
+        "options": [
+            "Pumba",
+            "Timão",
+            "Zazu",
+            "Rafiki"
+        ],
+        "answer": "Pumba",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Rei Leão, qual é a frase filosófica que Timão e Pumba ensinam a Simba?",
+        "options": [
+            "Hakuna Matata",
+            "Ciclo da Vida",
+            "Nós Somos Um",
+            "Até o Fim"
+        ],
+        "answer": "Hakuna Matata",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do mandril sábio que serve como conselheiro e xamã em O Rei Leão?",
+        "options": [
+            "Rafiki",
+            "Zazu",
+            "Timão",
+            "Pumba"
+        ],
+        "answer": "Rafiki",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Rei Leão, qual é o nome da leoa que é amiga de infância de Simba e o reencontra adulto?",
+        "options": [
+            "Nala",
+            "Sarabi",
+            "Sarafina",
+            "Kiara"
+        ],
+        "answer": "Nala",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do calau que serve como mordomo e conselheiro real em O Rei Leão?",
+        "options": [
+            "Zazu",
+            "Rafiki",
+            "Timão",
+            "Pumba"
+        ],
+        "answer": "Zazu",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Rei Leão, qual é o evento trágico que leva Simba a fugir da Pedra do Reino?",
+        "options": [
+            "Morte de Mufasa",
+            "Ataque das hienas",
+            "Seca na savana",
+            "Invasão de Scar"
+        ],
+        "answer": "Morte de Mufasa",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do local onde os leões vivem e governam em O Rei Leão?",
+        "options": [
+            "Pedra do Reino",
+            "Terra das Sombras",
+            "Oásis Secreto",
+            "Vale da Paz"
+        ],
+        "answer": "Pedra do Reino",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Rei Leão, qual é a principal característica das hienas que servem a Scar?",
+        "options": [
+            "Lealdade",
+            "Inteligência",
+            "Covardia",
+            "Força"
+        ],
+        "answer": "Covardia",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome da mãe de Simba em O Rei Leão?",
+        "options": [
+            "Sarabi",
+            "Sarafina",
+            "Nala",
+            "Kiara"
+        ],
+        "answer": "Sarabi",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome da área desolada onde as hienas vivem em O Rei Leão?",
+        "options": [
+            "Cemitério de Elefantes",
+            "Terra das Sombras",
+            "Vale da Morte",
+            "Deserto Proibido"
+        ],
+        "answer": "Cemitério de Elefantes",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Rei Leão, qual é o principal objetivo de Scar ao matar Mufasa?",
+        "options": [
+            "Vingança",
+            "Poder",
+            "Liberdade",
+            "Destruição"
+        ],
+        "answer": "Poder",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Pateta o Filme, qual é o nome do filho de Pateta que ele tenta se reaproximar?",
+        "options": [
+            "Max",
+            "PJ",
+            "Bobby",
+            "Pateta Jr."
+        ],
+        "answer": "Max",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o principal evento que Max e Pateta tentam assistir em Pateta o Filme?",
+        "options": [
+            "Show do Powerline",
+            "Jogo de basquete",
+            "Concurso de talentos",
+            "Festival de música"
+        ],
+        "answer": "Show do Powerline",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Pateta o Filme, qual é o nome da garota por quem Max é apaixonado?",
+        "options": [
+            "Roxanne",
+            "Stacey",
+            "Lisa",
+            "Mona"
+        ],
+        "answer": "Roxanne",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do melhor amigo de Max em Pateta o Filme, filho de Pete?",
+        "options": [
+            "PJ",
+            "Bobby",
+            "Chad",
+            "Brad"
+        ],
+        "answer": "PJ",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o principal motivo da viagem de Pateta e Max em Pateta o Filme?",
+        "options": [
+            "Férias",
+            "Pesca",
+            "Visitar parentes",
+            "Aventura"
+        ],
+        "answer": "Pesca",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Pateta o Filme, qual é o nome do famoso cantor que Max idolatra?",
+        "options": [
+            "Powerline",
+            "Goof Troop",
+            "Rock Star",
+            "Pop Idol"
+        ],
+        "answer": "Powerline",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é a principal mentira que Max conta a Roxanne em Pateta o Filme?",
+        "options": [
+            "Que ele é rico",
+            "Que ele vai ao show",
+            "Que ele tem carro",
+            "Que ele é popular"
+        ],
+        "answer": "Que ele vai ao show",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Pateta o Filme, qual é o nome do amigo de Max que é um DJ e um tanto descolado?",
+        "options": [
+            "Bobby Zimuruski",
+            "PJ",
+            "Chad",
+            "Brad"
+        ],
+        "answer": "Bobby Zimuruski",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o principal meio de transporte que Pateta e Max usam na viagem em Pateta o Filme?",
+        "options": [
+            "Carro",
+            "Ônibus",
+            "Trem",
+            "Avião"
+        ],
+        "answer": "Carro",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Pateta o Filme, qual é o nome do lago onde Pateta planeja pescar o 'Peixe Lendário'?",
+        "options": [
+            "Lago Destino",
+            "Lago Big Foot",
+            "Lago Escondido",
+            "Lago da Floresta"
+        ],
+        "answer": "Lago Destino",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é a principal lição que Pateta tenta ensinar a Max em Pateta o Filme?",
+        "options": [
+            "Ser responsável",
+            "Ser honesto",
+            "Aproveitar a vida",
+            "Valorizar a família"
+        ],
+        "answer": "Valorizar a família",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é a principal característica de Gourry Gabriev em Slayers, além de sua habilidade com a espada?",
+        "options": [
+            "Inteligência",
+            "Força bruta",
+            "Ingenuidade",
+            "Astúcia"
+        ],
+        "answer": "Ingenuidade",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é a principal arma de Gourry Gabriev em Slayers?",
+        "options": [
+            "Espada de Luz",
+            "Espada Negra",
+            "Espada Demoníaca",
+            "Espada Encantada"
+        ],
+        "answer": "Espada de Luz",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do padre e Lorde Demônio que é um dos principais antagonistas em Slayers?",
+        "options": [
+            "Rezo",
+            "Xellos",
+            "Gaav",
+            "Shabranigdu"
+        ],
+        "answer": "Rezo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Slayers, qual é o nome do artefato mágico que Lina Inverse carrega e amplifica seus feitiços?",
+        "options": [
+            "Pedra de Slayers",
+            "Amuleto Mágico",
+            "Orbe de Poder",
+            "Joia Espiritual"
+        ],
+        "answer": "Pedra de Slayers",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é a principal paixão de Lina Inverse em Slayers, além de lutar contra o mal?",
+        "options": [
+            "Comida",
+            "Dinheiro",
+            "Aventura",
+            "Poder"
+        ],
+        "answer": "Dinheiro",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Chobits, qual é o nome da Persocom que Hideki Motosuwa encontra jogada no lixo?",
+        "options": [
+            "Chii",
+            "Freya",
+            "Elda",
+            "Yumi"
+        ],
+        "answer": "Chii",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Chobits, qual é o nome do amigo de Hideki que é um gênio em computadores e o ajuda com Chii?",
+        "options": [
+            "Minoru Kokubunji",
+            "Hiromu Shinbo",
+            "Kojima",
+            "Ueda"
+        ],
+        "answer": "Minoru Kokubunji",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Chobits, qual é o nome da Persocom que Minoru Kokubunji possui e que é muito pequena?",
+        "options": [
+            "Sumomo",
+            "Kotoko",
+            "Yumi",
+            "Freya"
+        ],
+        "answer": "Sumomo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é a principal pergunta que Chii faz constantemente em Chobits?",
+        "options": [
+            "O que sou eu?",
+            "O que é amor?",
+            "O que é um Persocom?",
+            "O que é o mundo?"
+        ],
+        "answer": "O que é amor?",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é a principal preocupação de Hideki em relação a Chii em Chobits?",
+        "options": [
+            "Sua inteligência",
+            "Sua segurança",
+            "Seu passado",
+            "Seu futuro"
+        ],
+        "answer": "Sua segurança",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Chobits, qual é o nome da Persocom que é uma detetive e ajuda Minoru a investigar Chii?",
+        "options": [
+            "Kotoko",
+            "Sumomo",
+            "Freya",
+            "Yumi"
+        ],
+        "answer": "Kotoko",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Mogli, qual é o nome do urso que se torna amigo e mentor de Mogli na selva?",
+        "options": [
+            "Baloo",
+            "Bagheera",
+            "Shere Khan",
+            "Kaa"
+        ],
+        "answer": "Baloo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome da pantera negra que encontra Mogli e o leva para a alcateia em Mogli?",
+        "options": [
+            "Bagheera",
+            "Baloo",
+            "Shere Khan",
+            "Kaa"
+        ],
+        "answer": "Bagheera",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Mogli, qual é o nome do tigre que é o principal antagonista e caça Mogli?",
+        "options": [
+            "Shere Khan",
+            "Kaa",
+            "King Louie",
+            "Akela"
+        ],
+        "answer": "Shere Khan",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é a principal música cantada por Baloo em Mogli, que fala sobre a vida despreocupada?",
+        "options": [
+            "Somente o Necessário",
+            "Eu Quero Ser Como Você",
+            "Marcha dos Elefantes",
+            "Confia em Mim"
+        ],
+        "answer": "Somente o Necessário",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em A Pequena Sereia, qual é o nome da princesa sereia que sonha em ser humana?",
+        "options": [
+            "Ariel",
+            "Melody",
+            "Attina",
+            "Vanessa"
+        ],
+        "answer": "Ariel",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do caranguejo conselheiro do Rei Tritão em A Pequena Sereia?",
+        "options": [
+            "Sebastião",
+            "Linguado",
+            "Sabichão",
+            "Max"
+        ],
+        "answer": "Sebastião",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Serial Experiments Lain, qual é o nome do protocolo de comunicação que é a base do Wired?",
+        "options": [
+            "Protocolo 7",
+            "Protocolo Zero",
+            "Protocolo Alfa",
+            "Protocolo Beta"
+        ],
+        "answer": "Protocolo 7",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Serial Experiments Lain, qual é o nome do dispositivo que Lain usa para se conectar ao Wired?",
+        "options": [
+            "NaVi",
+            "CompuCom",
+            "CyberLink",
+            "WiredLink"
+        ],
+        "answer": "NaVi",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o principal tema filosófico explorado em Serial Experiments Lain?",
+        "options": [
+            "Amor e amizade",
+            "Guerra e paz",
+            "Realidade e identidade",
+            "Natureza e tecnologia"
+        ],
+        "answer": "Realidade e identidade",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Serial Experiments Lain, qual é o nome do clube noturno onde Lain e Arisu frequentam?",
+        "options": [
+            "Cyberia",
+            "The Grid",
+            "The Node",
+            "The Hub"
+        ],
+        "answer": "Cyberia",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é a forma de comunicação que Lain recebe que a leva a investigar o Wired em Serial Experiments Lain?",
+        "options": [
+            "Carta",
+            "E-mail",
+            "Mensagem de texto",
+            "Chamada telefônica"
+        ],
+        "answer": "E-mail",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o principal objetivo dos Cavaleiros em Serial Experiments Lain?",
+        "options": [
+            "Dominar o Wired",
+            "Revelar a verdade",
+            "Criar um novo mundo",
+            "Controlar a humanidade"
+        ],
+        "answer": "Revelar a verdade",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Serial Experiments Lain, o que Lain descobre sobre sua própria existência no final da série?",
+        "options": [
+            "Ela é um clone",
+            "Ela é um programa",
+            "Ela é uma deusa",
+            "Ela é uma ilusão"
+        ],
+        "answer": "Ela é um programa",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Ah Megami-sama OVA, qual é o nome do jovem que acidentalmente invoca a deusa Belldandy?",
+        "options": [
+            "Keiichi Morisato",
+            "Tamiya",
+            "Otaki",
+            "Aoshima"
+        ],
+        "answer": "Keiichi Morisato",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Ah Megami-sama OVA, qual é o nome da irmã mais velha de Belldandy, conhecida por ser travessa?",
+        "options": [
+            "Skuld",
+            "Urd",
+            "Peorth",
+            "Lind"
+        ],
+        "answer": "Urd",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o principal meio de transporte de Belldandy em Ah Megami-sama OVA?",
+        "options": [
+            "Carro voador",
+            "Moto",
+            "Bicicleta",
+            "Nuvem mágica"
+        ],
+        "answer": "Moto",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é a cor do cabelo de Belldandy em Ah Megami-sama OVA?",
+        "options": [
+            "Azul",
+            "Loiro",
+            "Castanho",
+            "Preto"
+        ],
+        "answer": "Loiro",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do colega de classe de Yukino em Karekano que também é considerado perfeito?",
+        "options": [
+            "Soichiro Arima",
+            "Hideaki Asaba",
+            "Takefumi Moeda",
+            "Kazuma Ikeda"
+        ],
+        "answer": "Soichiro Arima",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome da irmã mais nova de Yukino em Karekano que a provoca constantemente?",
+        "options": [
+            "Tsukino",
+            "Kano",
+            "Maho",
+            "Sakura"
+        ],
+        "answer": "Tsukino",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Karekano, qual é o principal esporte que Soichiro Arima pratica?",
+        "options": [
+            "Basquete",
+            "Futebol",
+            "Kendo",
+            "Natação"
+        ],
+        "answer": "Kendo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Karekano, qual é a principal preocupação de Yukino em relação à sua imagem pública?",
+        "options": [
+            "Ser popular",
+            "Ser inteligente",
+            "Ser perfeita",
+            "Ser amada"
+        ],
+        "answer": "Ser perfeita",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o principal tema abordado em Karekano sobre a vida adolescente?",
+        "options": [
+            "Amizade",
+            "Amor",
+            "Aparências",
+            "Família"
+        ],
+        "answer": "Aparências",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é a principal organização em Bucky que luta contra o Demônio Crânio?",
+        "options": [
+            "Grande Ordem",
+            "Guardiões dos Sonhos",
+            "Exército da Luz",
+            "Cavaleiros do Sonho"
+        ],
+        "answer": "Grande Ordem",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Bucky, qual é o nome da Fera Espiritual que acompanha Bucky e é sua principal aliada?",
+        "options": [
+            "Pink",
+            "Jibak",
+            "Dartagnan",
+            "Kai"
+        ],
+        "answer": "Pink",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Bucky, qual é o nome da Fera Espiritual que é um dragão e pode voar?",
+        "options": [
+            "Jibak",
+            "Pink",
+            "Dartagnan",
+            "Kai"
+        ],
+        "answer": "Jibak",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do líder da Grande Ordem em Bucky?",
+        "options": [
+            "Mestre",
+            "Comandante",
+            "Grande Ancião",
+            "Rei"
+        ],
+        "answer": "Grande Ancião",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Bucky, qual é a principal fraqueza do Demônio Crânio?",
+        "options": [
+            "Luz",
+            "Água",
+            "Sonhos puros",
+            "Fogo"
+        ],
+        "answer": "Sonhos puros",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do reino que Bucky e seus amigos devem proteger em Bucky?",
+        "options": [
+            "Reino da Luz",
+            "Reino dos Sonhos",
+            "Reino da Fantasia",
+            "Reino da Esperança"
+        ],
+        "answer": "Reino dos Sonhos",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Bucky, qual é o principal desafio que Bucky enfrenta para se tornar um verdadeiro herói?",
+        "options": [
+            "Controlar seus poderes",
+            "Superar seus medos",
+            "Derrotar o Demônio",
+            "Encontrar seu lar"
+        ],
+        "answer": "Superar seus medos",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é a raça de insetos gigantes que são os principais inimigos em El Hazard?",
+        "options": [
+            "Bugrom",
+            "Insectoids",
+            "Arachnids",
+            "Beetles"
+        ],
+        "answer": "Bugrom",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual personagem em El Hazard é a irmã mais nova de Jinnai e se junta aos Bugrom?",
+        "options": [
+            "Nanami Jinnai",
+            "Alielle",
+            "Ifurita",
+            "Rune Venus"
+        ],
+        "answer": "Nanami Jinnai",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em El Hazard, qual é o nome da arma antiga que Ifurita controla e que pode destruir mundos?",
+        "options": [
+            "Olho de Deus",
+            "Máquina de Destruição",
+            "Arma Final",
+            "Dispositivo Supremo"
+        ],
+        "answer": "Olho de Deus",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é a principal habilidade de Makoto Mizuhara em El Hazard?",
+        "options": [
+            "Magia",
+            "Força física",
+            "Inteligência",
+            "Liderança"
+        ],
+        "answer": "Inteligência",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do vilão principal em El Hazard que lidera os Bugrom?",
+        "options": [
+            "Jinnai",
+            "Katsuhiko",
+            "Galus",
+            "Ifurita"
+        ],
+        "answer": "Jinnai",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o principal objetivo de Jinnai em El Hazard?",
+        "options": [
+            "Dominar o mundo",
+            "Voltar para casa",
+            "Destruir Makoto",
+            "Proteger os Bugrom"
+        ],
+        "answer": "Dominar o mundo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do arqui-inimigo de Megaman, um cientista malvado que cria robôs para dominar o mundo?",
+        "options": [
+            "Dr. Wily",
+            "Dr. Light",
+            "Dr. Cossack",
+            "Dr. X"
+        ],
+        "answer": "Dr. Wily",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Megaman, qual o nome da irmã robô de Megaman?",
+        "options": [
+            "Roll",
+            "Proto Woman",
+            "Mega Woman",
+            "Robot Girl"
+        ],
+        "answer": "Roll",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do cão robô que auxilia Megaman em suas missões?",
+        "options": [
+            "Rush",
+            "Beat",
+            "Eddie",
+            "Tango"
+        ],
+        "answer": "Rush",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Megaman, qual o nome do robô que é o protótipo de Megaman e tem um cachecol?",
+        "options": [
+            "Protoman",
+            "Bass",
+            "Zero",
+            "Duo"
+        ],
+        "answer": "Protoman",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do robô que é um robô de suporte e entrega itens para Megaman?",
+        "options": [
+            "Eddie",
+            "Rush",
+            "Beat",
+            "Tango"
+        ],
+        "answer": "Eddie",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do robô que é um robô mestre com uma tesoura gigante em Megaman?",
+        "options": [
+            "Cut Man",
+            "Fire Man",
+            "Ice Man",
+            "Guts Man"
+        ],
+        "answer": "Cut Man",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Neon Genesis Evangelion, qual o nome do protagonista que pilota o Evangelion Unidade 01?",
+        "options": [
+            "Shinji Ikari",
+            "Rei Ayanami",
+            "Asuka Langley",
+            "Kaworu Nagisa"
+        ],
+        "answer": "Shinji Ikari",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da organização militar secreta que combate os Anjos em Neon Genesis Evangelion?",
+        "options": [
+            "NERV",
+            "SEELE",
+            "GEHIRN",
+            "WILLE"
+        ],
+        "answer": "NERV",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Neon Genesis Evangelion, qual o nome da piloto do Evangelion Unidade 00, de personalidade enigmática?",
+        "options": [
+            "Rei Ayanami",
+            "Asuka Langley",
+            "Misato Katsuragi",
+            "Ritsuko Akagi"
+        ],
+        "answer": "Rei Ayanami",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da piloto do Evangelion Unidade 02, de origem alemã e personalidade forte em Neon Genesis Evangelion?",
+        "options": [
+            "Asuka Langley Soryu",
+            "Rei Ayanami",
+            "Misato Katsuragi",
+            "Ritsuko Akagi"
+        ],
+        "answer": "Asuka Langley Soryu",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Neon Genesis Evangelion, qual o nome do pai de Shinji e comandante da NERV?",
+        "options": [
+            "Gendo Ikari",
+            "Kozo Fuyutsuki",
+            "Ryoji Kaji",
+            "Shigeru Aoba"
+        ],
+        "answer": "Gendo Ikari",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da capitã da NERV que se torna a guardiã de Shinji em Neon Genesis Evangelion?",
+        "options": [
+            "Misato Katsuragi",
+            "Ritsuko Akagi",
+            "Maya Ibuki",
+            "Makoto Hyuga"
+        ],
+        "answer": "Misato Katsuragi",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Neon Genesis Evangelion, qual o nome do projeto secreto que busca a evolução da humanidade?",
+        "options": [
+            "Projeto de Instrumentalidade Humana",
+            "Projeto Evangelion",
+            "Projeto Adam",
+            "Projeto Lilith"
+        ],
+        "answer": "Projeto de Instrumentalidade Humana",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Neon Genesis Evangelion, qual o nome da doutora chefe do departamento científico da NERV?",
+        "options": [
+            "Ritsuko Akagi",
+            "Misato Katsuragi",
+            "Maya Ibuki",
+            "Yui Ikari"
+        ],
+        "answer": "Ritsuko Akagi",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Neon Genesis Evangelion, qual o nome do último Anjo, que é um ser humanoide?",
+        "options": [
+            "Kaworu Nagisa",
+            "Tabris",
+            "Lilith",
+            "Adam"
+        ],
+        "answer": "Kaworu Nagisa",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da escola que os pilotos de Evangelion frequentam em Neon Genesis Evangelion?",
+        "options": [
+            "Primeira Escola de Tóquio-3",
+            "Escola de Pilotos",
+            "Academia NERV",
+            "Escola de Campo"
+        ],
+        "answer": "Primeira Escola de Tóquio-3",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da substância líquida que preenche a cabine dos Evangelions em Neon Genesis Evangelion?",
+        "options": [
+            "LCL",
+            "Água Pesada",
+            "Fluido de Sincronização",
+            "Plasma"
+        ],
+        "answer": "LCL",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Detonator Orgun, qual o nome do estudante que se funde com a armadura alienígena Orgun?",
+        "options": [
+            "Tomoru Shindo",
+            "Michi Kanzaki",
+            "I-Mei",
+            "Zoa"
+        ],
+        "answer": "Tomoru Shindo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da raça alienígena que ataca a Terra em Detonator Orgun?",
+        "options": [
+            "Zoa",
+            "Xenomorphs",
+            "Cylons",
+            "Borg"
+        ],
+        "answer": "Zoa",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Detonator Orgun, qual o nome da cientista que estuda a armadura Orgun e ajuda Tomoru?",
+        "options": [
+            "Michi Kanzaki",
+            "I-Mei",
+            "Yoko",
+            "Sakura"
+        ],
+        "answer": "Michi Kanzaki",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da criatura branca e fofa que acompanha Hikaru, Umi e Fuu em Guerreiras Mágicas de Rayearth?",
+        "options": [
+            "Mokona",
+            "Pikachu",
+            "Totoro",
+            "Kero"
+        ],
+        "answer": "Mokona",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Guerreiras Mágicas de Rayearth, qual o nome do planeta onde a história se desenrola?",
+        "options": [
+            "Cephiro",
+            "Earth",
+            "Magic World",
+            "Fantasia"
+        ],
+        "answer": "Cephiro",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do Guru que invoca as Guerreiras Mágicas para Cephiro em Guerreiras Mágicas de Rayearth?",
+        "options": [
+            "Guru Clef",
+            "Mestre Mage",
+            "Mago Supremo",
+            "Ancião Mágico"
+        ],
+        "answer": "Guru Clef",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Samurai Warriors, qual é o nome da jovem que ajuda os guerreiros e possui conhecimentos místicos?",
+        "options": [
+            "Mia Koji",
+            "Yulia",
+            "Akane",
+            "Hikari"
+        ],
+        "answer": "Mia Koji",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Para onde os guerreiros de Samurai Warriors são transportados no início da série?",
+        "options": [
+            "Dimensão Espiritual",
+            "Mundo Humano",
+            "Reino Demoníaco",
+            "Cidade de Tóquio"
+        ],
+        "answer": "Cidade de Tóquio",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual dos Deuses Shura em Shurato é conhecido como o Rei Leão e possui grande força?",
+        "options": [
+            "Hyouga",
+            "Ryoma",
+            "Reiga",
+            "Dan"
+        ],
+        "answer": "Ryoma",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual personagem em Shurato é a Deusa da Beleza e da Misericórdia, aliada de Shurato?",
+        "options": [
+            "Lakshmi",
+            "Renge",
+            "Indra",
+            "Vishnu"
+        ],
+        "answer": "Lakshmi",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Shurato, qual é o nome do vilão principal que manipula Gai e busca destruir o Tenkukai?",
+        "options": [
+            "Indra",
+            "Kuroki",
+            "Shiva",
+            "Kaiser"
+        ],
+        "answer": "Indra",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual personagem em Shurato é um dos Quatro Reis Guardiões e um grande estrategista?",
+        "options": [
+            "Dan",
+            "Reiga",
+            "Hyouga",
+            "Ryoma"
+        ],
+        "answer": "Dan",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Shurato, qual é a arma principal de Gai Kuroki antes de ser possuído por Indra?",
+        "options": [
+            "Espada Negra",
+            "Lança do Trovão",
+            "Punho de Ferro",
+            "Cajado Místico"
+        ],
+        "answer": "Espada Negra",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é a relação entre Shurato e Gai em Shurato antes de serem transportados?",
+        "options": [
+            "Irmãos",
+            "Rivais",
+            "Amigos",
+            "Mestres"
+        ],
+        "answer": "Amigos",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Shurato, qual é o nome da técnica que permite aos Deuses Shura invocar suas armaduras?",
+        "options": [
+            "Shakti",
+            "Veda",
+            "Soma",
+            "Mandala"
+        ],
+        "answer": "Shakti",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual dos Deuses Shura em Shurato é o Rei do Fogo e um guerreiro impetuoso?",
+        "options": [
+            "Ryoma",
+            "Dan",
+            "Hyouga",
+            "Reiga"
+        ],
+        "answer": "Ryoma",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Serial Experiments Lain, qual é o nome da rede de comunicação global que Lain explora?",
+        "options": [
+            "A Teia",
+            "A Conexão",
+            "O Wired",
+            "A Matriz"
+        ],
+        "answer": "O Wired",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é a principal característica da personalidade de Lain Iwakura no início de Serial Experiments Lain?",
+        "options": [
+            "Extrovertida",
+            "Rebelde",
+            "Tímida",
+            "Curiosa"
+        ],
+        "answer": "Tímida",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Serial Experiments Lain, qual grupo busca a liberdade total no Wired e desafia a realidade física?",
+        "options": [
+            "Os Observadores",
+            "Os Conectados",
+            "Os Cavaleiros",
+            "Os Despertos"
+        ],
+        "answer": "Os Cavaleiros",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome da amiga de Lain em Serial Experiments Lain que tenta ajudá-la a se socializar?",
+        "options": [
+            "Arisu Mizuki",
+            "Mika Iwakura",
+            "Reika",
+            "Chisa Yomoda"
+        ],
+        "answer": "Arisu Mizuki",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Video Girl Ai, qual o nome do protagonista que se apaixona por uma garota que sai da TV?",
+        "options": [
+            "Yota Moteuchi",
+            "Takashi",
+            "Hiroshi",
+            "Kenji"
+        ],
+        "answer": "Yota Moteuchi",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da Video Girl que aparece para ajudar Yota em Video Girl Ai?",
+        "options": [
+            "Ai Amano",
+            "Moe",
+            "Natsumi",
+            "Yumiko"
+        ],
+        "answer": "Ai Amano",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Video Girl Ai, qual o nome da loja de vídeos onde Yota aluga a fita que invoca Ai?",
+        "options": [
+            "Gokuraku",
+            "Paradise",
+            "Heaven",
+            "Dreamland"
+        ],
+        "answer": "Gokuraku",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Video Girl Ai, qual o nome da garota por quem Yota é originalmente apaixonado?",
+        "options": [
+            "Moemi Hayakawa",
+            "Natsumi",
+            "Moe",
+            "Yumiko"
+        ],
+        "answer": "Moemi Hayakawa",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o problema que Ai Amano tem ao sair da TV em Video Girl Ai, devido a um videocassete com defeito?",
+        "options": [
+            "Personalidade distorcida",
+            "Amnésia",
+            "Perda de poderes",
+            "Falta de energia"
+        ],
+        "answer": "Personalidade distorcida",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da viajante do tempo enviada para mudar o futuro de Junta em DNA²?",
+        "options": [
+            "Karin Aoi",
+            "Ami Kurimoto",
+            "Megumi",
+            "Kotomi"
+        ],
+        "answer": "Karin Aoi",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o objeto que Karin Aoi usa para viajar no tempo em DNA²?",
+        "options": [
+            "Uma arma",
+            "Um relógio",
+            "Um carro",
+            "Uma nave"
+        ],
+        "answer": "Uma arma",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Yu Yu Hakusho, qual o nome da técnica de Yusuke Urameshi que concentra energia espiritual no dedo?",
+        "options": [
+            "Leigan",
+            "Rei-Ken",
+            "Shotgun",
+            "Spirit Gun"
+        ],
+        "answer": "Leigan",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do demônio raposa que se transforma em humano e é um dos aliados de Yusuke em Yu Yu Hakusho?",
+        "options": [
+            "Kurama",
+            "Hiei",
+            "Kuwabara",
+            "Genkai"
+        ],
+        "answer": "Kurama",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Yu Yu Hakusho, qual o nome do demônio de fogo que tem um terceiro olho e é um dos aliados de Yusuke?",
+        "options": [
+            "Hiei",
+            "Kurama",
+            "Kuwabara",
+            "Genkai"
+        ],
+        "answer": "Hiei",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do melhor amigo de Yusuke, que também é um delinquente e tem uma espada espiritual em Yu Yu Hakusho?",
+        "options": [
+            "Kazuma Kuwabara",
+            "Hiei",
+            "Kurama",
+            "Genkai"
+        ],
+        "answer": "Kazuma Kuwabara",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Yu Yu Hakusho, qual o nome do torneio de luta organizado por Toguro e Toguro Ani?",
+        "options": [
+            "Torneio das Trevas",
+            "Torneio Mundial",
+            "Torneio Espiritual",
+            "Torneio dos Demônios"
+        ],
+        "answer": "Torneio das Trevas",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da mestra de Yusuke, que o treina em técnicas espirituais em Yu Yu Hakusho?",
+        "options": [
+            "Genkai",
+            "Botan",
+            "Koenma",
+            "Yukina"
+        ],
+        "answer": "Genkai",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Yu Yu Hakusho, qual o nome do filho do Rei Enma que é o chefe do Mundo Espiritual?",
+        "options": [
+            "Koenma",
+            "Enma",
+            "Yusuke",
+            "Botan"
+        ],
+        "answer": "Koenma",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da guia do Mundo Espiritual que leva Yusuke de volta à vida em Yu Yu Hakusho?",
+        "options": [
+            "Botan",
+            "Yukina",
+            "Keiko",
+            "Shizuru"
+        ],
+        "answer": "Botan",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Yu Yu Hakusho, qual o nome da namorada de Yusuke?",
+        "options": [
+            "Keiko Yukimura",
+            "Yukina",
+            "Shizuru",
+            "Botan"
+        ],
+        "answer": "Keiko Yukimura",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do irmão de Hiei em Yu Yu Hakusho?",
+        "options": [
+            "Yukina",
+            "Mukuro",
+            "Yomi",
+            "Raizen"
+        ],
+        "answer": "Yukina",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da organização criminosa liderada por M. Bison em Street Fighter II V?",
+        "options": [
+            "Shadaloo",
+            "Red Shadow",
+            "Black Hand",
+            "Crimson Guard"
+        ],
+        "answer": "Shadaloo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Street Fighter II V, qual o nome da técnica de energia de Ryu?",
+        "options": [
+            "Hadouken",
+            "Shoryuken",
+            "Tatsumaki Senpukyaku",
+            "Shinku Hadouken"
+        ],
+        "answer": "Hadouken",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do lutador tailandês que é um ex-campeão de Muay Thai e tem uma cicatriz no peito em Street Fighter II V?",
+        "options": [
+            "Sagat",
+            "Adon",
+            "Fei Long",
+            "Dee Jay"
+        ],
+        "answer": "Sagat",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Dragon Ball, qual o nome da nuvem voadora que apenas pessoas de coração puro podem usar?",
+        "options": [
+            "Nuvem Voadora",
+            "Nuvem Mágica",
+            "Nuvem Dourada",
+            "Nuvem Kinto"
+        ],
+        "answer": "Nuvem Voadora",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do porco que pode se transformar em qualquer coisa e é um dos primeiros companheiros de Goku em Dragon Ball?",
+        "options": [
+            "Oolong",
+            "Puar",
+            "Yamcha",
+            "Mestre Kame"
+        ],
+        "answer": "Oolong",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Dragon Ball, qual o nome da garota que encontra Goku e o convida para procurar as Esferas do Dragão?",
+        "options": [
+            "Bulma",
+            "Chi-Chi",
+            "Launch",
+            "Videl"
+        ],
+        "answer": "Bulma",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do mestre de artes marciais que ensina o Kamehameha a Goku em Dragon Ball?",
+        "options": [
+            "Mestre Kame",
+            "Mestre Karin",
+            "Senhor Popo",
+            "Kami-Sama"
+        ],
+        "answer": "Mestre Kame",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Dragon Ball, qual o nome do deserto onde Goku e Bulma encontram Yamcha pela primeira vez?",
+        "options": [
+            "Deserto do Diabo",
+            "Deserto da Morte",
+            "Deserto da Areia",
+            "Deserto Vermelho"
+        ],
+        "answer": "Deserto do Diabo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Dragon Ball, qual o nome do exército que busca as Esferas do Dragão para dominar o mundo?",
+        "options": [
+            "Exército Red Ribbon",
+            "Exército Negro",
+            "Exército Maligno",
+            "Exército do Diabo"
+        ],
+        "answer": "Exército Red Ribbon",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do inimigo que é um demônio e é o pai de Piccolo Jr. em Dragon Ball?",
+        "options": [
+            "Rei Piccolo Daimaoh",
+            "Freeza",
+            "Cell",
+            "Majin Boo"
+        ],
+        "answer": "Rei Piccolo Daimaoh",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Dragon Ball, qual o nome do torneio de artes marciais mais famoso?",
+        "options": [
+            "Torneio de Artes Marciais",
+            "Torneio do Poder",
+            "Torneio Mundial",
+            "Torneio da Força"
+        ],
+        "answer": "Torneio de Artes Marciais",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do vilão que é um imperador e busca as Esferas do Dragão para ser imortal em Dragon Ball?",
+        "options": [
+            "Pilaf",
+            "Tao Pai Pai",
+            "General Blue",
+            "Comandante Red"
+        ],
+        "answer": "Pilaf",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Megaman, qual o nome do cientista que criou Megaman e Roll?",
+        "options": [
+            "Dr. Light",
+            "Dr. Wily",
+            "Dr. Cossack",
+            "Dr. X"
+        ],
+        "answer": "Dr. Light",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Fantástico Mundo de Bobby, qual o nome do amigo imaginário que sempre acompanha Bobby em suas aventuras?",
+        "options": [
+            "Capitão Squash",
+            "Urso Fluffy",
+            "Pato Quack",
+            "Tio Ted"
+        ],
+        "answer": "Capitão Squash",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "No Fantástico Mundo de Bobby, qual é o nome do cachorro da família Generic?",
+        "options": [
+            "Roger",
+            "Linguiça",
+            "Pintado",
+            "Trovão"
+        ],
+        "answer": "Roger",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Fantástico Mundo de Bobby, qual o nome da irmã mais velha de Bobby que o provoca constantemente?",
+        "options": [
+            "Kelly",
+            "Sarah",
+            "Susan",
+            "Emily"
+        ],
+        "answer": "Kelly",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do tio de Bobby, que narra as histórias e frequentemente interage com ele em O Fantástico Mundo de Bobby?",
+        "options": [
+            "Tio Ted",
+            "Tio Bob",
+            "Tio Frank",
+            "Tio John"
+        ],
+        "answer": "Tio Ted",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Fantástico Mundo de Bobby, qual o nome da mãe de Bobby?",
+        "options": [
+            "Martha",
+            "Susan",
+            "Alice",
+            "Betty"
+        ],
+        "answer": "Martha",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Fantástico Mundo de Bobby, qual o nome do pai de Bobby, que muitas vezes é o alvo de suas fantasias?",
+        "options": [
+            "Howard",
+            "Peter",
+            "Charles",
+            "Robert"
+        ],
+        "answer": "Howard",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Fantástico Mundo de Bobby, qual o nome da vizinha de Bobby que é sua amiga e às vezes o acompanha em suas aventuras imaginárias?",
+        "options": [
+            "Jackie",
+            "Brenda",
+            "Melissa",
+            "Cathy"
+        ],
+        "answer": "Jackie",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Cadillacs e Dinossauros, qual o nome do protagonista que é mecânico e aventureiro?",
+        "options": [
+            "Jack Tenrec",
+            "Mustapha Cairo",
+            "Hannah Dundee",
+            "Mess O'Bradovich"
+        ],
+        "answer": "Jack Tenrec",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "No mundo de Cadillacs e Dinossauros, qual o nome da cientista e diplomata que acompanha Jack?",
+        "options": [
+            "Hannah Dundee",
+            "Grace Hopper",
+            "Eliza Thornberry",
+            "Sarah Connor"
+        ],
+        "answer": "Hannah Dundee",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o tipo de veículo modificado que Jack Tenrec utiliza para se locomover em Cadillacs e Dinossauros?",
+        "options": [
+            "Um Cadillac",
+            "Um Jeep",
+            "Uma motocicleta",
+            "Um tanque"
+        ],
+        "answer": "Um Cadillac",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do dinossauro de estimação de Jack em Cadillacs e Dinossauros?",
+        "options": [
+            "Hermes",
+            "Rex",
+            "Chomp",
+            "Comet"
+        ],
+        "answer": "Hermes",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Cadillacs e Dinossauros, qual o nome da organização que tenta preservar a vida selvagem e os dinossauros?",
+        "options": [
+            "Os Salvadores",
+            "Os Protetores",
+            "Os Guardiões",
+            "Os Preservacionistas"
+        ],
+        "answer": "Os Salvadores",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "No desenho Pica Pau, qual o nome do abutre que é um dos principais rivais do Pica Pau?",
+        "options": [
+            "Zeca Urubu",
+            "Abutre Voador",
+            "Corvo Negro",
+            "Pardal Zangado"
+        ],
+        "answer": "Zeca Urubu",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Os Gárgulas, qual o nome do líder do clã de gárgulas que desperta em Nova York?",
+        "options": [
+            "Goliath",
+            "Lexington",
+            "Broadway",
+            "Brooklyn"
+        ],
+        "answer": "Goliath",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do castelo onde os gárgulas viviam originalmente antes de serem amaldiçoados em Os Gárgulas?",
+        "options": [
+            "Castelo Wyvern",
+            "Castelo Darkmoor",
+            "Castelo Blackwood",
+            "Castelo Stonehaven"
+        ],
+        "answer": "Castelo Wyvern",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Os Gárgulas, qual o nome do bilionário que compra o castelo e o transporta para Nova York, despertando os gárgulas?",
+        "options": [
+            "David Xanatos",
+            "Lex Luthor",
+            "Bruce Wayne",
+            "Tony Stark"
+        ],
+        "answer": "David Xanatos",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Dragon Ball Z, qual o nome do ataque de energia mais famoso de Goku?",
+        "options": [
+            "Kamehameha",
+            "Final Flash",
+            "Masenko",
+            "Galick Gun"
+        ],
+        "answer": "Kamehameha",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Dragon Ball Z, qual o nome da técnica que Goku aprende com o Senhor Kaioh e aumenta seu poder por um curto período?",
+        "options": [
+            "Kaioh-ken",
+            "Genki Dama",
+            "Teletransporte",
+            "Super Saiyajin"
+        ],
+        "answer": "Kaioh-ken",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da forma final de Cell em Dragon Ball Z, após absorver os Androides 17 e 18?",
+        "options": [
+            "Cell Perfeito",
+            "Cell Imperfeito",
+            "Cell Semi-Perfeito",
+            "Cell Júnior"
+        ],
+        "answer": "Cell Perfeito",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Dragon Ball Z, qual o nome do filho mais velho de Goku?",
+        "options": [
+            "Gohan",
+            "Goten",
+            "Trunks",
+            "Pan"
+        ],
+        "answer": "Gohan",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da fusão entre Goku e Vegeta usando os brincos Potara em Dragon Ball Z?",
+        "options": [
+            "Vegetto",
+            "Gogeta",
+            "Gotenks",
+            "Piccolo"
+        ],
+        "answer": "Vegetto",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Dragon Ball Z, qual o nome do irmão mais velho de Goku que chega à Terra no início da série?",
+        "options": [
+            "Raditz",
+            "Nappa",
+            "Vegeta",
+            "Bardock"
+        ],
+        "answer": "Raditz",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do planeta onde a batalha contra Freeza ocorre em Dragon Ball Z?",
+        "options": [
+            "Namekusei",
+            "Vegeta",
+            "Terra",
+            "Kaioh"
+        ],
+        "answer": "Namekusei",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do treinador de Gohan que o ajuda a se tornar mais forte em Dragon Ball Z?",
+        "options": [
+            "Piccolo",
+            "Goku",
+            "Vegeta",
+            "Mestre Kame"
+        ],
+        "answer": "Piccolo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Dragon Ball Z, qual o nome da esposa de Goku?",
+        "options": [
+            "Chi-Chi",
+            "Bulma",
+            "Videl",
+            "Android 18"
+        ],
+        "answer": "Chi-Chi",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do vilão que é um demônio rosa e tem várias formas em Dragon Ball Z?",
+        "options": [
+            "Majin Boo",
+            "Dabura",
+            "Babidi",
+            "Cell"
+        ],
+        "answer": "Majin Boo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Serviço de Entregas da Kiki, qual o nome do gato preto que é o companheiro inseparável de Kiki?",
+        "options": [
+            "Jiji",
+            "Luna",
+            "Artemis",
+            "Salem"
+        ],
+        "answer": "Jiji",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o meio de transporte principal que Kiki usa para suas entregas em O Serviço de Entregas da Kiki?",
+        "options": [
+            "Uma vassoura",
+            "Um carro voador",
+            "Uma bicicleta",
+            "Um balão"
+        ],
+        "answer": "Uma vassoura",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Serviço de Entregas da Kiki, qual o problema que Kiki enfrenta ao longo da história, relacionado à sua magia?",
+        "options": [
+            "Perda de poderes",
+            "Medo de voar",
+            "Falta de clientes",
+            "Brigas com Jiji"
+        ],
+        "answer": "Perda de poderes",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Bastard!!, qual o nome do poderoso mago negro selado no corpo de Luche Renren?",
+        "options": [
+            "Dark Schneider",
+            "Gara",
+            "Abigail",
+            "Kall-Su"
+        ],
+        "answer": "Dark Schneider",
+        "category": "TV & Desenhos"
+    },
     {
         "question": "No universo de Skeleton Warriors qual cristal místico alimenta Luminicity e dá poder?",
         "options": [
@@ -2974,261 +4059,476 @@
         "category": "TV & Desenhos"
     },
     {
-    "question": "Em As Aventuras de Tintim, qual o nome do inimigo que é um falsificador de dinheiro em 'A Ilha Negra'?",
-    "options": ["Dr. Müller", "Ranko", "Piotr Skut", "Ivan"],
-    "answer": "Dr. Müller",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome da nave espacial que leva Tintim e seus amigos à Lua em As Aventuras de Tintim?",
-    "options": ["Foguete X", "Explorador Lunar", "Apolo", "Nave Sirius"],
-    "answer": "Foguete X",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em As Aventuras de Tintim, qual a principal característica do Professor Girasol que causa confusão?",
-    "options": ["Ele é cego", "Ele é surdo", "Ele é mudo", "Ele é esquecido"],
-    "answer": "Ele é surdo",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em As Aventuras de Tintim, qual o nome do tesouro que eles procuram em 'O Segredo do Unicórnio'?",
-    "options": ["Ouro pirata", "Joias raras", "Documentos antigos", "Tesouro de Rackham"],
-    "answer": "Tesouro de Rackham",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Os Super Patos, qual o nome do líder da equipe, que usa uma máscara de goleiro?",
-    "options": ["Nosedive", "Wildwing", "Duke", "Grin"],
-    "answer": "Wildwing",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "De qual planeta vêm os Super Patos?",
-    "options": ["Marte", "Puckworld", "Quack-Terra", "Ducktopia"],
-    "answer": "Puckworld",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Os Super Patos, qual o nome do principal vilão, um lagarto gigante?",
-    "options": ["Reptilius", "Dragaunus", "Sauron", "Lagarto Rei"],
-    "answer": "Dragaunus",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o esporte que os Super Patos praticam na Terra?",
-    "options": ["Futebol", "Basquete", "Hóquei no Gelo", "Beisebol"],
-    "answer": "Hóquei no Gelo",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Os Super Patos, qual membro da equipe é o mais forte e musculoso?",
-    "options": ["Nosedive", "Grin", "Duke", "Wildwing"],
-    "answer": "Grin",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Os Super Patos, qual o nome do irmão mais novo de Wildwing?",
-    "options": ["Duke", "Nosedive", "Grin", "Canard"],
-    "answer": "Nosedive",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Os Super Patos, qual membro da equipe é o gênio da tecnologia e inventora?",
-    "options": ["Mallory", "Tanya", "Daisy", "Minnie"],
-    "answer": "Tanya",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome da cidade na Terra onde os Super Patos se estabelecem?",
-    "options": ["Nova York", "Los Angeles", "Anaheim", "Chicago"],
-    "answer": "Anaheim",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Os Super Patos, qual o nome do pato que é um ex-ladrão e especialista em disfarces?",
-    "options": ["Duke L'Orange", "Nosedive", "Grin", "Wildwing"],
-    "answer": "Duke L'Orange",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Os Super Patos, qual o nome do treinador humano da equipe de hóquei?",
-    "options": ["Phil", "Buzz", "Coach", "Capitão"],
-    "answer": "Phil",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome da nave dos Super Patos, que também é sua base secreta?",
-    "options": ["Mighty Duck", "Aeroduck", "Duckwing", "Migrator"],
-    "answer": "Migrator",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Os Super Patos, qual o nome da raça de Dragaunus e seus lacaios?",
-    "options": ["Reptilianos", "Saurianos", "Dragões", "Lagartos"],
-    "answer": "Saurianos",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o principal rival dos Super Patos no hóquei na Terra?",
-    "options": ["Os Ursos", "Os Leões", "Os Gaviões", "Os Tubarões"],
-    "answer": "Os Gaviões",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do estádio onde os Super Patos jogam hóquei?",
-    "options": ["Arena Duck", "Pato-Dome", "Pond", "Anaheim Arena"],
-    "answer": "Anaheim Arena",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em 101 Dálmatas Série, qual dálmata é o mais aventureiro e líder do trio principal?",
-    "options": ["Rolly", "Cadpig", "Lucky", "Patch"],
-    "answer": "Lucky",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome da galinha que pensa que é um dálmata em 101 Dálmatas Série?",
-    "options": ["Pipoca", "Pintada", "Spot", "Clara"],
-    "answer": "Spot",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em 101 Dálmatas Série, qual o nome dos capangas atrapalhados de Cruella De Vil?",
-    "options": ["Tom e Jerry", "Horácio e Gaspar", "Biff e Buzz", "Max e Leo"],
-    "answer": "Horácio e Gaspar",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o principal objetivo de Cruella De Vil em 101 Dálmatas Série?",
-    "options": ["Comprar a fazenda", "Roubar os dálmatas", "Abrir uma loja", "Ser famosa"],
-    "answer": "Roubar os dálmatas",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em 101 Dálmatas Série, qual dálmata é o mais comilão e sempre pensa em comida?",
-    "options": ["Lucky", "Cadpig", "Rolly", "Patch"],
-    "answer": "Rolly",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do fazendeiro, dono dos dálmatas, em 101 Dálmatas Série?",
-    "options": ["Roger", "Pongo", "Jasper", "Horácio"],
-    "answer": "Roger",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em 101 Dálmatas Série, qual dálmata é a mais filosófica e excêntrica?",
-    "options": ["Lucky", "Rolly", "Cadpig", "Patch"],
-    "answer": "Cadpig",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em 101 Dálmatas Série, qual o nome da fazenda onde os dálmatas vivem?",
-    "options": ["Fazenda Feliz", "Fazenda da Família", "Fazenda da Cruella", "Fazenda Dearly"],
-    "answer": "Fazenda Dearly",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em 101 Dálmatas Série, qual o nome do tio de Cruella De Vil, um inventor maluco?",
-    "options": ["Professor Cruel", "Professor De Vil", "Doutor Maluco", "Tio Malvado"],
-    "answer": "Professor De Vil",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o principal meio de transporte de Cruella De Vil em 101 Dálmatas Série?",
-    "options": ["Um helicóptero", "Um carro esportivo", "Um carro de luxo", "Um ônibus"],
-    "answer": "Um carro de luxo",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em 101 Dálmatas Série, qual o tipo de programa de TV favorito de Lucky?",
-    "options": ["Desenhos animados", "Filmes de ação", "Programas de culinária", "Noticiários"],
-    "answer": "Filmes de ação",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do pai dos dálmatas em 101 Dálmatas Série?",
-    "options": ["Pongo", "Roger", "Lucky", "Rolly"],
-    "answer": "Pongo",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do programa de TV favorito de Lucky, estrelado por um super-herói canino em 101 Dálmatas Série?",
-    "options": ["Relâmpago", "Trovão", "Super Cão", "Herói Canino"],
-    "answer": "Relâmpago",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em A Família Camundongo, qual o nome da camundonga que adora viajar e explorar o mundo?",
-    "options": ["Maria", "Emily", "Clara", "Sofia"],
-    "answer": "Emily",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do camundongo que é mais cauteloso e prefere a segurança do lar em A Família Camundongo?",
-    "options": ["Pedro", "Alexandre", "João", "Carlos"],
-    "answer": "Alexandre",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em A Família Camundongo, em qual cidade europeia os camundongos investigam um mistério relacionado a um relógio?",
-    "options": ["Paris", "Londres", "Viena", "Roma"],
-    "answer": "Londres",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o tipo de problema que Emily e Alexandre mais resolvem em suas viagens em A Família Camundongo?",
-    "options": ["Desastres naturais", "Crimes e roubos", "Problemas pessoais", "Mistérios históricos"],
-    "answer": "Mistérios históricos",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o objeto que Emily e Alexandre sempre levam consigo em suas viagens em A Família Camundongo?",
-    "options": ["Um mapa", "Uma lanterna", "Uma lupa", "Uma câmera"],
-    "answer": "Uma lupa",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em A Família Camundongo, em qual continente os camundongos procuram por um tesouro perdido em uma selva?",
-    "options": ["África", "América do Sul", "Ásia", "Oceania"],
-    "answer": "América do Sul",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Rupert, qual o nome da cidade onde Rupert e seus amigos vivem?",
-    "options": ["Bosque Encantado", "Cidade dos Ursos", "Nutwood", "Vila Feliz"],
-    "answer": "Nutwood",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o nome do melhor amigo de Rupert, um texugo?",
-    "options": ["Billy", "Bill", "Bobby", "Ben"],
-    "answer": "Bill",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Rupert, qual o animal que é um elefante e amigo de Rupert?",
-    "options": ["Eddie", "Edward", "Eric", "Elmer"],
-    "answer": "Edward",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Rupert, qual o acessório de vestuário mais icônico de Rupert?",
-    "options": ["Chapéu de sol", "Cachecol xadrez", "Óculos redondos", "Gravata borboleta"],
-    "answer": "Cachecol xadrez",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Rupert, qual o nome do professor que é um inventor e ajuda Rupert em suas aventuras?",
-    "options": ["Professor Owl", "Professor Wise", "Professor", "Professor Genius"],
-    "answer": "Professor",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual o tipo de histórias que Rupert geralmente vive?",
-    "options": ["Mistérios e magia", "Esportes e jogos", "Vida escolar", "Viagens espaciais"],
-    "answer": "Mistérios e magia",
-    "category": "TV & Desenhos"
-  }
+        "question": "Em As Aventuras de Tintim, qual o nome do inimigo que é um falsificador de dinheiro em 'A Ilha Negra'?",
+        "options": [
+            "Dr. Müller",
+            "Ranko",
+            "Piotr Skut",
+            "Ivan"
+        ],
+        "answer": "Dr. Müller",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da nave espacial que leva Tintim e seus amigos à Lua em As Aventuras de Tintim?",
+        "options": [
+            "Foguete X",
+            "Explorador Lunar",
+            "Apolo",
+            "Nave Sirius"
+        ],
+        "answer": "Foguete X",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em As Aventuras de Tintim, qual a principal característica do Professor Girasol que causa confusão?",
+        "options": [
+            "Ele é cego",
+            "Ele é surdo",
+            "Ele é mudo",
+            "Ele é esquecido"
+        ],
+        "answer": "Ele é surdo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em As Aventuras de Tintim, qual o nome do tesouro que eles procuram em 'O Segredo do Unicórnio'?",
+        "options": [
+            "Ouro pirata",
+            "Joias raras",
+            "Documentos antigos",
+            "Tesouro de Rackham"
+        ],
+        "answer": "Tesouro de Rackham",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Os Super Patos, qual o nome do líder da equipe, que usa uma máscara de goleiro?",
+        "options": [
+            "Nosedive",
+            "Wildwing",
+            "Duke",
+            "Grin"
+        ],
+        "answer": "Wildwing",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "De qual planeta vêm os Super Patos?",
+        "options": [
+            "Marte",
+            "Puckworld",
+            "Quack-Terra",
+            "Ducktopia"
+        ],
+        "answer": "Puckworld",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Os Super Patos, qual o nome do principal vilão, um lagarto gigante?",
+        "options": [
+            "Reptilius",
+            "Dragaunus",
+            "Sauron",
+            "Lagarto Rei"
+        ],
+        "answer": "Dragaunus",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o esporte que os Super Patos praticam na Terra?",
+        "options": [
+            "Futebol",
+            "Basquete",
+            "Hóquei no Gelo",
+            "Beisebol"
+        ],
+        "answer": "Hóquei no Gelo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Os Super Patos, qual membro da equipe é o mais forte e musculoso?",
+        "options": [
+            "Nosedive",
+            "Grin",
+            "Duke",
+            "Wildwing"
+        ],
+        "answer": "Grin",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Os Super Patos, qual o nome do irmão mais novo de Wildwing?",
+        "options": [
+            "Duke",
+            "Nosedive",
+            "Grin",
+            "Canard"
+        ],
+        "answer": "Nosedive",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Os Super Patos, qual membro da equipe é o gênio da tecnologia e inventora?",
+        "options": [
+            "Mallory",
+            "Tanya",
+            "Daisy",
+            "Minnie"
+        ],
+        "answer": "Tanya",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da cidade na Terra onde os Super Patos se estabelecem?",
+        "options": [
+            "Nova York",
+            "Los Angeles",
+            "Anaheim",
+            "Chicago"
+        ],
+        "answer": "Anaheim",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Os Super Patos, qual o nome do pato que é um ex-ladrão e especialista em disfarces?",
+        "options": [
+            "Duke L'Orange",
+            "Nosedive",
+            "Grin",
+            "Wildwing"
+        ],
+        "answer": "Duke L'Orange",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Os Super Patos, qual o nome do treinador humano da equipe de hóquei?",
+        "options": [
+            "Phil",
+            "Buzz",
+            "Coach",
+            "Capitão"
+        ],
+        "answer": "Phil",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da nave dos Super Patos, que também é sua base secreta?",
+        "options": [
+            "Mighty Duck",
+            "Aeroduck",
+            "Duckwing",
+            "Migrator"
+        ],
+        "answer": "Migrator",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Os Super Patos, qual o nome da raça de Dragaunus e seus lacaios?",
+        "options": [
+            "Reptilianos",
+            "Saurianos",
+            "Dragões",
+            "Lagartos"
+        ],
+        "answer": "Saurianos",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o principal rival dos Super Patos no hóquei na Terra?",
+        "options": [
+            "Os Ursos",
+            "Os Leões",
+            "Os Gaviões",
+            "Os Tubarões"
+        ],
+        "answer": "Os Gaviões",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do estádio onde os Super Patos jogam hóquei?",
+        "options": [
+            "Arena Duck",
+            "Pato-Dome",
+            "Pond",
+            "Anaheim Arena"
+        ],
+        "answer": "Anaheim Arena",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em 101 Dálmatas Série, qual dálmata é o mais aventureiro e líder do trio principal?",
+        "options": [
+            "Rolly",
+            "Cadpig",
+            "Lucky",
+            "Patch"
+        ],
+        "answer": "Lucky",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome da galinha que pensa que é um dálmata em 101 Dálmatas Série?",
+        "options": [
+            "Pipoca",
+            "Pintada",
+            "Spot",
+            "Clara"
+        ],
+        "answer": "Spot",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em 101 Dálmatas Série, qual o nome dos capangas atrapalhados de Cruella De Vil?",
+        "options": [
+            "Tom e Jerry",
+            "Horácio e Gaspar",
+            "Biff e Buzz",
+            "Max e Leo"
+        ],
+        "answer": "Horácio e Gaspar",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o principal objetivo de Cruella De Vil em 101 Dálmatas Série?",
+        "options": [
+            "Comprar a fazenda",
+            "Roubar os dálmatas",
+            "Abrir uma loja",
+            "Ser famosa"
+        ],
+        "answer": "Roubar os dálmatas",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em 101 Dálmatas Série, qual dálmata é o mais comilão e sempre pensa em comida?",
+        "options": [
+            "Lucky",
+            "Cadpig",
+            "Rolly",
+            "Patch"
+        ],
+        "answer": "Rolly",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do fazendeiro, dono dos dálmatas, em 101 Dálmatas Série?",
+        "options": [
+            "Roger",
+            "Pongo",
+            "Jasper",
+            "Horácio"
+        ],
+        "answer": "Roger",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em 101 Dálmatas Série, qual dálmata é a mais filosófica e excêntrica?",
+        "options": [
+            "Lucky",
+            "Rolly",
+            "Cadpig",
+            "Patch"
+        ],
+        "answer": "Cadpig",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em 101 Dálmatas Série, qual o nome da fazenda onde os dálmatas vivem?",
+        "options": [
+            "Fazenda Feliz",
+            "Fazenda da Família",
+            "Fazenda da Cruella",
+            "Fazenda Dearly"
+        ],
+        "answer": "Fazenda Dearly",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em 101 Dálmatas Série, qual o nome do tio de Cruella De Vil, um inventor maluco?",
+        "options": [
+            "Professor Cruel",
+            "Professor De Vil",
+            "Doutor Maluco",
+            "Tio Malvado"
+        ],
+        "answer": "Professor De Vil",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o principal meio de transporte de Cruella De Vil em 101 Dálmatas Série?",
+        "options": [
+            "Um helicóptero",
+            "Um carro esportivo",
+            "Um carro de luxo",
+            "Um ônibus"
+        ],
+        "answer": "Um carro de luxo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em 101 Dálmatas Série, qual o tipo de programa de TV favorito de Lucky?",
+        "options": [
+            "Desenhos animados",
+            "Filmes de ação",
+            "Programas de culinária",
+            "Noticiários"
+        ],
+        "answer": "Filmes de ação",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do pai dos dálmatas em 101 Dálmatas Série?",
+        "options": [
+            "Pongo",
+            "Roger",
+            "Lucky",
+            "Rolly"
+        ],
+        "answer": "Pongo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do programa de TV favorito de Lucky, estrelado por um super-herói canino em 101 Dálmatas Série?",
+        "options": [
+            "Relâmpago",
+            "Trovão",
+            "Super Cão",
+            "Herói Canino"
+        ],
+        "answer": "Relâmpago",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em A Família Camundongo, qual o nome da camundonga que adora viajar e explorar o mundo?",
+        "options": [
+            "Maria",
+            "Emily",
+            "Clara",
+            "Sofia"
+        ],
+        "answer": "Emily",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do camundongo que é mais cauteloso e prefere a segurança do lar em A Família Camundongo?",
+        "options": [
+            "Pedro",
+            "Alexandre",
+            "João",
+            "Carlos"
+        ],
+        "answer": "Alexandre",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em A Família Camundongo, em qual cidade europeia os camundongos investigam um mistério relacionado a um relógio?",
+        "options": [
+            "Paris",
+            "Londres",
+            "Viena",
+            "Roma"
+        ],
+        "answer": "Londres",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o tipo de problema que Emily e Alexandre mais resolvem em suas viagens em A Família Camundongo?",
+        "options": [
+            "Desastres naturais",
+            "Crimes e roubos",
+            "Problemas pessoais",
+            "Mistérios históricos"
+        ],
+        "answer": "Mistérios históricos",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o objeto que Emily e Alexandre sempre levam consigo em suas viagens em A Família Camundongo?",
+        "options": [
+            "Um mapa",
+            "Uma lanterna",
+            "Uma lupa",
+            "Uma câmera"
+        ],
+        "answer": "Uma lupa",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em A Família Camundongo, em qual continente os camundongos procuram por um tesouro perdido em uma selva?",
+        "options": [
+            "África",
+            "América do Sul",
+            "Ásia",
+            "Oceania"
+        ],
+        "answer": "América do Sul",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Rupert, qual o nome da cidade onde Rupert e seus amigos vivem?",
+        "options": [
+            "Bosque Encantado",
+            "Cidade dos Ursos",
+            "Nutwood",
+            "Vila Feliz"
+        ],
+        "answer": "Nutwood",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o nome do melhor amigo de Rupert, um texugo?",
+        "options": [
+            "Billy",
+            "Bill",
+            "Bobby",
+            "Ben"
+        ],
+        "answer": "Bill",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Rupert, qual o animal que é um elefante e amigo de Rupert?",
+        "options": [
+            "Eddie",
+            "Edward",
+            "Eric",
+            "Elmer"
+        ],
+        "answer": "Edward",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Rupert, qual o acessório de vestuário mais icônico de Rupert?",
+        "options": [
+            "Chapéu de sol",
+            "Cachecol xadrez",
+            "Óculos redondos",
+            "Gravata borboleta"
+        ],
+        "answer": "Cachecol xadrez",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Rupert, qual o nome do professor que é um inventor e ajuda Rupert em suas aventuras?",
+        "options": [
+            "Professor Owl",
+            "Professor Wise",
+            "Professor",
+            "Professor Genius"
+        ],
+        "answer": "Professor",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual o tipo de histórias que Rupert geralmente vive?",
+        "options": [
+            "Mistérios e magia",
+            "Esportes e jogos",
+            "Vida escolar",
+            "Viagens espaciais"
+        ],
+        "answer": "Mistérios e magia",
+        "category": "TV & Desenhos"
+    }
 ]
