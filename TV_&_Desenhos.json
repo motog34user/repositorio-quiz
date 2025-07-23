@@ -1,4 +1,403 @@
 [
+         {
+    "question": "Em Serial Experiments Lain, qual é o nome do protocolo de comunicação que é a base do Wired?",
+    "options": ["Protocolo 7", "Protocolo Zero", "Protocolo Alfa", "Protocolo Beta"],
+    "answer": "Protocolo 7",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Serial Experiments Lain, qual é o nome do dispositivo que Lain usa para se conectar ao Wired?",
+    "options": ["NaVi", "CompuCom", "CyberLink", "WiredLink"],
+    "answer": "NaVi",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o principal tema filosófico explorado em Serial Experiments Lain?",
+    "options": ["Amor e amizade", "Guerra e paz", "Realidade e identidade", "Natureza e tecnologia"],
+    "answer": "Realidade e identidade",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Serial Experiments Lain, qual é o nome do clube noturno onde Lain e Arisu frequentam?",
+    "options": ["Cyberia", "The Grid", "The Node", "The Hub"],
+    "answer": "Cyberia",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é a forma de comunicação que Lain recebe que a leva a investigar o Wired em Serial Experiments Lain?",
+    "options": ["Carta", "E-mail", "Mensagem de texto", "Chamada telefônica"],
+    "answer": "E-mail",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o principal objetivo dos Cavaleiros em Serial Experiments Lain?",
+    "options": ["Dominar o Wired", "Revelar a verdade", "Criar um novo mundo", "Controlar a humanidade"],
+    "answer": "Revelar a verdade",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Serial Experiments Lain, o que Lain descobre sobre sua própria existência no final da série?",
+    "options": ["Ela é um clone", "Ela é um programa", "Ela é uma deusa", "Ela é uma ilusão"],
+    "answer": "Ela é um programa",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Ah Megami-sama OVA, qual é o nome do jovem que acidentalmente invoca a deusa Belldandy?",
+    "options": ["Keiichi Morisato", "Tamiya", "Otaki", "Aoshima"],
+    "answer": "Keiichi Morisato",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Ah Megami-sama OVA, qual é o nome da irmã mais velha de Belldandy, conhecida por ser travessa?",
+    "options": ["Skuld", "Urd", "Peorth", "Lind"],
+    "answer": "Urd",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o principal meio de transporte de Belldandy em Ah Megami-sama OVA?",
+    "options": ["Carro voador", "Moto", "Bicicleta", "Nuvem mágica"],
+    "answer": "Moto",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é a cor do cabelo de Belldandy em Ah Megami-sama OVA?",
+    "options": ["Azul", "Loiro", "Castanho", "Preto"],
+    "answer": "Loiro",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do colega de classe de Yukino em Karekano que também é considerado perfeito?",
+    "options": ["Soichiro Arima", "Hideaki Asaba", "Takefumi Moeda", "Kazuma Ikeda"],
+    "answer": "Soichiro Arima",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome da irmã mais nova de Yukino em Karekano que a provoca constantemente?",
+    "options": ["Tsukino", "Kano", "Maho", "Sakura"],
+    "answer": "Tsukino",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Karekano, qual é o principal esporte que Soichiro Arima pratica?",
+    "options": ["Basquete", "Futebol", "Kendo", "Natação"],
+    "answer": "Kendo",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Karekano, qual é a principal preocupação de Yukino em relação à sua imagem pública?",
+    "options": ["Ser popular", "Ser inteligente", "Ser perfeita", "Ser amada"],
+    "answer": "Ser perfeita",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o principal tema abordado em Karekano sobre a vida adolescente?",
+    "options": ["Amizade", "Amor", "Aparências", "Família"],
+    "answer": "Aparências",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é a principal organização em Bucky que luta contra o Demônio Crânio?",
+    "options": ["Grande Ordem", "Guardiões dos Sonhos", "Exército da Luz", "Cavaleiros do Sonho"],
+    "answer": "Grande Ordem",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Bucky, qual é o nome da Fera Espiritual que acompanha Bucky e é sua principal aliada?",
+    "options": ["Pink", "Jibak", "Dartagnan", "Kai"],
+    "answer": "Pink",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Bucky, qual é o nome da Fera Espiritual que é um dragão e pode voar?",
+    "options": ["Jibak", "Pink", "Dartagnan", "Kai"],
+    "answer": "Jibak",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do líder da Grande Ordem em Bucky?",
+    "options": ["Mestre", "Comandante", "Grande Ancião", "Rei"],
+    "answer": "Grande Ancião",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Bucky, qual é a principal fraqueza do Demônio Crânio?",
+    "options": ["Luz", "Água", "Sonhos puros", "Fogo"],
+    "answer": "Sonhos puros",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do reino que Bucky e seus amigos devem proteger em Bucky?",
+    "options": ["Reino da Luz", "Reino dos Sonhos", "Reino da Fantasia", "Reino da Esperança"],
+    "answer": "Reino dos Sonhos",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Bucky, qual é o principal desafio que Bucky enfrenta para se tornar um verdadeiro herói?",
+    "options": ["Controlar seus poderes", "Superar seus medos", "Derrotar o Demônio", "Encontrar seu lar"],
+    "answer": "Superar seus medos",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é a raça de insetos gigantes que são os principais inimigos em El Hazard?",
+    "options": ["Bugrom", "Insectoids", "Arachnids", "Beetles"],
+    "answer": "Bugrom",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual personagem em El Hazard é a irmã mais nova de Jinnai e se junta aos Bugrom?",
+    "options": ["Nanami Jinnai", "Alielle", "Ifurita", "Rune Venus"],
+    "answer": "Nanami Jinnai",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em El Hazard, qual é o nome da arma antiga que Ifurita controla e que pode destruir mundos?",
+    "options": ["Olho de Deus", "Máquina de Destruição", "Arma Final", "Dispositivo Supremo"],
+    "answer": "Olho de Deus",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é a principal habilidade de Makoto Mizuhara em El Hazard?",
+    "options": ["Magia", "Força física", "Inteligência", "Liderança"],
+    "answer": "Inteligência",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do vilão principal em El Hazard que lidera os Bugrom?",
+    "options": ["Jinnai", "Katsuhiko", "Galus", "Ifurita"],
+    "answer": "Jinnai",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o principal objetivo de Jinnai em El Hazard?",
+    "options": ["Dominar o mundo", "Voltar para casa", "Destruir Makoto", "Proteger os Bugrom"],
+    "answer": "Dominar o mundo",
+    "category": "TV & Desenhos"
+  }, 
+         {
+    "question": "Qual o nome do arqui-inimigo de Megaman, um cientista malvado que cria robôs para dominar o mundo?",
+    "options": ["Dr. Wily", "Dr. Light", "Dr. Cossack", "Dr. X"],
+    "answer": "Dr. Wily",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Megaman, qual o nome da irmã robô de Megaman?",
+    "options": ["Roll", "Proto Woman", "Mega Woman", "Robot Girl"],
+    "answer": "Roll",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do cão robô que auxilia Megaman em suas missões?",
+    "options": ["Rush", "Beat", "Eddie", "Tango"],
+    "answer": "Rush",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Megaman, qual o nome do robô que é o protótipo de Megaman e tem um cachecol?",
+    "options": ["Protoman", "Bass", "Zero", "Duo"],
+    "answer": "Protoman",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do robô que é um robô de suporte e entrega itens para Megaman?",
+    "options": ["Eddie", "Rush", "Beat", "Tango"],
+    "answer": "Eddie",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do robô que é um robô mestre com uma tesoura gigante em Megaman?",
+    "options": ["Cut Man", "Fire Man", "Ice Man", "Guts Man"],
+    "answer": "Cut Man",
+    "category": "TV & Desenhos"
+  },
+ 
+  {
+    "question": "Em Neon Genesis Evangelion, qual o nome do protagonista que pilota o Evangelion Unidade 01?",
+    "options": ["Shinji Ikari", "Rei Ayanami", "Asuka Langley", "Kaworu Nagisa"],
+    "answer": "Shinji Ikari",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome da organização militar secreta que combate os Anjos em Neon Genesis Evangelion?",
+    "options": ["NERV", "SEELE", "GEHIRN", "WILLE"],
+    "answer": "NERV",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Neon Genesis Evangelion, qual o nome da piloto do Evangelion Unidade 00, de personalidade enigmática?",
+    "options": ["Rei Ayanami", "Asuka Langley", "Misato Katsuragi", "Ritsuko Akagi"],
+    "answer": "Rei Ayanami",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome da piloto do Evangelion Unidade 02, de origem alemã e personalidade forte em Neon Genesis Evangelion?",
+    "options": ["Asuka Langley Soryu", "Rei Ayanami", "Misato Katsuragi", "Ritsuko Akagi"],
+    "answer": "Asuka Langley Soryu",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Neon Genesis Evangelion, qual o nome do pai de Shinji e comandante da NERV?",
+    "options": ["Gendo Ikari", "Kozo Fuyutsuki", "Ryoji Kaji", "Shigeru Aoba"],
+    "answer": "Gendo Ikari",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome da capitã da NERV que se torna a guardiã de Shinji em Neon Genesis Evangelion?",
+    "options": ["Misato Katsuragi", "Ritsuko Akagi", "Maya Ibuki", "Makoto Hyuga"],
+    "answer": "Misato Katsuragi",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Neon Genesis Evangelion, qual o nome do projeto secreto que busca a evolução da humanidade?",
+    "options": ["Projeto de Instrumentalidade Humana", "Projeto Evangelion", "Projeto Adam", "Projeto Lilith"],
+    "answer": "Projeto de Instrumentalidade Humana",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Neon Genesis Evangelion, qual o nome da doutora chefe do departamento científico da NERV?",
+    "options": ["Ritsuko Akagi", "Misato Katsuragi", "Maya Ibuki", "Yui Ikari"],
+    "answer": "Ritsuko Akagi",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Neon Genesis Evangelion, qual o nome do último Anjo, que é um ser humanoide?",
+    "options": ["Kaworu Nagisa", "Tabris", "Lilith", "Adam"],
+    "answer": "Kaworu Nagisa",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome da escola que os pilotos de Evangelion frequentam em Neon Genesis Evangelion?",
+    "options": ["Primeira Escola de Tóquio-3", "Escola de Pilotos", "Academia NERV", "Escola de Campo"],
+    "answer": "Primeira Escola de Tóquio-3",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome da substância líquida que preenche a cabine dos Evangelions em Neon Genesis Evangelion?",
+    "options": ["LCL", "Água Pesada", "Fluido de Sincronização", "Plasma"],
+    "answer": "LCL",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Detonator Orgun, qual o nome do estudante que se funde com a armadura alienígena Orgun?",
+    "options": ["Tomoru Shindo", "Michi Kanzaki", "I-Mei", "Zoa"],
+    "answer": "Tomoru Shindo",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome da raça alienígena que ataca a Terra em Detonator Orgun?",
+    "options": ["Zoa", "Xenomorphs", "Cylons", "Borg"],
+    "answer": "Zoa",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Detonator Orgun, qual o nome da cientista que estuda a armadura Orgun e ajuda Tomoru?",
+    "options": ["Michi Kanzaki", "I-Mei", "Yoko", "Sakura"],
+    "answer": "Michi Kanzaki",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome da criatura branca e fofa que acompanha Hikaru, Umi e Fuu em Guerreiras Mágicas de Rayearth?",
+    "options": ["Mokona", "Pikachu", "Totoro", "Kero"],
+    "answer": "Mokona",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Guerreiras Mágicas de Rayearth, qual o nome do planeta onde a história se desenrola?",
+    "options": ["Cephiro", "Earth", "Magic World", "Fantasia"],
+    "answer": "Cephiro",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual o nome do Guru que invoca as Guerreiras Mágicas para Cephiro em Guerreiras Mágicas de Rayearth?",
+    "options": ["Guru Clef", "Mestre Mage", "Mago Supremo", "Ancião Mágico"],
+    "answer": "Guru Clef",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Samurai Warriors, qual é o nome da jovem que ajuda os guerreiros e possui conhecimentos místicos?",
+    "options": ["Mia Koji", "Yulia", "Akane", "Hikari"],
+    "answer": "Mia Koji",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Para onde os guerreiros de Samurai Warriors são transportados no início da série?",
+    "options": ["Dimensão Espiritual", "Mundo Humano", "Reino Demoníaco", "Cidade de Tóquio"],
+    "answer": "Cidade de Tóquio",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual dos Deuses Shura em Shurato é conhecido como o Rei Leão e possui grande força?",
+    "options": ["Hyouga", "Ryoma", "Reiga", "Dan"],
+    "answer": "Ryoma",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual personagem em Shurato é a Deusa da Beleza e da Misericórdia, aliada de Shurato?",
+    "options": ["Lakshmi", "Renge", "Indra", "Vishnu"],
+    "answer": "Lakshmi",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Shurato, qual é o nome do vilão principal que manipula Gai e busca destruir o Tenkukai?",
+    "options": ["Indra", "Kuroki", "Shiva", "Kaiser"],
+    "answer": "Indra",
+    "category": "TV & Desenhos"
+  },
+
+
+  {
+    "question": "Qual personagem em Shurato é um dos Quatro Reis Guardiões e um grande estrategista?",
+    "options": ["Dan", "Reiga", "Hyouga", "Ryoma"],
+    "answer": "Dan",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Shurato, qual é a arma principal de Gai Kuroki antes de ser possuído por Indra?",
+    "options": ["Espada Negra", "Lança do Trovão", "Punho de Ferro", "Cajado Místico"],
+    "answer": "Espada Negra",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é a relação entre Shurato e Gai em Shurato antes de serem transportados?",
+    "options": ["Irmãos", "Rivais", "Amigos", "Mestres"],
+    "answer": "Amigos",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Shurato, qual é o nome da técnica que permite aos Deuses Shura invocar suas armaduras?",
+    "options": ["Shakti", "Veda", "Soma", "Mandala"],
+    "answer": "Shakti",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual dos Deuses Shura em Shurato é o Rei do Fogo e um guerreiro impetuoso?",
+    "options": ["Ryoma", "Dan", "Hyouga", "Reiga"],
+    "answer": "Ryoma",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Serial Experiments Lain, qual é o nome da rede de comunicação global que Lain explora?",
+    "options": ["A Teia", "A Conexão", "O Wired", "A Matriz"],
+    "answer": "O Wired",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é a principal característica da personalidade de Lain Iwakura no início de Serial Experiments Lain?",
+    "options": ["Extrovertida", "Rebelde", "Tímida", "Curiosa"],
+    "answer": "Tímida",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Serial Experiments Lain, qual grupo busca a liberdade total no Wired e desafia a realidade física?",
+    "options": ["Os Observadores", "Os Conectados", "Os Cavaleiros", "Os Despertos"],
+    "answer": "Os Cavaleiros",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome da amiga de Lain em Serial Experiments Lain que tenta ajudá-la a se socializar?",
+    "options": ["Arisu Mizuki", "Mika Iwakura", "Reika", "Chisa Yomoda"],
+    "answer": "Arisu Mizuki",
+    "category": "TV & Desenhos"
+  },
         {
     "question": "Em Video Girl Ai, qual o nome do protagonista que se apaixona por uma garota que sai da TV?",
     "options": ["Yota Moteuchi", "Takashi", "Hiroshi", "Kenji"],
