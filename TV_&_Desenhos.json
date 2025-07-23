@@ -1,5 +1,107 @@
 [
          {
+    "question": "Qual é a principal característica de Gourry Gabriev em Slayers, além de sua habilidade com a espada?",
+    "options": ["Inteligência", "Força bruta", "Ingenuidade", "Astúcia"],
+    "answer": "Ingenuidade",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é a principal arma de Gourry Gabriev em Slayers?",
+    "options": ["Espada de Luz", "Espada Negra", "Espada Demoníaca", "Espada Encantada"],
+    "answer": "Espada de Luz",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do padre e Lorde Demônio que é um dos principais antagonistas em Slayers?",
+    "options": ["Rezo", "Xellos", "Gaav", "Shabranigdu"],
+    "answer": "Rezo",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Slayers, qual é o nome do artefato mágico que Lina Inverse carrega e amplifica seus feitiços?",
+    "options": ["Pedra de Slayers", "Amuleto Mágico", "Orbe de Poder", "Joia Espiritual"],
+    "answer": "Pedra de Slayers",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é a principal paixão de Lina Inverse em Slayers, além de lutar contra o mal?",
+    "options": ["Comida", "Dinheiro", "Aventura", "Poder"],
+    "answer": "Dinheiro",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Chobits, qual é o nome da Persocom que Hideki Motosuwa encontra jogada no lixo?",
+    "options": ["Chii", "Freya", "Elda", "Yumi"],
+    "answer": "Chii",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Chobits, qual é o nome do amigo de Hideki que é um gênio em computadores e o ajuda com Chii?",
+    "options": ["Minoru Kokubunji", "Hiromu Shinbo", "Kojima", "Ueda"],
+    "answer": "Minoru Kokubunji",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Chobits, qual é o nome da Persocom que Minoru Kokubunji possui e que é muito pequena?",
+    "options": ["Sumomo", "Kotoko", "Yumi", "Freya"],
+    "answer": "Sumomo",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é a principal pergunta que Chii faz constantemente em Chobits?",
+    "options": ["O que sou eu?", "O que é amor?", "O que é um Persocom?", "O que é o mundo?"],
+    "answer": "O que é amor?",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é a principal preocupação de Hideki em relação a Chii em Chobits?",
+    "options": ["Sua inteligência", "Sua segurança", "Seu passado", "Seu futuro"],
+    "answer": "Sua segurança",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Chobits, qual é o nome da Persocom que é uma detetive e ajuda Minoru a investigar Chii?",
+    "options": ["Kotoko", "Sumomo", "Freya", "Yumi"],
+    "answer": "Kotoko",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Mogli, qual é o nome do urso que se torna amigo e mentor de Mogli na selva?",
+    "options": ["Baloo", "Bagheera", "Shere Khan", "Kaa"],
+    "answer": "Baloo",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome da pantera negra que encontra Mogli e o leva para a alcateia em Mogli?",
+    "options": ["Bagheera", "Baloo", "Shere Khan", "Kaa"],
+    "answer": "Bagheera",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Mogli, qual é o nome do tigre que é o principal antagonista e caça Mogli?",
+    "options": ["Shere Khan", "Kaa", "King Louie", "Akela"],
+    "answer": "Shere Khan",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é a principal música cantada por Baloo em Mogli, que fala sobre a vida despreocupada?",
+    "options": ["Somente o Necessário", "Eu Quero Ser Como Você", "Marcha dos Elefantes", "Confia em Mim"],
+    "answer": "Somente o Necessário",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em A Pequena Sereia, qual é o nome da princesa sereia que sonha em ser humana?",
+    "options": ["Ariel", "Melody", "Attina", "Vanessa"],
+    "answer": "Ariel",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do caranguejo conselheiro do Rei Tritão em A Pequena Sereia?",
+    "options": ["Sebastião", "Linguado", "Sabichão", "Max"],
+    "answer": "Sebastião",
+    "category": "TV & Desenhos"
+  }, 
+         {
     "question": "Em Serial Experiments Lain, qual é o nome do protocolo de comunicação que é a base do Wired?",
     "options": ["Protocolo 7", "Protocolo Zero", "Protocolo Alfa", "Protocolo Beta"],
     "answer": "Protocolo 7",
