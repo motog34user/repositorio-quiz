@@ -1,4 +1,142 @@
 [
+              {
+    "question": "Qual é o nome do monstro de várias cabeças que Hércules enfrenta em Hércules?",
+    "options": ["Hidra", "Cérbero", "Medusa", "Minotauro"],
+    "answer": "Hidra",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Vida de Inseto, qual é o nome da formiga inventora que é um pouco desajeitada?",
+    "options": ["Flik", "Atta", "Dot", "Hopper"],
+    "answer": "Flik",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do gafanhoto líder que oprime as formigas em Vida de Inseto?",
+    "options": ["Hopper", "Molt", "Thumper", "Axel"],
+    "answer": "Hopper",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome da formiga mais jovem e otimista, irmã de Atta, em Vida de Inseto?",
+    "options": ["Dot", "Atta", "Flik", "Rainha"],
+    "answer": "Dot",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Vida de Inseto, qual é o nome da joaninha macho que é confundida com fêmea?",
+    "options": ["Francis", "Heimlich", "Slim", "Dim"],
+    "answer": "Francis",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome da lagarta que sonha em ser borboleta e adora comer em Vida de Inseto?",
+    "options": ["Heimlich", "Francis", "Slim", "Dim"],
+    "answer": "Heimlich",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Vida de Inseto, qual é o principal plano de Flik para se livrar dos gafanhotos?",
+    "options": ["Construir uma arma", "Recrutar ajuda", "Fugir", "Esconder comida"],
+    "answer": "Recrutar ajuda",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Vida de Inseto, qual é o principal medo de Hopper em relação às formigas?",
+    "options": ["Que elas o ataquem", "Que elas se rebelem", "Que elas fujam", "Que elas o ignorem"],
+    "answer": "Que elas se rebelem",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Vida de Inseto, qual é o principal objetivo dos gafanhotos ao visitar a colônia de formigas?",
+    "options": ["Fazer amigos", "Pegar comida", "Invadir o local", "Ajudar as formigas"],
+    "answer": "Pegar comida",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Rei Leão 2, qual é o nome da filha de Simba e Nala?",
+    "options": ["Kiara", "Vitani", "Zira", "Sarabi"],
+    "answer": "Kiara",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do leão exilado por quem Kiara se apaixona em O Rei Leão 2?",
+    "options": ["Kovu", "Nuka", "Scar", "Zira"],
+    "answer": "Kovu",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Rei Leão 2, qual é o nome da mãe de Kovu, líder dos Exilados?",
+    "options": ["Zira", "Vitani", "Nuka", "Kiara"],
+    "answer": "Zira",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Rei Leão 2, qual é o principal objetivo de Zira?",
+    "options": ["Vingança", "Paz", "Amor", "Poder"],
+    "answer": "Vingança",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome da música que Simba canta para Kiara sobre a união e o legado em O Rei Leão 2?",
+    "options": ["Nós Somos Um", "O Amor Nos Guiará", "Meu Mundo", "Até o Fim"],
+    "answer": "Nós Somos Um",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Rei Leão 2, qual é o principal obstáculo para a união das duas alcateias?",
+    "options": ["O ódio de Zira", "A desconfiança de Simba", "O passado de Kovu", "A rivalidade de Nuka"],
+    "answer": "O ódio de Zira",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Rei Leão 2, qual é o principal evento que une Kiara e Kovu em sua infância?",
+    "options": ["Uma tempestade", "Um ataque de hienas", "Uma fuga", "Um incêndio"],
+    "answer": "Um incêndio",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em O Rei Leão 2, qual é o principal tema que a história explora sobre o futuro?",
+    "options": ["Vingança", "Perdão", "Poder", "Destino"],
+    "answer": "Perdão",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Tarzan, qual é o nome do gorila macho que adota Tarzan quando bebê?",
+    "options": ["Kerchak", "Kala", "Terk", "Sabor"],
+    "answer": "Kerchak",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome da gorila fêmea que encontra Tarzan e o cria como seu filho em Tarzan?",
+    "options": ["Kala", "Terk", "Jane", "Rosie"],
+    "answer": "Kala",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Tarzan, qual é o nome da jovem exploradora inglesa por quem Tarzan se apaixona?",
+    "options": ["Jane Porter", "Alice", "Mary", "Elizabeth"],
+    "answer": "Jane Porter",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do vilão principal em Tarzan, um caçador ganancioso?",
+    "options": ["Clayton", "Professor Porter", "Kerchak", "Sabor"],
+    "answer": "Clayton",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Em Tarzan, qual é o nome da gorila fêmea que é a melhor amiga de Tarzan e o ajuda?",
+    "options": ["Terk", "Kala", "Jane", "Rosie"],
+    "answer": "Terk",
+    "category": "TV & Desenhos"
+  },
+  {
+    "question": "Qual é o nome do leopardo que mata os pais biológicos de Tarzan em Tarzan?",
+    "options": ["Sabor", "Kerchak", "Clayton", "Terk"],
+    "answer": "Sabor",
+    "category": "TV & Desenhos"
+  },
             {
     "question": "Em O Corcunda de Notre Dame, qual é o nome do sineiro deformado da catedral?",
     "options": ["Quasimodo", "Frollo", "Phoebus", "Clopin"],
