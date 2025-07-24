@@ -1,4 +1,170 @@
 [
+  
+  {
+    "question": "Em Abracadabra, qual o evento anual que ocorre em Salem e é o pano de fundo da história?",
+    "options": [
+      "Halloween",
+      "Natal",
+      "Ação de Graças",
+      "Páscoa"
+    ],
+    "answer": "Halloween",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Família Buscapé, qual o nome do patriarca da família que encontra petróleo?",
+    "options": [
+      "Jed Clampett",
+      "Jethro Bodine",
+      "Granny",
+      "Elly May"
+    ],
+    "answer": "Jed Clampett",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Família Buscapé, qual o nome da filha de Jed, que adora animais e é ingênua?",
+    "options": [
+      "Elly May",
+      "Granny",
+      "Pearl Bodine",
+      "Jethrine"
+    ],
+    "answer": "Elly May",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Família Buscapé, qual o nome do sobrinho de Jed, um homem forte e com pouca inteligência?",
+    "options": [
+      "Jethro Bodine",
+      "Jed Clampett",
+      "Granny",
+      "Milburn Drysdale"
+    ],
+    "answer": "Jethro Bodine",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Família Buscapé, qual o local onde a família Buscapé encontra petróleo?",
+    "options": [
+      "No quintal",
+      "Na floresta",
+      "No rio",
+      "Na montanha"
+    ],
+    "answer": "No quintal",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Família Buscapé, qual o nome da cidade para onde a família se muda após ficar rica?",
+    "options": [
+      "Beverly Hills",
+      "Hollywood",
+      "Nova York",
+      "Miami"
+    ],
+    "answer": "Beverly Hills",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Família Buscapé, qual o nome da secretária de Drysdale, que é apaixonada por Jethro?",
+    "options": [
+      "Jane Hathaway",
+      "Pearl Bodine",
+      "Elly May",
+      "Daisy Moses"
+    ],
+    "answer": "Jane Hathaway",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Família Buscapé, qual o animal de estimação de Elly May, um macaco?",
+    "options": [
+      "Duke",
+      "Jethro",
+      "Granny",
+      "Jed"
+    ],
+    "answer": "Duke",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Família Buscapé, qual o local onde a família Buscapé constrói sua nova casa em Beverly Hills?",
+    "options": [
+      "Uma mansão",
+      "Um rancho",
+      "Um apartamento",
+      "Uma cabana"
+    ],
+    "answer": "Uma mansão",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Família Buscapé, qual o tipo de comida que a vovó insiste em preparar para a família?",
+    "options": [
+      "Comida caipira",
+      "Comida francesa",
+      "Comida chinesa",
+      "Comida italiana"
+    ],
+    "answer": "Comida caipira",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Família Buscapé, qual o nome do personagem que se disfarça para enganar a família?",
+    "options": [
+      "Laura Jackson",
+      "Milburn Drysdale",
+      "Jethro Bodine",
+      "Jed Clampett"
+    ],
+    "answer": "Laura Jackson",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Entrevista com o Vampiro, qual o nome do vampiro que narra sua vida a um jornalista?",
+    "options": [
+      "Louis de Pointe",
+      "Lestat de Lioncourt",
+      "Armand",
+      "Daniel Molloy"
+    ],
+    "answer": "Louis de Pointe",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Entrevista com o Vampiro, qual o nome do vampiro que transforma Louis e é seu criador?",
+    "options": [
+      "Lestat de Lioncourt",
+      "Louis de Pointe",
+      "Armand",
+      "Santiago"
+    ],
+    "answer": "Lestat de Lioncourt",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Entrevista com o Vampiro, qual o nome da criança que é transformada em vampira por Lestat?",
+    "options": [
+      "Claudia",
+      "Madeleine",
+      "Yvette",
+      "Gabrielle"
+    ],
+    "answer": "Claudia",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Entrevista com o Vampiro, qual a cidade onde Louis e Lestat vivem no início da história?",
+    "options": [
+      "Nova Orleans",
+      "Paris",
+      "Londres",
+      "Roma"
+    ],
+    "answer": "Nova Orleans",
+    "category": "Cinema & Novelas"
+  },
              {
     "question": "Na mansão de A Família Addams, qual criatura de estimação é uma mão desmembrada com vida própria?",
     "options": [
