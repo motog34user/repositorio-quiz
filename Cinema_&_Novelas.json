@@ -1,5 +1,642 @@
 [
-  
+    {
+    "question": "Em Entrevista com o Vampiro, qual o nome do vampiro líder do coven de Paris, que se interessa por Louis?",
+    "options": [
+      "Armand",
+      "Santiago",
+      "Marius",
+      "Akasha"
+    ],
+    "answer": "Armand",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Entrevista com o Vampiro, qual o tipo de sangue que Louis prefere beber, diferente de Lestat?",
+    "options": [
+      "Animal",
+      "Humano",
+      "Sintético",
+      "Nenhum"
+    ],
+    "answer": "Animal",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Entrevista com o Vampiro, qual o destino final de Claudia, punida pelo coven de Paris?",
+    "options": [
+      "Morte ao sol",
+      "Prisão",
+      "Exílio",
+      "Transformação"
+    ],
+    "answer": "Morte ao sol",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Entrevista com o Vampiro, qual o objeto que Louis usa para registrar sua história?",
+    "options": [
+      "Gravador",
+      "Diário",
+      "Câmera",
+      "Pintura"
+    ],
+    "answer": "Gravador",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Ninguém Segura Este Bebê, qual o nome do bebê que é sequestrado e foge dos bandidos?",
+    "options": [
+      "Bink",
+      "Joe",
+      "Eddie",
+      "Norby"
+    ],
+    "answer": "Bink",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Ninguém Segura Este Bebê, qual o nome do líder dos sequestradores, o mais perigoso?",
+    "options": [
+      "Edgar 'Eddie' Mauser",
+      "Norby",
+      "Veeko",
+      "Joe"
+    ],
+    "answer": "Edgar 'Eddie' Mauser",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Ninguém Segura Este Bebê, qual o local que o bebê Bink visita primeiro, seguindo seu livro?",
+    "options": [
+      "Zoológico",
+      "Parque",
+      "Museu",
+      "Loja de brinquedos"
+    ],
+    "answer": "Zoológico",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Ninguém Segura Este Bebê, qual o animal que o bebê Bink interage no zoológico?",
+    "options": [
+      "Gorila",
+      "Leão",
+      "Elefante",
+      "Macaco"
+    ],
+    "answer": "Gorila",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Máskara, qual o nome do bancário tímido que encontra uma máscara mágica?",
+    "options": [
+      "Stanley Ipkiss",
+      "Milo",
+      "Tina Carlyle",
+      "Dorian Tyrell"
+    ],
+    "answer": "Stanley Ipkiss",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Máskara, qual o nome da mulher por quem Stanley se apaixona, uma cantora?",
+    "options": [
+      "Tina Carlyle",
+      "Peggy Brandt",
+      "Marilyn",
+      "Angela"
+    ],
+    "answer": "Tina Carlyle",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Máskara, qual o nome do gângster que é o principal inimigo de Máskara?",
+    "options": [
+      "Dorian Tyrell",
+      "Mitch Kellaway",
+      "Freeze",
+      "Cuban Pete"
+    ],
+    "answer": "Dorian Tyrell",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Máskara, qual o nome do cachorro de Stanley, que também usa a máscara?",
+    "options": [
+      "Milo",
+      "Max",
+      "Buddy",
+      "Rocky"
+    ],
+    "answer": "Milo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Máskara, qual o tipo de dança que Máskara e Tina fazem no clube Coco Bongo?",
+    "options": [
+      "Mambo",
+      "Samba",
+      "Tango",
+      "Cha-cha-cha"
+    ],
+    "answer": "Mambo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Máskara, qual o nome do detetive que persegue o Máskara?",
+    "options": [
+      "Tenente Mitch Kellaway",
+      "Detetive Doyle",
+      "Sargento Stone",
+      "Inspetor Gadget"
+    ],
+    "answer": "Tenente Mitch Kellaway",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Máskara, qual o local onde Stanley encontra a máscara pela primeira vez?",
+    "options": [
+      "No rio",
+      "Na rua",
+      "No lixo",
+      "Numa loja"
+    ],
+    "answer": "No rio",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Máskara, qual o nome do banco onde Stanley Ipkiss trabalha?",
+    "options": [
+      "Edge City Bank",
+      "First National Bank",
+      "City Bank",
+      "Central Bank"
+    ],
+    "answer": "Edge City Bank",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Máskara, qual o nome da jornalista que Stanley tenta impressionar?",
+    "options": [
+      "Peggy Brandt",
+      "Tina Carlyle",
+      "Angela",
+      "Marilyn"
+    ],
+    "answer": "Peggy Brandt",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Máskara, qual o local onde acontece o confronto final entre Máskara e Dorian?",
+    "options": [
+      "Clube Coco Bongo",
+      "Banco",
+      "Prisão",
+      "Mansão"
+    ],
+    "answer": "Clube Coco Bongo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Máskara, qual o nome do parceiro do Tenente Kellaway?",
+    "options": [
+      "Detetive Doyle",
+      "Sargento Stone",
+      "Oficial Miller",
+      "Agente Smith"
+    ],
+    "answer": "Detetive Doyle",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Máskara, qual o nome do clube noturno onde Tina Carlyle se apresenta?",
+    "options": [
+      "Coco Bongo",
+      "The Blue Note",
+      "The Viper Room",
+      "The Roxy"
+    ],
+    "answer": "Coco Bongo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Máskara, qual o tipo de música que Máskara canta para a polícia?",
+    "options": [
+      "Cuban Pete",
+      "Jazz",
+      "Blues",
+      "Rock"
+    ],
+    "answer": "Cuban Pete",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Máskara, qual o nome do psiquiatra que Stanley consulta sobre seus sonhos?",
+    "options": [
+      "Dr. Neuman",
+      "Dr. Phil",
+      "Dr. Freud",
+      "Dr. Jekyll"
+    ],
+    "answer": "Dr. Neuman",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Os Batutinhas, qual o nome do clube secreto dos meninos, que proíbe meninas?",
+    "options": [
+      "Clube dos Homens",
+      "Clube Anti-Mulheres",
+      "Clube dos Batutinhas",
+      "Clube Secreto"
+    ],
+    "answer": "Clube Anti-Mulheres",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Os Batutinhas, qual o nome do líder do clube, que se apaixona por Darla?",
+    "options": [
+      "Alfalfa",
+      "Spanky",
+      "Buckwheat",
+      "Porky"
+    ],
+    "answer": "Alfalfa",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Os Batutinhas, qual o nome da menina por quem Alfalfa se apaixona, causando problemas?",
+    "options": [
+      "Darla",
+      "Waldo",
+      "Mary Ann",
+      "Penelope"
+    ],
+    "answer": "Darla",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Os Batutinhas, qual o nome do garoto rico e esnobe que compete com Alfalfa por Darla?",
+    "options": [
+      "Waldo Aloysius Johnston III",
+      "Butch",
+      "Woim",
+      "Stymie"
+    ],
+    "answer": "Waldo Aloysius Johnston III",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Os Batutinhas, qual o evento que os Batutinhas organizam para arrecadar dinheiro?",
+    "options": [
+      "Corrida",
+      "Show de talentos",
+      "Leilão",
+      "Feira"
+    ],
+    "answer": "Corrida",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Os Batutinhas, qual o nome do garoto que tem uma voz rouca e usa óculos?",
+    "options": [
+      "Froggy",
+      "Porky",
+      "Buckwheat",
+      "Stymie"
+    ],
+    "answer": "Froggy",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Arrebentando em Nova York, qual o local onde a tia de Jackie tem uma loja de conveniência?",
+    "options": [
+      "Bronx",
+      "Manhattan",
+      "Brooklyn",
+      "Queens"
+    ],
+    "answer": "Bronx",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Arrebentando em Nova York, qual o nome da mulher que Jackie ajuda e que é uma dançarina?",
+    "options": [
+      "Nancy",
+      "Elaine",
+      "Michelle",
+      "Karen"
+    ],
+    "answer": "Nancy",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Arrebentando em Nova York, qual o nome do garoto em cadeira de rodas que Jackie protege?",
+    "options": [
+      "Danny",
+      "Mark",
+      "Billy",
+      "Jimmy"
+    ],
+    "answer": "Danny",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Arrebentando em Nova York, qual o meio de transporte que Jackie usa para perseguir os bandidos no final?",
+    "options": [
+      "Hovercraft",
+      "Carro",
+      "Moto",
+      "Barco"
+    ],
+    "answer": "Hovercraft",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Arrebentando em Nova York, qual o nome do parceiro de Tony, o líder da gangue?",
+    "options": [
+      "Angelo",
+      "Marco",
+      "Vinnie",
+      "Frankie"
+    ],
+    "answer": "Angelo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Batman Eternamente, qual o nome do vilão que tem o rosto desfigurado e é obcecado por dualidade?",
+    "options": [
+      "Duas-Caras",
+      "Charada",
+      "Coringa",
+      "Pinguim"
+    ],
+    "answer": "Duas-Caras",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Batman Eternamente, qual o nome do jovem acrobata que se torna Robin?",
+    "options": [
+      "Dick Grayson",
+      "Jason Todd",
+      "Tim Drake",
+      "Damian Wayne"
+    ],
+    "answer": "Dick Grayson",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Batman Eternamente, qual o objeto que o Duas-Caras usa para tomar decisões?",
+    "options": [
+      "Moeda",
+      "Dado",
+      "Carta",
+      "Pedra"
+    ],
+    "answer": "Moeda",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Batman Eternamente, qual o nome do comissário de polícia que trabalha com Batman?",
+    "options": [
+      "Comissário Gordon",
+      "Comissário Bullock",
+      "Comissário Loeb",
+      "Comissário Essen"
+    ],
+    "answer": "Comissário Gordon",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Batman Eternamente, qual o nome do ator que interpreta Batman neste filme?",
+    "options": [
+      "Val Kilmer",
+      "Michael Keaton",
+      "George Clooney",
+      "Christian Bale"
+    ],
+    "answer": "Val Kilmer",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Batman Eternamente, qual o tipo de traje que o Charada usa, com um ponto de interrogação?",
+    "options": [
+      "Macacão verde",
+      "Terno roxo",
+      "Capa preta",
+      "Armadura"
+    ],
+    "answer": "Macacão verde",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Debi & Loide, qual o nome do personagem com o dente quebrado e o cabelo tigela?",
+    "options": [
+      "Lloyd Christmas",
+      "Harry Dunne",
+      "Mary Swanson",
+      "Nicholas Andre"
+    ],
+    "answer": "Lloyd Christmas",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Debi & Loide, qual o nome do personagem com cabelo loiro e um carro peculiar?",
+    "options": [
+      "Harry Dunne",
+      "Lloyd Christmas",
+      "Mary Swanson",
+      "Nicholas Andre"
+    ],
+    "answer": "Harry Dunne",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Debi & Loide, qual o nome da mulher por quem Lloyd se apaixona e tenta devolver a mala?",
+    "options": [
+      "Mary Swanson",
+      "Beth Jordan",
+      "Jessica",
+      "Sarah"
+    ],
+    "answer": "Mary Swanson",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Debi & Loide, qual o objeto que os protagonistas tentam devolver a Mary?",
+    "options": [
+      "Uma maleta",
+      "Uma bolsa",
+      "Uma mochila",
+      "Uma caixa"
+    ],
+    "answer": "Uma maleta",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Debi & Loide, qual o meio de transporte que eles usam para viajar para Aspen?",
+    "options": [
+      "Van de cachorro",
+      "Carro de luxo",
+      "Avião",
+      "Trem"
+    ],
+    "answer": "Van de cachorro",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Debi & Loide, qual o nome da cidade para onde Mary Swanson estava indo?",
+    "options": [
+      "Aspen",
+      "Denver",
+      "Nova York",
+      "Los Angeles"
+    ],
+    "answer": "Aspen",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Debi & Loide, qual o objeto que Harry e Lloyd usam para pagar suas despesas na viagem?",
+    "options": [
+      "O dinheiro da maleta",
+      "Cartão de crédito",
+      "Cheque",
+      "Empréstimo"
+    ],
+    "answer": "O dinheiro da maleta",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Debi & Loide, qual o nome do papagaio que Harry compra para Mary?",
+    "options": [
+      "Petey",
+      "Polly",
+      "Skippy",
+      "Tweety"
+    ],
+    "answer": "Petey",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Debi & Loide, qual o nome do vilão que contrata os sequestradores de Mary?",
+    "options": [
+      "Nicholas Andre",
+      "Joe Mentalino",
+      "Shay",
+      "J.P. Shay"
+    ],
+    "answer": "Nicholas Andre",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Gasparzinho, qual o nome da garota que se muda para a mansão e faz amizade com Gasparzinho?",
+    "options": [
+      "Kat Harvey",
+      "Carrigan Crittenden",
+      "Amelia Harvey",
+      "Christina Ricci"
+    ],
+    "answer": "Kat Harvey",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Gasparzinho, qual o nome do pai de Kat, um terapeuta de fantasmas?",
+    "options": [
+      "Dr. James Harvey",
+      "Carrigan Crittenden",
+      "Dibbs",
+      "Bill Pullman"
+    ],
+    "answer": "Dr. James Harvey",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Gasparzinho, qual o nome do dispositivo que o pai de Gasparzinho inventou para trazer fantasmas de volta?",
+    "options": [
+      "Lazarus",
+      "Máquina do tempo",
+      "Reanimador",
+      "Fantasma-izador"
+    ],
+    "answer": "Lazarus",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Juiz Dredd, qual o tipo de arma que os Juízes usam, que tem várias funções?",
+    "options": [
+      "Lawgiver",
+      "Plasma Gun",
+      "Laser Rifle",
+      "Assault Rifle"
+    ],
+    "answer": "Lawgiver",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Juiz Dredd, qual o meio de transporte que os Juízes usam na cidade?",
+    "options": [
+      "Moto",
+      "Carro voador",
+      "Trem",
+      "Ônibus"
+    ],
+    "answer": "Moto",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Mortal Kombat, qual o nome do astro de cinema que busca provar suas habilidades?",
+    "options": [
+      "Johnny Cage",
+      "Liu Kang",
+      "Sonya Blade",
+      "Raiden"
+    ],
+    "answer": "Johnny Cage",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Mortal Kombat, qual o nome do deus do trovão que guia os heróis no torneio?",
+    "options": [
+      "Raiden",
+      "Shang Tsung",
+      "Goro",
+      "Sub-Zero"
+    ],
+    "answer": "Raiden",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Mortal Kombat, qual o nome do príncipe Shokan de quatro braços, campeão de Mortal Kombat?",
+    "options": [
+      "Goro",
+      "Reptile",
+      "Scorpion",
+      "Sub-Zero"
+    ],
+    "answer": "Goro",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Mortal Kombat, qual o nome do ninja que controla o gelo?",
+    "options": [
+      "Sub-Zero",
+      "Scorpion",
+      "Reptile",
+      "Ermac"
+    ],
+    "answer": "Sub-Zero",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Mortal Kombat, qual o nome do ninja que controla o fogo e tem um arpão?",
+    "options": [
+      "Scorpion",
+      "Sub-Zero",
+      "Reptile",
+      "Ermac"
+    ],
+    "answer": "Scorpion",
+    "category": "Cinema & Novelas"
+  },
   {
     "question": "Em Abracadabra, qual o evento anual que ocorre em Salem e é o pano de fundo da história?",
     "options": [
