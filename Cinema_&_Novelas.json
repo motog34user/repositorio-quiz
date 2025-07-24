@@ -1,4 +1,172 @@
 ﻿[
+          {
+    "question": "Qual o nome da toxina que o Coringa planeja usar para envenenar Gotham City em Batman de 1989?",
+    "options": ["Smilex", "Joker Venom", "Laughing Gas", "Acid Smile"],
+    "answer": "Smilex",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o principal aspecto visual da cidade de Gotham em Batman de 1989?",
+    "options": ["Gótico", "Moderno", "Futurista", "Clássico"],
+    "answer": "Gótico",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A História Sem Fim 2, para qual mundo Bastian retorna?",
+    "options": ["Fantasia", "Nárnia", "Oz", "Wonderland"],
+    "answer": "Fantasia",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome da feiticeira maligna que é a principal vilã em A História Sem Fim 2?",
+    "options": ["Xayide", "Imperatriz", "Gmork", "Morla"],
+    "answer": "Xayide",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A História Sem Fim 2, qual o objeto mágico que Bastian usa para viajar?",
+    "options": ["Livro", "Amuleto", "Anel", "Espada"],
+    "answer": "Livro",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome do dragão da sorte que ajuda Bastian em A História Sem Fim 2?",
+    "options": ["Falkor", "Smaug", "Draco", "Saphira"],
+    "answer": "Falkor",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A História Sem Fim 2, o que Xayide rouba de Bastian a cada desejo?",
+    "options": ["Memórias", "Poderes", "Sonhos", "Amigos"],
+    "answer": "Memórias",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome do guerreiro que acompanha Bastian em A História Sem Fim 2?",
+    "options": ["Atreyu", "Bastian", "Gmork", "Urgl"],
+    "answer": "Atreyu",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual a profissão de Peg Boggs, a mulher que encontra Edward Mãos de Tesoura?",
+    "options": ["Vendedora de cosméticos", "Cabeleireira", "Jardineira", "Professora"],
+    "answer": "Vendedora de cosméticos",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Edward Mãos de Tesoura, qual o nome da filha de Peg por quem Edward se apaixona?",
+    "options": ["Kim", "Joyce", "Peg", "Marge"],
+    "answer": "Kim",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o principal local onde Edward Mãos de Tesoura vive antes de ser encontrado?",
+    "options": ["Castelo gótico", "Mansão abandonada", "Caverna escura", "Floresta densa"],
+    "answer": "Castelo gótico",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o principal tema social abordado em Edward Mãos de Tesoura?",
+    "options": ["Aceitação da diferença", "Amor proibido", "Vingança", "Justiça"],
+    "answer": "Aceitação da diferença",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o principal tipo de artefato que Edward cria com suas mãos em Edward Mãos de Tesoura, além das esculturas?",
+    "options": ["Arbustos", "Roupas", "Móveis", "Brinquedos"],
+    "answer": "Arbustos",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Esqueceram de Mim, qual o nome do garoto que é esquecido pela família?",
+    "options": ["Kevin McCallister", "Buzz McCallister", "Harry Lime", "Marv Merchants"],
+    "answer": "Kevin McCallister",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Para qual cidade a família de Kevin viaja em Esqueceram de Mim?",
+    "options": ["Paris", "Londres", "Roma", "Nova York"],
+    "answer": "Paris",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome da mãe de Kevin que tenta voltar para casa em Esqueceram de Mim?",
+    "options": ["Kate McCallister", "Megan McCallister", "Linnie McCallister", "Leslie McCallister"],
+    "answer": "Kate McCallister",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Esqueceram de Mim, qual o principal método de defesa de Kevin contra os ladrões?",
+    "options": ["Armadilhas", "Lutas marciais", "Armas de fogo", "Chamar a polícia"],
+    "answer": "Armadilhas",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Esqueceram de Mim, qual a época do ano em que o filme se passa?",
+    "options": ["Natal", "Halloween", "Páscoa", "Verão"],
+    "answer": "Natal",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Esqueceram de Mim, qual o principal local da ação do filme?",
+    "options": ["Casa de Kevin", "Aeroporto", "Hotel", "Delegacia"],
+    "answer": "Casa de Kevin",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Ghost, qual o nome do protagonista que é assassinado e se torna um fantasma?",
+    "options": ["Sam Wheat", "Carl Bruner", "Willie Lopez", "Oda Mae Brown"],
+    "answer": "Sam Wheat",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome da namorada de Sam com quem ele tenta se comunicar em Ghost?",
+    "options": ["Molly Jensen", "Clara", "Susan", "Lisa"],
+    "answer": "Molly Jensen",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Ghost, qual o nome da médium que consegue ouvir Sam?",
+    "options": ["Oda Mae Brown", "Whoopi Goldberg", "Clara", "Susan"],
+    "answer": "Oda Mae Brown",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome do amigo de Sam que planejou seu assassinato em Ghost?",
+    "options": ["Carl Bruner", "Willie Lopez", "Vincent", "Louis"],
+    "answer": "Carl Bruner",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual a principal habilidade que Sam adquire como fantasma em Ghost?",
+    "options": ["Mover objetos", "Voar", "Ler mentes", "Ficar invisível"],
+    "answer": "Mover objetos",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Ghost, qual a cena icônica que Sam e Molly compartilham, envolvendo argila?",
+    "options": ["Torno de cerâmica", "Pintura", "Dança", "Canto"],
+    "answer": "Torno de cerâmica",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o principal tema central explorado em Ghost, sobre o relacionamento?",
+    "options": ["Amor que transcende", "Amizade verdadeira", "Vingança", "Perdão"],
+    "answer": "Amor que transcende",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Ghost, qual o principal objetivo de Sam como fantasma?",
+    "options": ["Justiça", "Paz", "Riqueza", "Fama"],
+    "answer": "Justiça",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome do assassino de Sam, contratado por Carl, em Ghost?",
+    "options": ["Willie Lopez", "Vincent", "Louis", "Tony"],
+    "answer": "Willie Lopez",
+    "category": "Cinema & Novelas"
+  },
        {
     "question": "Em O Voo do Navegador, por quantos anos David Freeman desaparece antes de retornar?",
     "options": ["Oito anos", "Sete anos", "Seis anos", "Cinco anos"],
