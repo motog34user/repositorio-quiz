@@ -1,4 +1,184 @@
 [
+        {
+    "question": "No filme Independence Day, o que o presidente Whitmore faz antes do ataque final?",
+    "options": ["Discurso motivacional", "Evacua a base", "Prepara a fuga", "Negocia com aliens"],
+    "answer": "Discurso motivacional",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Independence Day, qual estrutura icônica de Nova York é destruída primeiro?",
+    "options": ["Estátua da Liberdade", "Empire State Building", "Ponte do Brooklyn", "World Trade Center"],
+    "answer": "Empire State Building",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual piloto em Independence Day se sacrifica para destruir uma nave-mãe?",
+    "options": ["Russell Casse", "Steven Hiller", "Jimmy Wilder", "Miguel Casse"],
+    "answer": "Russell Casse",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual cidade é o primeiro alvo dos alienígenas em Independence Day?",
+    "options": ["Los Angeles", "Nova York", "Washington D.C.", "Londres"],
+    "answer": "Los Angeles",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "O que o personagem David Levinson usa para desativar os escudos alienígenas em Independence Day?",
+    "options": ["Laptop e vírus", "Bomba nuclear", "Raio laser", "Dispositivo sônico"],
+    "answer": "Laptop e vírus",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o plano de contra-ataque final contra os alienígenas em Independence Day?",
+    "options": ["Ataque com mísseis", "Vírus e bombas", "Negociação", "Evacuação global"],
+    "answer": "Vírus e bombas",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Independence Day, qual é a reação inicial da população aos discos voadores?",
+    "options": ["Curiosidade", "Pânico", "Celebração", "Indiferença"],
+    "answer": "Celebração",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "O que acontece com a Casa Branca em Independence Day?",
+    "options": ["Destruída", "Evacuada", "Invadida", "Protegida"],
+    "answer": "Destruída",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é a função da nave-mãe alienígena em Independence Day?",
+    "options": ["Comando central", "Transporte", "Armazenamento", "Exploração"],
+    "answer": "Comando central",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Missão Impossível, qual é a especialidade de Luther Stickell na equipe?",
+    "options": ["Hacker", "Explosivos", "Disfarces", "Atirador"],
+    "answer": "Hacker",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é a agência de espionagem de Ethan Hunt em Missão Impossível?",
+    "options": ["IMF", "CIA", "FBI", "MI6"],
+    "answer": "IMF",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Space Jam, qual é o nome do time de basquete dos alienígenas?",
+    "options": ["Monstars", "Nerdlucks", "Goon Squad", "Toon Squad"],
+    "answer": "Monstars",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual jogador de basquete os Looney Tunes recrutam em Space Jam?",
+    "options": ["Michael Jordan", "LeBron James", "Shaquille O'Neal", "Charles Barkley"],
+    "answer": "Michael Jordan",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Space Jam, de onde os Monstars roubam o talento dos jogadores da NBA?",
+    "options": ["Corpos", "Memórias", "Sapatos", "Bolas"],
+    "answer": "Corpos",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "O que os Looney Tunes apostam contra os Monstars em Space Jam?",
+    "options": ["Liberdade", "Dinheiro", "Planeta", "Talentos"],
+    "answer": "Liberdade",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Space Jam, qual esporte Michael Jordan está tentando jogar após se aposentar?",
+    "options": ["Beisebol", "Golfe", "Futebol", "Tênis"],
+    "answer": "Beisebol",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o nome da nova personagem feminina Looney Tune introduzida em Space Jam?",
+    "options": ["Lola Bunny", "Tina Russo", "Penelope Pussycat", "Melissa Duck"],
+    "answer": "Lola Bunny",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Space Jam, como os Monstars se tornam grandes e fortes?",
+    "options": ["Absorvendo talento", "Treinando muito", "Comendo muito", "Magia"],
+    "answer": "Absorvendo talento",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual item Michael Jordan usa para fazer a cesta final em Space Jam?",
+    "options": ["Braço esticado", "Bola de boliche", "Mola", "Corda"],
+    "answer": "Braço esticado",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "O que Michael Jordan perde durante o jogo em Space Jam?",
+    "options": ["Seu tênis", "Sua camisa", "Sua bola", "Sua sorte"],
+    "answer": "Seu tênis",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Austin Powers Um Agente Nada Discreto, qual é o arqui-inimigo de Austin?",
+    "options": ["Dr. Evil", "Número Dois", "Fat Bastard", "Goldmember"],
+    "answer": "Dr. Evil",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Austin Powers Um Agente Nada Discreto, qual é o método de viagem no tempo?",
+    "options": ["Criogenia", "Máquina", "Portal", "Feitiço"],
+    "answer": "Criogenia",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o nome da assistente de Austin Powers em Austin Powers Um Agente Nada Discreto?",
+    "options": ["Vanessa Kensington", "Felicity Shagwell", "Foxxy Cleopatra", "Moneypenny"],
+    "answer": "Vanessa Kensington",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Austin Powers Um Agente Nada Discreto, qual é o animal de estimação de Dr. Evil?",
+    "options": ["Gato persa", "Cachorro", "Pássaro", "Peixe"],
+    "answer": "Gato persa",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o nome do filho de Dr. Evil em Austin Powers Um Agente Nada Discreto?",
+    "options": ["Scott Evil", "Mini-Me", "Fat Bastard", "Frau Farbissina"],
+    "answer": "Scott Evil",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é a frase de efeito de Austin Powers em Austin Powers Um Agente Nada Discreto?",
+    "options": ["Yeah, baby!", "Shagadelic!", "Groovy!", "Oh, behave!"],
+    "answer": "Yeah, baby!",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Austin Powers Um Agente Nada Discreto, qual é o nome do capanga de Dr. Evil com um olho só?",
+    "options": ["Número Dois", "Random Task", "Mustafa", "Paddy O'Brien"],
+    "answer": "Número Dois",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "O que Austin Powers faz para se adaptar aos anos 90 em Austin Powers Um Agente Nada Discreto?",
+    "options": ["Tenta ser moderno", "Ignora tudo", "Volta ao passado", "Pede ajuda"],
+    "answer": "Tenta ser moderno",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Austin Powers Um Agente Nada Discreto, qual é a principal característica do dente de Austin?",
+    "options": ["Torto", "Dourado", "Falso", "Brilhante"],
+    "answer": "Torto",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Batman e Robin, qual é o principal vilão que Batman e Robin enfrentam?",
+    "options": ["Sr. Frio", "Hera Venenosa", "Bane", "Charada"],
+    "answer": "Sr. Frio",
+    "category": "Cinema & Novelas"
+  },
       {
     "question": "Em Mortal Kombat, qual o nome do imperador de Outworld que Shang Tsung serve?",
     "options": [
