@@ -1,4 +1,178 @@
 [
+           {
+    "question": "O que Liu Kang precisa encontrar para derrotar Shao Kahn em Mortal Kombat A Aniquilação?",
+    "options": ["Seu Animality", "Sua arma", "Seu mestre", "Sua família"],
+    "answer": "Seu Animality",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Mortal Kombat A Aniquilação, qual é o nome do templo onde os heróis buscam ajuda?",
+    "options": ["Templo dos Deuses", "Templo Shaolin", "Templo do Dragão", "Templo da Luz"],
+    "answer": "Templo dos Deuses",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "O que acontece com o reino da Terra se Shao Kahn vencer em Mortal Kombat A Aniquilação?",
+    "options": ["Fundido com Outworld", "Destruído", "Escravizado", "Conquistado"],
+    "answer": "Fundido com Outworld",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Mr. Nice Guy, qual é a profissão de Jackie Chan?",
+    "options": ["Cozinheiro", "Policial", "Jornalista", "Motorista"],
+    "answer": "Cozinheiro",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual objeto Jackie Chan acidentalmente pega em Mr. Nice Guy?",
+    "options": ["Fita de vídeo", "Maleta", "Dinheiro", "Arma"],
+    "answer": "Fita de vídeo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Mr. Nice Guy, qual é o nome da repórter que se envolve na confusão?",
+    "options": ["Diana", "Miki", "Lakisha", "Samantha"],
+    "answer": "Diana",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o grupo criminoso que persegue Jackie Chan em Mr. Nice Guy?",
+    "options": ["Gangue", "Máfia", "Tríade", "Cartel"],
+    "answer": "Gangue",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "O que a fita de vídeo em Mr. Nice Guy contém?",
+    "options": ["Evidências", "Dinheiro", "Segredos", "Informações"],
+    "answer": "Evidências",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o principal método de combate de Jackie Chan em Mr. Nice Guy?",
+    "options": ["Improvisação", "Armas", "Artes marciais", "Força bruta"],
+    "answer": "Improvisação",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o nome do chefe da gangue em Mr. Nice Guy?",
+    "options": ["Giancarlo", "Romeo", "Tony", "Frank"],
+    "answer": "Giancarlo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "O que Jackie Chan usa para se defender de vários inimigos em Mr. Nice Guy?",
+    "options": ["Objetos do ambiente", "Armas", "Artes marciais", "Seus punhos"],
+    "answer": "Objetos do ambiente",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Mr. Nice Guy, qual é o objetivo da gangue?",
+    "options": ["Recuperar a fita", "Matar Jackie", "Assaltar", "Vingar-se"],
+    "answer": "Recuperar a fita",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Quinto Elemento, qual é a ameaça que o universo enfrenta a cada 5 mil anos?",
+    "options": ["O Mal Absoluto", "Aliens", "Buraco Negro", "Cometa"],
+    "answer": "O Mal Absoluto",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o nome do taxista que se torna herói em O Quinto Elemento?",
+    "options": ["Korben Dallas", "Jean-Baptiste", "Zorg", "Ruby Rhod"],
+    "answer": "Korben Dallas",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Quinto Elemento, qual é o nome da mulher que é o Quinto Elemento?",
+    "options": ["Leeloo", "Diva Plavalaguna", "Mondoshawan", "Ruby Rhod"],
+    "answer": "Leeloo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o principal meio de transporte em O Quinto Elemento?",
+    "options": ["Táxis voadores", "Naves espaciais", "Carros", "Trens"],
+    "answer": "Táxis voadores",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Quinto Elemento, qual é o nome da raça alienígena que protege os elementos?",
+    "options": ["Mondoshawans", "Mangalores", "Korben", "Zorg"],
+    "answer": "Mondoshawans",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é a cor do cabelo de Leeloo em O Quinto Elemento?",
+    "options": ["Laranja", "Vermelho", "Loiro", "Branco"],
+    "answer": "Laranja",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Spawn O Soldado do Inferno, qual é o nome do agente que se torna Spawn?",
+    "options": ["Al Simmons", "Jason Wynn", "Cogliostro", "Violator"],
+    "answer": "Al Simmons",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Spawn O Soldado do Inferno, qual é o nome do demônio que guia Spawn?",
+    "options": ["Cogliostro", "Violator", "Malebolgia", "Jason Wynn"],
+    "answer": "Cogliostro",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o objetivo de Malebolgia em Spawn O Soldado do Inferno?",
+    "options": ["Iniciar o Armagedom", "Dominar o inferno", "Recrutar almas", "Destruir a Terra"],
+    "answer": "Iniciar o Armagedom",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o nome da esposa de Al Simmons em Spawn O Soldado do Inferno?",
+    "options": ["Wanda Blake", "Jessica Priest", "Terry Fitzgerald", "Lisa"],
+    "answer": "Wanda Blake",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Spawn O Soldado do Inferno, qual é a principal habilidade de Violator?",
+    "options": ["Metamorfose", "Força", "Magia", "Telepatia"],
+    "answer": "Metamorfose",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "O que Spawn tenta proteger em Spawn O Soldado do Inferno?",
+    "options": ["Sua família", "A Terra", "Sua vida", "Sua alma"],
+    "answer": "Sua família",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Spawn O Soldado do Inferno, qual é o nome da filha de Wanda?",
+    "options": ["Cyan", "Beth", "Sarah", "Emily"],
+    "answer": "Cyan",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o nome do local onde Spawn é ressuscitado em Spawn O Soldado do Inferno?",
+    "options": ["Beco", "Cemitério", "Laboratório", "Hospital"],
+    "answer": "Beco",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Spawn O Soldado do Inferno, qual é o papel de Malebolgia?",
+    "options": ["Senhor do Inferno", "Demônio", "Anjo", "Deus"],
+    "answer": "Senhor do Inferno",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Spawn O Soldado do Inferno, qual é o nome da agente que trabalha com Jason Wynn?",
+    "options": ["Jessica Priest", "Wanda Blake", "Terry Fitzgerald", "Lisa"],
+    "answer": "Jessica Priest",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "O que Spawn descobre sobre sua morte em Spawn O Soldado do Inferno?",
+    "options": ["Foi traído", "Foi acidente", "Foi planejado", "Foi suicídio"],
+    "answer": "Foi traído",
+    "category": "Cinema & Novelas"
+  }, 
           {
     "question": "Em Batman e Robin, qual é o nome da sobrinha de Alfred que se torna Batgirl?",
     "options": ["Barbara Wilson", "Selina Kyle", "Harley Quinn", "Pamela Isley"],
