@@ -1,4 +1,555 @@
-﻿[
+[
+             {
+    "question": "Na mansão de A Família Addams, qual criatura de estimação é uma mão desmembrada com vida própria?",
+    "options": [
+      "Mãozinha",
+      "Fester",
+      "Gomez",
+      "Morticia"
+    ],
+    "answer": "Mãozinha",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Família Addams, qual a única parte visível do Primo Itt, que tem uma voz incompreensível?",
+    "options": [
+      "Cabelo",
+      "Pelo",
+      "Pele",
+      "Tecido"
+    ],
+    "answer": "Cabelo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Na história de A Família Addams, qual o nome da filha de Gomez e Morticia, conhecida por sua seriedade?",
+    "options": [
+      "Wandinha",
+      "Pugsley",
+      "Vovó",
+      "Abigail"
+    ],
+    "answer": "Wandinha",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Família Addams, qual o nome da esposa de Gomez, com paixão por rosas e veneno?",
+    "options": [
+      "Morticia",
+      "Wandinha",
+      "Vovó",
+      "Debbie"
+    ],
+    "answer": "Morticia",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Família Addams, qual o nome do patriarca da família, um homem apaixonado por sua esposa?",
+    "options": [
+      "Gomez",
+      "Fester",
+      "Lurch",
+      "Pugsley"
+    ],
+    "answer": "Gomez",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Na mansão de A Família Addams, qual o cômodo que esconde passagens secretas e armadilhas?",
+    "options": [
+      "Cozinha",
+      "Biblioteca",
+      "Sala de estar",
+      "Laboratório"
+    ],
+    "answer": "Biblioteca",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Família Addams, qual o nome da avó da família, que prepara poções e feitiços?",
+    "options": [
+      "Vovó Addams",
+      "Morticia",
+      "Wandinha",
+      "Debbie"
+    ],
+    "answer": "Vovó Addams",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Família Addams, qual o nome do falso Tio Fester que tenta roubar a fortuna da família?",
+    "options": [
+      "Gordon",
+      "Tully",
+      "Lurch",
+      "Gomez"
+    ],
+    "answer": "Gordon",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Na escola de A Família Addams, qual a peça teatral que Wandinha e Pugsley encenam?",
+    "options": [
+      "João e Maria",
+      "Romeu e Julieta",
+      "Hamlet",
+      "A Bela Adormecida"
+    ],
+    "answer": "Hamlet",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Exterminador do Futuro 2, qual o nome do jovem que é o futuro líder da resistência humana?",
+    "options": [
+      "John Connor",
+      "Kyle Reese",
+      "Miles Dyson",
+      "T-800"
+    ],
+    "answer": "John Connor",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Exterminador do Futuro 2, qual o modelo do Exterminador enviado para proteger John Connor?",
+    "options": [
+      "T-1000",
+      "T-800",
+      "T-X",
+      "T-600"
+    ],
+    "answer": "T-800",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Exterminador do Futuro 2, qual o modelo do Exterminador antagonista, feito de metal líquido?",
+    "options": [
+      "T-800",
+      "T-1000",
+      "T-X",
+      "T-600"
+    ],
+    "answer": "T-1000",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Exterminador do Futuro 2, qual o nome da mãe de John, uma figura central na luta contra a Skynet?",
+    "options": [
+      "Sarah Connor",
+      "Kate Brewster",
+      "Vicki",
+      "Grace"
+    ],
+    "answer": "Sarah Connor",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Exterminador do Futuro 2, qual o nome da inteligência artificial que inicia o Dia do Julgamento?",
+    "options": [
+      "Skynet",
+      "Cyberdyne",
+      "Legion",
+      "Ultron"
+    ],
+    "answer": "Skynet",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Exterminador do Futuro 2, qual o local onde Sarah Connor está internada no início do filme?",
+    "options": [
+      "Hospital psiquiátrico",
+      "Prisão",
+      "Base militar",
+      "Centro de pesquisa"
+    ],
+    "answer": "Hospital psiquiátrico",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Exterminador do Futuro 2, qual o tipo de arma que o T-800 usa para se defender no shopping?",
+    "options": [
+      "Escopeta",
+      "Pistola",
+      "Rifle",
+      "Faca"
+    ],
+    "answer": "Escopeta",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Exterminador do Futuro 2, qual o meio de transporte que John Connor usa para fugir no início?",
+    "options": [
+      "Moto",
+      "Bicicleta",
+      "Carro",
+      "Ônibus"
+    ],
+    "answer": "Moto",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Exterminador do Futuro 2, qual o local onde o T-1000 é finalmente destruído?",
+    "options": [
+      "Siderúrgica",
+      "Usina nuclear",
+      "Laboratório",
+      "Shopping"
+    ],
+    "answer": "Siderúrgica",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Exterminador do Futuro 2, qual a frase icônica dita pelo T-800 ao final do filme?",
+    "options": [
+      "Hasta la vista",
+      "Eu voltarei",
+      "Eu preciso de férias",
+      "Adeus"
+    ],
+    "answer": "Hasta la vista",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Operação Condor, qual o país onde a maior parte da aventura se passa, no deserto?",
+    "options": [
+      "Saara",
+      "Egito",
+      "Marrocos",
+      "Deserto do Atacama"
+    ],
+    "answer": "Saara",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Operação Condor, qual o tipo de tesouro que Jackie está procurando no deserto?",
+    "options": [
+      "Ouro nazista",
+      "Diamantes",
+      "Joias",
+      "Artefatos antigos"
+    ],
+    "answer": "Ouro nazista",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Operação Condor, qual o nome da historiadora que acompanha Jackie na jornada?",
+    "options": [
+      "Ada",
+      "Elsa",
+      "Carol",
+      "Mina"
+    ],
+    "answer": "Ada",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Operação Condor, qual o tipo de veículo que eles usam para atravessar o deserto?",
+    "options": [
+      "Jipe",
+      "Moto",
+      "Caminhão",
+      "Avião"
+    ],
+    "answer": "Jipe",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Operação Condor, qual o nome da mulher que se junta ao grupo e é filha de um militar?",
+    "options": [
+      "Elsa",
+      "Ada",
+      "Carol",
+      "Mina"
+    ],
+    "answer": "Elsa",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Operação Condor, qual o nome do vilão que também busca o tesouro nazista?",
+    "options": [
+      "Adolf",
+      "Barão",
+      "Hans",
+      "Wolfgang"
+    ],
+    "answer": "Adolf",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Drácula de Bram Stoker, qual o nome da mulher que é a reencarnação da amada de Drácula?",
+    "options": [
+      "Mina Murray",
+      "Lucy Westenra",
+      "Elisabeta",
+      "Maria"
+    ],
+    "answer": "Mina Murray",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Drácula de Bram Stoker, qual o nome do advogado que viaja para a Transilvânia e é aprisionado?",
+    "options": [
+      "Jonathan Harker",
+      "Arthur Holmwood",
+      "Quincey Morris",
+      "Dr. Seward"
+    ],
+    "answer": "Jonathan Harker",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Drácula de Bram Stoker, qual o país de origem de Drácula, onde fica seu castelo?",
+    "options": [
+      "Romênia",
+      "Hungria",
+      "Sérvia",
+      "Bulgária"
+    ],
+    "answer": "Romênia",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Drácula de Bram Stoker, qual o local onde Drácula tenta morder Mina pela primeira vez?",
+    "options": [
+      "Teatro",
+      "Jardim",
+      "Asilo",
+      "Cemitério"
+    ],
+    "answer": "Teatro",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Drácula de Bram Stoker, qual o tipo de animal que Renfield come para absorver sua força vital?",
+    "options": [
+      "Moscas",
+      "Aranhas",
+      "Pássaros",
+      "Ratos"
+    ],
+    "answer": "Moscas",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Drácula de Bram Stoker, qual o nome da cidade inglesa para onde Drácula se muda?",
+    "options": [
+      "Londres",
+      "Whitby",
+      "Manchester",
+      "Liverpool"
+    ],
+    "answer": "Londres",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Mudança de Hábito, qual o nome da cantora que se esconde em um convento?",
+    "options": [
+      "Deloris Van Cartier",
+      "Irmã Mary",
+      "Madre Superiora",
+      "Michelle"
+    ],
+    "answer": "Deloris Van Cartier",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Mudança de Hábito, qual o nome que Deloris adota ao se disfarçar de freira?",
+    "options": [
+      "Irmã Mary Clarence",
+      "Irmã Mary Robert",
+      "Irmã Mary Patrick",
+      "Irmã Mary Lazarus"
+    ],
+    "answer": "Irmã Mary Clarence",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Mudança de Hábito, qual o nome da Madre Superiora que reluta em aceitar Deloris?",
+    "options": [
+      "Madre Superiora",
+      "Irmã Mary",
+      "Irmã Mary Patrick",
+      "Irmã Mary Lazarus"
+    ],
+    "answer": "Madre Superiora",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Mudança de Hábito, qual o nome do gângster que Deloris testemunha um assassinato?",
+    "options": [
+      "Vince LaRocca",
+      "Joey",
+      "Willy",
+      "Ernie"
+    ],
+    "answer": "Vince LaRocca",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Mudança de Hábito, qual o local onde Deloris testemunha o crime e precisa se esconder?",
+    "options": [
+      "Cassino",
+      "Bar",
+      "Boate",
+      "Restaurante"
+    ],
+    "answer": "Boate",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Mudança de Hábito, qual o principal problema do coral do convento antes de Deloris chegar?",
+    "options": [
+      "Falta de ritmo",
+      "Falta de voz",
+      "Desafinação",
+      "Falta de membros"
+    ],
+    "answer": "Desafinação",
+    "category": "Cinema & Novelas"
+  },
+ 
+  {
+    "question": "Em Mudança de Hábito, qual o nome da freira jovem e tímida que Deloris ajuda a se soltar?",
+    "options": [
+      "Irmã Mary Robert",
+      "Irmã Mary Patrick",
+      "Irmã Mary Lazarus",
+      "Irmã Mary Clare"
+    ],
+    "answer": "Irmã Mary Robert",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Mudança de Hábito, qual o evento importante que o coral das freiras se prepara para cantar?",
+    "options": [
+      "Visita do Papa",
+      "Missa de Natal",
+      "Casamento",
+      "Festival de música"
+    ],
+    "answer": "Visita do Papa",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Mudança de Hábito, qual o nome da freira que é a pianista do coral?",
+    "options": [
+      "Irmã Mary Lazarus",
+      "Irmã Mary Patrick",
+      "Irmã Mary Robert",
+      "Irmã Mary Clare"
+    ],
+    "answer": "Irmã Mary Lazarus",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Mudança de Hábito, qual o motivo pelo qual Deloris é enviada para o convento?",
+    "options": [
+      "Proteção",
+      "Punição",
+      "Vocação",
+      "Estudo"
+    ],
+    "answer": "Proteção",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Abracadabra, qual o nome do garoto que acende a vela negra e as ressuscita?",
+    "options": [
+      "Max Dennison",
+      "Dani Dennison",
+      "Thackery Binx",
+      "Billy Butcherson"
+    ],
+    "answer": "Max Dennison",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Abracadabra, qual o nome da irmã mais velha e líder das bruxas Sanderson?",
+    "options": [
+      "Winifred",
+      "Mary",
+      "Sarah",
+      "Emily"
+    ],
+    "answer": "Winifred",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Abracadabra, qual o nome da irmã bruxa que consegue farejar crianças?",
+    "options": [
+      "Mary",
+      "Winifred",
+      "Sarah",
+      "Emily"
+    ],
+    "answer": "Mary",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Abracadabra, qual o nome da irmã bruxa mais jovem e sedutora?",
+    "options": [
+      "Sarah",
+      "Winifred",
+      "Mary",
+      "Emily"
+    ],
+    "answer": "Sarah",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Abracadabra, qual o nome do gato preto que é amaldiçoado e imortal?",
+    "options": [
+      "Thackery Binx",
+      "Billy Butcherson",
+      "Max",
+      "Dani"
+    ],
+    "answer": "Thackery Binx",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Abracadabra, qual o nome da irmã mais nova de Max, que é sequestrada pelas bruxas?",
+    "options": [
+      "Dani Dennison",
+      "Allison",
+      "Emily",
+      "Jenny"
+    ],
+    "answer": "Dani Dennison",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Abracadabra, qual o local onde as bruxas Sanderson são originalmente enforcadas?",
+    "options": [
+      "Salem",
+      "Boston",
+      "Nova York",
+      "Filadélfia"
+    ],
+    "answer": "Salem",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Abracadabra, qual o objeto que Mary usa para voar?",
+    "options": [
+      "Aspirador",
+      "Vassoura",
+      "Mop",
+      "Tapete mágico"
+    ],
+    "answer": "Aspirador",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Abracadabra, qual o objeto que as bruxas usam para fazer seus feitiços?",
+    "options": [
+      "Livro",
+      "Caldeirão",
+      "Varinha",
+      "Cristal"
+    ],
+    "answer": "Livro",
+    "category": "Cinema & Novelas"
+  },
           {
     "question": "Qual o nome da toxina que o Coringa planeja usar para envenenar Gotham City em Batman de 1989?",
     "options": ["Smilex", "Joker Venom", "Laughing Gas", "Acid Smile"],
