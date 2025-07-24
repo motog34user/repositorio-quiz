@@ -1,4 +1,358 @@
 [
+             {
+    "question": "Em Pequenos Guerreiros, qual é o nome da empresa de brinquedos que cria os bonecos?",
+    "options": ["Global Tech", "Hasbro", "Mattel", "Toy Corp"],
+    "answer": "Global Tech",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o nome do grupo de brinquedos militares em Pequenos Guerreiros?",
+    "options": ["Comando Elite", "Gorgonitas", "Soldados de Chumbo", "Força Tarefa"],
+    "answer": "Comando Elite",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Pequenos Guerreiros, qual é o nome do grupo de brinquedos pacíficos?",
+    "options": ["Gorgonitas", "Comando Elite", "Pequenos Heróis", "Defensores"],
+    "answer": "Gorgonitas",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o nome do protagonista humano que encontra os brinquedos em Pequenos Guerreiros?",
+    "options": ["Alan Abernathy", "Archer", "Chip Hazard", "Christy Fimple"],
+    "answer": "Alan Abernathy",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Pequenos Guerreiros, qual é o nome do líder do Comando Elite?",
+    "options": ["Chip Hazard", "Archer", "Slamfist", "Insaniac"],
+    "answer": "Chip Hazard",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "O que os brinquedos possuem que os torna perigosos em Pequenos Guerreiros?",
+    "options": ["Chip militar", "Armas reais", "Inteligência", "Poderes"],
+    "answer": "Chip militar",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Pequenos Guerreiros, qual é o nome do líder dos Gorgonitas?",
+    "options": ["Archer", "Chip Hazard", "Slamfist", "Insaniac"],
+    "answer": "Archer",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o principal objetivo do Comando Elite em Pequenos Guerreiros?",
+    "options": ["Destruir Gorgonitas", "Conquistar o mundo", "Vingar-se", "Brincar"],
+    "answer": "Destruir Gorgonitas",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Pequenos Guerreiros, qual é o nome do brinquedo que parece um monstro mas é pacífico?",
+    "options": ["Slamfist", "Insaniac", "Ocula", "Punch-It"],
+    "answer": "Slamfist",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Múmia, qual é o nome do sacerdote que é amaldiçoado?",
+    "options": ["Imhotep", "Anck-su-namun", "Seti I", "Rick O'Connell"],
+    "answer": "Imhotep",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o nome da bibliotecária que se envolve na aventura em A Múmia?",
+    "options": ["Evelyn Carnahan", "Anck-su-namun", "Nefertiti", "Izzy Buttons"],
+    "answer": "Evelyn Carnahan",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Múmia, qual é o nome do irmão de Evelyn?",
+    "options": ["Jonathan Carnahan", "Rick O'Connell", "Beni Gabor", "Ardeth Bay"],
+    "answer": "Jonathan Carnahan",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o local onde Imhotep é encontrado em A Múmia?",
+    "options": ["Hamunaptra", "Cairo", "Vale dos Reis", "Pirâmide"],
+    "answer": "Hamunaptra",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Múmia, qual é o nome do mercenário americano que ajuda Evelyn?",
+    "options": ["Rick O'Connell", "Beni Gabor", "Ardeth Bay", "Jonathan Carnahan"],
+    "answer": "Rick O'Connell",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Múmia, qual é o nome do livro que ressuscita Imhotep?",
+    "options": ["Livro dos Mortos", "Livro de Amun-Ra", "Livro da Vida", "Livro das Sombras"],
+    "answer": "Livro dos Mortos",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Múmia, qual é o nome do traidor que trabalha para Imhotep?",
+    "options": ["Beni Gabor", "Jonathan Carnahan", "Ardeth Bay", "Dr. Allen"],
+    "answer": "Beni Gabor",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é a função dos Medjai em A Múmia?",
+    "options": ["Proteger Hamunaptra", "Caçar múmias", "Guiar turistas", "Estudar história"],
+    "answer": "Proteger Hamunaptra",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Múmia, qual é o nome da amante de Imhotep?",
+    "options": ["Anck-su-namun", "Evelyn Carnahan", "Nefertiti", "Cleópatra"],
+    "answer": "Anck-su-namun",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "O que Rick O'Connell usa para lutar contra Imhotep em A Múmia?",
+    "options": ["Armas de fogo", "Espadas", "Magia", "Conhecimento"],
+    "answer": "Armas de fogo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "O que Imhotep tenta fazer com Evelyn em A Múmia?",
+    "options": ["Sacrificá-la", "Casar com ela", "Transformá-la", "Prendê-la"],
+    "answer": "Sacrificá-la",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é a principal fraqueza de Imhotep em A Múmia?",
+    "options": ["Gatos", "Água", "Luz", "Fogo"],
+    "answer": "Gatos",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "O que Jonathan rouba no início de A Múmia que causa problemas?",
+    "options": ["Um mapa", "Uma chave", "Um artefato", "Uma joia"],
+    "answer": "Um mapa",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Ela é Demais, qual é o nome da garota que é transformada em 'rainha do baile'?",
+    "options": ["Laney Boggs", "Taylor Vaughan", "Mackenzie Siler", "Jesse Jackson"],
+    "answer": "Laney Boggs",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o nome do garoto popular que faz a aposta em Ela é Demais?",
+    "options": ["Zack Siler", "Dean Sampson", "Brock Hudson", "Preston"],
+    "answer": "Zack Siler",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Matrix, qual é o nome do hacker que descobre a verdade sobre a realidade?",
+    "options": ["Thomas Anderson", "Morpheus", "Neo", "Cypher"],
+    "answer": "Thomas Anderson",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o nome do líder da resistência em Matrix?",
+    "options": ["Morpheus", "Neo", "Trinity", "Niobe"],
+    "answer": "Morpheus",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Matrix, qual é o nome da mulher que guia Neo no início?",
+    "options": ["Trinity", "Oracle", "Niobe", "Switch"],
+    "answer": "Trinity",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é a cor da pílula que Neo escolhe em Matrix para descobrir a verdade?",
+    "options": ["Vermelha", "Azul", "Verde", "Amarela"],
+    "answer": "Vermelha",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Matrix, qual é o nome do programa que persegue os humanos na Matrix?",
+    "options": ["Agentes", "Sentinelas", "Bots", "Guardiões"],
+    "answer": "Agentes",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Matrix, qual é o nome da cidade real onde os humanos vivem?",
+    "options": ["Zion", "Matrix City", "Terra", "Cidade das Máquinas"],
+    "answer": "Zion",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o nome do agente principal que persegue Neo em Matrix?",
+    "options": ["Agente Smith", "Agente Brown", "Agente Jones", "Agente Johnson"],
+    "answer": "Agente Smith",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Matrix, qual é o papel da Oráculo?",
+    "options": ["Prever futuro", "Dar conselhos", "Lutar", "Programar"],
+    "answer": "Prever futuro",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Matrix, qual é o nome do traidor que quer voltar para a Matrix?",
+    "options": ["Cypher", "Mouse", "Tank", "Dozer"],
+    "answer": "Cypher",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o principal tema filosófico abordado em Matrix?",
+    "options": ["Realidade", "Destino", "Livre-arbítrio", "Tecnologia"],
+    "answer": "Realidade",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Matrix, qual é o nome do operador da nave de Morpheus?",
+    "options": ["Tank", "Dozer", "Mouse", "Switch"],
+    "answer": "Tank",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "O que Neo descobre sobre si mesmo no final de Matrix?",
+    "options": ["É o Escolhido", "É um programa", "É um agente", "É um humano comum"],
+    "answer": "É o Escolhido",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Matrix, qual é o nome da criatura mecânica que caça os humanos no mundo real?",
+    "options": ["Sentinelas", "Bots", "Exterminadores", "Robôs"],
+    "answer": "Sentinelas",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "O que Morpheus oferece a Neo para mostrar a verdade em Matrix?",
+    "options": ["Pílulas", "Um livro", "Um vídeo", "Uma viagem"],
+    "answer": "Pílulas",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Donnie Darko, qual é o nome do coelho gigante que aparece para Donnie?",
+    "options": ["Frank", "Harvey", "Bugs", "Roger"],
+    "answer": "Frank",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o evento que inicia a série de acontecimentos estranhos em Donnie Darko?",
+    "options": ["Queda de motor", "Incêndio", "Acidente", "Sonho"],
+    "answer": "Queda de motor",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "O que o coelho Frank diz a Donnie que o mundo vai acabar em Donnie Darko?",
+    "options": ["28 dias", "7 dias", "42 dias", "Um mês"],
+    "answer": "28 dias",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o principal tema abordado em Donnie Darko?",
+    "options": ["Destino", "Livre-arbítrio", "Loucura", "Tempo"],
+    "answer": "Destino",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Donnie Darko, qual é o nome do guru motivacional que é exposto?",
+    "options": ["Jim Cunningham", "Kenneth Monnitoff", "Dr. Thurman", "Frank"],
+    "answer": "Jim Cunningham",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o objeto que retorna no final de Donnie Darko?",
+    "options": ["Motor de avião", "Coelho", "Livro", "Carro"],
+    "answer": "Motor de avião",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "O que Donnie Darko faz para salvar o mundo no final?",
+    "options": ["Sacrifica-se", "Muda o passado", "Luta", "Previne o acidente"],
+    "answer": "Sacrifica-se",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o principal sintoma de Donnie Darko?",
+    "options": ["Sonambulismo", "Alucinações", "Depressão", "Ansiedade"],
+    "answer": "Sonambulismo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é a cor do traje do coelho Frank em Donnie Darko?",
+    "options": ["Cinza", "Preto", "Branco", "Marrom"],
+    "answer": "Cinza",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em LOTR The Fellowship of the Ring, qual é o nome do hobbit que herda o Um Anel?",
+    "options": ["Frodo Bolseiro", "Bilbo Bolseiro", "Samwise Gamgee", "Pippin Took"],
+    "answer": "Frodo Bolseiro",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o nome do mago que guia a Sociedade do Anel em LOTR The Fellowship of the Ring?",
+    "options": ["Gandalf", "Saruman", "Radagast", "Alatar"],
+    "answer": "Gandalf",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em LOTR The Fellowship of the Ring, qual é o nome da cidade onde Frodo vive inicialmente?",
+    "options": ["Condado", "Bree", "Rivendell", "Valfenda"],
+    "answer": "Condado",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o nome do inimigo principal que busca o Um Anel em LOTR The Fellowship of the Ring?",
+    "options": ["Sauron", "Saruman", "Gollum", "Nazgûl"],
+    "answer": "Sauron",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em LOTR The Fellowship of the Ring, qual é o nome da elfa que ajuda Frodo?",
+    "options": ["Arwen", "Galadriel", "Legolas", "Elrond"],
+    "answer": "Arwen",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "O que o Um Anel faz com quem o usa em LOTR The Fellowship of the Ring?",
+    "options": ["Corrompe", "Dá poder", "Torna invisível", "Cura"],
+    "answer": "Corrompe",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em LOTR The Fellowship of the Ring, qual é o nome do elfo arqueiro da Sociedade do Anel?",
+    "options": ["Legolas", "Elrond", "Haldir", "Thranduil"],
+    "answer": "Legolas",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em LOTR The Fellowship of the Ring, qual é o nome do anão da Sociedade do Anel?",
+    "options": ["Gimli", "Balin", "Durin", "Dwalin"],
+    "answer": "Gimli",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "O que acontece com Gandalf em Moria em LOTR The Fellowship of the Ring?",
+    "options": ["Cai no abismo", "É capturado", "Desaparece", "Se sacrifica"],
+    "answer": "Cai no abismo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o nome da cidade subterrânea dos anões em LOTR The Fellowship of the Ring?",
+    "options": ["Moria", "Erebor", "Minas Tirith", "Isengard"],
+    "answer": "Moria",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em LOTR The Fellowship of the Ring, qual é o nome da rainha elfa de Lothlórien?",
+    "options": ["Galadriel", "Arwen", "Éowyn", "Tauriel"],
+    "answer": "Galadriel",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Rainha dos Condenados, qual é o nome do vampiro Lestat?",
+    "options": ["Lestat de Lioncourt", "Akasha", "Marius", "Jesse Reeves"],
+    "answer": "Lestat de Lioncourt",
+    "category": "Cinema & Novelas"
+  },
            {
     "question": "O que Liu Kang precisa encontrar para derrotar Shao Kahn em Mortal Kombat A Aniquilação?",
     "options": ["Seu Animality", "Sua arma", "Seu mestre", "Sua família"],
