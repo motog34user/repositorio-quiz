@@ -1,4 +1,48 @@
 [
+      {
+    "question": "Em Mortal Kombat, qual o nome do imperador de Outworld que Shang Tsung serve?",
+    "options": [
+      "Shao Kahn",
+      "Onaga",
+      "Darkseid",
+      "Kotal Kahn"
+    ],
+    "answer": "Shao Kahn",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Thunderbolt Ação Sobre Rodas, qual o nome do mecânico de carros de corrida que é o protagonista?",
+    "options": [
+      "Chan Foh To",
+      "Cougar",
+      "Steve Cannon",
+      "Lam"
+    ],
+    "answer": "Chan Foh To",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Thunderbolt: Ação Sobre Rodas, qual o nome do criminoso e piloto de corrida que Chan Foh To persegue?",
+    "options": [
+      "Cougar",
+      "Steve Cannon",
+      "Lam",
+      "Sammo"
+    ],
+    "answer": "Cougar",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Thunderbolt: Ação Sobre Rodas, qual o tipo de corrida que Chan Foh To participa para pegar Cougar?",
+    "options": [
+      "Corrida de rua",
+      "Corrida de circuito",
+      "Rali",
+      "Arrancada"
+    ],
+    "answer": "Corrida de circuito",
+    "category": "Cinema & Novelas"
+  },
     {
     "question": "Em Entrevista com o Vampiro, qual o nome do vampiro líder do coven de Paris, que se interessa por Louis?",
     "options": [
