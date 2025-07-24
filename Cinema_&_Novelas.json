@@ -1,4 +1,46 @@
 [
+          {
+    "question": "Em Batman e Robin, qual é o nome da sobrinha de Alfred que se torna Batgirl?",
+    "options": ["Barbara Wilson", "Selina Kyle", "Harley Quinn", "Pamela Isley"],
+    "answer": "Barbara Wilson",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Batman e Robin, qual é a principal arma do Sr. Frio?",
+    "options": ["Arma de gelo", "Gás tóxico", "Explosivos", "Raio laser"],
+    "answer": "Arma de gelo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "O que Hera Venenosa usa para controlar as pessoas em Batman e Robin?",
+    "options": ["Feromônios", "Plantas", "Venenos", "Hipnose"],
+    "answer": "Feromônios",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "O que Hera Venenosa faz com Bruce Wayne em Batman e Robin?",
+    "options": ["Tenta seduzi-lo", "Tenta matá-lo", "Tenta prendê-lo", "Tenta roubá-lo"],
+    "answer": "Tenta seduzi-lo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual é o objetivo de Shao Kahn em Mortal Kombat A Aniquilação?",
+    "options": ["Fundir reinos", "Destruir a Terra", "Conquistar Outworld", "Vingar-se"],
+    "answer": "Fundir reinos",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "O que Sonya Blade busca em Mortal Kombat A Aniquilação?",
+    "options": ["Vingança", "Paz", "Poder", "Seu pai"],
+    "answer": "Vingança",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Mortal Kombat A Aniquilação, qual personagem se transforma em um dragão?",
+    "options": ["Liu Kang", "Sub-Zero", "Scorpion", "Reptile"],
+    "answer": "Liu Kang",
+    "category": "Cinema & Novelas"
+  },
         {
     "question": "No filme Independence Day, o que o presidente Whitmore faz antes do ataque final?",
     "options": ["Discurso motivacional", "Evacua a base", "Prepara a fuga", "Negocia com aliens"],
