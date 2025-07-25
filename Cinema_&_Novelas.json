@@ -1,4 +1,130 @@
 [
+      {
+    "question": "Em A Viagem, qual o nome da personagem que tenta ajudar Alexandre no plano espiritual?",
+    "options": ["Diná", "Lisa", "Patrícia", "Dona Guiomar"],
+    "answer": "Dona Guiomar",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Na novela A Viagem, qual o nome do irmão de Alexandre?",
+    "options": ["Otávio", "Téo", "Raul", "Adonay"],
+    "answer": "Raul",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Viagem, qual o local onde Alexandre fica preso após a morte?",
+    "options": ["Umbral", "Céu", "Paraíso", "Purgatório"],
+    "answer": "Umbral",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Na novela A Viagem, qual o nome do médium que se comunica com Alexandre?",
+    "options": ["Alberto", "Adonay", "Otávio", "Téo"],
+    "answer": "Adonay",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Na novela A Viagem, qual o nome da filha de Diná?",
+    "options": ["Lisa", "Bia", "Patrícia", "Estela"],
+    "answer": "Bia",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Viagem, qual o nome do médico que trata de Diná?",
+    "options": ["Dr. Alberto", "Dr. Otávio", "Dr. Raul", "Dr. Adonay"],
+    "answer": "Dr. Alberto",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Na novela A Viagem, qual o nome do personagem que é o grande amor de Diná?",
+    "options": ["Alexandre", "Otávio", "Téo", "Raul"],
+    "answer": "Otávio",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Viagem, qual o nome do filho de Otávio?",
+    "options": ["Téo", "Raul", "Zeca", "Dudu"],
+    "answer": "Téo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Na novela A Viagem, qual o local onde Alexandre e Diná se reencontram no final?",
+    "options": ["Umbral", "Céu", "Paraíso", "Vale dos Suicidas"],
+    "answer": "Céu",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Viagem, qual o nome da personagem que é a ex-mulher de Otávio?",
+    "options": ["Lisa", "Estela", "Patrícia", "Carmem"],
+    "answer": "Estela",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Na novela O Rei do Gado, qual o sobrenome das duas famílias rivais?",
+    "options": ["Mezenga e Berdinazzi", "Mezenga e Geremias", "Berdinazzi e Bruno", "Geremias e Luana"],
+    "answer": "Mezenga e Berdinazzi",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Rei do Gado, qual a profissão de Bruno Mezenga?",
+    "options": ["Advogado", "Fazendeiro", "Médico", "Político"],
+    "answer": "Fazendeiro",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Na novela O Rei do Gado, qual a origem da família Berdinazzi?",
+    "options": ["Alemã", "Portuguesa", "Italiana", "Espanhola"],
+    "answer": "Italiana",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Na novela O Rei do Gado, qual o nome da personagem que é a mãe de Luana?",
+    "options": ["Marieta", "Donana", "Judite", "Léia"],
+    "answer": "Donana",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Rei do Gado, qual o desfecho da rivalidade entre as famílias?",
+    "options": ["Continua", "Se intensifica", "Termina em união", "Uma família vence"],
+    "answer": "Termina em união",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Na novela Terra Nostra, qual o país de origem dos protagonistas?",
+    "options": ["Portugal", "Espanha", "Itália", "Alemanha"],
+    "answer": "Itália",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Terra Nostra, qual o produto agrícola que atrai os imigrantes ao Brasil?",
+    "options": ["Cana-de-açúcar", "Café", "Algodão", "Milho"],
+    "answer": "Café",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Terra Nostra, qual o local de trabalho dos imigrantes no Brasil?",
+    "options": ["Fábricas", "Minas", "Fazendas de café", "Portos"],
+    "answer": "Fazendas de café",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Na novela Terra Nostra, qual o nome do personagem que é o pai de Matteo?",
+    "options": ["Bartolo", "Januário", "Damião", "Giuseppe"],
+    "answer": "Januário",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Na novela Terra Nostra, qual o nome da personagem que é a empregada da fazenda?",
+    "options": ["Hortênsia", "Mariana", "Angélica", "Paola"],
+    "answer": "Hortênsia",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Terra Nostra, qual o desfecho do amor entre Giuliana e Matteo?",
+    "options": ["Separação", "Reconciliação", "Morte", "Novo amor"],
+    "answer": "Reconciliação",
+    "category": "Cinema & Novelas"
+  },
     {
     "question": "No filme Titanic, qual objeto salva Rose após o naufrágio?",
     "options": ["Um bote salva-vidas", "Um pedaço de madeira", "Uma porta de madeira", "Um colchão flutuante"],
