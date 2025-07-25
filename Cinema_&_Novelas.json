@@ -1,5 +1,66 @@
 [
   {
+    "question": "Qual o principal gênero do filme Um Tira da Pesada?",
+    "options": ["Drama", "Ação", "Comédia de ação", "Thriller"],
+    "answer": "Comédia de ação",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Um Tira da Pesada, qual o nome do ator que interpreta Axel Foley?",
+    "options": ["Will Smith", "Chris Rock", "Eddie Murphy", "Martin Lawrence"],
+    "answer": "Eddie Murphy",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Sombra e a Escuridão, qual o nome dos dois leões-devoradores de homens?",
+    "options": ["Simba e Nala", "Mufasa e Scar", "A Sombra e A Escuridão", "Alpha e Beta"],
+    "answer": "A Sombra e A Escuridão",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o principal desafio que Patterson enfrenta na construção da ponte em A Sombra e a Escuridão?",
+    "options": ["Falta de material", "Clima", "Ataques dos leões", "Rebelião de trabalhadores"],
+    "answer": "Ataques dos leões",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Sombra e a Escuridão, qual o principal sentimento que os trabalhadores expressam em relação aos leões?",
+    "options": ["Medo", "Respeito", "Curiosidade", "Raiva"],
+    "answer": "Medo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o principal meio que os leões usam para caçar em A Sombra e a Escuridão?",
+    "options": ["Força bruta", "Inteligência", "Camuflagem", "Velocidade"],
+    "answer": "Inteligência",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Velocidade Máxima, qual o principal veículo que tem uma bomba ativada se a velocidade cair?",
+    "options": ["Um carro", "Um ônibus", "Um trem", "Um avião"],
+    "answer": "Um ônibus",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome do ator que interpreta Jack Traven em Velocidade Máxima?",
+    "options": ["Bruce Willis", "Keanu Reeves", "Tom Cruise", "Brad Pitt"],
+    "answer": "Keanu Reeves",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Gladiador, qual o principal local onde Maximus luta como gladiador?",
+    "options": ["Arena local", "Coliseu", "Circo", "Palácio"],
+    "answer": "Coliseu",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome do ator que interpreta Maximus Decimus Meridius em O Gladiador?",
+    "options": ["Joaquin Phoenix", "Russell Crowe", "Richard Harris", "Djimon Hounsou"],
+    "answer": "Russell Crowe",
+    "category": "Cinema & Novelas"
+  },
+
+  {
     "question": "Em Armageddon, qual o principal sentimento que permeia o filme?",
     "options": ["Medo", "Esperança", "Desespero", "Raiva"],
     "answer": "Esperança",
