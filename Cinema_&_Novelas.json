@@ -1,4 +1,167 @@
 [
+  {
+    "question": "Qual o principal objetivo de RoboCop ao longo do filme?",
+    "options": ["Manter a paz", "Vingar sua morte", "Servir a OCP", "Proteger a cidade"],
+    "answer": "Vingar sua morte",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o principal tema social criticado em RoboCop?",
+    "options": ["Corrupção policial", "Pobreza urbana", "Corporativismo", "Violência nas ruas"],
+    "answer": "Corporativismo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o material principal do corpo de RoboCop?",
+    "options": ["Aço", "Titânio", "Fibra de carbono", "Composto metálico"],
+    "answer": "Titânio",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o instrumento musical que Eric Draven tocava em O Corvo?",
+    "options": ["Guitarra", "Bateria", "Violino", "Teclado"],
+    "answer": "Guitarra",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual a cidade onde se passa a história de O Corvo?",
+    "options": ["Chicago", "Nova York", "Detroit", "Gotham"],
+    "answer": "Detroit",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Corvo, o que Eric Draven faz com o apartamento de Shelly após sua morte?",
+    "options": ["Vende-o", "Incendeia-o", "Reforma-o", "Abandona-o"],
+    "answer": "Incendeia-o",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Corvo, qual o local onde Eric Draven confronta Top Dollar no clímax?",
+    "options": ["Boate", "Armazém", "Igreja", "Telhado"],
+    "answer": "Igreja",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual a principal característica do estilo visual de O Corvo?",
+    "options": ["Colorido", "Minimalista", "Sombrio e gótico", "Realista"],
+    "answer": "Sombrio e gótico",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Show de Truman, qual o nome da cidade onde Truman Burbank vive?",
+    "options": ["Seahaven Island", "Paradise Island", "Dreamland", "Realityville"],
+    "answer": "Seahaven Island",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual a profissão de Truman Burbank em O Show de Truman?",
+    "options": ["Vendedor de seguros", "Jornalista", "Professor", "Médico"],
+    "answer": "Vendedor de seguros",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual a famosa saudação que Truman Burbank usa diariamente em O Show de Truman?",
+    "options": ["Olá, mundo!", "Bom dia a todos!", "Bom dia, e caso eu não te veja, boa tarde, boa noite e boa viagem!", "Que a força esteja com você!"],
+    "answer": "Bom dia, e caso eu não te veja, boa tarde, boa noite e boa viagem!",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Show de Truman, o que Truman começa a notar que o faz questionar sua realidade?",
+    "options": ["Pessoas estranhas", "Eventos repetitivos", "Objetos caindo", "Câmeras escondidas"],
+    "answer": "Objetos caindo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Show de Truman, qual o nome do barco que Truman usa para tentar fugir da ilha?",
+    "options": ["Santa Maria", "Mayflower", "Discovery", "Voyager"],
+    "answer": "Santa Maria",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o principal obstáculo natural que impede Truman de sair da ilha em O Show de Truman?",
+    "options": ["Correntes fortes", "Tempestades", "Montanhas", "Animais selvagens"],
+    "answer": "Tempestades",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o principal dilema ético abordado em O Show de Truman?",
+    "options": ["Liberdade", "Privacidade", "Fama", "Dinheiro"],
+    "answer": "Privacidade",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Show de Truman, qual o evento trágico que molda o medo de Truman pela água?",
+    "options": ["Incêndio", "Acidente de carro", "Morte do pai", "Afogamento de amigo"],
+    "answer": "Morte do pai",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual a forma que o estúdio de O Show de Truman tem para o público?",
+    "options": ["Um prédio", "Uma cidade", "Uma ilha", "Um domo"],
+    "answer": "Um domo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em O Show de Truman, o que Truman encontra no final de sua jornada de fuga?",
+    "options": ["Uma praia", "Uma parede", "Uma porta", "Uma cidade"],
+    "answer": "Uma porta",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Cidade dos Anjos, qual a profissão da personagem Maggie Rice, por quem o anjo Seth se apaixona?",
+    "options": ["Médica", "Professora", "Jornalista", "Advogada"],
+    "answer": "Médica",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Cidade dos Anjos, qual a cidade onde a história se passa?",
+    "options": ["Nova York", "Los Angeles", "São Francisco", "Seattle"],
+    "answer": "Los Angeles",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual a principal ação que Seth toma para poder ficar com Maggie em Cidade dos Anjos?",
+    "options": ["Torna-se humano", "Torna-se mortal", "Torna-se visível", "Torna-se famoso"],
+    "answer": "Torna-se humano",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Cidade dos Anjos, qual o nome do ator que interpreta o anjo Seth?",
+    "options": ["Brad Pitt", "Tom Hanks", "Nicolas Cage", "Johnny Depp"],
+    "answer": "Nicolas Cage",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o local onde os anjos se reúnem ao nascer do sol em Cidade dos Anjos?",
+    "options": ["Montanha", "Praia", "Floresta", "Cemitério"],
+    "answer": "Praia",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual a principal forma de comunicação entre os anjos em Cidade dos Anjos?",
+    "options": ["Telepatia", "Sinais", "Voz", "Música"],
+    "answer": "Telepatia",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Cidade dos Anjos, qual o nome da atriz que interpreta Maggie Rice?",
+    "options": ["Julia Roberts", "Meg Ryan", "Sandra Bullock", "Nicole Kidman"],
+    "answer": "Meg Ryan",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Bill & Ted - Uma Aventura Fantástica, qual o instrumento musical que Bill e Ted tocam em sua banda?",
+    "options": ["Bateria", "Guitarra", "Baixo", "Teclado"],
+    "answer": "Guitarra",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Bill & Ted - Uma Aventura Fantástica, qual o objeto que serve como máquina do tempo?",
+    "options": ["Um carro", "Uma cabine telefônica", "Um relógio", "Uma nave espacial"],
+    "answer": "Uma cabine telefônica",
+    "category": "Cinema & Novelas"
+  },
+
           {
     "question": "Em De Volta para o Futuro, o que Marty faz para convencer George a se declarar para Lorraine no baile?",
     "options": ["Ameaça-o", "Inspira-o", "Ajuda-o", "Chantagia-o"],
