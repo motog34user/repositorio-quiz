@@ -1,4 +1,76 @@
 [
+          {
+    "question": "Em De Volta para o Futuro, o que Marty faz para convencer George a se declarar para Lorraine no baile?",
+    "options": ["Ameaça-o", "Inspira-o", "Ajuda-o", "Chantagia-o"],
+    "answer": "Inspira-o",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em De Volta para o Futuro, o que Marty tenta avisar Doc Brown sobre o futuro?",
+    "options": ["Seu destino", "A máquina", "Os terroristas", "O tempo"],
+    "answer": "Seu destino",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o principal tema abordado em De Volta para o Futuro, além da viagem no tempo?",
+    "options": ["Amizade", "Família", "Consequências", "Amor"],
+    "answer": "Consequências",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em RoboCop, qual o nome do policial que é brutalmente assassinado e transformado em ciborgue?",
+    "options": ["Alex Murphy", "John Murphy", "Peter Murphy", "Robert Murphy"],
+    "answer": "Alex Murphy",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome da corporação que cria o RoboCop em Detroit?",
+    "options": ["Cyberdyne", "OmniCorp", "OCP", "Future Systems"],
+    "answer": "OCP",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em RoboCop, qual o robô de segurança que falha espetacularmente em uma demonstração?",
+    "options": ["ED-209", "Terminator", "Sentinel", "Protector"],
+    "answer": "ED-209",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome da parceira de Alex Murphy que o reconhece como RoboCop?",
+    "options": ["Anne Lewis", "Maria Lewis", "Sarah Lewis", "Jane Lewis"],
+    "answer": "Anne Lewis",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em RoboCop, qual o nome do projeto da OCP para construir uma nova cidade?",
+    "options": ["Alpha City", "Delta City", "Omega City", "New Detroit"],
+    "answer": "Delta City",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual a diretriz primária que impede RoboCop de prender um executivo da OCP?",
+    "options": ["Diretriz 1", "Diretriz 2", "Diretriz 3", "Diretriz 4"],
+    "answer": "Diretriz 4",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em RoboCop, onde a arma de Murphy é guardada quando ele está em modo ciborgue?",
+    "options": ["No cinto", "Na perna", "No braço", "Na mão"],
+    "answer": "Na perna",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome do executivo da OCP que é o verdadeiro mentor dos crimes em RoboCop?",
+    "options": ["Bob Morton", "Dick Jones", "Donald Johnson", "Frank Miller"],
+    "answer": "Dick Jones",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em RoboCop, o que Murphy começa a recuperar após sua transformação?",
+    "options": ["Sua força", "Suas memórias", "Sua humanidade", "Sua família"],
+    "answer": "Suas memórias",
+    "category": "Cinema & Novelas"
+  },
         {
     "question": "Qual o tipo de carro modificado que serve como máquina do tempo em De Volta para o Futuro?",
     "options": ["Ford Mustang", "Chevrolet Camaro", "DeLorean", "Pontiac Firebird"],
