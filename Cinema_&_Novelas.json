@@ -1,4 +1,178 @@
 [
+    {
+    "question": "No filme Titanic, qual objeto salva Rose após o naufrágio?",
+    "options": ["Um bote salva-vidas", "Um pedaço de madeira", "Uma porta de madeira", "Um colchão flutuante"],
+    "answer": "Uma porta de madeira",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Titanic, qual joia valiosa é um ponto central da trama?",
+    "options": ["O Coração do Oceano", "A Estrela do Mar", "O Diamante Azul", "A Lágrima da Sereia"],
+    "answer": "O Coração do Oceano",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "No filme Titanic, em qual classe Jack viajava?",
+    "options": ["Primeira classe", "Segunda classe", "Terceira classe", "Tripulação"],
+    "answer": "Terceira classe",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Titanic, o que o capitão Smith faz durante o naufrágio?",
+    "options": ["Foge em um bote", "Tenta salvar passageiros", "Afunda com o navio", "Espera por resgate"],
+    "answer": "Afunda com o navio",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "No filme Titanic, qual a idade de Rose quando ela conta a história?",
+    "options": ["80 anos", "90 anos", "100 anos", "101 anos"],
+    "answer": "101 anos",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "No filme Titanic, qual o instrumento tocado pela banda no naufrágio?",
+    "options": ["Piano", "Flauta", "Violino", "Trompete"],
+    "answer": "Violino",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Titanic, qual a frase famosa dita por Jack no convés?",
+    "options": ["Eu sou o rei do mundo", "Nunca vou te deixar", "Confie em mim", "Adeus, mundo"],
+    "answer": "Eu sou o rei do mundo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Jurassic Park, qual espécie de dinossauro é vista primeiro na ilha?",
+    "options": ["Tiranossauro", "Braquiossauro", "Velociraptor", "Tricerátopo"],
+    "answer": "Braquiossauro",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Jurassic Park, como os dinossauros são recriados?",
+    "options": ["Engenharia genética", "Fósseis encontrados", "Viagem no tempo", "Magia antiga"],
+    "answer": "Engenharia genética",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Jurassic Park, qual o dinossauro que ataca o carro de Alan Grant?",
+    "options": ["Dilofossauro", "Tiranossauro", "Velociraptor", "Espinossauro"],
+    "answer": "Tiranossauro",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Jurassic Park, o que causa a falha de segurança no parque?",
+    "options": ["Um furacão", "Um sabotador", "Um terremoto", "Um vírus de computador"],
+    "answer": "Um sabotador",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "No filme Jurassic Park, qual o objeto que Alan Grant usa para distrair o T-Rex?",
+    "options": ["Uma tocha", "Um sinalizador", "Um bastão", "Uma pedra"],
+    "answer": "Um sinalizador",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Jurassic Park, qual o dinossauro que Ellie Sattler examina doente?",
+    "options": ["Tiranossauro", "Tricerátopo", "Estegossauro", "Apatossauro"],
+    "answer": "Tricerátopo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "No filme Jurassic Park, qual a cor do jipe que o T-Rex ataca?",
+    "options": ["Vermelho", "Amarelo", "Verde", "Branco"],
+    "answer": "Verde",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Jurassic Park, qual o sistema de segurança que falha no parque?",
+    "options": ["Elétrico", "Hidráulico", "Mecânico", "Sonoro"],
+    "answer": "Elétrico",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "No filme Jurassic Park, qual o dinossauro que persegue Lex e Tim na cozinha?",
+    "options": ["Tiranossauro", "Dilofossauro", "Velociraptor", "Compsognathus"],
+    "answer": "Velociraptor",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "No filme Jurassic Park, qual o meio de transporte que os personagens usam para chegar à ilha?",
+    "options": ["Barco", "Helicóptero", "Avião", "Submarino"],
+    "answer": "Helicóptero",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Ace Ventura, qual o nome do golfinho sequestrado?",
+    "options": ["Flipper", "Snowflake", "Willy", "Free"],
+    "answer": "Snowflake",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "No filme Ace Ventura, qual o item de vestuário icônico de Ace?",
+    "options": ["Um chapéu", "Uma camisa havaiana", "Um óculos escuro", "Um casaco de couro"],
+    "answer": "Uma camisa havaiana",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "No filme Uma Cilada para Roger Rabbit, qual o nome da esposa de Roger Rabbit?",
+    "options": ["Betty Boop", "Jessica Rabbit", "Minnie Mouse", "Daisy Duck"],
+    "answer": "Jessica Rabbit",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Uma Cilada para Roger Rabbit, qual o animal que Roger Rabbit é?",
+    "options": ["Um coelho", "Um rato", "Um pato", "Um gato"],
+    "answer": "Um coelho",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Uma Cilada para Roger Rabbit, qual o desenho que Eddie Valiant encontra no bar?",
+    "options": ["Pato Donald", "Betty Boop", "Mickey Mouse", "Pernalonga"],
+    "answer": "Betty Boop",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Uma Cilada para Roger Rabbit, qual a cor do vestido de Jessica Rabbit?",
+    "options": ["Azul", "Verde", "Vermelho", "Preto"],
+    "answer": "Vermelho",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Grease, qual o evento escolar onde Danny e Sandy dançam?",
+    "options": ["Baile de formatura", "Competição de dança", "Festa de boas-vindas", "Show de talentos"],
+    "answer": "Competição de dança",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "No filme Grease, qual o objeto que Sandy usa para se transformar no final?",
+    "options": ["Uma peruca", "Uma jaqueta de couro", "Um óculos escuro", "Um batom vermelho"],
+    "answer": "Uma jaqueta de couro",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Grease, qual o nome da canção que Danny e Sandy cantam no início?",
+    "options": ["Summer Nights", "Greased Lightning", "We Go Together", "Beauty School Dropout"],
+    "answer": "Summer Nights",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Na novela A Viagem, qual o nome do personagem que morre no início?",
+    "options": ["Alexandre", "Otávio", "Téo", "Raul"],
+    "answer": "Alexandre",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em A Viagem, qual o tema central da novela?",
+    "options": ["Reencarnação", "Viagem no tempo", "Amor proibido", "Vingança"],
+    "answer": "Reencarnação",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Na novela A Viagem, qual a profissão de Diná?",
+    "options": ["Advogada", "Médica", "Arquiteta", "Empresária"],
+    "answer": "Advogada",
+    "category": "Cinema & Novelas"
+  },
              {
     "question": "Em Pequenos Guerreiros, qual é o nome da empresa de brinquedos que cria os bonecos?",
     "options": ["Global Tech", "Hasbro", "Mattel", "Toy Corp"],
