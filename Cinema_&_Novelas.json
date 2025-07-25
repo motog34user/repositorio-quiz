@@ -1,4 +1,82 @@
 [
+        {
+    "question": "Qual o tipo de carro modificado que serve como máquina do tempo em De Volta para o Futuro?",
+    "options": ["Ford Mustang", "Chevrolet Camaro", "DeLorean", "Pontiac Firebird"],
+    "answer": "DeLorean",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em De Volta para o Futuro, qual o nome do cientista excêntrico que inventa a máquina do tempo?",
+    "options": ["Dr. Emmett Brown", "Dr. Stephen Brown", "Dr. Alan Brown", "Dr. Robert Brown"],
+    "answer": "Dr. Emmett Brown",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Para ativar a viagem no tempo em De Volta para o Futuro, qual velocidade o carro precisa atingir?",
+    "options": ["88 milhas/hora", "99 milhas/hora", "77 milhas/hora", "100 milhas/hora"],
+    "answer": "88 milhas/hora",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em De Volta para o Futuro, qual o nome do componente crucial para a viagem no tempo inventado por Doc Brown?",
+    "options": ["Condensador de tempo", "Gerador de fluxo", "Capacitor de fluxo", "Propulsor temporal"],
+    "answer": "Capacitor de fluxo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome da cidade fictícia onde se passa grande parte da história de De Volta para o Futuro?",
+    "options": ["Oak Valley", "Hill Valley", "Riverwood", "Green Valley"],
+    "answer": "Hill Valley",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em De Volta para o Futuro, o que Marty usa para gerar a energia necessária para retornar ao seu tempo?",
+    "options": ["Energia solar", "Eletricidade", "Raio", "Plutônio"],
+    "answer": "Raio",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome do valentão que persegue George McFly e se interessa por Lorraine em De Volta para o Futuro?",
+    "options": ["Biff Tannen", "Griff Tannen", "Kid Tannen", "Ace Tannen"],
+    "answer": "Biff Tannen",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o principal problema que Marty enfrenta ao interferir no passado em De Volta para o Futuro?",
+    "options": ["Ser preso", "Mudar o futuro", "Desaparecer", "Ficar rico"],
+    "answer": "Desaparecer",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em De Volta para o Futuro, qual o nome da banda de Marty McFly?",
+    "options": ["The Pinheads", "The Strikers", "The Time Travelers", "The Rockers"],
+    "answer": "The Pinheads",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o objeto que Doc Brown usa para testar a viagem no tempo antes de Marty em De Volta para o Futuro?",
+    "options": ["Um gato", "Um rato", "Um cachorro", "Um peixe"],
+    "answer": "Um cachorro",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em De Volta para o Futuro, qual o evento natural que Doc Brown planeja usar para energizar o DeLorean?",
+    "options": ["Tornado", "Terremoto", "Inundação", "Raio"],
+    "answer": "Raio",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome da mãe de Marty McFly em De Volta para o Futuro?",
+    "options": ["Jennifer", "Linda", "Lorraine", "Stella"],
+    "answer": "Lorraine",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em De Volta para o Futuro, qual o local icônico de Hill Valley que é essencial para o plano de retorno de Marty?",
+    "options": ["Praça da cidade", "Torre do relógio", "Cinema local", "Escola"],
+    "answer": "Torre do relógio",
+    "category": "Cinema & Novelas"
+  },
       {
     "question": "Em A Viagem, qual o nome da personagem que tenta ajudar Alexandre no plano espiritual?",
     "options": ["Diná", "Lisa", "Patrícia", "Dona Guiomar"],
