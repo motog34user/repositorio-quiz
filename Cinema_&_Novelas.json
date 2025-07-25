@@ -1,5 +1,162 @@
 [
   {
+    "question": "Qual o principal objetivo da banda Wyld Stallyns para o futuro da humanidade em Bill & Ted - Uma Aventura Fantástica?",
+    "options": ["Criar paz", "Unir o mundo", "Inspirar a música", "Salvar a história"],
+    "answer": "Unir o mundo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o famoso pistoleiro do Velho Oeste que Bill e Ted trazem para o presente em Bill & Ted - Uma Aventura Fantástica?",
+    "options": ["Jesse James", "Billy the Kid", "Wyatt Earp", "Doc Holliday"],
+    "answer": "Billy the Kid",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Bill & Ted - Uma Aventura Fantástica, qual o nome do ator que interpreta Ted 'Theodore' Logan?",
+    "options": ["Alex Winter", "Keanu Reeves", "George Carlin", "William Sadler"],
+    "answer": "Keanu Reeves",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual a principal lição que Bill e Ted aprendem em sua aventura em Bill & Ted - Uma Aventura Fantástica?",
+    "options": ["A importância da história", "O valor da amizade", "A força da música", "A necessidade de estudar"],
+    "answer": "A importância da história",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Tron, qual o nome do programador de computador que é digitalizado e enviado para o Grid?",
+    "options": ["Kevin Flynn", "Alan Bradley", "Roy Klein", "Ed Dillinger"],
+    "answer": "Kevin Flynn",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o principal tipo de jogo que os programas são forçados a jogar no Grid em Tron?",
+    "options": ["Corridas de carros", "Batalhas de discos", "Corridas de motos de luz", "Lutas de espadas"],
+    "answer": "Corridas de motos de luz",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Tron, qual o nome da corporação de software onde Flynn trabalhava?",
+    "options": ["Cyberdyne", "ENCOM", "OmniCorp", "Future Systems"],
+    "answer": "ENCOM",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o principal objetivo de Flynn ao entrar no Grid em Tron?",
+    "options": ["Ganhar jogos", "Destruir o MCP", "Resgatar programas", "Roubar dados"],
+    "answer": "Destruir o MCP",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual a principal fraqueza dos vampiros que Blade explora em Blade?",
+    "options": ["Água benta", "Cruzes", "Luz UV", "Estacas de madeira"],
+    "answer": "Luz UV",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Blade, qual o apelido de Blade devido à sua imunidade ao sol?",
+    "options": ["Nightwalker", "Daywalker", "Sun Slayer", "Blood Hunter"],
+    "answer": "Daywalker",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o principal material que Blade usa em suas armas contra vampiros?",
+    "options": ["Ferro", "Ouro", "Prata", "Bronze"],
+    "answer": "Prata",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Blade, qual o tipo de vampiro que é considerado a elite da sociedade vampírica?",
+    "options": ["Famintos", "Puros", "Híbridos", "Antigos"],
+    "answer": "Puros",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Blade, qual o nome do ator que interpreta Blade?",
+    "options": ["Wesley Snipes", "Jamie Foxx", "Will Smith", "Denzel Washington"],
+    "answer": "Wesley Snipes",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual a principal característica da personalidade de Blade em Blade?",
+    "options": ["Calmo", "Irônico", "Sério", "Engraçado"],
+    "answer": "Sério",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Godzilla (1998), qual a cidade que a criatura ataca inicialmente?",
+    "options": ["São Francisco", "Nova York", "Los Angeles", "Chicago"],
+    "answer": "Nova York",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual a origem do Godzilla no filme de 1998?",
+    "options": ["Experimento genético", "Mutação nuclear", "Criatura pré-histórica", "Alienígena"],
+    "answer": "Mutação nuclear",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o principal método que os militares usam para tentar atrair Godzilla em Godzilla (1998)?",
+    "options": ["Sons altos", "Luzes fortes", "Iscas de peixe", "Bombas"],
+    "answer": "Iscas de peixe",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Godzilla (1998), qual o nome do ator que interpreta o Dr. Nick Tatopoulos?",
+    "options": ["Matthew Broderick", "Jean Reno", "Hank Azaria", "Kevin Dunn"],
+    "answer": "Matthew Broderick",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Godzilla (1998), qual o principal desafio que os militares enfrentam ao rastrear a criatura?",
+    "options": ["Sua velocidade", "Sua camuflagem", "Seu tamanho", "Sua inteligência"],
+    "answer": "Sua camuflagem",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o principal tipo de dano que Godzilla causa em Nova York em Godzilla (1998)?",
+    "options": ["Incêndios", "Inundações", "Destruição de edifícios", "Queda de energia"],
+    "answer": "Destruição de edifícios",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Armageddon, qual o tipo de desastre natural que ameaça a Terra?",
+    "options": ["Terremoto", "Asteroide", "Tsunami", "Erupção vulcânica"],
+    "answer": "Asteroide",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual a profissão da equipe recrutada pela NASA para salvar a Terra em Armageddon?",
+    "options": ["Astronautas", "Cientistas", "Perfuradores de petróleo", "Militares"],
+    "answer": "Perfuradores de petróleo",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome da filha de Harry Stamper em Armageddon?",
+    "options": ["Liv", "Grace", "Sarah", "Emily"],
+    "answer": "Grace",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o principal objetivo da missão da equipe no asteroide em Armageddon?",
+    "options": ["Coletar amostras", "Explorar o asteroide", "Perfurar e detonar", "Desviar o asteroide"],
+    "answer": "Perfurar e detonar",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Armageddon, qual o nome da música tema do filme, interpretada por Aerosmith?",
+    "options": ["I Don't Want to Miss a Thing", "Dream On", "Sweet Emotion", "Walk This Way"],
+    "answer": "I Don't Want to Miss a Thing",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Armageddon, qual o nome de uma das naves espaciais usadas na missão?",
+    "options": ["Enterprise", "Discovery", "Freedom", "Apollo"],
+    "answer": "Freedom",
+    "category": "Cinema & Novelas"
+  },
+
+  {
     "question": "Qual o principal objetivo de RoboCop ao longo do filme?",
     "options": ["Manter a paz", "Vingar sua morte", "Servir a OCP", "Proteger a cidade"],
     "answer": "Vingar sua morte",
