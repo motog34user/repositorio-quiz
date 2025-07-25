@@ -1,5 +1,138 @@
 [
   {
+    "question": "Em Armageddon, qual o principal sentimento que permeia o filme?",
+    "options": ["Medo", "Esperança", "Desespero", "Raiva"],
+    "answer": "Esperança",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Impacto Profundo, qual o nome da nave espacial enviada para interceptar o cometa?",
+    "options": ["Discovery", "Messias", "Apollo", "Voyager"],
+    "answer": "Messias",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o principal plano de contingência para a humanidade em Impacto Profundo?",
+    "options": ["Abrigos subterrâneos", "Fuga para o espaço", "Cidades flutuantes", "Vida em Marte"],
+    "answer": "Abrigos subterrâneos",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Impacto Profundo, qual o nome da adolescente que é selecionada para o abrigo?",
+    "options": ["Sarah Hotchner", "Jenny Lerner", "Robin Lerner", "Chloe"],
+    "answer": "Sarah Hotchner",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o principal evento que ocorre após a primeira tentativa de destruir o cometa em Impacto Profundo?",
+    "options": ["Ele se desvia", "Ele se divide", "Ele acelera", "Ele explode"],
+    "answer": "Ele se divide",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Impacto Profundo, o que o primeiro pedaço do cometa causa ao atingir o Oceano Atlântico?",
+    "options": ["Terremoto", "Tsunami", "Erupção vulcânica", "Tempestade"],
+    "answer": "Tsunami",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome do ator que interpreta o Presidente dos Estados Unidos em Impacto Profundo?",
+    "options": ["Harrison Ford", "Morgan Freeman", "Tommy Lee Jones", "Gene Hackman"],
+    "answer": "Morgan Freeman",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Impacto Profundo, qual o principal dilema que as famílias enfrentam ao serem selecionadas para o abrigo?",
+    "options": ["Escolher quem vai", "Deixar para trás", "Manter segredo", "Lutar por vagas"],
+    "answer": "Escolher quem vai",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Impacto Profundo, qual o principal meio de comunicação usado para anunciar o desastre?",
+    "options": ["Jornal", "Rádio", "Televisão", "Internet"],
+    "answer": "Televisão",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o principal objetivo do presidente em Impacto Profundo ao anunciar o desastre?",
+    "options": ["Causar pânico", "Manter a ordem", "Pedir ajuda", "Esconder a verdade"],
+    "answer": "Manter a ordem",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Os Fantasmas Se Divertem, qual o nome do 'bio-exorcista' que os fantasmas contratam?",
+    "options": ["Casper", "Ghostbuster", "Beetlejuice", "Specter"],
+    "answer": "Beetlejuice",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Para invocar Beetlejuice em Os Fantasmas Se Divertem, quantas vezes seu nome deve ser dito?",
+    "options": ["Uma", "Duas", "Três", "Quatro"],
+    "answer": "Três",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Os Fantasmas Se Divertem, qual o nome da atriz que interpreta Lydia Deetz?",
+    "options": ["Geena Davis", "Winona Ryder", "Catherine O'Hara", "Alec Baldwin"],
+    "answer": "Winona Ryder",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome do diretor do filme Os Fantasmas Se Divertem?",
+    "options": ["Steven Spielberg", "Tim Burton", "James Cameron", "Alfred Hitchcock"],
+    "answer": "Tim Burton",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Os Fantasmas Se Divertem, qual o nome do ator que interpreta Beetlejuice?",
+    "options": ["Jack Nicholson", "Johnny Depp", "Michael Keaton", "Danny DeVito"],
+    "answer": "Michael Keaton",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Super Mario Bros. (1993), qual a profissão dos irmãos Mario e Luigi?",
+    "options": ["Encanadores", "Eletricistas", "Mecânicos", "Construtores"],
+    "answer": "Encanadores",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome da princesa que Mario e Luigi precisam resgatar em Super Mario Bros. (1993)?",
+    "options": ["Princesa Peach", "Princesa Daisy", "Princesa Rosalina", "Princesa Toadstool"],
+    "answer": "Princesa Daisy",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Super Mario Bros. (1993), qual o nome do vilão que governa Dinohattan?",
+    "options": ["Bowser", "King Koopa", "Wario", "King Boo"],
+    "answer": "King Koopa",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Rocky IV, qual o nome do boxeador soviético que Rocky Balboa enfrenta?",
+    "options": ["Dolph Lundgren", "Ivan Drago", "Viktor Drago", "Nikolai Drago"],
+    "answer": "Ivan Drago",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome do amigo de Rocky que morre em uma luta contra Ivan Drago em Rocky IV?",
+    "options": ["Paulie", "Apollo Creed", "Mickey Goldmill", "Clubber Lang"],
+    "answer": "Apollo Creed",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Qual o nome do ator que interpreta Ivan Drago em Rocky IV?",
+    "options": ["Sylvester Stallone", "Carl Weathers", "Dolph Lundgren", "Mr. T"],
+    "answer": "Dolph Lundgren",
+    "category": "Cinema & Novelas"
+  },
+  {
+    "question": "Em Um Tira da Pesada, qual o nome do detetive de Detroit que viaja para Beverly Hills?",
+    "options": ["Axel Foley", "Billy Rosewood", "John Taggart", "Victor Maitland"],
+    "answer": "Axel Foley",
+    "category": "Cinema & Novelas"
+  
+
+  {
     "question": "Qual o principal objetivo da banda Wyld Stallyns para o futuro da humanidade em Bill & Ted - Uma Aventura Fantástica?",
     "options": ["Criar paz", "Unir o mundo", "Inspirar a música", "Salvar a história"],
     "answer": "Unir o mundo",
