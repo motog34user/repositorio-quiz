@@ -1,4 +1,106 @@
 [
+            {
+    "question": "Ivete Sangalo é reconhecida por sua atuação em qual área além da música?",
+    "options": ["Apresentadora de TV", "Escritora", "Cientista", "Chef de cozinha"],
+    "answer": "Apresentadora de TV",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual sucesso de Jorge Ben Jor, lançado nos anos 90, celebra o Brasil e chama o 'síndico'?",
+    "options": ["W/Brasil", "País Tropical", "Mas Que Nada", "Fio Maravilha"],
+    "answer": "W/Brasil",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "O álbum 'De Volta ao Planeta dos Macacos' do Jota Quest, de 1998, é um marco por qual motivo?",
+    "options": ["Consagração nacional", "Primeiro álbum", "Último álbum", "Vendas baixas"],
+    "answer": "Consagração nacional",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual cantor é o vocalista principal e figura carismática da banda Jota Quest?",
+    "options": ["Rogério Flausino", "PJ", "Márcio Buzelin", "Marco Túlio"],
+    "answer": "Rogério Flausino",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Jota Quest teve uma música que virou hino de otimismo, qual era o título?",
+    "options": ["Dias Melhores", "Só Hoje", "Encontrar Alguém", "Amor Maior"],
+    "answer": "Dias Melhores",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Jota Quest é conhecido por suas letras com mensagens de qual tipo?",
+    "options": ["Positividade", "Tristeza", "Revolta", "Crítica"],
+    "answer": "Positividade",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome do baixista da banda Jota Quest?",
+    "options": ["PJ", "Márcio Buzelin", "Marco Túlio", "Paulinho Fonseca"],
+    "answer": "PJ",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome da música do Jota Quest que se tornou um hino para os casais apaixonados?",
+    "options": ["Amor Maior", "Encontrar Alguém", "Só Hoje", "Dias Melhores"],
+    "answer": "Amor Maior",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "O cantor Julio Iglesias, ícone da música romântica, é natural de qual país europeu?",
+    "options": ["Espanha", "Portugal", "Itália", "França"],
+    "answer": "Espanha",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual cantor é o vocalista principal e figura marcante da banda Karametade?",
+    "options": ["Vavá", "Márcio", "Netinho", "Salgadinho"],
+    "answer": "Vavá",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Karametade se destacou no cenário musical brasileiro por qual motivo?",
+    "options": ["Pagode romântico", "Rock pesado", "Samba de raiz", "Forró eletrônico"],
+    "answer": "Pagode romântico",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o principal gênero musical que o KLB explorava em suas canções?",
+    "options": ["Pop Romântico", "Rock", "Samba", "Forró"],
+    "answer": "Pop Romântico",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual dos irmãos do KLB é o mais velho e também guitarrista da banda?",
+    "options": ["Kiko", "Leandro", "Bruno", "Léo"],
+    "answer": "Kiko",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual a característica que o nome do grupo KLB faz referência?",
+    "options": ["Iniciais dos nomes", "Local de formação", "Gênero musical", "Número de integrantes"],
+    "answer": "Iniciais dos nomes",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Latino é conhecido por misturar o pop com qual outro gênero musical em suas canções?",
+    "options": ["Funk Melody", "Samba", "Forró", "Blues"],
+    "answer": "Funk Melody",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Latino é reconhecido por suas performances que sempre incluem o quê?",
+    "options": ["Coreografias", "Improvisação", "Silêncio", "Figurinos clássicos"],
+    "answer": "Coreografias",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome da música de Latino que virou febre nas festas?",
+    "options": ["Festa no Apê", "Me Leva", "Só Você", "Vitrine"],
+    "answer": "Festa no Apê",
+    "category": "Música & Shows"
+  },
           {
     "question": "Qual dançarina loira se tornou um ícone do É o Tchan na sua formação original?",
     "options": ["Carla Perez", "Sheila Mello", "Débora Brasil", "Juliana Paes"],
