@@ -1,4 +1,147 @@
 [
+      {
+    "question": "A canção 'Levada Louca' é um dos grandes sucessos da Banda Eva, presente em qual álbum?",
+    "options": [
+      "Banda Eva",
+      "Beleza Rara",
+      "Pra Abalar",
+      "Banda Eva Ao Vivo"
+    ],
+    "answer": "Banda Eva Ao Vivo",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "A Banda Mel lançou o álbum 'O Pulo da Gata' em qual ano, contendo o hit 'Bateu Saudade'?",
+    "options": [
+      "1992",
+      "1994",
+      "1996",
+      "1998"
+    ],
+    "answer": "1994",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual das seguintes músicas é um dos maiores sucessos da Banda Mel, conhecida por sua melodia contagiante?",
+    "options": [
+      "Prefixo de Verão",
+      "Ladeira do Pelô",
+      "Beleza Rara",
+      "Alegria da Cidade"
+    ],
+    "answer": "Ladeira do Pelô",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "A Banda Mel teve várias formações ao longo de sua história. Qual o nome de uma das vocalistas da primeira formação?",
+    "options": [
+      "Ivete Sangalo",
+      "Janete Dantas",
+      "Márcia Freire",
+      "Daniela Mercury"
+    ],
+    "answer": "Janete Dantas",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o título do segundo LP da Banda Mel, lançado em 1988, que foi politicamente importante para a banda?",
+    "options": [
+      "Força Interior",
+      "E Lá Vou Eu",
+      "Banda Mel do Brasil",
+      "Todo Mundo Dança"
+    ],
+    "answer": "E Lá Vou Eu",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o gênero musical predominante da Banda Mel em seus primeiros anos de sucesso?",
+    "options": [
+      "Samba-reggae",
+      "Forró eletrônico",
+      "Axé Music",
+      "Pop rock"
+    ],
+    "answer": "Axé Music",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual cantor foi o vocalista original do Barão Vermelho antes de seguir carreira solo?",
+    "options": [
+      "Renato Russo",
+      "Herbert Vianna",
+      "Cazuza",
+      "Nando Reis"
+    ],
+    "answer": "Cazuza",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "O Barão Vermelho é considerado parte do 'Quarteto Sagrado do rock brasileiro' ao lado de quais outras bandas?",
+    "options": [
+      "Titãs, Capital Inicial e Legião Urbana",
+      "Legião Urbana, Paralamas do Sucesso e Titãs",
+      "Engenheiros do Hawaii, Ira! e Ultraje a Rigor",
+      "RPM, Blitz e Kid Abelha"
+    ],
+    "answer": "Legião Urbana, Paralamas do Sucesso e Titãs",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Após a saída de Cazuza em 1985, quem assumiu os vocais do Barão Vermelho?",
+    "options": [
+      "Roberto Frejat",
+      "Rodrigo Santos",
+      "Maurício Barros",
+      "Fernando Magalhães"
+    ],
+    "answer": "Roberto Frejat",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Em que ano Cazuza deixou o Barão Vermelho para seguir carreira solo?",
+    "options": [
+      "1983",
+      "1985",
+      "1987",
+      "1989"
+    ],
+    "answer": "1985",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual dos seguintes álbuns ao vivo do Barão Vermelho foi lançado em 1999?",
+    "options": [
+      "Barão ao Vivo",
+      "MTV ao Vivo: Barão Vermelho",
+      "Balada MTV: Barão Vermelho",
+      "Rock in Rio 1985"
+    ],
+    "answer": "Balada MTV: Barão Vermelho",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual guitarrista esteve na formação original do Barão Vermelho e depois assumiu os vocais?",
+    "options": [
+      "Fernando Magalhães",
+      "Rodrigo Suricato",
+      "Roberto Frejat",
+      "Sérgio Serra"
+    ],
+    "answer": "Roberto Frejat",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "O Barão Vermelho é conhecido por popularizar qual gênero musical na década de 1980 no Brasil?",
+    "options": [
+      "MPB",
+      "Samba",
+      "Rock",
+      "Axé"
+    ],
+    "answer": "Rock",
+    "category": "Música & Shows"
+  },
      {
     "question": "O Ara Ketu, antes de se tornar uma banda em 1987, iniciou suas atividades em Salvador como qual tipo de agremiação?",
     "options": [
