@@ -1,4 +1,208 @@
 [
+        {
+    "question": "Antes de Dinho Ouro Preto assumir os vocais, o Capital Inicial teve uma vocalista mulher. Qual o nome dela?",
+    "options": ["Patrícia", "Heloísa", "Fernanda", "Carolina"],
+    "answer": "Heloísa",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual sucesso do Capital Inicial, que se tornou um hino, foi originalmente composto por Kiko Zambianchi?",
+    "options": ["À Sua Maneira", "Primeiros Erros", "Fogo", "Natasha"],
+    "answer": "Primeiros Erros",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual integrante do Capital Inicial é formado em Relações Internacionais?",
+    "options": ["Fê Lemos", "Flávio Lemos", "Dinho Ouro Preto", "Loro Jones"],
+    "answer": "Dinho Ouro Preto",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Em que cidade o Capital Inicial se originou, sendo parte da 'Turma da Colina'?",
+    "options": ["Rio de Janeiro", "São Paulo", "Belo Horizonte", "Brasília"],
+    "answer": "Brasília",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Antes de se tornar Charlie Brown Jr., Chorão e Champignon formaram qual banda?",
+    "options": ["Skate Rock", "What's Up", "Zona Zero", "Quebra Mar"],
+    "answer": "What's Up",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual programa de televisão teve a música do Charlie Brown Jr. como tema de abertura entre 1999 e 2006?",
+    "options": ["Malhação", "Big Brother Brasil", "Caldeirão do Huck", "Fantástico"],
+    "answer": "Malhação",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "A sonoridade do Charlie Brown Jr. misturava elementos de quais culturas?",
+    "options": ["Reggae e Samba", "Skate e Poesia", "Surf e Jazz", "Hip Hop e Blues"],
+    "answer": "Skate e Poesia",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "A banda Charlie Brown Jr. é conhecida por dar voz a qual tipo de público?",
+    "options": ["Geração mais velha", "Crianças", "Geração jovem", "Apenas surfistas"],
+    "answer": "Geração jovem",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual era a idade de Champignon quando ele conheceu Chorão e formaram a banda What's Up?",
+    "options": ["Dez anos", "Doze anos", "Quatorze anos", "Dezesseis anos"],
+    "answer": "Doze anos",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o apelido do vocalista que era considerado o 'coração' do Charlie Brown Jr.?",
+    "options": ["Dinho", "Chorão", "Champignon", "Marcão"],
+    "answer": "Chorão",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "A banda Cheiro de Amor é considerada uma das precursoras de qual movimento musical baiano?",
+    "options": ["Tropicália", "MPB", "Axé Music", "Samba-reggae"],
+    "answer": "Axé Music",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "O Cheiro de Amor é conhecido por agitar quais tipos de eventos no Brasil?",
+    "options": ["Festas juninas", "Carnavais e micaretas", "Festivais de jazz", "Shows de rock"],
+    "answer": "Carnavais e micaretas",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome do programa de rádio que Chitãozinho & Xororó ganharam em 1969, marcando o início de sua carreira?",
+    "options": ["Voz do Brasil", "Rádio Nacional", "Rádio 9 de Julho", "Jovem Pan"],
+    "answer": "Rádio 9 de Julho",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o significado por trás do nome artístico 'Xororó' da dupla Chitãozinho & Xororó?",
+    "options": ["Um tipo de planta", "Uma cor", "Uma ave", "Um instrumento musical"],
+    "answer": "Uma ave",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "O nome 'Chitãozinho' surgiu devido a qual peça de vestuário que o cantor usava?",
+    "options": ["Calça jeans", "Camiseta de chitão", "Chapéu de palha", "Bota de couro"],
+    "answer": "Camiseta de chitão",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "A dupla Chitãozinho & Xororó é considerada sinônimo de qual gênero musical brasileiro?",
+    "options": ["Forró", "Samba", "Sertanejo", "Pagode"],
+    "answer": "Sertanejo",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "A dupla Chitãozinho & Xororó é conhecida por participar de qual projeto colaborativo com outros artistas sertanejos?",
+    "options": ["Amigos", "Irmãos", "Família", "Parceiros"],
+    "answer": "Amigos",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual álbum de Chitãozinho & Xororó, lançado em 1991, é um dos mais conhecidos da dupla?",
+    "options": ["Nossa História", "Planeta Azul", "Acústico", "Clássicos"],
+    "answer": "Planeta Azul",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Em que ano a dupla Claudinho & Buchecha atingiu fama nacional com suas músicas?",
+    "options": ["1994", "1996", "1998", "2000"],
+    "answer": "1996",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Em que ano Claudinho, da dupla Claudinho & Buchecha, faleceu em um acidente de carro?",
+    "options": ["2000", "2001", "2002", "2003"],
+    "answer": "2002",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Após a morte de Claudinho, Buchecha lançou qual tipo de trabalho musical?",
+    "options": ["Um novo álbum com a dupla", "Um disco solo", "Uma coletânea", "Um DVD ao vivo"],
+    "answer": "Um disco solo",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Cyndi Lauper participou da série de televisão 'Mad About You' interpretando qual personagem cômica?",
+    "options": ["Phoebe Buffay", "Elaine Benes", "Marie Anne Lugasso", "Fran Fine"],
+    "answer": "Marie Anne Lugasso",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Por sua atuação em 'Mad About You', Cyndi Lauper foi indicada e venceu qual importante prêmio?",
+    "options": ["Oscar", "Grammy", "Emmy Awards", "Globo de Ouro"],
+    "answer": "Emmy Awards",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual foi o nome do primeiro álbum solo lançado pelo cantor Daniel?",
+    "options": ["Meu Reino Encantado", "Um Homem Apaixonado", "Daniel", "Pra Ser Feliz"],
+    "answer": "Daniel",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "A carreira solo do cantor Daniel teve início após a trágica perda de qual parceiro musical em 1997?",
+    "options": ["Leandro", "Chrystian", "Ralf", "João Paulo"],
+    "answer": "João Paulo",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "A dupla João Paulo & Daniel lançou qual álbum de sucesso em 1995?",
+    "options": ["Pra Ser Feliz", "Meu Reino Encantado", "Volta Pra Mim", "Em Qualquer Lugar"],
+    "answer": "Volta Pra Mim",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome de batismo do cantor Daniel?",
+    "options": ["José Daniel", "Daniel Diau", "José Daniel Camillo", "Daniel Bueno"],
+    "answer": "José Daniel Camillo",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual álbum de Daniela Mercury, lançado em 1992, a consagrou nacionalmente e vendeu mais de dois milhões de cópias?",
+    "options": ["Feijão com Arroz", "Sol da Liberdade", "O Canto da Cidade", "Carnaval Eletrônico"],
+    "answer": "O Canto da Cidade",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o apelido popular de Daniela Mercury, que reflete sua importância no gênero Axé?",
+    "options": ["Diva do Axé", "Princesa do Axé", "Rainha do Axé", "Imperatriz do Axé"],
+    "answer": "Rainha do Axé",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Em 1997, Deborah Blando lançou um álbum que marcou seu retorno ao mercado brasileiro com músicas em português. Qual o nome?",
+    "options": ["A Different Story", "Unicamente", "Acoustic", "Innocence"],
+    "answer": "Unicamente",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "A canção 'Unicamente' de Deborah Blando foi tema de qual famosa novela brasileira?",
+    "options": ["Corpo Dourado", "Explode Coração", "Vira Lata", "Torre de Babel"],
+    "answer": "Explode Coração",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Djavan é conhecido por qual característica marcante em suas composições?",
+    "options": ["Letras simples", "Ritmos repetitivos", "Complexidade harmônica", "Melodias curtas"],
+    "answer": "Complexidade harmônica",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o gênero musical em que Djavan é considerado um dos maiores nomes?",
+    "options": ["Rock", "Samba", "Forró", "MPB"],
+    "answer": "MPB",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "As letras de Djavan são frequentemente descritas com qual característica?",
+    "options": ["Diretas e objetivas", "Humorísticas", "Poéticas e enigmáticas", "Narrativas longas"],
+    "answer": "Poéticas e enigmáticas",
+    "category": "Música & Shows"
+  },
       {
     "question": "A canção 'Levada Louca' é um dos grandes sucessos da Banda Eva, presente em qual álbum?",
     "options": [
