@@ -1,4 +1,172 @@
 [
+              {
+    "question": "A canção 'Pense em Mim' é um dos marcos de Leandro & Leonardo. Em qual ano ela foi lançada?",
+    "options": ["1988", "1990", "1992", "1994"],
+    "answer": "1990",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Leandro & Leonardo, em sua trajetória, foram muito influenciados por qual estilo musical americano?",
+    "options": ["Country", "Blues", "Jazz", "Folk"],
+    "answer": "Country",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "O vocalista da Legião Urbana, Renato Russo, era conhecido por qual apelido?",
+    "options": ["O Trovador", "O Poeta", "O Profeta", "O Mago"],
+    "answer": "O Trovador",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome do baixista original da Legião Urbana?",
+    "options": ["Dado Villa-Lobos", "Marcelo Bonfá", "Renato Russo", "Renato Rocha"],
+    "answer": "Renato Rocha",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Legião Urbana lançou um álbum que tem uma capa com uma criança. Qual o nome desse álbum?",
+    "options": ["Dois", "As Quatro Estações", "V", "O Descobrimento do Brasil"],
+    "answer": "As Quatro Estações",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "A música 'Pais e Filhos' da Legião Urbana aborda qual tema principal?",
+    "options": ["Amor romântico", "Conflito geracional", "Amizade", "Política"],
+    "answer": "Conflito geracional",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "A canção 'Eduardo e Mônica' da Legião Urbana conta a história de qual tipo de relacionamento?",
+    "options": ["Amizade colorida", "Amor improvável", "Rivalidade", "Amor platônico"],
+    "answer": "Amor improvável",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome do guitarrista da Legião Urbana?",
+    "options": ["Marcelo Bonfá", "Renato Russo", "Dado Villa-Lobos", "Renato Rocha"],
+    "answer": "Dado Villa-Lobos",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "LS Jack é uma banda conhecida por qual estilo musical predominante?",
+    "options": ["Pop Rock", "Samba", "Axé", "Sertanejo"],
+    "answer": "Pop Rock",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome do vocalista de LS Jack?",
+    "options": ["Marcus Menna", "Vini Rosa", "Sérgio Knust", "Rogério Leite"],
+    "answer": "Marcus Menna",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Em qual década LS Jack alcançou seu auge de popularidade?",
+    "options": ["Anos 80", "Anos 90", "Anos 2000", "Anos 2010"],
+    "answer": "Anos 2000",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "O vocalista Marcus Menna de LS Jack enfrentou um grave problema de saúde. Qual foi?",
+    "options": ["Câncer", "Acidente vascular", "Problema cardíaco", "Doença autoimune"],
+    "answer": "Acidente vascular",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "LS Jack teve um álbum que trazia uma regravação de 'Carla' do LS Jack. Qual o nome?",
+    "options": ["V.I.P.", "LS Jack", "Tudo de Novo", "Olho de Boi"],
+    "answer": "Tudo de Novo",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome da música de Lulu Santos que fala sobre 'tudo o que se vê não é igual ao que a gente viu'?",
+    "options": ["Tempos Modernos", "Como Uma Onda", "Toda Forma de Amor", "A Cura"],
+    "answer": "Tempos Modernos",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome do álbum de Lulu Santos que contém o hit 'Como Uma Onda'?",
+    "options": ["O Último Romântico", "Tudo Azul", "Toda Forma de Amor", "Pelo Certo"],
+    "answer": "Tudo Azul",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Maurício Manieri é conhecido por qual instrumento que ele toca e compõe?",
+    "options": ["Guitarra", "Bateria", "Teclado", "Baixo"],
+    "answer": "Teclado",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Em qual década Maurício Manieri alcançou seu auge de popularidade?",
+    "options": ["Anos 80", "Anos 90", "Anos 2000", "Anos 2010"],
+    "answer": "Anos 90",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome do álbum de Maurício Manieri que contém o hit 'Bem Querer'?",
+    "options": ["A Noite Inteira", "Maurício Manieri", "Apartamento 82", "Pulsar"],
+    "answer": "A Noite Inteira",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "A música 'Minha Menina' de Maurício Manieri é uma homenagem a qual tipo de relacionamento?",
+    "options": ["Amizade", "Amor romântico", "Familiar", "Platônico"],
+    "answer": "Amor romântico",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Milton Nascimento é um dos fundadores de qual movimento musical brasileiro?",
+    "options": ["Tropicália", "Jovem Guarda", "Clube da Esquina", "Bossa Nova"],
+    "answer": "Clube da Esquina",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome da música de Milton Nascimento que fala sobre 'amigo é coisa para se guardar'?",
+    "options": ["Canção da América", "Maria, Maria", "Travessia", "Coração de Estudante"],
+    "answer": "Canção da América",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Molejo é conhecido por qual característica em suas apresentações?",
+    "options": ["Coreografias complexas", "Humor e irreverência", "Figurinos elaborados", "Efeitos especiais"],
+    "answer": "Humor e irreverência",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "A música 'Cilada' de Molejo ficou famosa por qual trecho da letra?",
+    "options": ["Não era amor", "Era uma cilada", "Eu te amo", "Vem comigo"],
+    "answer": "Não era amor",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome do vocalista de Molejo?",
+    "options": ["Anderson Leonardo", "Andrezinho", "Claumirzinho", "Lúcio"],
+    "answer": "Anderson Leonardo",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Molejo, em sua trajetória, foi influenciado por qual tipo de pagode?",
+    "options": ["Romântico", "De mesa", "Partido alto", "Samba-rock"],
+    "answer": "De mesa",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome do álbum de Molejo lançado em 1996?",
+    "options": ["Voltei", "Não Quero Saber de Mais Nada", "Brincadeira de Criança", "Família"],
+    "answer": "Brincadeira de Criança",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Molejo é reconhecido por qual instrumento de percussão em suas músicas?",
+    "options": ["Pandeiro", "Tantã", "Cavaquinho", "Reco-reco"],
+    "answer": "Pandeiro",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome da banda em que Nando Reis foi baixista e compositor principal?",
+    "options": ["Titãs", "Paralamas do Sucesso", "Legião Urbana", "Skank"],
+    "answer": "Titãs",
+    "category": "Música & Shows"
+  },
             {
     "question": "Ivete Sangalo é reconhecida por sua atuação em qual área além da música?",
     "options": ["Apresentadora de TV", "Escritora", "Cientista", "Chef de cozinha"],
