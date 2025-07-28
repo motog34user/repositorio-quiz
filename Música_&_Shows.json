@@ -1,4 +1,160 @@
 [
+          {
+    "question": "Qual dançarina loira se tornou um ícone do É o Tchan na sua formação original?",
+    "options": ["Carla Perez", "Sheila Mello", "Débora Brasil", "Juliana Paes"],
+    "answer": "Carla Perez",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Uma das dançarinas mais famosas do É o Tchan, que entrou após a saída de Carla Perez, foi:",
+    "options": ["Sheila Mello", "Scheila Carvalho", "Débora Brasil", "Juliana Paes"],
+    "answer": "Sheila Mello",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "O É o Tchan teve um grande sucesso que envolvia um objeto, qual era o nome?",
+    "options": ["Na Boquinha da Garrafa", "No Copo Cheio", "Na Boca do Pote", "No Bico do Jarro"],
+    "answer": "Na Boquinha da Garrafa",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Além das dançarinas, qual personagem masculino se destacava nas coreografias do É o Tchan?",
+    "options": ["Jacaré", "Beto Jamaica", "Compadre Washington", "Reinaldo"],
+    "answer": "Jacaré",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "O É o Tchan se tornou um fenômeno de vendas de qual tipo de mídia nos anos 90?",
+    "options": ["Discos de vinil", "CDs e fitas", "DVDs de shows", "Downloads digitais"],
+    "answer": "CDs e fitas",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual era o principal objetivo das músicas do É o Tchan nas festas e carnavais?",
+    "options": ["Fazer o povo dançar", "Contar histórias", "Criticar a sociedade", "Promover a paz"],
+    "answer": "Fazer o povo dançar",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual cantor se destacou como um dos principais vocalistas do Exaltasamba por muitos anos?",
+    "options": ["Péricles", "Thiaguinho", "Chrigor", "Belo"],
+    "answer": "Péricles",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Fagner é conhecido por sua voz marcante e por misturar quais estilos musicais em sua obra?",
+    "options": ["MPB e Forró", "Rock e Pop", "Samba e Jazz", "Axé e Reggae"],
+    "answer": "MPB e Forró",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Fagner é um artista que sempre valorizou a cultura de qual região do Brasil em sua música?",
+    "options": ["Nordeste", "Sudeste", "Sul", "Centro-Oeste"],
+    "answer": "Nordeste",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Fafá de Belém teve um grande sucesso que falava sobre solidão. Qual era?",
+    "options": ["Abandonada", "Foi Assim", "Meu Disfarce", "Sereia"],
+    "answer": "Abandonada",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "O grupo Fat Family, famoso por suas vozes, é composto por membros de qual relação familiar?",
+    "options": ["Irmãos", "Amigos", "Primos", "Vizinhos"],
+    "answer": "Irmãos",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual sucesso do Fat Family, lançado nos anos 90, falava sobre ser sexy?",
+    "options": ["Jeito Sexy", "Gordinho Sexy", "Eu Não Vou", "Fat Family"],
+    "answer": "Jeito Sexy",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Fat Family é conhecido por qual característica marcante em suas performances vocais?",
+    "options": ["Harmonias vocais", "Rap", "Gritos agudos", "Vozes robóticas"],
+    "answer": "Harmonias vocais",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o principal gênero musical que o Fat Family explorava em suas canções?",
+    "options": ["Soul e R&B", "Rock e Pop", "Samba e Pagode", "Forró e Axé"],
+    "answer": "Soul e R&B",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "O grupo Fat Family se destacou no cenário musical brasileiro por qual motivo?",
+    "options": ["Vozes potentes", "Coreografias", "Figurinos ousados", "Instrumentais complexos"],
+    "answer": "Vozes potentes",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "O Fat Family participou de qual tipo de evento para divulgar seu trabalho no início da carreira?",
+    "options": ["Programas de TV", "Festivais de Rock", "Shows de Caridade", "Peças de Teatro"],
+    "answer": "Programas de TV",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "O rapper Gabriel o Pensador é conhecido por suas letras que abordam qual tipo de tema?",
+    "options": ["Críticas sociais", "Romance", "Fantasia", "Natureza"],
+    "answer": "Críticas sociais",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "O álbum 'Quebra-Cabeça' de Gabriel o Pensador, de 1995, trouxe qual grande sucesso?",
+    "options": ["Cachimbo da Paz", "2345678", "Retrato de um Playboy", "Festa da Música"],
+    "answer": "Cachimbo da Paz",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Gabriel o Pensador é conhecido por suas performances ao vivo que sempre incluem o quê?",
+    "options": ["Interação com público", "Coreografias", "Figurinos elaborados", "Efeitos visuais"],
+    "answer": "Interação com público",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual instrumento musical é frequentemente associado às composições de Gilberto Gil?",
+    "options": ["Violão", "Piano", "Guitarra", "Bateria"],
+    "answer": "Violão",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Gilberto Gil também teve uma carreira em qual área além da música?",
+    "options": ["Política", "Esportes", "Ciência", "Artes plásticas"],
+    "answer": "Política",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Ira! lançou um grande sucesso que falava sobre o envelhecimento na cidade, qual era?",
+    "options": ["Envelheço na Cidade", "Flores em Você", "Girassol", "Eu Quero Sempre Mais"],
+    "answer": "Envelheço na Cidade",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome de um dos álbuns ao vivo mais famosos do Ira!, lançado em 2004?",
+    "options": ["Acústico MTV", "Ao Vivo", "Ira! e Convidados", "O Melhor do Ira!"],
+    "answer": "Acústico MTV",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "A banda Ira! se destacou por suas performances energéticas e qual característica vocal de Nasi?",
+    "options": ["Voz rouca", "Voz suave", "Voz aguda", "Voz grave"],
+    "answer": "Voz rouca",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "A cantora Ivete Sangalo, rainha do axé, iniciou sua carreira em qual famosa banda baiana?",
+    "options": ["Banda Eva", "Chiclete com Banana", "Timbalada", "Olodum"],
+    "answer": "Banda Eva",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual música de Ivete Sangalo se tornou um clássico romântico com a frase 'Se Eu Não Te Amasse Tanto Assim'?",
+    "options": ["Se Eu Não Te Amasse Tanto Assim", "A Lua Q Me Traiu", "Deixo", "Quando a Chuva Passar"],
+    "answer": "Se Eu Não Te Amasse Tanto Assim",
+    "category": "Música & Shows"
+  },
         {
     "question": "Antes de Dinho Ouro Preto assumir os vocais, o Capital Inicial teve uma vocalista mulher. Qual o nome dela?",
     "options": ["Patrícia", "Heloísa", "Fernanda", "Carolina"],
