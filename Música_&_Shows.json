@@ -1,4 +1,112 @@
 [
+    {
+    "question": "Qual o nome do álbum de Netinho que contém o hit 'Milla'?",
+    "options": ["Um Sonho Bom", "Netinho", "Me Leva", "Rádio Brasil"],
+    "answer": "Um Sonho Bom",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "A música 'Milla' de Netinho é uma regravação de qual banda?",
+    "options": ["Banda Eva", "Chiclete com Banana", "Timbalada", "Jammil e Uma Noites"],
+    "answer": "Banda Eva",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome do vocalista e guitarrista de Os Paralamas do Sucesso?",
+    "options": ["Herbert Vianna", "Bi Ribeiro", "João Barone", "Dinho Ouro Preto"],
+    "answer": "Herbert Vianna",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome do álbum de Os Paralamas do Sucesso lançado em 1986?",
+    "options": ["O Passo do Lui", "Selvagem?", "D", "Bora Bora"],
+    "answer": "Selvagem?",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Os Travessos é um grupo conhecido por qual estilo musical predominante?",
+    "options": ["Samba", "Pagode Romântico", "Axé", "Forró"],
+    "answer": "Pagode Romântico",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome do vocalista original de Os Travessos?",
+    "options": ["Rodriguinho", "Fabinho Mello", "Chininha", "Edi"],
+    "answer": "Rodriguinho",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome do percussionista de Os Travessos?",
+    "options": ["Rodriguinho", "Fabinho Mello", "Chininha", "Edi"],
+    "answer": "Edi",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Padre Marcelo Rossi é conhecido por qual tipo de música predominante?",
+    "options": ["Samba", "Música religiosa", "Forró", "Sertanejo"],
+    "answer": "Música religiosa",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome do álbum de Padre Marcelo Rossi que vendeu milhões de cópias?",
+    "options": ["Um Presente Para Jesus", "Músicas Para Louvar ao Senhor", "Paz Sim Violência Não", "No Colo de Jesus"],
+    "answer": "Músicas Para Louvar ao Senhor",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Padre Marcelo Rossi é conhecido por qual característica em suas missas e shows?",
+    "options": ["Dançar", "Pular", "Cantar e orar", "Contar piadas"],
+    "answer": "Cantar e orar",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Em qual década Padre Marcelo Rossi alcançou seu auge de popularidade?",
+    "options": ["Anos 80", "Anos 90", "Anos 2000", "Anos 2010"],
+    "answer": "Anos 90",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome da música de Padre Marcelo Rossi que fala sobre 'um anjo'?",
+    "options": ["Anjos de Deus", "Erguei as Mãos", "Sonda-me", "No Colo de Jesus"],
+    "answer": "Anjos de Deus",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome do álbum de Padre Marcelo Rossi lançado em 1998?",
+    "options": ["Um Presente Para Jesus", "Músicas Para Louvar ao Senhor", "Paz Sim Violência Não", "No Colo de Jesus"],
+    "answer": "Um Presente Para Jesus",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome do vocalista de Raça Negra?",
+    "options": ["Luiz Carlos", "Fabinho", "Fernando", "Felippe"],
+    "answer": "Luiz Carlos",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Reginaldo Rossi é um cantor conhecido por qual estilo musical predominante?",
+    "options": ["Samba", "Brega", "Forró", "Axé"],
+    "answer": "Brega",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome do apelido de Reginaldo Rossi?",
+    "options": ["O Poeta", "O Rei do Brega", "O Trovador", "O Mago"],
+    "answer": "O Rei do Brega",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome da banda em que Renato Russo foi vocalista e principal letrista?",
+    "options": ["Titãs", "Paralamas do Sucesso", "Legião Urbana", "Skank"],
+    "answer": "Legião Urbana",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Renato Russo é um dos artistas que mais influenciou qual geração de músicos brasileiros?",
+    "options": ["Jovem Guarda", "Tropicalistas", "Rock dos anos 80", "Sertanejos"],
+    "answer": "Rock dos anos 80",
+    "category": "Música & Shows"
+  },
               {
     "question": "A canção 'Pense em Mim' é um dos marcos de Leandro & Leonardo. Em qual ano ela foi lançada?",
     "options": ["1988", "1990", "1992", "1994"],
