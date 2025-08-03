@@ -5,6 +5,127 @@
     "answer": "Um Sonho Bom",
     "category": "Música & Shows"
   },
+      {
+    "question": "Qual objeto Roberto Carlos jogava na plateia de seus shows, que se tornou uma marca registrada?",
+    "options": [
+      "Rosa Vermelha",
+      "Lenço Branco",
+      "Chapéu Azul",
+      "Anel de Prata"
+    ],
+    "answer": "Rosa Vermelha",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Em 'É Proibido Fumar', Roberto Carlos desafia as regras com um ritmo de qual estilo musical?",
+    "options": [
+      "Bossa Nova",
+      "Rock n' Roll",
+      "Samba Canção",
+      "Forró"
+    ],
+    "answer": "Rock n' Roll",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Roberto Carlos canta sobre uma fruta em 'Fera Ferida', que serve de metáfora para a vida. Qual fruta é essa?",
+    "options": [
+      "Maçã Envenenada",
+      "Caju Amargo",
+      "Uva Madura",
+      "Banana Dourada"
+    ],
+    "answer": "Maçã Envenenada",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Em sua canção 'Amigo', Roberto Carlos expressa sua gratidão a quem, de forma sincera e profunda?",
+    "options": [
+      "Seu Pássaro",
+      "Seu Cachorro",
+      "Deus",
+      "Seu Irmão"
+    ],
+    "answer": "Deus",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual a cor que Roberto Carlos passou a usar em suas roupas para shows, por uma questão de superstição?",
+    "options": [
+      "Azul",
+      "Verde",
+      "Branco",
+      "Dourado"
+    ],
+    "answer": "Branco",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "A canção 'O Portão', de Roberto Carlos, começa com uma frase marcante. Qual é o primeiro verso?",
+    "options": [
+      "Eu voltei, agora pra ficar",
+      "Eu voltei pra minha casa",
+      "Eu voltei pra te encontrar",
+      "Eu voltei, enfim"
+    ],
+    "answer": "Eu voltei, agora pra ficar",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Roberto Carlos tem uma canção que se tornou um hino para os fãs sobre o amor. Qual é?",
+    "options": [
+      "Desabafo",
+      "Como é grande o meu amor por você",
+      "Mulher Pequena",
+      "Cama e Mesa"
+    ],
+    "answer": "Como é grande o meu amor por você",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual veículo automotivo é o tema central da canção 'O Calhambeque' de Roberto Carlos?",
+    "options": [
+      "Caminhão",
+      "Moto",
+      "Carro de boi",
+      "Ford Bigode"
+    ],
+    "answer": "Ford Bigode",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual famoso cantor fez uma parceria com Roberto Carlos na música 'Além do Horizonte'?",
+    "options": [
+      "Erasmo Carlos",
+      "Tom Jobim",
+      "Caetano Veloso",
+      "Lulu Santos"
+    ],
+    "answer": "Erasmo Carlos",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual canção de Roupa Nova se tornou tema de uma famosa novela da TV Globo?",
+    "options": [
+      "Felicidade",
+      "Começo, Meio e Fim",
+      "Dona",
+      "Sapato Velho"
+    ],
+    "answer": "Dona",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Em 'Começo, Meio e Fim', Roupa Nova canta sobre o ciclo de um sentimento. Qual é?",
+    "options": [
+      "Alegria",
+      "Paixão",
+      "Melancolia",
+      "Amizade"
+    ],
+    "answer": "Paixão",
+    "category": "Música & Shows"
+  },
   {
     "question": "A música 'Milla' de Netinho é uma regravação de qual banda?",
     "options": ["Banda Eva", "Chiclete com Banana", "Timbalada", "Jammil e Uma Noites"],
@@ -1197,4 +1318,5 @@
     "category": "Música & Shows"
   }
 ]
+
 
