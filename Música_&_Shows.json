@@ -53,6 +53,54 @@
     "answer": "Músicas Para Louvar ao Senhor",
     "category": "Música & Shows"
   },
+      {
+    "question": "Renato Russo é reconhecido por sua capacidade de abordar qual tema em suas letras?",
+    "options": ["Felicidade", "Angústia e existencialismo", "Humor", "Otimismo"],
+    "answer": "Angústia e existencialismo",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Renato Russo, em sua vida pessoal, era um grande apreciador de qual arte?",
+    "options": ["Pintura", "Escultura", "Literatura", "Dança"],
+    "answer": "Literatura",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Renato Russo é conhecido por sua postura crítica em relação a qual aspecto da sociedade?",
+    "options": ["Consumismo", "Religião", "Tecnologia", "Esporte"],
+    "answer": "Consumismo",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Rick & Renner é uma dupla conhecida por qual estilo musical predominante?",
+    "options": ["Samba", "Sertanejo", "Forró", "Axé"],
+    "answer": "Sertanejo",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome da música de Rick & Renner que fala sobre uma mulher sensacional?",
+    "options": ["Ela É Demais", "Muleca", "Nos Bares da Cidade", "Cara de Pau"],
+    "answer": "Ela É Demais",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Rick & Renner é conhecido por qual característica em suas letras?",
+    "options": ["Humorísticas", "Românticas e diretas", "Políticas", "Filosóficas"],
+    "answer": "Românticas e diretas",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "A música 'Muleca' de Rick & Renner é um clássico sobre qual tipo de relacionamento?",
+    "options": ["Amizade", "Amor juvenil", "Rivalidade", "Amor platônico"],
+    "answer": "Amor juvenil",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome do álbum de Rick & Renner que foi lançado em 1998?",
+    "options": ["Rick & Renner", "Mil Vezes Cantarei", "É Dez", "Seguir em Frente"],
+    "answer": "Mil Vezes Cantarei",
+    "category": "Música & Shows"
+  },
   {
     "question": "Padre Marcelo Rossi é conhecido por qual característica em suas missas e shows?",
     "options": ["Dançar", "Pular", "Cantar e orar", "Contar piadas"],
@@ -1149,3 +1197,4 @@
     "category": "Música & Shows"
   }
 ]
+
