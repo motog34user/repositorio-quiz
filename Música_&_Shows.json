@@ -6,6 +6,83 @@
     "category": "Música & Shows"
   },
       {
+    "question": "A canção 'Anjo', de Roupa Nova, foi tema de qual novela de grande sucesso?",
+    "options": [
+      "Vamp",
+      "A Próxima Vítima",
+      "Quatro por Quatro",
+      "O Rei do Gado"
+    ],
+    "answer": "Quatro por Quatro",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Roupa Nova tem uma canção que é tema do seriado 'Sítio do Picapau Amarelo'. Qual é o título dela?",
+    "options": [
+      "A Turma da Mônica",
+      "Sítio do Picapau",
+      "Emília",
+      "Mundo da Fantasia"
+    ],
+    "answer": "Sítio do Picapau",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual a primeira canção de Sandy & Junior a ser tema de uma novela da TV Globo?",
+    "options": [
+      "Inesquecível",
+      "Aprender a Amar",
+      "Vamô Pulá!",
+      "Tudo Pra Você"
+    ],
+    "answer": "Aprender a Amar",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome do seriado que Sandy & Junior estrelaram na TV Globo?",
+    "options": [
+      "Sandy & Junior",
+      "Tempo",
+      "A Turma do Barulho",
+      "Mundo Mágico"
+    ],
+    "answer": "Sandy & Junior",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Em Só Pra Contrariar, a canção 'Que se chama Amor' tem um refrão que descreve o que?",
+    "options": [
+      "A busca pela paz",
+      "O mistério da vida",
+      "A força da amizade",
+      "O início de um amor"
+    ],
+    "answer": "O início de um amor",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome do álbum de Só Pra Contrariar que marcou a saída do vocalista Alexandre Pires?",
+    "options": [
+      "Só Pra Contrariar",
+      "SPC Ao Vivo",
+      "Pagode da Amizade",
+      "Meu Jeito de Ser"
+    ],
+    "answer": "Meu Jeito de Ser",
+    "category": "Música & Shows"
+  },
+  {
+    "question": "Qual o nome do vocalista de Só Pra Contrariar que fez um dueto com o cantor Julio Iglesias?",
+    "options": [
+      "Alexandre Pires",
+      "Fernando Pires",
+      "João Pires",
+      "Roberto Pires"
+    ],
+    "answer": "Alexandre Pires",
+    "category": "Música & Shows"
+  },
+      {
     "question": "Qual objeto Roberto Carlos jogava na plateia de seus shows, que se tornou uma marca registrada?",
     "options": [
       "Rosa Vermelha",
@@ -1318,5 +1395,6 @@
     "category": "Música & Shows"
   }
 ]
+
 
 
