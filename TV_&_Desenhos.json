@@ -4,12 +4,14 @@
     "options": ["Rede Globo", "SBT", "Record TV", "Band"],
     "answer": "Rede Globo",
     "category": "TV & Desenhos"
+     "tags": ["TV Globo", "Programa de TV"]
   },
   {
     "question": "Qual era a principal forma de participação do público no Intercine para escolher o filme?",
     "options": ["Ligação telefônica", "Envio de cartas", "Votação presencial", "Envio de e-mail"],
     "answer": "Ligação telefônica",
     "category": "TV & Desenhos"
+    "tags": ["TV Globo", "Programa de TV"]
   },
   {
     "question": "O Intercine permitia que o público escolhesse entre quantos filmes para exibição?",
@@ -22,6 +24,7 @@
     "options": ["Madrugada", "Manhã", "Tarde", "Noite"],
     "answer": "Madrugada",
     "category": "TV & Desenhos"
+    "tags": ["TV Globo", "Programa de TV"]
   },
   {
     "question": "Qual era o principal diferencial do Intercine em relação a outras sessões de filmes?",
@@ -34,6 +37,7 @@
     "options": ["Sátira política e social", "Humor pastelão", "Comédia romântica", "Humor ingênuo"],
     "answer": "Sátira política e social",
     "category": "TV & Desenhos"
+    "tags": ["TV Globo", "Programa de TV","Programa de Humor"]
   },
   {
     "question": "Que tipo de temas eram frequentemente satirizados em Casseta & Planeta Urgente, do cotidiano?",
@@ -5043,3 +5047,4 @@
         "category": "TV & Desenhos"
     }
 ]
+
