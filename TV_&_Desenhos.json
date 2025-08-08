@@ -1,529 +1,1012 @@
 [
-  {
-    "question": "O Intercine era uma sessão de filmes exibida em qual emissora brasileira?",
-    "options": ["Rede Globo", "SBT", "Record TV", "Band"],
-    "answer": "Rede Globo",
-    "category": "TV & Desenhos",
-     "tags": ["Globo", "Programa","TV"]
-  },
-  {
-    "question": "Qual era a principal forma de participação do público no Intercine para escolher o filme?",
-    "options": ["Ligação telefônica", "Envio de cartas", "Votação presencial", "Envio de e-mail"],
-    "answer": "Ligação telefônica",
-    "category": "TV & Desenhos",
-    "tags": ["Globo", "Programa","TV"]
-  },
-  {
-    "question": "O Intercine permitia que o público escolhesse entre quantos filmes para exibição?",
-    "options": ["Dois", "Três", "Quatro", "Cinco"],
-    "answer": "Dois",
-    "category": "TV & Desenhos",
-"tags": ["Globo", "Programa","TV"]
-  },
-  {
-    "question": "Em qual período do dia o Intercine era tradicionalmente transmitido?",
-    "options": ["Madrugada", "Manhã", "Tarde", "Noite"],
-    "answer": "Madrugada",
-    "category": "TV & Desenhos",
-    "tags": ["Globo", "Programa","TV"]
-  },
-  {
-    "question": "Qual era o principal diferencial do Intercine em relação a outras sessões de filmes?",
-    "options": ["Interatividade com o público", "Exibir filmes inéditos", "Exibir filmes cult", "Exibir filmes brasileiros"],
-    "answer": "Interatividade com o público",
-    "category": "TV & Desenhos",
-"tags": ["Globo", "Programa","TV"]
-  },
-  {
-    "question": "Qual era a principal característica do humor de Casseta & Planeta Urgente?",
-    "options": ["Sátira política e social", "Humor pastelão", "Comédia romântica", "Humor ingênuo"],
-    "answer": "Sátira política e social",
-    "category": "TV & Desenhos",
-    "tags": ["Globo", "Programa","Humor","TV"]
-  },
-  {
-    "question": "Que tipo de temas eram frequentemente satirizados em Casseta & Planeta Urgente, do cotidiano?",
-    "options": ["Notícias e costumes", "Culinária", "Esportes", "Moda"],
-    "answer": "Notícias e costumes",
-    "category": "TV & Desenhos",
-"tags": ["Globo", "Programa","Humor","TV"]
-  },
-  {
-    "question": "Qual era o nome de uma das atrizes que fazia parte do Casseta & Planeta Urgente?",
-    "options": ["Maria Paula", "Claudia Raia", "Fernanda Montenegro", "Glória Pires"],
-    "answer": "Maria Paula",
-    "category": "TV & Desenhos",
-"tags": ["Globo", "Programa","Humor","TV"]
-  },
-  {
-    "question": "Qual apresentador icônico comanda o Programa do Ratinho no SBT?",
-    "options": ["Carlos Massa", "Silvio Santos", "Gugu Liberato", "Faustão"],
-    "answer": "Carlos Massa",
-    "category": "TV & Desenhos",
-"tags": ["SBT", "Programa","Humor","TV"]
-  },
-  {
-    "question": "O Programa do Ratinho era famoso por qual quadro que resolvia conflitos familiares?",
-    "options": ["Teste de DNA", "Teste de Fidelidade", "Boteco do Ratinho", "Comando da Madrugada"],
-    "answer": "Teste de DNA",
-    "category": "TV & Desenhos",
-"tags": ["SBT", "Programa","Humor","TV"]
-  },
-  {
-    "question": "Qual era o principal objetivo dos participantes na Porta da Esperança?",
-    "options": ["Ter um pedido atendido", "Ganhar dinheiro", "Ficar famoso", "Apenas brincar"],
-    "answer": "Ter um pedido atendido",
-    "category": "TV & Desenhos",
-"tags": ["SBT", "Programa","TV"]
-  },
-  {
-    "question": "A Porta da Esperança era transmitida em qual período do dia, como parte de um programa maior?",
-    "options": ["Noite de domingo", "Manhã de domingo", "Tarde de domingo", "Madrugada"],
-    "answer": "Noite de domingo",
-    "category": "TV & Desenhos",
-"tags": ["SBT", "Programa","TV"]
-  },
-  {
-    "question": "Band Kids era um bloco de desenhos exibido em qual emissora brasileira?",
-    "options": ["Band", "Rede Globo", "SBT", "Record TV"],
-    "answer": "Band",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Que tipo de animações japonesas eram predominantemente exibidas no Band Kids?",
-    "options": ["Animes", "Desenhos clássicos", "Desenhos educativos", "Desenhos de comédia"],
-    "answer": "Animes",
-    "category": "TV & Desenhos"
-"tags": ["Band", "Programa","TV"]
-  },
-  {
-    "question": "Qual era o principal diferencial do Band Kids em relação a outros blocos de desenhos?",
-    "options": ["Foco em animes", "Foco em desenhos educativos", "Foco em desenhos clássicos", "Foco em desenhos brasileiros"],
-    "answer": "Foco em animes",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual apresentador icônico comandava o Show do Milhão no SBT?",
-    "options": ["Silvio Santos", "Gugu Liberato", "Ratinho", "Faustão"],
-    "answer": "Silvio Santos",
-    "category": "TV & Desenhos"
-  },
-
-      {
-    "question": "O Cocoricó abordava temas relacionados a qual ambiente principal?",
-    "options": ["Vida no campo", "Vida na cidade", "Vida na praia", "Vida na montanha"],
-    "answer": "Vida no campo",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Cocoricó, qual animal era a vaca que adorava ler e era muito inteligente?",
-    "options": ["Lola", "Zazá", "Alípio", "Caco"],
-    "answer": "Lola",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "O Cocoricó era conhecido por qual estilo visual dos bonecos, sendo muito expressivos?",
-    "options": ["Bonecos de fantoche", "Bonecos de pano", "Bonecos de madeira", "Bonecos de plástico"],
-    "answer": "Bonecos de fantoche",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual era a principal forma de interação entre os personagens no Cocoricó?",
-    "options": ["Conversas e músicas", "Apenas brigas", "Apenas jogos", "Apenas aulas"],
-    "answer": "Conversas e músicas",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "No Glub Glub, qual era o ambiente principal onde os personagens viviam?",
-    "options": ["Fundo do mar", "Floresta", "Cidade", "Deserto"],
-    "answer": "Fundo do mar",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Que emissora brasileira produziu e exibiu o Glub Glub?",
-    "options": ["TV Cultura", "Rede Globo", "SBT", "Record TV"],
-    "answer": "TV Cultura",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual era a principal característica dos apresentadores do Glub Glub?",
-    "options": ["Eram peixes", "Eram humanos", "Eram robôs", "Eram alienígenas"],
-    "answer": "Eram peixes",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "O Glub Glub era conhecido por exibir qual tipo de conteúdo, além de suas interações?",
-    "options": ["Desenhos animados", "Novelas", "Noticiários", "Documentários"],
-    "answer": "Desenhos animados",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual apresentador icônico comandou o Domingo Legal no SBT por muitos anos?",
-    "options": ["Gugu Liberato", "Silvio Santos", "Faustão", "Ratinho"],
-    "answer": "Gugu Liberato",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "O Domingo Legal era famoso por qual quadro onde celebridades entravam em uma banheira?",
-    "options": ["Banheira do Gugu", "Piscina da Fama", "Chuveiro Legal", "Spa dos Artistas"],
-    "answer": "Banheira do Gugu",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual era o nome do quadro onde Gugu dirigia um táxi e conversava com passageiros famosos?",
-    "options": ["Táxi do Gugu", "Carona Legal", "Motorista da Alegria", "Gugu no Volante"],
-    "answer": "Táxi do Gugu",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "O Domingo Legal tinha um segmento onde pessoas voltavam para sua cidade natal. Qual era o nome?",
-    "options": ["De Volta Para Minha Terra", "Minha Cidade Natal", "Reencontro", "Raízes"],
-    "answer": "De Volta Para Minha Terra",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Que tipo de artistas eram frequentemente convidados para o palco do Domingo Legal para apresentações?",
-    "options": ["Cantores e bandas", "Atores de novela", "Humoristas", "Dançarinos"],
-    "answer": "Cantores e bandas",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Que tipo de música era predominante no Domingo Legal, com diversos gêneros?",
-    "options": ["Música popular brasileira", "Rock", "Clássica", "Jazz"],
-    "answer": "Música popular brasileira",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual apresentador icônico comandava o Em Nome do Amor no SBT?",
-    "options": ["Silvio Santos", "Gugu Liberato", "Ratinho", "Faustão"],
-    "answer": "Silvio Santos",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "O Em Nome do Amor era um programa focado em qual tipo de relacionamento?",
-    "options": ["Namoro e casamento", "Amizade", "Relações familiares", "Relações profissionais"],
-    "answer": "Namoro e casamento",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "O Em Nome do Amor tinha um segmento onde os casais se conheciam de que forma?",
-    "options": ["No palco do programa", "Por telefone", "Pela internet", "Por cartas"],
-    "answer": "No palco do programa",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual era a principal forma de interação dos participantes no Em Nome do Amor com Silvio Santos?",
-    "options": ["Conversas diretas", "Por meio de cartas", "Por telefone", "Por meio de um telão"],
-    "answer": "Conversas diretas",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "O Cinema em Casa era uma sessão de filmes exibida em qual emissora brasileira?",
-    "options": ["SBT", "Rede Globo", "Record TV", "Band"],
-    "answer": "SBT",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Que tipo de filmes eram predominantemente exibidos no Cinema em Casa, para toda a família?",
-    "options": ["Filmes de aventura", "Filmes de terror", "Filmes de arte", "Filmes documentários"],
-    "answer": "Filmes de aventura",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em qual período do dia o Cinema em Casa era tradicionalmente transmitido?",
-    "options": ["Tarde", "Manhã", "Noite", "Madrugada"],
-    "answer": "Tarde",
-    "category": "TV & Desenhos"
-  },    
-  {
-    "question": "Qual apresentadora icônica comandou o Bom Dia & Companhia por muitos anos em sua primeira fase?",
-    "options": ["Eliana", "Jackeline Petkovic", "Priscilla Alcântara", "Maisa Silva"],
-    "answer": "Eliana",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "O Bom Dia & Companhia tinha um quadro onde as crianças ligavam para qual objetivo principal?",
-    "options": ["Jogar e ganhar prêmios", "Pedir músicas", "Contar piadas", "Dar opiniões"],
-    "answer": "Jogar e ganhar prêmios",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Que tipo de brincadeiras eram comuns no Bom Dia & Companhia, envolvendo participação?",
-    "options": ["Gincanas e desafios", "Esportes", "Apresentações de dança", "Aulas de culinária"],
-    "answer": "Gincanas e desafios",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "O Bom Dia & Companhia era um dos programas infantis mais duradouros de qual emissora?",
-    "options": ["SBT", "Rede Globo", "Record TV", "Band"],
-    "answer": "SBT",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual era o nome do grupo de assistentes de palco femininas que acompanhavam Xuxa no Show de Xuxa?",
-    "options": ["Paquitas", "Xuxetes", "Angelicats", "Chacretes"],
-    "answer": "Paquitas",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual era o nome do personagem mosquito que era um dos ajudantes de palco no Show de Xuxa?",
-    "options": ["Dengue", "Zika", "Pernilongo", "Aedes"],
-    "answer": "Dengue",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "No Show de Xuxa, qual era o nome do personagem alienígena que era um dos ajudantes de palco?",
-    "options": ["Praga", "E.T.", "Marciano", "Extraterrestre"],
-    "answer": "Praga",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Que tipo de interação Xuxa tinha com as crianças no Show de Xuxa, sendo um diferencial?",
-    "options": ["Conversas e abraços", "Apenas autógrafos", "Somente fotos", "Distribuição de doces"],
-    "answer": "Conversas e abraços",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual era o principal objetivo do Show de Xuxa para o público infantil?",
-    "options": ["Entreter e educar", "Vender produtos", "Dar notícias", "Ensinar culinária"],
-    "answer": "Entreter e educar",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "O Show de Xuxa era famoso por qual tipo de brincadeiras e gincanas com as crianças?",
-    "options": ["Gincanas de palco", "Jogos de tabuleiro", "Esportes radicais", "Desafios intelectuais"],
-    "answer": "Gincanas de palco",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual era o nome do cachorro gigante que era um dos mascotes do Show de Xuxa?",
-    "options": ["Txutxucão", "Sasha", "Dudu", "Fido"],
-    "answer": "Txutxucão",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Que tipo de coreografias eram famosas no Show de Xuxa, envolvendo a apresentadora e as Paquitas?",
-    "options": ["Coreografias animadas", "Ballet clássico", "Dança de salão", "Hip hop"],
-    "answer": "Coreografias animadas",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "O Show de Xuxa era um dos programas infantis de maior sucesso em qual período da TV brasileira?",
-    "options": ["Anos 80 e 90", "Anos 60 e 70", "Anos 2000", "Anos 2010"],
-    "answer": "Anos 80 e 90",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual era o principal acessório de Xuxa no Show de Xuxa, além de suas roupas temáticas?",
-    "options": ["Microfone de mão", "Óculos escuros", "Chapéu", "Luvas"],
-    "answer": "Microfone de mão",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Que tipo de mensagens positivas o Show de Xuxa transmitia às crianças?",
-    "options": ["Amizade e respeito", "Competição", "Individualismo", "Consumismo"],
-    "answer": "Amizade e respeito",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "No Cocoricó, qual era o nome do menino que vivia na fazenda com os animais?",
-    "options": ["Júlio", "João", "Pedro", "Lucas"],
-    "answer": "Júlio",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual era a principal característica do cenário do Cocoricó?",
-    "options": ["Fazenda colorida", "Cidade grande", "Floresta densa", "Deserto"],
-    "answer": "Fazenda colorida",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Cocoricó, qual animal era a galinha que sempre estava com seus ovos?",
-    "options": ["Zazá", "Lola", "Alípio", "Caco"],
-    "answer": "Zazá",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual era o nome do cavalo que era um dos amigos de Júlio no Cocoricó?",
-    "options": ["Alípio", "Astolfo", "Caco", "Lola"],
-    "answer": "Alípio",
-    "category": "TV & Desenhos"
-  },
-        {
-    "question": "No Disney Club (TV Cruj), qual era o principal objetivo do Comitê Revolucionário Ultra Jovem?",
-    "options": ["Invadir a programação da TV", "Exibir desenhos antigos", "Conquistar o mundo", "Espalhar o caos"],
-    "answer": "Invadir a programação da TV",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "No Disney Club, quem era o apresentador que usava óculos e liderava o Comando?",
-    "options": ["Pedro", "Caju", "Chicote", "Malu"],
-    "answer": "Caju",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual era o apelido da apresentadora mais jovem do Disney Club, cheia de energia?",
-    "options": ["Malu", "Juju", "Pedro", "Chicote"],
-    "answer": "Malu",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual era a saudação final icônica do Comitê Revolucionário Ultra Jovem no Disney Club?",
-    "options": ["CRUJ, CRUJ, Tchau!", "Até a próxima!", "Missão cumprida!", "Fim da transmissão!"],
-    "answer": "CRUJ, CRUJ, Tchau!",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "O Disney Club era conhecido por exibir desenhos de qual grande estúdio?",
-    "options": ["Disney", "Warner Bros", "Hanna-Barbera", "Cartoon Network"],
-    "answer": "Disney",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual era o nome completo da organização fictícia que os apresentadores do Disney Club representavam?",
-    "options": ["Comitê Revolucionário Ultra Jovem", "Comando Radical Unificado Jovem", "Clube Rebelde Ultra Jovem", "Centro de Recreação Universal Jovem"],
-    "answer": "Comitê Revolucionário Ultra Jovem",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "No Disney Club, os personagens tentavam evitar que a programação fosse dominada por qual elemento?",
-    "options": ["O tédio", "Os vilões", "A publicidade", "Os adultos"],
-    "answer": "Os adultos",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "O G4 Brasil era um programa focado em qual tipo de conteúdo principal?",
-    "options": ["Video Games", "Culinária e viagens", "Esportes radicais", "Novelas e filmes"],
-    "answer": "Video Games",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em que emissora brasileira o G4 Brasil era exibido?",
-    "options": ["Band", "Rede Globo", "SBT", "Record TV"],
-    "answer": "Band",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Que tipo de entrevistas eram comuns no G4 Brasil?",
-    "options": ["Com desenvolvedores de jogos", "Com políticos", "Com chefs de cozinha", "Com atletas"],
-    "answer": "Com desenvolvedores de jogos",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "O G4 Brasil trazia notícias sobre qual indústria em ascensão nos anos 2000?",
-    "options": ["Indústria de games", "Indústria automobilística", "Indústria têxtil", "Indústria alimentícia"],
-    "answer": "Indústria de games",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Que tipo de jogos eram frequentemente comentados no G4 Brasil, abrangendo diversas plataformas?",
-    "options": ["Lançamentos de jogos", "Apenas jogos de tabuleiro", "Somente jogos de cartas", "Exclusivamente jogos de esporte"],
-    "answer": "Lançamentos de jogos",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "O G4 Brasil era um programa que misturava qual tipo de formato para seu conteúdo?",
-    "options": ["Revista eletrônica", "Telejornal", "Novela", "Reality show"],
-    "answer": "Revista eletrônica",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "O G4 Brasil ajudou a popularizar qual tipo de conteúdo na TV brasileira, abrindo espaço?",
-    "options": ["Conteúdo de games", "Conteúdo de culinária", "Conteúdo de jardinagem", "Conteúdo de esportes"],
-    "answer": "Conteúdo de games",
-    "category": "TV & Desenhos"
-  },
-      {
-    "question": "Em Tarzan, qual é o principal conflito interno de Tarzan?",
-    "options": ["Ser gorila ou humano", "Amar Jane ou a selva", "Lutar ou fugir", "Viver ou morrer"],
-    "answer": "Ser gorila ou humano",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é a principal habilidade de Tarzan que o torna único entre os gorilas em Tarzan?",
-    "options": ["Força", "Inteligência", "Velocidade", "Comunicação"],
-    "answer": "Inteligência",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o principal motivo de Clayton para caçar gorilas em Tarzan?",
-    "options": ["Pesquisa", "Dinheiro", "Fama", "Esporte"],
-    "answer": "Dinheiro",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Caminho para El Dorado, qual é o nome dos dois golpistas que encontram o mapa?",
-    "options": ["Tulio e Miguel", "Cortés e Pizarro", "Juan e Pedro", "Diego e Marco"],
-    "answer": "Tulio e Miguel",
-    "category": "TV & Desenhos",
-"tags": ["Animação"]
-  },
-  {
-    "question": "Qual é o nome da mulher nativa que se junta a Tulio e Miguel em El Dorado?",
-    "options": ["Chel", "Tzekel-Kan", "Chefe Tannabok", "Altivo"],
-    "answer": "Chel",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Caminho para El Dorado, qual é o nome do sumo sacerdote que desconfia de Tulio e Miguel?",
-    "options": ["Tzekel-Kan", "Chefe Tannabok", "Altivo", "Cortés"],
-    "answer": "Tzekel-Kan",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Caminho para El Dorado, qual é o nome do cavalo que acompanha Tulio e Miguel?",
-    "options": ["Altivo", "Pégaso", "Bucéfalo", "Espírito"],
-    "answer": "Altivo",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Caminho para El Dorado, qual é o principal objeto que leva Tulio e Miguel a El Dorado?",
-    "options": ["Um mapa", "Uma joia", "Uma profecia", "Um sonho"],
-    "answer": "Um mapa",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em O Caminho para El Dorado, qual é o sacrifício que Tzekel-Kan tenta fazer para os 'deuses'?",
-    "options": ["Pessoas", "Ouro", "Animais", "Comida"],
-    "answer": "Pessoas",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do conquistador espanhol que persegue Tulio e Miguel em O Caminho para El Dorado?",
-    "options": ["Cortés", "Pizarro", "De Soto", "Vasco"],
-    "answer": "Cortés",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do explorador inglês por quem Pocahontas se apaixona em Pocahontas?",
-    "options": ["John Smith", "John Rolfe", "Thomas", "Governor Ratcliffe"],
-    "answer": "John Smith",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do guaxinim de estimação de Pocahontas em Pocahontas?",
-    "options": ["Meeko", "Flit", "Percy", "Kocoum"],
-    "answer": "Meeko",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Pocahontas, qual é o nome do beija-flor de estimação de Pocahontas?",
-    "options": ["Flit", "Meeko", "Percy", "Kocoum"],
-    "answer": "Flit",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Qual é o nome do vilão principal em Pocahontas, o governador inglês ganancioso?",
-    "options": ["Governador Ratcliffe", "Thomas", "John Smith", "Ben"],
-    "answer": "Governador Ratcliffe",
-    "category": "TV & Desenhos"
-  },
-  {
-    "question": "Em Pocahontas, qual é a principal música que Pocahontas canta sobre a conexão com a natureza?",
-    "options": ["Cores do Vento", "Se Não Te Conhecesse", "O Que Eu Farei?", "Minha Vida"],
-    "answer": "Cores do Vento",
-    "category": "TV & Desenhos"
-  },
+    {
+        "question": "O Intercine era uma sessão de filmes exibida em qual emissora brasileira?",
+        "options": [
+            "Rede Globo",
+            "SBT",
+            "Record TV",
+            "Band"
+        ],
+        "answer": "Rede Globo",
+        "category": "TV & Desenhos",
+        "tags": [
+            "Globo",
+            "Programa",
+            "TV"
+        ]
+    },
+    {
+        "question": "Qual era a principal forma de participação do público no Intercine para escolher o filme?",
+        "options": [
+            "Ligação telefônica",
+            "Envio de cartas",
+            "Votação presencial",
+            "Envio de e-mail"
+        ],
+        "answer": "Ligação telefônica",
+        "category": "TV & Desenhos",
+        "tags": [
+            "Globo",
+            "Programa",
+            "TV"
+        ]
+    },
+    {
+        "question": "O Intercine permitia que o público escolhesse entre quantos filmes para exibição?",
+        "options": [
+            "Dois",
+            "Três",
+            "Quatro",
+            "Cinco"
+        ],
+        "answer": "Dois",
+        "category": "TV & Desenhos",
+        "tags": [
+            "Globo",
+            "Programa",
+            "TV"
+        ]
+    },
+    {
+        "question": "Em qual período do dia o Intercine era tradicionalmente transmitido?",
+        "options": [
+            "Madrugada",
+            "Manhã",
+            "Tarde",
+            "Noite"
+        ],
+        "answer": "Madrugada",
+        "category": "TV & Desenhos",
+        "tags": [
+            "Globo",
+            "Programa",
+            "TV"
+        ]
+    },
+    {
+        "question": "Qual era o principal diferencial do Intercine em relação a outras sessões de filmes?",
+        "options": [
+            "Interatividade com o público",
+            "Exibir filmes inéditos",
+            "Exibir filmes cult",
+            "Exibir filmes brasileiros"
+        ],
+        "answer": "Interatividade com o público",
+        "category": "TV & Desenhos",
+        "tags": [
+            "Globo",
+            "Programa",
+            "TV"
+        ]
+    },
+    {
+        "question": "Qual era a principal característica do humor de Casseta & Planeta Urgente?",
+        "options": [
+            "Sátira política e social",
+            "Humor pastelão",
+            "Comédia romântica",
+            "Humor ingênuo"
+        ],
+        "answer": "Sátira política e social",
+        "category": "TV & Desenhos",
+        "tags": [
+            "Globo",
+            "Programa",
+            "Humor",
+            "TV"
+        ]
+    },
+    {
+        "question": "Que tipo de temas eram frequentemente satirizados em Casseta & Planeta Urgente, do cotidiano?",
+        "options": [
+            "Notícias e costumes",
+            "Culinária",
+            "Esportes",
+            "Moda"
+        ],
+        "answer": "Notícias e costumes",
+        "category": "TV & Desenhos",
+        "tags": [
+            "Globo",
+            "Programa",
+            "Humor",
+            "TV"
+        ]
+    },
+    {
+        "question": "Qual era o nome de uma das atrizes que fazia parte do Casseta & Planeta Urgente?",
+        "options": [
+            "Maria Paula",
+            "Claudia Raia",
+            "Fernanda Montenegro",
+            "Glória Pires"
+        ],
+        "answer": "Maria Paula",
+        "category": "TV & Desenhos",
+        "tags": [
+            "Globo",
+            "Programa",
+            "Humor",
+            "TV"
+        ]
+    },
+    {
+        "question": "Qual apresentador icônico comanda o Programa do Ratinho no SBT?",
+        "options": [
+            "Carlos Massa",
+            "Silvio Santos",
+            "Gugu Liberato",
+            "Faustão"
+        ],
+        "answer": "Carlos Massa",
+        "category": "TV & Desenhos",
+        "tags": [
+            "SBT",
+            "Programa",
+            "Humor",
+            "TV"
+        ]
+    },
+    {
+        "question": "O Programa do Ratinho era famoso por qual quadro que resolvia conflitos familiares?",
+        "options": [
+            "Teste de DNA",
+            "Teste de Fidelidade",
+            "Boteco do Ratinho",
+            "Comando da Madrugada"
+        ],
+        "answer": "Teste de DNA",
+        "category": "TV & Desenhos",
+        "tags": [
+            "SBT",
+            "Programa",
+            "Humor",
+            "TV"
+        ]
+    },
+    {
+        "question": "Qual era o principal objetivo dos participantes na Porta da Esperança?",
+        "options": [
+            "Ter um pedido atendido",
+            "Ganhar dinheiro",
+            "Ficar famoso",
+            "Apenas brincar"
+        ],
+        "answer": "Ter um pedido atendido",
+        "category": "TV & Desenhos",
+        "tags": [
+            "SBT",
+            "Programa",
+            "TV"
+        ]
+    },
+    {
+        "question": "A Porta da Esperança era transmitida em qual período do dia, como parte de um programa maior?",
+        "options": [
+            "Noite de domingo",
+            "Manhã de domingo",
+            "Tarde de domingo",
+            "Madrugada"
+        ],
+        "answer": "Noite de domingo",
+        "category": "TV & Desenhos",
+        "tags": [
+            "SBT",
+            "Programa",
+            "TV"
+        ]
+    },
+    {
+        "question": "Band Kids era um bloco de desenhos exibido em qual emissora brasileira?",
+        "options": [
+            "Band",
+            "Rede Globo",
+            "SBT",
+            "Record TV"
+        ],
+        "answer": "Band",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Que tipo de animações japonesas eram predominantemente exibidas no Band Kids?",
+        "options": [
+            "Animes",
+            "Desenhos clássicos",
+            "Desenhos educativos",
+            "Desenhos de comédia"
+        ],
+        "answer": "Animes",
+        "category": "TV & Desenhos",
+        "tags": [
+            "Band",
+            "Programa",
+            "TV"
+        ]
+    },
+    {
+        "question": "Qual era o principal diferencial do Band Kids em relação a outros blocos de desenhos?",
+        "options": [
+            "Foco em animes",
+            "Foco em desenhos educativos",
+            "Foco em desenhos clássicos",
+            "Foco em desenhos brasileiros"
+        ],
+        "answer": "Foco em animes",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual apresentador icônico comandava o Show do Milhão no SBT?",
+        "options": [
+            "Silvio Santos",
+            "Gugu Liberato",
+            "Ratinho",
+            "Faustão"
+        ],
+        "answer": "Silvio Santos",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "O Cocoricó abordava temas relacionados a qual ambiente principal?",
+        "options": [
+            "Vida no campo",
+            "Vida na cidade",
+            "Vida na praia",
+            "Vida na montanha"
+        ],
+        "answer": "Vida no campo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Cocoricó, qual animal era a vaca que adorava ler e era muito inteligente?",
+        "options": [
+            "Lola",
+            "Zazá",
+            "Alípio",
+            "Caco"
+        ],
+        "answer": "Lola",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "O Cocoricó era conhecido por qual estilo visual dos bonecos, sendo muito expressivos?",
+        "options": [
+            "Bonecos de fantoche",
+            "Bonecos de pano",
+            "Bonecos de madeira",
+            "Bonecos de plástico"
+        ],
+        "answer": "Bonecos de fantoche",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual era a principal forma de interação entre os personagens no Cocoricó?",
+        "options": [
+            "Conversas e músicas",
+            "Apenas brigas",
+            "Apenas jogos",
+            "Apenas aulas"
+        ],
+        "answer": "Conversas e músicas",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "No Glub Glub, qual era o ambiente principal onde os personagens viviam?",
+        "options": [
+            "Fundo do mar",
+            "Floresta",
+            "Cidade",
+            "Deserto"
+        ],
+        "answer": "Fundo do mar",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Que emissora brasileira produziu e exibiu o Glub Glub?",
+        "options": [
+            "TV Cultura",
+            "Rede Globo",
+            "SBT",
+            "Record TV"
+        ],
+        "answer": "TV Cultura",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual era a principal característica dos apresentadores do Glub Glub?",
+        "options": [
+            "Eram peixes",
+            "Eram humanos",
+            "Eram robôs",
+            "Eram alienígenas"
+        ],
+        "answer": "Eram peixes",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "O Glub Glub era conhecido por exibir qual tipo de conteúdo, além de suas interações?",
+        "options": [
+            "Desenhos animados",
+            "Novelas",
+            "Noticiários",
+            "Documentários"
+        ],
+        "answer": "Desenhos animados",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual apresentador icônico comandou o Domingo Legal no SBT por muitos anos?",
+        "options": [
+            "Gugu Liberato",
+            "Silvio Santos",
+            "Faustão",
+            "Ratinho"
+        ],
+        "answer": "Gugu Liberato",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "O Domingo Legal era famoso por qual quadro onde celebridades entravam em uma banheira?",
+        "options": [
+            "Banheira do Gugu",
+            "Piscina da Fama",
+            "Chuveiro Legal",
+            "Spa dos Artistas"
+        ],
+        "answer": "Banheira do Gugu",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual era o nome do quadro onde Gugu dirigia um táxi e conversava com passageiros famosos?",
+        "options": [
+            "Táxi do Gugu",
+            "Carona Legal",
+            "Motorista da Alegria",
+            "Gugu no Volante"
+        ],
+        "answer": "Táxi do Gugu",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "O Domingo Legal tinha um segmento onde pessoas voltavam para sua cidade natal. Qual era o nome?",
+        "options": [
+            "De Volta Para Minha Terra",
+            "Minha Cidade Natal",
+            "Reencontro",
+            "Raízes"
+        ],
+        "answer": "De Volta Para Minha Terra",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Que tipo de artistas eram frequentemente convidados para o palco do Domingo Legal para apresentações?",
+        "options": [
+            "Cantores e bandas",
+            "Atores de novela",
+            "Humoristas",
+            "Dançarinos"
+        ],
+        "answer": "Cantores e bandas",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Que tipo de música era predominante no Domingo Legal, com diversos gêneros?",
+        "options": [
+            "Música popular brasileira",
+            "Rock",
+            "Clássica",
+            "Jazz"
+        ],
+        "answer": "Música popular brasileira",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual apresentador icônico comandava o Em Nome do Amor no SBT?",
+        "options": [
+            "Silvio Santos",
+            "Gugu Liberato",
+            "Ratinho",
+            "Faustão"
+        ],
+        "answer": "Silvio Santos",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "O Em Nome do Amor era um programa focado em qual tipo de relacionamento?",
+        "options": [
+            "Namoro e casamento",
+            "Amizade",
+            "Relações familiares",
+            "Relações profissionais"
+        ],
+        "answer": "Namoro e casamento",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "O Em Nome do Amor tinha um segmento onde os casais se conheciam de que forma?",
+        "options": [
+            "No palco do programa",
+            "Por telefone",
+            "Pela internet",
+            "Por cartas"
+        ],
+        "answer": "No palco do programa",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual era a principal forma de interação dos participantes no Em Nome do Amor com Silvio Santos?",
+        "options": [
+            "Conversas diretas",
+            "Por meio de cartas",
+            "Por telefone",
+            "Por meio de um telão"
+        ],
+        "answer": "Conversas diretas",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "O Cinema em Casa era uma sessão de filmes exibida em qual emissora brasileira?",
+        "options": [
+            "SBT",
+            "Rede Globo",
+            "Record TV",
+            "Band"
+        ],
+        "answer": "SBT",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Que tipo de filmes eram predominantemente exibidos no Cinema em Casa, para toda a família?",
+        "options": [
+            "Filmes de aventura",
+            "Filmes de terror",
+            "Filmes de arte",
+            "Filmes documentários"
+        ],
+        "answer": "Filmes de aventura",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em qual período do dia o Cinema em Casa era tradicionalmente transmitido?",
+        "options": [
+            "Tarde",
+            "Manhã",
+            "Noite",
+            "Madrugada"
+        ],
+        "answer": "Tarde",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual apresentadora icônica comandou o Bom Dia & Companhia por muitos anos em sua primeira fase?",
+        "options": [
+            "Eliana",
+            "Jackeline Petkovic",
+            "Priscilla Alcântara",
+            "Maisa Silva"
+        ],
+        "answer": "Eliana",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "O Bom Dia & Companhia tinha um quadro onde as crianças ligavam para qual objetivo principal?",
+        "options": [
+            "Jogar e ganhar prêmios",
+            "Pedir músicas",
+            "Contar piadas",
+            "Dar opiniões"
+        ],
+        "answer": "Jogar e ganhar prêmios",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Que tipo de brincadeiras eram comuns no Bom Dia & Companhia, envolvendo participação?",
+        "options": [
+            "Gincanas e desafios",
+            "Esportes",
+            "Apresentações de dança",
+            "Aulas de culinária"
+        ],
+        "answer": "Gincanas e desafios",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "O Bom Dia & Companhia era um dos programas infantis mais duradouros de qual emissora?",
+        "options": [
+            "SBT",
+            "Rede Globo",
+            "Record TV",
+            "Band"
+        ],
+        "answer": "SBT",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual era o nome do grupo de assistentes de palco femininas que acompanhavam Xuxa no Show de Xuxa?",
+        "options": [
+            "Paquitas",
+            "Xuxetes",
+            "Angelicats",
+            "Chacretes"
+        ],
+        "answer": "Paquitas",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual era o nome do personagem mosquito que era um dos ajudantes de palco no Show de Xuxa?",
+        "options": [
+            "Dengue",
+            "Zika",
+            "Pernilongo",
+            "Aedes"
+        ],
+        "answer": "Dengue",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "No Show de Xuxa, qual era o nome do personagem alienígena que era um dos ajudantes de palco?",
+        "options": [
+            "Praga",
+            "E.T.",
+            "Marciano",
+            "Extraterrestre"
+        ],
+        "answer": "Praga",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Que tipo de interação Xuxa tinha com as crianças no Show de Xuxa, sendo um diferencial?",
+        "options": [
+            "Conversas e abraços",
+            "Apenas autógrafos",
+            "Somente fotos",
+            "Distribuição de doces"
+        ],
+        "answer": "Conversas e abraços",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual era o principal objetivo do Show de Xuxa para o público infantil?",
+        "options": [
+            "Entreter e educar",
+            "Vender produtos",
+            "Dar notícias",
+            "Ensinar culinária"
+        ],
+        "answer": "Entreter e educar",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "O Show de Xuxa era famoso por qual tipo de brincadeiras e gincanas com as crianças?",
+        "options": [
+            "Gincanas de palco",
+            "Jogos de tabuleiro",
+            "Esportes radicais",
+            "Desafios intelectuais"
+        ],
+        "answer": "Gincanas de palco",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual era o nome do cachorro gigante que era um dos mascotes do Show de Xuxa?",
+        "options": [
+            "Txutxucão",
+            "Sasha",
+            "Dudu",
+            "Fido"
+        ],
+        "answer": "Txutxucão",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Que tipo de coreografias eram famosas no Show de Xuxa, envolvendo a apresentadora e as Paquitas?",
+        "options": [
+            "Coreografias animadas",
+            "Ballet clássico",
+            "Dança de salão",
+            "Hip hop"
+        ],
+        "answer": "Coreografias animadas",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "O Show de Xuxa era um dos programas infantis de maior sucesso em qual período da TV brasileira?",
+        "options": [
+            "Anos 80 e 90",
+            "Anos 60 e 70",
+            "Anos 2000",
+            "Anos 2010"
+        ],
+        "answer": "Anos 80 e 90",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual era o principal acessório de Xuxa no Show de Xuxa, além de suas roupas temáticas?",
+        "options": [
+            "Microfone de mão",
+            "Óculos escuros",
+            "Chapéu",
+            "Luvas"
+        ],
+        "answer": "Microfone de mão",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Que tipo de mensagens positivas o Show de Xuxa transmitia às crianças?",
+        "options": [
+            "Amizade e respeito",
+            "Competição",
+            "Individualismo",
+            "Consumismo"
+        ],
+        "answer": "Amizade e respeito",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "No Cocoricó, qual era o nome do menino que vivia na fazenda com os animais?",
+        "options": [
+            "Júlio",
+            "João",
+            "Pedro",
+            "Lucas"
+        ],
+        "answer": "Júlio",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual era a principal característica do cenário do Cocoricó?",
+        "options": [
+            "Fazenda colorida",
+            "Cidade grande",
+            "Floresta densa",
+            "Deserto"
+        ],
+        "answer": "Fazenda colorida",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Cocoricó, qual animal era a galinha que sempre estava com seus ovos?",
+        "options": [
+            "Zazá",
+            "Lola",
+            "Alípio",
+            "Caco"
+        ],
+        "answer": "Zazá",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual era o nome do cavalo que era um dos amigos de Júlio no Cocoricó?",
+        "options": [
+            "Alípio",
+            "Astolfo",
+            "Caco",
+            "Lola"
+        ],
+        "answer": "Alípio",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "No Disney Club (TV Cruj), qual era o principal objetivo do Comitê Revolucionário Ultra Jovem?",
+        "options": [
+            "Invadir a programação da TV",
+            "Exibir desenhos antigos",
+            "Conquistar o mundo",
+            "Espalhar o caos"
+        ],
+        "answer": "Invadir a programação da TV",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "No Disney Club, quem era o apresentador que usava óculos e liderava o Comando?",
+        "options": [
+            "Pedro",
+            "Caju",
+            "Chicote",
+            "Malu"
+        ],
+        "answer": "Caju",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual era o apelido da apresentadora mais jovem do Disney Club, cheia de energia?",
+        "options": [
+            "Malu",
+            "Juju",
+            "Pedro",
+            "Chicote"
+        ],
+        "answer": "Malu",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual era a saudação final icônica do Comitê Revolucionário Ultra Jovem no Disney Club?",
+        "options": [
+            "CRUJ, CRUJ, Tchau!",
+            "Até a próxima!",
+            "Missão cumprida!",
+            "Fim da transmissão!"
+        ],
+        "answer": "CRUJ, CRUJ, Tchau!",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "O Disney Club era conhecido por exibir desenhos de qual grande estúdio?",
+        "options": [
+            "Disney",
+            "Warner Bros",
+            "Hanna-Barbera",
+            "Cartoon Network"
+        ],
+        "answer": "Disney",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual era o nome completo da organização fictícia que os apresentadores do Disney Club representavam?",
+        "options": [
+            "Comitê Revolucionário Ultra Jovem",
+            "Comando Radical Unificado Jovem",
+            "Clube Rebelde Ultra Jovem",
+            "Centro de Recreação Universal Jovem"
+        ],
+        "answer": "Comitê Revolucionário Ultra Jovem",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "No Disney Club, os personagens tentavam evitar que a programação fosse dominada por qual elemento?",
+        "options": [
+            "O tédio",
+            "Os vilões",
+            "A publicidade",
+            "Os adultos"
+        ],
+        "answer": "Os adultos",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "O G4 Brasil era um programa focado em qual tipo de conteúdo principal?",
+        "options": [
+            "Video Games",
+            "Culinária e viagens",
+            "Esportes radicais",
+            "Novelas e filmes"
+        ],
+        "answer": "Video Games",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em que emissora brasileira o G4 Brasil era exibido?",
+        "options": [
+            "Band",
+            "Rede Globo",
+            "SBT",
+            "Record TV"
+        ],
+        "answer": "Band",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Que tipo de entrevistas eram comuns no G4 Brasil?",
+        "options": [
+            "Com desenvolvedores de jogos",
+            "Com políticos",
+            "Com chefs de cozinha",
+            "Com atletas"
+        ],
+        "answer": "Com desenvolvedores de jogos",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "O G4 Brasil trazia notícias sobre qual indústria em ascensão nos anos 2000?",
+        "options": [
+            "Indústria de games",
+            "Indústria automobilística",
+            "Indústria têxtil",
+            "Indústria alimentícia"
+        ],
+        "answer": "Indústria de games",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Que tipo de jogos eram frequentemente comentados no G4 Brasil, abrangendo diversas plataformas?",
+        "options": [
+            "Lançamentos de jogos",
+            "Apenas jogos de tabuleiro",
+            "Somente jogos de cartas",
+            "Exclusivamente jogos de esporte"
+        ],
+        "answer": "Lançamentos de jogos",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "O G4 Brasil era um programa que misturava qual tipo de formato para seu conteúdo?",
+        "options": [
+            "Revista eletrônica",
+            "Telejornal",
+            "Novela",
+            "Reality show"
+        ],
+        "answer": "Revista eletrônica",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "O G4 Brasil ajudou a popularizar qual tipo de conteúdo na TV brasileira, abrindo espaço?",
+        "options": [
+            "Conteúdo de games",
+            "Conteúdo de culinária",
+            "Conteúdo de jardinagem",
+            "Conteúdo de esportes"
+        ],
+        "answer": "Conteúdo de games",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Tarzan, qual é o principal conflito interno de Tarzan?",
+        "options": [
+            "Ser gorila ou humano",
+            "Amar Jane ou a selva",
+            "Lutar ou fugir",
+            "Viver ou morrer"
+        ],
+        "answer": "Ser gorila ou humano",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é a principal habilidade de Tarzan que o torna único entre os gorilas em Tarzan?",
+        "options": [
+            "Força",
+            "Inteligência",
+            "Velocidade",
+            "Comunicação"
+        ],
+        "answer": "Inteligência",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o principal motivo de Clayton para caçar gorilas em Tarzan?",
+        "options": [
+            "Pesquisa",
+            "Dinheiro",
+            "Fama",
+            "Esporte"
+        ],
+        "answer": "Dinheiro",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Caminho para El Dorado, qual é o nome dos dois golpistas que encontram o mapa?",
+        "options": [
+            "Tulio e Miguel",
+            "Cortés e Pizarro",
+            "Juan e Pedro",
+            "Diego e Marco"
+        ],
+        "answer": "Tulio e Miguel",
+        "category": "TV & Desenhos",
+        "tags": [
+            "Animação"
+        ]
+    },
+    {
+        "question": "Qual é o nome da mulher nativa que se junta a Tulio e Miguel em El Dorado?",
+        "options": [
+            "Chel",
+            "Tzekel-Kan",
+            "Chefe Tannabok",
+            "Altivo"
+        ],
+        "answer": "Chel",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Caminho para El Dorado, qual é o nome do sumo sacerdote que desconfia de Tulio e Miguel?",
+        "options": [
+            "Tzekel-Kan",
+            "Chefe Tannabok",
+            "Altivo",
+            "Cortés"
+        ],
+        "answer": "Tzekel-Kan",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Caminho para El Dorado, qual é o nome do cavalo que acompanha Tulio e Miguel?",
+        "options": [
+            "Altivo",
+            "Pégaso",
+            "Bucéfalo",
+            "Espírito"
+        ],
+        "answer": "Altivo",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Caminho para El Dorado, qual é o principal objeto que leva Tulio e Miguel a El Dorado?",
+        "options": [
+            "Um mapa",
+            "Uma joia",
+            "Uma profecia",
+            "Um sonho"
+        ],
+        "answer": "Um mapa",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em O Caminho para El Dorado, qual é o sacrifício que Tzekel-Kan tenta fazer para os 'deuses'?",
+        "options": [
+            "Pessoas",
+            "Ouro",
+            "Animais",
+            "Comida"
+        ],
+        "answer": "Pessoas",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do conquistador espanhol que persegue Tulio e Miguel em O Caminho para El Dorado?",
+        "options": [
+            "Cortés",
+            "Pizarro",
+            "De Soto",
+            "Vasco"
+        ],
+        "answer": "Cortés",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do explorador inglês por quem Pocahontas se apaixona em Pocahontas?",
+        "options": [
+            "John Smith",
+            "John Rolfe",
+            "Thomas",
+            "Governor Ratcliffe"
+        ],
+        "answer": "John Smith",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do guaxinim de estimação de Pocahontas em Pocahontas?",
+        "options": [
+            "Meeko",
+            "Flit",
+            "Percy",
+            "Kocoum"
+        ],
+        "answer": "Meeko",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Pocahontas, qual é o nome do beija-flor de estimação de Pocahontas?",
+        "options": [
+            "Flit",
+            "Meeko",
+            "Percy",
+            "Kocoum"
+        ],
+        "answer": "Flit",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Qual é o nome do vilão principal em Pocahontas, o governador inglês ganancioso?",
+        "options": [
+            "Governador Ratcliffe",
+            "Thomas",
+            "John Smith",
+            "Ben"
+        ],
+        "answer": "Governador Ratcliffe",
+        "category": "TV & Desenhos"
+    },
+    {
+        "question": "Em Pocahontas, qual é a principal música que Pocahontas canta sobre a conexão com a natureza?",
+        "options": [
+            "Cores do Vento",
+            "Se Não Te Conhecesse",
+            "O Que Eu Farei?",
+            "Minha Vida"
+        ],
+        "answer": "Cores do Vento",
+        "category": "TV & Desenhos"
+    },
     {
         "question": "Qual é o nome do monstro de várias cabeças que Hércules enfrenta em Hércules?",
         "options": [
@@ -1469,7 +1952,9 @@
         ],
         "answer": "Kotoko",
         "category": "TV & Desenhos",
-"tags": ["Anime"]
+        "tags": [
+            "Anime"
+        ]
     },
     {
         "question": "Em Mogli, qual é o nome do urso que se torna amigo e mentor de Mogli na selva?",
@@ -1745,7 +2230,9 @@
         ],
         "answer": "Jibak",
         "category": "TV & Desenhos",
-"tags": ["Anime"]
+        "tags": [
+            "Anime"
+        ]
     },
     {
         "question": "Qual é o nome do líder da Grande Ordem em Bucky?",
@@ -5059,5 +5546,3 @@
         "category": "TV & Desenhos"
     }
 ]
-
-
