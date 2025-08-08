@@ -3552,7 +3552,8 @@
             "Não tem boneca"
         ],
         "answer": "Lucy",
-        "category": "TV & Desenhos"
+        "category": "TV & Desenhos",
+         "tags": ["Cultura","Desenho","infantil"]
     },
     {
         "question": "Em O Pequeno Urso, o que a Mãe Ursa sempre prepara para o Pequeno Urso comer?",
@@ -5546,3 +5547,4 @@
         "category": "TV & Desenhos"
     }
 ]
+
