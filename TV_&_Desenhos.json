@@ -4,14 +4,14 @@
     "options": ["Rede Globo", "SBT", "Record TV", "Band"],
     "answer": "Rede Globo",
     "category": "TV & Desenhos",
-     "tags": ["Globo", "Programa"]
+     "tags": ["Globo", "Programa","TV"]
   },
   {
     "question": "Qual era a principal forma de participação do público no Intercine para escolher o filme?",
     "options": ["Ligação telefônica", "Envio de cartas", "Votação presencial", "Envio de e-mail"],
     "answer": "Ligação telefônica",
     "category": "TV & Desenhos",
-    "tags": ["Globo", "Programa"]
+    "tags": ["Globo", "Programa","TV"]
   },
   {
     "question": "O Intercine permitia que o público escolhesse entre quantos filmes para exibição?",
@@ -25,56 +25,63 @@
     "options": ["Madrugada", "Manhã", "Tarde", "Noite"],
     "answer": "Madrugada",
     "category": "TV & Desenhos",
-    "tags": ["Globo", "Programa"]
+    "tags": ["Globo", "Programa","TV"]
   },
   {
     "question": "Qual era o principal diferencial do Intercine em relação a outras sessões de filmes?",
     "options": ["Interatividade com o público", "Exibir filmes inéditos", "Exibir filmes cult", "Exibir filmes brasileiros"],
     "answer": "Interatividade com o público",
-    "category": "TV & Desenhos"
+    "category": "TV & Desenhos",
+"tags": ["Globo", "Programa","TV"]
   },
   {
     "question": "Qual era a principal característica do humor de Casseta & Planeta Urgente?",
     "options": ["Sátira política e social", "Humor pastelão", "Comédia romântica", "Humor ingênuo"],
     "answer": "Sátira política e social",
     "category": "TV & Desenhos",
-    "tags": ["Globo", "Programa","Humor"]
+    "tags": ["Globo", "Programa","Humor","TV"]
   },
   {
     "question": "Que tipo de temas eram frequentemente satirizados em Casseta & Planeta Urgente, do cotidiano?",
     "options": ["Notícias e costumes", "Culinária", "Esportes", "Moda"],
     "answer": "Notícias e costumes",
-    "category": "TV & Desenhos"
+    "category": "TV & Desenhos",
+"tags": ["Globo", "Programa","Humor","TV"]
   },
   {
     "question": "Qual era o nome de uma das atrizes que fazia parte do Casseta & Planeta Urgente?",
     "options": ["Maria Paula", "Claudia Raia", "Fernanda Montenegro", "Glória Pires"],
     "answer": "Maria Paula",
-    "category": "TV & Desenhos"
+    "category": "TV & Desenhos",
+"tags": ["Globo", "Programa","Humor","TV"]
   },
   {
     "question": "Qual apresentador icônico comanda o Programa do Ratinho no SBT?",
     "options": ["Carlos Massa", "Silvio Santos", "Gugu Liberato", "Faustão"],
     "answer": "Carlos Massa",
-    "category": "TV & Desenhos"
+    "category": "TV & Desenhos",
+"tags": ["SBT", "Programa","Humor","TV"]
   },
   {
     "question": "O Programa do Ratinho era famoso por qual quadro que resolvia conflitos familiares?",
     "options": ["Teste de DNA", "Teste de Fidelidade", "Boteco do Ratinho", "Comando da Madrugada"],
     "answer": "Teste de DNA",
-    "category": "TV & Desenhos"
+    "category": "TV & Desenhos",
+"tags": ["SBT", "Programa","Humor","TV"]
   },
   {
     "question": "Qual era o principal objetivo dos participantes na Porta da Esperança?",
     "options": ["Ter um pedido atendido", "Ganhar dinheiro", "Ficar famoso", "Apenas brincar"],
     "answer": "Ter um pedido atendido",
-    "category": "TV & Desenhos"
+    "category": "TV & Desenhos",
+"tags": ["SBT", "Programa","TV"]
   },
   {
     "question": "A Porta da Esperança era transmitida em qual período do dia, como parte de um programa maior?",
     "options": ["Noite de domingo", "Manhã de domingo", "Tarde de domingo", "Madrugada"],
     "answer": "Noite de domingo",
-    "category": "TV & Desenhos"
+    "category": "TV & Desenhos",
+"tags": ["SBT", "Programa","TV"]
   },
   {
     "question": "Band Kids era um bloco de desenhos exibido em qual emissora brasileira?",
