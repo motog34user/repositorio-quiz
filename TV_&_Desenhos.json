@@ -94,6 +94,7 @@
     "options": ["Animes", "Desenhos clássicos", "Desenhos educativos", "Desenhos de comédia"],
     "answer": "Animes",
     "category": "TV & Desenhos"
+"tags": ["Band", "Programa","TV"]
   },
   {
     "question": "Qual era o principal diferencial do Band Kids em relação a outros blocos de desenhos?",
@@ -454,7 +455,8 @@
     "question": "Em O Caminho para El Dorado, qual é o nome dos dois golpistas que encontram o mapa?",
     "options": ["Tulio e Miguel", "Cortés e Pizarro", "Juan e Pedro", "Diego e Marco"],
     "answer": "Tulio e Miguel",
-    "category": "TV & Desenhos"
+    "category": "TV & Desenhos",
+"tags": ["Animação"]
   },
   {
     "question": "Qual é o nome da mulher nativa que se junta a Tulio e Miguel em El Dorado?",
@@ -1466,7 +1468,8 @@
             "Yumi"
         ],
         "answer": "Kotoko",
-        "category": "TV & Desenhos"
+        "category": "TV & Desenhos",
+"tags": ["Anime"]
     },
     {
         "question": "Em Mogli, qual é o nome do urso que se torna amigo e mentor de Mogli na selva?",
@@ -1741,7 +1744,8 @@
             "Kai"
         ],
         "answer": "Jibak",
-        "category": "TV & Desenhos"
+        "category": "TV & Desenhos",
+"tags": ["Anime"]
     },
     {
         "question": "Qual é o nome do líder da Grande Ordem em Bucky?",
