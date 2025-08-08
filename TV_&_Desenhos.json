@@ -3,14 +3,14 @@
     "question": "O Intercine era uma sessão de filmes exibida em qual emissora brasileira?",
     "options": ["Rede Globo", "SBT", "Record TV", "Band"],
     "answer": "Rede Globo",
-    "category": "TV & Desenhos"
+    "category": "TV & Desenhos",
      "tags": ["TV Globo", "Programa de TV"]
   },
   {
     "question": "Qual era a principal forma de participação do público no Intercine para escolher o filme?",
     "options": ["Ligação telefônica", "Envio de cartas", "Votação presencial", "Envio de e-mail"],
     "answer": "Ligação telefônica",
-    "category": "TV & Desenhos"
+    "category": "TV & Desenhos",
     "tags": ["TV Globo", "Programa de TV"]
   },
   {
@@ -23,7 +23,7 @@
     "question": "Em qual período do dia o Intercine era tradicionalmente transmitido?",
     "options": ["Madrugada", "Manhã", "Tarde", "Noite"],
     "answer": "Madrugada",
-    "category": "TV & Desenhos"
+    "category": "TV & Desenhos",
     "tags": ["TV Globo", "Programa de TV"]
   },
   {
@@ -36,7 +36,7 @@
     "question": "Qual era a principal característica do humor de Casseta & Planeta Urgente?",
     "options": ["Sátira política e social", "Humor pastelão", "Comédia romântica", "Humor ingênuo"],
     "answer": "Sátira política e social",
-    "category": "TV & Desenhos"
+    "category": "TV & Desenhos",
     "tags": ["TV Globo", "Programa de TV","Programa de Humor"]
   },
   {
@@ -5047,4 +5047,5 @@
         "category": "TV & Desenhos"
     }
 ]
+
 
