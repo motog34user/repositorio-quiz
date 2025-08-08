@@ -4,6 +4,7 @@
     "options": ["Drama", "Ação", "Comédia de ação", "Thriller"],
     "answer": "Comédia de ação",
     "category": "Cinema & Novelas"
+    ,"tags": ["Filme"]
   },
   {
     "question": "Em Um Tira da Pesada, qual o nome do ator que interpreta Axel Foley?",
@@ -1920,6 +1921,7 @@
     ],
     "answer": "No rio",
     "category": "Cinema & Novelas"
+    ,"tags": ["Filme"]
   },
   {
     "question": "Em O Máskara, qual o nome do banco onde Stanley Ipkiss trabalha?",
@@ -3657,3 +3659,4 @@
     "category": "Cinema & Novelas"
   }
 ]
+
