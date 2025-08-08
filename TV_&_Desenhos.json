@@ -3553,7 +3553,11 @@
         ],
         "answer": "Lucy",
         "category": "TV & Desenhos",
-         "tags": ["Cultura","Desenho","infantil"]
+        "tags": [
+            "Cultura",
+            "Desenho",
+            "infantil"
+        ]
     },
     {
         "question": "Em O Pequeno Urso, o que a Mãe Ursa sempre prepara para o Pequeno Urso comer?",
@@ -5071,8 +5075,12 @@
             "Maggie"
         ],
         "answer": "Margaret",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Bom Dia & Companhia"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Bom Dia & Companhia"
+        ]
     },
     {
         "question": "Em As Aventuras de Tintim, qual o nome do inimigo que é um falsificador de dinheiro em 'A Ilha Negra'?",
@@ -5083,8 +5091,12 @@
             "Ivan"
         ],
         "answer": "Dr. Müller",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","Cultura","Desenho"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "Cultura",
+            "Desenho"
+        ]
     },
     {
         "question": "Qual o nome da nave espacial que leva Tintim e seus amigos à Lua em As Aventuras de Tintim?",
@@ -5095,8 +5107,12 @@
             "Nave Sirius"
         ],
         "answer": "Foguete X",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","Cultura","Desenho"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "Cultura",
+            "Desenho"
+        ]
     },
     {
         "question": "Em As Aventuras de Tintim, qual a principal característica do Professor Girasol que causa confusão?",
@@ -5107,8 +5123,12 @@
             "Ele é esquecido"
         ],
         "answer": "Ele é surdo",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","Cultura","Desenho"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "Cultura",
+            "Desenho"
+        ]
     },
     {
         "question": "Em As Aventuras de Tintim, qual o nome do tesouro que eles procuram em 'O Segredo do Unicórnio'?",
@@ -5119,8 +5139,12 @@
             "Tesouro de Rackham"
         ],
         "answer": "Tesouro de Rackham",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","Cultura","Desenho"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "Cultura",
+            "Desenho"
+        ]
     },
     {
         "question": "Em Os Super Patos, qual o nome do líder da equipe, que usa uma máscara de goleiro?",
@@ -5131,8 +5155,13 @@
             "Grin"
         ],
         "answer": "Wildwing",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "De qual planeta vêm os Super Patos?",
@@ -5143,8 +5172,13 @@
             "Ducktopia"
         ],
         "answer": "Puckworld",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Em Os Super Patos, qual o nome do principal vilão, um lagarto gigante?",
@@ -5155,8 +5189,13 @@
             "Lagarto Rei"
         ],
         "answer": "Dragaunus",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Qual o esporte que os Super Patos praticam na Terra?",
@@ -5167,8 +5206,13 @@
             "Beisebol"
         ],
         "answer": "Hóquei no Gelo",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Em Os Super Patos, qual membro da equipe é o mais forte e musculoso?",
@@ -5179,8 +5223,13 @@
             "Wildwing"
         ],
         "answer": "Grin",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Em Os Super Patos, qual o nome do irmão mais novo de Wildwing?",
@@ -5191,8 +5240,13 @@
             "Canard"
         ],
         "answer": "Nosedive",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Em Os Super Patos, qual membro da equipe é o gênio da tecnologia e inventora?",
@@ -5203,8 +5257,13 @@
             "Minnie"
         ],
         "answer": "Tanya",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Qual o nome da cidade na Terra onde os Super Patos se estabelecem?",
@@ -5215,8 +5274,13 @@
             "Chicago"
         ],
         "answer": "Anaheim",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Em Os Super Patos, qual o nome do pato que é um ex-ladrão e especialista em disfarces?",
@@ -5227,8 +5291,13 @@
             "Wildwing"
         ],
         "answer": "Duke L'Orange",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Em Os Super Patos, qual o nome do treinador humano da equipe de hóquei?",
@@ -5239,8 +5308,13 @@
             "Capitão"
         ],
         "answer": "Phil",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Qual o nome da nave dos Super Patos, que também é sua base secreta?",
@@ -5251,8 +5325,13 @@
             "Migrator"
         ],
         "answer": "Migrator",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Em Os Super Patos, qual o nome da raça de Dragaunus e seus lacaios?",
@@ -5263,8 +5342,13 @@
             "Lagartos"
         ],
         "answer": "Saurianos",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Qual o principal rival dos Super Patos no hóquei na Terra?",
@@ -5275,8 +5359,13 @@
             "Os Tubarões"
         ],
         "answer": "Os Gaviões",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Qual o nome do estádio onde os Super Patos jogam hóquei?",
@@ -5287,8 +5376,13 @@
             "Anaheim Arena"
         ],
         "answer": "Anaheim Arena",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Em 101 Dálmatas Série, qual dálmata é o mais aventureiro e líder do trio principal?",
@@ -5299,8 +5393,13 @@
             "Patch"
         ],
         "answer": "Lucky",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Qual o nome da galinha que pensa que é um dálmata em 101 Dálmatas Série?",
@@ -5311,8 +5410,13 @@
             "Clara"
         ],
         "answer": "Spot",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Em 101 Dálmatas Série, qual o nome dos capangas atrapalhados de Cruella De Vil?",
@@ -5323,8 +5427,13 @@
             "Max e Leo"
         ],
         "answer": "Horácio e Gaspar",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Qual o principal objetivo de Cruella De Vil em 101 Dálmatas Série?",
@@ -5335,8 +5444,13 @@
             "Ser famosa"
         ],
         "answer": "Roubar os dálmatas",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Em 101 Dálmatas Série, qual dálmata é o mais comilão e sempre pensa em comida?",
@@ -5347,8 +5461,13 @@
             "Patch"
         ],
         "answer": "Rolly",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Qual o nome do fazendeiro, dono dos dálmatas, em 101 Dálmatas Série?",
@@ -5359,8 +5478,13 @@
             "Horácio"
         ],
         "answer": "Roger",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Em 101 Dálmatas Série, qual dálmata é a mais filosófica e excêntrica?",
@@ -5371,8 +5495,13 @@
             "Patch"
         ],
         "answer": "Cadpig",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Em 101 Dálmatas Série, qual o nome da fazenda onde os dálmatas vivem?",
@@ -5383,8 +5512,13 @@
             "Fazenda Dearly"
         ],
         "answer": "Fazenda Dearly",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Em 101 Dálmatas Série, qual o nome do tio de Cruella De Vil, um inventor maluco?",
@@ -5395,8 +5529,13 @@
             "Tio Malvado"
         ],
         "answer": "Professor De Vil",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Qual o principal meio de transporte de Cruella De Vil em 101 Dálmatas Série?",
@@ -5407,8 +5546,13 @@
             "Um ônibus"
         ],
         "answer": "Um carro de luxo",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Em 101 Dálmatas Série, qual o tipo de programa de TV favorito de Lucky?",
@@ -5419,8 +5563,13 @@
             "Noticiários"
         ],
         "answer": "Filmes de ação",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Qual o nome do pai dos dálmatas em 101 Dálmatas Série?",
@@ -5431,8 +5580,13 @@
             "Rolly"
         ],
         "answer": "Pongo",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Qual o nome do programa de TV favorito de Lucky, estrelado por um super-herói canino em 101 Dálmatas Série?",
@@ -5443,8 +5597,13 @@
             "Herói Canino"
         ],
         "answer": "Relâmpago",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Disney Club"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Disney Club"
+        ]
     },
     {
         "question": "Em A Família Camundongo, qual o nome da camundonga que adora viajar e explorar o mundo?",
@@ -5455,8 +5614,13 @@
             "Sofia"
         ],
         "answer": "Emily",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Bom Dia & Companhia"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Bom Dia & Companhia"
+        ]
     },
     {
         "question": "Qual o nome do camundongo que é mais cauteloso e prefere a segurança do lar em A Família Camundongo?",
@@ -5467,8 +5631,13 @@
             "Carlos"
         ],
         "answer": "Alexandre",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Bom Dia & Companhia"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Bom Dia & Companhia"
+        ]
     },
     {
         "question": "Em A Família Camundongo, em qual cidade europeia os camundongos investigam um mistério relacionado a um relógio?",
@@ -5479,8 +5648,13 @@
             "Roma"
         ],
         "answer": "Londres",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Bom Dia & Companhia"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Bom Dia & Companhia"
+        ]
     },
     {
         "question": "Qual o tipo de problema que Emily e Alexandre mais resolvem em suas viagens em A Família Camundongo?",
@@ -5491,8 +5665,13 @@
             "Mistérios históricos"
         ],
         "answer": "Mistérios históricos",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Bom Dia & Companhia"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Bom Dia & Companhia"
+        ]
     },
     {
         "question": "Qual o objeto que Emily e Alexandre sempre levam consigo em suas viagens em A Família Camundongo?",
@@ -5503,8 +5682,13 @@
             "Uma câmera"
         ],
         "answer": "Uma lupa",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Bom Dia & Companhia"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Bom Dia & Companhia"
+        ]
     },
     {
         "question": "Em A Família Camundongo, em qual continente os camundongos procuram por um tesouro perdido em uma selva?",
@@ -5515,8 +5699,13 @@
             "Oceania"
         ],
         "answer": "América do Sul",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","SBT","Desenho","Bom Dia & Companhia"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "SBT",
+            "Desenho",
+            "Bom Dia & Companhia"
+        ]
     },
     {
         "question": "Em Rupert, qual o nome da cidade onde Rupert e seus amigos vivem?",
@@ -5527,8 +5716,12 @@
             "Vila Feliz"
         ],
         "answer": "Nutwood",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","Cultura","Desenho"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "Cultura",
+            "Desenho"
+        ]
     },
     {
         "question": "Qual o nome do melhor amigo de Rupert, um texugo?",
@@ -5539,8 +5732,12 @@
             "Ben"
         ],
         "answer": "Bill",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","Cultura","Desenho"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "Cultura",
+            "Desenho"
+        ]
     },
     {
         "question": "Em Rupert, qual o animal que é um elefante e amigo de Rupert?",
@@ -5551,8 +5748,12 @@
             "Elmer"
         ],
         "answer": "Edward",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","Cultura","Desenho"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "Cultura",
+            "Desenho"
+        ]
     },
     {
         "question": "Em Rupert, qual o acessório de vestuário mais icônico de Rupert?",
@@ -5563,8 +5764,12 @@
             "Gravata borboleta"
         ],
         "answer": "Cachecol xadrez",
-        "category": "TV & Desenhos"
-        ,"tags": ["TV","Cultura","Desenho"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "Cultura",
+            "Desenho"
+        ]
     },
     {
         "question": "Em Rupert, qual o nome do professor que é um inventor e ajuda Rupert em suas aventuras?",
@@ -5575,9 +5780,13 @@
             "Professor Genius"
         ],
         "answer": "Professor",
-        "category": "TV & Desenhos"
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "Cultura",
+            "Desenho"
+        ]
     },
-    ,"tags": ["TV","Cultura","Desenho"]
     {
         "question": "Qual o tipo de histórias que Rupert geralmente vive?",
         "options": [
@@ -5587,9 +5796,11 @@
             "Viagens espaciais"
         ],
         "answer": "Mistérios e magia",
-        "category": "TV & Desenhos"
-         ,"tags": ["TV","Cultura","Desenho"]
+        "category": "TV & Desenhos",
+        "tags": [
+            "TV",
+            "Cultura",
+            "Desenho"
+        ]
     }
 ]
-
-
